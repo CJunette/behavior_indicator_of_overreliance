@@ -1,0 +1,1686 @@
+[
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-18T13:24:07.514000Z",
+        "target": "BUTTON",
+        "x": 785,
+        "y": 15,
+        "timestamp_second": 0.0,
+        "relative_time": 0.0,
+        "index": 0,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T13:24:08.961000Z",
+        "target": "BUTTON",
+        "x": 774,
+        "y": 28,
+        "timestamp_second": 1.447,
+        "relative_time": 0.026796296296296297,
+        "index": 1,
+        "page": "gpt"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T13:24:08.962000Z",
+        "status": 0,
+        "timestamp_second": 1.448,
+        "relative_time": 0.026814814814814816,
+        "index": 2,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T13:24:08.962000Z",
+        "status": 1,
+        "timestamp_second": 1.448,
+        "relative_time": 0.026814814814814816,
+        "index": 3,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 520.3883589036361,
+        "timestamp": "2024-10-18T13:24:08.969000Z",
+        "duration": 0.163,
+        "timestamp_second": 1.455,
+        "relative_time": 0.026944444444444444,
+        "index": 4,
+        "page": "gpt"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T13:24:09.424000Z",
+        "status": 0,
+        "timestamp_second": 1.91,
+        "relative_time": 0.035370370370370365,
+        "index": 5,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:24:09.788000Z",
+        "duration": 3.37,
+        "timestamp_second": 2.274,
+        "relative_time": 0.042111111111111106,
+        "index": 6,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 52.73230930997579,
+        "timestamp": "2024-10-18T13:24:10.153000Z",
+        "duration": 0.679,
+        "timestamp_second": 2.639,
+        "relative_time": 0.04887037037037036,
+        "index": 7,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:24:12.139000Z",
+        "duration": 47.565,
+        "timestamp_second": 4.625,
+        "relative_time": 0.08564814814814815,
+        "index": 8,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:24:13.837000Z",
+        "duration": 3.294,
+        "timestamp_second": 6.323,
+        "relative_time": 0.1170925925925926,
+        "index": 9,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T13:24:14.126000Z",
+        "deltaY": 1300,
+        "yDirection": 1,
+        "duration": 1.422,
+        "timestamp_second": 6.612,
+        "relative_time": 0.12244444444444444,
+        "index": 10,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-18T13:24:16.052000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 8.538,
+        "relative_time": 0.15811111111111112,
+        "index": 11,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T13:24:16.125000Z",
+        "deltaY": 300,
+        "yDirection": 1,
+        "duration": 0.073,
+        "timestamp_second": 8.611,
+        "relative_time": 0.15946296296296297,
+        "index": 12,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T13:24:16.658000Z",
+        "deltaY": 1900,
+        "yDirection": 2,
+        "duration": 1.057,
+        "timestamp_second": 9.144,
+        "relative_time": 0.16933333333333334,
+        "index": 13,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 438.86314443165793,
+        "timestamp": "2024-10-18T13:24:17.882000Z",
+        "duration": 0.333,
+        "timestamp_second": 10.368,
+        "relative_time": 0.192,
+        "index": 14,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-18T13:24:18.215000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "timestamp_second": 10.701,
+        "relative_time": 0.19816666666666669,
+        "index": 15,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1804.7049902965973,
+        "timestamp": "2024-10-18T13:24:18.232000Z",
+        "duration": 4.284,
+        "timestamp_second": 10.718,
+        "relative_time": 0.19848148148148148,
+        "index": 16,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T13:24:22.610000Z",
+        "highlightedText": "You are a member of a space crew originally scheduled to rendezvous with another ship on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to land at a spot some 200 miles (about 321 km) from the rendezvous point. During reentry and landing, much of the equipment aboard was damaged and, since survival depends on reaching the mother ship, the most critical items available must be chosen for the 200-mile trip. Below are listed the 15 items left intact and undamaged after landing. Your task is torank order them in terms of their importance for your crew in allowing them to reach the rendezvous point. Place the number 1 by the most important item, the number 2 by the second most important, and so on through number 15 for the least important.\n\nNotice:\n\twhat you need to know before you can begin creating a list of essential items? The list of items is dependent upon the location and conditions of the new world.\n\tYou are not allowed to use any other tools (search engines, other ai agent to finish this work)\n\nYour items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 1465,
+        "timestamp_second": 15.096,
+        "relative_time": 0.27955555555555556,
+        "index": 17,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-18T13:24:22.611000Z",
+        "target": "TEXTAREA",
+        "x": 436,
+        "y": 327,
+        "timestamp_second": 15.097,
+        "relative_time": 0.27957407407407403,
+        "index": 18,
+        "page": "tasksheet"
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T13:24:23.312000Z",
+        "text": "You are a member of a space crew originally scheduled to rendezvous with another ship on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to land at a spot some 200 miles (about 321 km) from the rendezvous point. During reentry and landing, much of the equipment aboard was damaged and, since survival depends on reaching the mother ship, the most critical items available must be chosen for the 200-mile trip. Below are listed the 15 items left intact and undamaged after landing. Your task is torank order them in terms of their importance for your crew in allowing them to reach the rendezvous point. Place the number 1 by the most important item, the number 2 by the second most important, and so on through number 15 for the least important.\n\nNotice:\n\twhat you need to know before you can begin creating a list of essential items? The list of items is dependent upon the location and conditions of the new world.\n\tYou are not allowed to use any other tools (search engines, other ai agent to finish this work)\n\nYour items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "textLength": 1465,
+        "timestamp_second": 15.798,
+        "relative_time": 0.2925555555555555,
+        "index": 19,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T13:24:23.583000Z",
+        "deltaY": 300,
+        "yDirection": 2,
+        "duration": 0.365,
+        "timestamp_second": 16.069,
+        "relative_time": 0.29757407407407405,
+        "index": 20,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 123.98838113350757,
+        "timestamp": "2024-10-18T13:24:24.132000Z",
+        "duration": 0.167,
+        "timestamp_second": 16.618,
+        "relative_time": 0.3077407407407407,
+        "index": 21,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T13:24:24.403000Z",
+        "highlightedText": "You are a member of a space crew originally scheduled to rendezvous with another ship on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to land at a spot some 200 miles (about 321 km) from the rendezvous point. During reentry and landing, much of the equipment aboard was damaged and, since survival depends on reaching the mother ship, the most critical items available must be chosen for the 200-mile trip. Below are listed the 15 items left intact and undamaged after landing. Your task is torank order them in terms of their importance for your crew in allowing them to reach the rendezvous point. Place the number 1 by the most important item, the number 2 by the second most important, and so on through number 15 for the least important.\n\nNotice:\n\twhat you need to know before you can begin creating a list of essential items? The list of items is dependent upon the location and conditions of the new world.\n\tYou are not allowed to use any other tools (search engines, other ai agent to finish this work)\n\nYour items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 1465,
+        "timestamp_second": 16.889,
+        "relative_time": 0.31275925925925924,
+        "index": 22,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-18T13:24:24.404000Z",
+        "target": "TEXTAREA",
+        "x": 511,
+        "y": 419,
+        "timestamp_second": 16.89,
+        "relative_time": 0.3127777777777778,
+        "index": 23,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-18T13:24:24.451000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "timestamp_second": 16.937,
+        "relative_time": 0.3136481481481482,
+        "index": 24,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:24:27.409000Z",
+        "duration": 30.195,
+        "timestamp_second": 19.895,
+        "relative_time": 0.36842592592592593,
+        "index": 25,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 708.6220402413401,
+        "timestamp": "2024-10-18T13:24:54.494000Z",
+        "duration": 0.989,
+        "timestamp_second": 46.98,
+        "relative_time": 0.8699999999999999,
+        "index": 26,
+        "page": "tasksheet"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:24:56.697000Z",
+        "isHidden": true,
+        "timestamp_second": 49.183,
+        "relative_time": 0.9107962962962963,
+        "index": 27,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:24:59.445000Z",
+        "duration": 275.788,
+        "timestamp_second": 51.931,
+        "relative_time": 0.9616851851851852,
+        "index": 28,
+        "page": "tasksheet"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:25:30.836000Z",
+        "isHidden": false,
+        "timestamp_second": 83.322,
+        "relative_time": 1.5430000000000001,
+        "index": 29,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:25:31.386000Z",
+        "isHidden": true,
+        "timestamp_second": 83.872,
+        "relative_time": 1.5531851851851852,
+        "index": 30,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:25:31.464000Z",
+        "isHidden": false,
+        "timestamp_second": 83.95,
+        "relative_time": 1.5546296296296298,
+        "index": 31,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T13:25:32.266000Z",
+        "status": 1,
+        "timestamp_second": 84.752,
+        "relative_time": 1.5694814814814815,
+        "index": 32,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 122.88372482817203,
+        "timestamp": "2024-10-18T13:25:32.344000Z",
+        "duration": 0.455,
+        "timestamp_second": 84.83,
+        "relative_time": 1.570925925925926,
+        "index": 33,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T13:25:32.826000Z",
+        "target": "TEXTAREA",
+        "x": 431,
+        "y": 689,
+        "timestamp_second": 85.312,
+        "relative_time": 1.5798518518518518,
+        "index": 34,
+        "page": "gpt"
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-18T13:25:34.713000Z",
+        "text": "You are a member of a space crew originally scheduled to rendezvous with another ship on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to land at a spot some 200 miles (about 321 km) from the rendezvous point. During reentry and landing, much of the equipment aboard was damaged and, since survival depends on reaching the mother ship, the most critical items available must be chosen for the 200-mile trip. Below are listed the 15 items left intact and undamaged after landing. Your task is torank order them in terms of their importance for your crew in allowing them to reach the rendezvous point. Place the number 1 by the most important item, the number 2 by the second most important, and so on through number 15 for the least important.\r\n\r\nNotice:\r\n\twhat you need to know before you can begin creating a list of essential items? The list of items is dependent upon the location and conditions of the new world.\r\n\tYou are not allowed to use any other tools (search engines, other ai agent to finish this work)\r\n\r\nYour items:\r\n\tBox of matches\r\n\tFood concentrate\r\n\t50 feet of nylon rope\r\n\tParachute silk (降落伞布) \r\n\tPortable heating unit\r\n\tTwo .45 caliber pistols (.45口径手枪)\r\n\tOne case of dehydrated milk (一箱脱水牛奶)\r\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\r\n\tStellar map\r\n\tSelf-inflating life raft\r\n\tMagnetic compass\r\n\t20 liters of water\r\n\tSignal flares\r\n\tFirst aid kit, including injection needle\r\n\tSolar-powered FM receiver-transmitter",
+        "textLength": 1486,
+        "timestamp_second": 87.199,
+        "relative_time": 1.614796296296296,
+        "index": 35,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 89.54640949351779,
+        "timestamp": "2024-10-18T13:25:34.932000Z",
+        "duration": 1.357,
+        "timestamp_second": 87.418,
+        "relative_time": 1.618851851851852,
+        "index": 36,
+        "page": "gpt"
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-18T13:25:37.261000Z",
+        "text": "Please help me make a plan to rank the importance of these needed items",
+        "textLength": 71,
+        "timestamp_second": 89.747,
+        "relative_time": 1.6619814814814817,
+        "index": 37,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 102.69456054806324,
+        "timestamp": "2024-10-18T13:25:37.516000Z",
+        "duration": 0.616,
+        "timestamp_second": 90.002,
+        "relative_time": 1.6667037037037036,
+        "index": 38,
+        "page": "gpt"
+    },
+    {
+        "type": "firstNotNull",
+        "time": "2024/10/18 21:25:39",
+        "timestamp": "2024-10-18T13:25:39.000000Z",
+        "index": 39,
+        "page": "gpt",
+        "timestamp_second": 91.486,
+        "relative_time": 1.6941851851851855
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T13:25:39.145000Z",
+        "target": "BUTTON",
+        "x": 698,
+        "y": 695,
+        "timestamp_second": 91.631,
+        "relative_time": 1.6968703703703705,
+        "index": 40,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 123.39878033283276,
+        "timestamp": "2024-10-18T13:25:39.548000Z",
+        "duration": 0.117,
+        "timestamp_second": 92.034,
+        "relative_time": 1.7043333333333335,
+        "index": 41,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:25:42.670000Z",
+        "duration": 21.985,
+        "timestamp_second": 95.156,
+        "relative_time": 1.762148148148148,
+        "index": 42,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 975.0583142696432,
+        "timestamp": "2024-10-18T13:26:01.650000Z",
+        "duration": 3.716,
+        "timestamp_second": 114.136,
+        "relative_time": 2.1136296296296297,
+        "index": 43,
+        "page": "gpt"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T13:26:06.654000Z",
+        "status": 0,
+        "timestamp_second": 119.14,
+        "relative_time": 2.2062962962962964,
+        "index": 44,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:26:06.678000Z",
+        "isHidden": true,
+        "timestamp_second": 119.164,
+        "relative_time": 2.2067407407407407,
+        "index": 45,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:26:07.910000Z",
+        "isHidden": false,
+        "timestamp_second": 120.396,
+        "relative_time": 2.2295555555555553,
+        "index": 46,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:26:08.382000Z",
+        "duration": 3.532,
+        "timestamp_second": 120.868,
+        "relative_time": 2.238296296296296,
+        "index": 47,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T13:26:08.898000Z",
+        "status": 1,
+        "timestamp_second": 121.384,
+        "relative_time": 2.247851851851852,
+        "index": 48,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 632.1175958656127,
+        "timestamp": "2024-10-18T13:26:08.970000Z",
+        "duration": 0.747,
+        "timestamp_second": 121.456,
+        "relative_time": 2.249185185185185,
+        "index": 49,
+        "page": "gpt"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T13:26:09.830000Z",
+        "deltaY": 800,
+        "yDirection": 2,
+        "duration": 0.836,
+        "timestamp_second": 122.316,
+        "relative_time": 2.265111111111111,
+        "index": 50,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 6.0,
+        "timestamp": "2024-10-18T13:26:10.888000Z",
+        "duration": 0.029,
+        "timestamp_second": 123.374,
+        "relative_time": 2.2847037037037037,
+        "index": 51,
+        "page": "gpt"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T13:26:11.017000Z",
+        "deltaY": 200,
+        "yDirection": 2,
+        "duration": 0.116,
+        "timestamp_second": 123.503,
+        "relative_time": 2.2870925925925927,
+        "index": 52,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 193.4926220584848,
+        "timestamp": "2024-10-18T13:26:11.267000Z",
+        "duration": 0.731,
+        "timestamp_second": 123.753,
+        "relative_time": 2.291722222222222,
+        "index": 53,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:26:14.999000Z",
+        "duration": 13.145,
+        "timestamp_second": 127.485,
+        "relative_time": 2.3608333333333333,
+        "index": 54,
+        "page": "gpt"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T13:26:25.142000Z",
+        "status": 0,
+        "timestamp_second": 137.628,
+        "relative_time": 2.5486666666666666,
+        "index": 55,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:26:25.163000Z",
+        "isHidden": true,
+        "timestamp_second": 137.649,
+        "relative_time": 2.5490555555555554,
+        "index": 56,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:26:28.924000Z",
+        "isHidden": false,
+        "timestamp_second": 141.41,
+        "relative_time": 2.6187037037037038,
+        "index": 57,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:26:29.788000Z",
+        "isHidden": true,
+        "timestamp_second": 142.274,
+        "relative_time": 2.6347037037037038,
+        "index": 58,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:26:44.591000Z",
+        "isHidden": false,
+        "timestamp_second": 157.077,
+        "relative_time": 2.9088333333333334,
+        "index": 59,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T13:26:45.057000Z",
+        "status": 1,
+        "timestamp_second": 157.543,
+        "relative_time": 2.917462962962963,
+        "index": 60,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 371.2210132639402,
+        "timestamp": "2024-10-18T13:26:45.101000Z",
+        "duration": 1.042,
+        "timestamp_second": 157.587,
+        "relative_time": 2.9182777777777775,
+        "index": 61,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T13:26:46.639000Z",
+        "target": "P",
+        "x": 529,
+        "y": 559,
+        "timestamp_second": 159.125,
+        "relative_time": 2.9467592592592595,
+        "index": 62,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1479.263571127677,
+        "timestamp": "2024-10-18T13:26:46.750000Z",
+        "duration": 5.301,
+        "timestamp_second": 159.236,
+        "relative_time": 2.9488148148148143,
+        "index": 63,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T13:26:52.207000Z",
+        "text": "Portable heating unit: The moon's surface can reach extremely cold temperatures. This unit will be vital for maintaining a livable temperature.\n\nSolar-powered FM receiver-transmitter: Communication is key. This device will help you stay in contact with the mother ship and coordinate your rendezvous.\n\nBox of matches: These can be used for additional warmth and potentially for distress signals.\n\nFood Concentrate: Sustenance is vital. The food concentrate is a compact and efficient source of nutrition.\n\nSignal flares: These could be used to signal your location to the mother ship, especially if communication systems fail.\n\nFirst aid kit, including injection needle: Injuries or health issues could occur during the journey. This kit will be crucial for addressing those.\n\nParachute Silk: This could be used for shelter, protection from the lunar dust, or even for carrying items.\n\nTwo 100 lb. tanks of oxygen: While there's a small amount of oxygen on the moon, these tanks will ensure you have a sufficient supply for the journey.\n\nSelf-inflating life raft: This could potentially be used for shelter or transportation, depending on the terrain.\n\nMagnetic compass: While traditional navigation methods may be less effective on the moon, this could still provide a basic sense of direction.\n\nStellar map: This could assist with navigation, particularly if electronic communication devices fail.\n\nTwo .45 caliber pistols: These could be used for distress signals or potentially for self-defense, though it's unlikely you'll encounter hostile entities.\n\n20 liters of water: You'll need water, but it's heavy to carry and you'll be able to recycle moisture from your breath and sweat.\n\n50 feet of nylon rope: This could be useful for various purposes, but it's not as critical as the other items.\n\nOne case of dehydrated milk: While it's a source of nutrition, it's less efficient than the food concentrate and requires water to prepare.",
+        "highlightedTextLength": 1939,
+        "timestamp_second": 164.693,
+        "relative_time": 3.0498703703703707,
+        "index": 64,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T13:26:52.207000Z",
+        "target": "OL",
+        "x": 395,
+        "y": 539,
+        "timestamp_second": 164.693,
+        "relative_time": 3.0498703703703707,
+        "index": 65,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 24.930391429154042,
+        "timestamp": "2024-10-18T13:26:52.234000Z",
+        "duration": 0.574,
+        "timestamp_second": 164.72,
+        "relative_time": 3.0503703703703704,
+        "index": 66,
+        "page": "gpt"
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T13:26:52.808000Z",
+        "text": "Portable heating unit: The moon's surface can reach extremely cold temperatures. This unit will be vital for maintaining a livable temperature.\n\nSolar-powered FM receiver-transmitter: Communication is key. This device will help you stay in contact with the mother ship and coordinate your rendezvous.\n\nBox of matches: These can be used for additional warmth and potentially for distress signals.\n\nFood Concentrate: Sustenance is vital. The food concentrate is a compact and efficient source of nutrition.\n\nSignal flares: These could be used to signal your location to the mother ship, especially if communication systems fail.\n\nFirst aid kit, including injection needle: Injuries or health issues could occur during the journey. This kit will be crucial for addressing those.\n\nParachute Silk: This could be used for shelter, protection from the lunar dust, or even for carrying items.\n\nTwo 100 lb. tanks of oxygen: While there's a small amount of oxygen on the moon, these tanks will ensure you have a sufficient supply for the journey.\n\nSelf-inflating life raft: This could potentially be used for shelter or transportation, depending on the terrain.\n\nMagnetic compass: While traditional navigation methods may be less effective on the moon, this could still provide a basic sense of direction.\n\nStellar map: This could assist with navigation, particularly if electronic communication devices fail.\n\nTwo .45 caliber pistols: These could be used for distress signals or potentially for self-defense, though it's unlikely you'll encounter hostile entities.\n\n20 liters of water: You'll need water, but it's heavy to carry and you'll be able to recycle moisture from your breath and sweat.\n\n50 feet of nylon rope: This could be useful for various purposes, but it's not as critical as the other items.\n\nOne case of dehydrated milk: While it's a source of nutrition, it's less efficient than the food concentrate and requires water to prepare.",
+        "textLength": 1939,
+        "timestamp_second": 165.294,
+        "relative_time": 3.0610000000000004,
+        "index": 67,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 381.20989572798953,
+        "timestamp": "2024-10-18T13:26:52.818000Z",
+        "duration": 0.191,
+        "timestamp_second": 165.304,
+        "relative_time": 3.061185185185185,
+        "index": 68,
+        "page": "gpt"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T13:26:53.322000Z",
+        "status": 0,
+        "timestamp_second": 165.808,
+        "relative_time": 3.070518518518518,
+        "index": 69,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:26:53.350000Z",
+        "isHidden": true,
+        "timestamp_second": 165.836,
+        "relative_time": 3.0710370370370375,
+        "index": 70,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:26:56.450000Z",
+        "duration": 44.830000000000005,
+        "timestamp_second": 168.936,
+        "relative_time": 3.128444444444445,
+        "index": 71,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:27:37.839000Z",
+        "isHidden": false,
+        "timestamp_second": 210.325,
+        "relative_time": 3.8949074074074073,
+        "index": 72,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T13:27:38.706000Z",
+        "status": 1,
+        "timestamp_second": 211.192,
+        "relative_time": 3.910962962962963,
+        "index": 73,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 406.18863304292336,
+        "timestamp": "2024-10-18T13:27:39.017000Z",
+        "duration": 0.659,
+        "timestamp_second": 211.503,
+        "relative_time": 3.916722222222222,
+        "index": 74,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T13:27:39.753000Z",
+        "text": "Portable heating unit: The moon's surface can reach extremely cold temperatures. This unit will be vital for maintaining a livable temperature.\n\nSolar-powered FM receiver-transmitter: Communication is key. This device will help you stay in contact with the mother ship and coordinate your rendezvous.\n\nBox of matches: These can be used for additional warmth and potentially for distress signals.\n\nFood Concentrate: Sustenance is vital. The food concentrate is a compact and efficient source of nutrition.\n\nSignal flares: These could be used to signal your location to the mother ship, especially if communication systems fail.\n\nFirst aid kit, including injection needle: Injuries or health issues could occur during the journey. This kit will be crucial for addressing those.\n\nParachute Silk: This could be used for shelter, protection from the lunar dust, or even for carrying items.\n\nTwo 100 lb. tanks of oxygen: While there's a small amount of oxygen on the moon, these tanks will ensure you have a sufficient supply for the journey.\n\nSelf-inflating life raft: This could potentially be used for shelter or transportation, depending on the terrain.\n\nMagnetic compass: While traditional navigation methods may be less effective on the moon, this could still provide a basic sense of direction.\n\nStellar map: This could assist with navigation, particularly if electronic communication devices fail.\n\nTwo .45 caliber pistols: These could be used for distress signals or potentially for self-defense, though it's unlikely you'll encounter hostile entities.\n\n20 liters of water: You'll need water, but it's heavy to carry and you'll be able to recycle moisture from your breath and sweat.\n\n50 feet of nylon rope: This could be useful for various purposes, but it's not as critical as the other items.\n\nOne case of dehydrated milk: While it's a source of nutrition, it's less efficient than the food concentrate and requires water to prepare.",
+        "highlightedTextLength": 1939,
+        "timestamp_second": 212.239,
+        "relative_time": 3.930351851851852,
+        "index": 75,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T13:27:39.754000Z",
+        "target": "DIV",
+        "x": 494,
+        "y": 380,
+        "timestamp_second": 212.24,
+        "relative_time": 3.9303703703703707,
+        "index": 76,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 5.414213562373334,
+        "timestamp": "2024-10-18T13:27:39.833000Z",
+        "duration": 0.134,
+        "timestamp_second": 212.319,
+        "relative_time": 3.931833333333333,
+        "index": 77,
+        "page": "gpt"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T13:27:40.126000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 212.612,
+        "relative_time": 3.937259259259259,
+        "index": 78,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 184.6974742295588,
+        "timestamp": "2024-10-18T13:27:40.184000Z",
+        "duration": 0.488,
+        "timestamp_second": 212.67,
+        "relative_time": 3.9383333333333335,
+        "index": 79,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T13:27:40.720000Z",
+        "text": "Portable heating unit: The moon's surface can reach extremely cold temperatures. This unit will be vital for maintaining a livable temperature.\n\nSolar-powered FM receiver-transmitter: Communication is key. This device will help you stay in contact with the mother ship and coordinate your rendezvous.\n\nBox of matches: These can be used for additional warmth and potentially for distress signals.\n\nFood Concentrate: Sustenance is vital. The food concentrate is a compact and efficient source of nutrition.\n\nSignal flares: These could be used to signal your location to the mother ship, especially if communication systems fail.\n\nFirst aid kit, including injection needle: Injuries or health issues could occur during the journey. This kit will be crucial for addressing those.\n\nParachute Silk: This could be used for shelter, protection from the lunar dust, or even for carrying items.\n\nTwo 100 lb. tanks of oxygen: While there's a small amount of oxygen on the moon, these tanks will ensure you have a sufficient supply for the journey.\n\nSelf-inflating life raft: This could potentially be used for shelter or transportation, depending on the terrain.\n\nMagnetic compass: While traditional navigation methods may be less effective on the moon, this could still provide a basic sense of direction.\n\nStellar map: This could assist with navigation, particularly if electronic communication devices fail.\n\nTwo .45 caliber pistols: These could be used for distress signals or potentially for self-defense, though it's unlikely you'll encounter hostile entities.\n\n20 liters of water: You'll need water, but it's heavy to carry and you'll be able to recycle moisture from your breath and sweat.\n\n50 feet of nylon rope: This could be useful for various purposes, but it's not as critical as the other items.\n\nOne case of dehydrated milk: While it's a source of nutrition, it's less efficient than the food concentrate and requires water to prepare.",
+        "highlightedTextLength": 1939,
+        "timestamp_second": 213.206,
+        "relative_time": 3.948259259259259,
+        "index": 80,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T13:27:40.721000Z",
+        "target": "P",
+        "x": 509,
+        "y": 480,
+        "timestamp_second": 213.207,
+        "relative_time": 3.9482777777777778,
+        "index": 81,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 513.3244373174293,
+        "timestamp": "2024-10-18T13:27:40.930000Z",
+        "duration": 0.654,
+        "timestamp_second": 213.416,
+        "relative_time": 3.952148148148148,
+        "index": 82,
+        "page": "gpt"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T13:27:42.756000Z",
+        "status": 0,
+        "timestamp_second": 215.242,
+        "relative_time": 3.9859629629629625,
+        "index": 83,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:27:42.774000Z",
+        "isHidden": true,
+        "timestamp_second": 215.26,
+        "relative_time": 3.9862962962962962,
+        "index": 84,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:27:42.840000Z",
+        "isHidden": false,
+        "timestamp_second": 215.326,
+        "relative_time": 3.987518518518519,
+        "index": 85,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:27:44.591000Z",
+        "duration": 5.682,
+        "timestamp_second": 217.077,
+        "relative_time": 4.0199444444444445,
+        "index": 86,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:27:47.266000Z",
+        "isHidden": true,
+        "timestamp_second": 219.752,
+        "relative_time": 4.069481481481482,
+        "index": 87,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:27:54.858000Z",
+        "isHidden": false,
+        "timestamp_second": 227.344,
+        "relative_time": 4.210074074074074,
+        "index": 88,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:27:55.365000Z",
+        "isHidden": true,
+        "timestamp_second": 227.851,
+        "relative_time": 4.219462962962963,
+        "index": 89,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:27:55.382000Z",
+        "isHidden": false,
+        "timestamp_second": 227.868,
+        "relative_time": 4.219777777777778,
+        "index": 90,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T13:27:56.096000Z",
+        "status": 1,
+        "timestamp_second": 228.582,
+        "relative_time": 4.233,
+        "index": 91,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1495.6635317032196,
+        "timestamp": "2024-10-18T13:27:56.134000Z",
+        "duration": 5.1,
+        "timestamp_second": 228.62,
+        "relative_time": 4.233703703703704,
+        "index": 92,
+        "page": "gpt"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T13:28:01.284000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 233.77,
+        "relative_time": 4.329074074074074,
+        "index": 93,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 45.72354365436331,
+        "timestamp": "2024-10-18T13:28:01.351000Z",
+        "duration": 0.166,
+        "timestamp_second": 233.837,
+        "relative_time": 4.330314814814814,
+        "index": 94,
+        "page": "gpt"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T13:28:01.712000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 234.198,
+        "relative_time": 4.337,
+        "index": 95,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:28:04.524000Z",
+        "duration": 48.276,
+        "timestamp_second": 237.01,
+        "relative_time": 4.389074074074074,
+        "index": 96,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 562.6705477475716,
+        "timestamp": "2024-10-18T13:28:49.794000Z",
+        "duration": 2.108,
+        "timestamp_second": 282.28,
+        "relative_time": 5.227407407407407,
+        "index": 97,
+        "page": "gpt"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T13:28:52.285000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 284.771,
+        "relative_time": 5.273537037037037,
+        "index": 98,
+        "page": "gpt"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T13:28:54.890000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 287.376,
+        "relative_time": 5.321777777777777,
+        "index": 99,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:28:54.930000Z",
+        "duration": 3.359,
+        "timestamp_second": 287.416,
+        "relative_time": 5.322518518518518,
+        "index": 100,
+        "page": "gpt"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T13:28:55.287000Z",
+        "deltaY": 400,
+        "yDirection": 1,
+        "duration": 1.231,
+        "timestamp_second": 287.773,
+        "relative_time": 5.32912962962963,
+        "index": 101,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 428.11475088715815,
+        "timestamp": "2024-10-18T13:29:04.590000Z",
+        "duration": 0.241,
+        "timestamp_second": 297.076,
+        "relative_time": 5.501407407407408,
+        "index": 102,
+        "page": "gpt"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T13:29:05.134000Z",
+        "status": 0,
+        "timestamp_second": 297.62,
+        "relative_time": 5.511481481481482,
+        "index": 103,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:29:05.162000Z",
+        "isHidden": true,
+        "timestamp_second": 297.648,
+        "relative_time": 5.5120000000000005,
+        "index": 104,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:29:08.461000Z",
+        "duration": 24.752,
+        "timestamp_second": 300.947,
+        "relative_time": 5.573092592592593,
+        "index": 105,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:29:29.583000Z",
+        "isHidden": false,
+        "timestamp_second": 322.069,
+        "relative_time": 5.964240740740741,
+        "index": 106,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:29:29.897000Z",
+        "isHidden": true,
+        "timestamp_second": 322.383,
+        "relative_time": 5.970055555555556,
+        "index": 107,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:29:29.944000Z",
+        "isHidden": false,
+        "timestamp_second": 322.43,
+        "relative_time": 5.970925925925926,
+        "index": 108,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:29:31.021000Z",
+        "isHidden": true,
+        "timestamp_second": 323.507,
+        "relative_time": 5.990870370370371,
+        "index": 109,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 563.7210503226343,
+        "timestamp": "2024-10-18T13:29:31.272000Z",
+        "duration": 0.255,
+        "timestamp_second": 323.758,
+        "relative_time": 5.9955185185185185,
+        "index": 110,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T13:29:31.657000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 324.143,
+        "relative_time": 6.002648148148148,
+        "index": 111,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 7.7286569010830135,
+        "timestamp": "2024-10-18T13:29:32.077000Z",
+        "duration": 0.025,
+        "timestamp_second": 324.563,
+        "relative_time": 6.010425925925926,
+        "index": 112,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-18T13:29:32.160000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 324.646,
+        "relative_time": 6.011962962962963,
+        "index": 113,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 467.7549099332118,
+        "timestamp": "2024-10-18T13:29:32.234000Z",
+        "duration": 1.836,
+        "timestamp_second": 324.72,
+        "relative_time": 6.013333333333334,
+        "index": 114,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T13:29:34.071000Z",
+        "highlightedText": "Two 100 lb. tanks of oxygen (2",
+        "highlightedTextLength": 30,
+        "timestamp_second": 326.557,
+        "relative_time": 6.047351851851852,
+        "index": 115,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-18T13:29:34.073000Z",
+        "target": "TEXTAREA",
+        "x": 344,
+        "y": 462,
+        "timestamp_second": 326.559,
+        "relative_time": 6.047388888888889,
+        "index": 116,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 60.304082794278656,
+        "timestamp": "2024-10-18T13:29:34.102000Z",
+        "duration": 0.233,
+        "timestamp_second": 326.588,
+        "relative_time": 6.047925925925926,
+        "index": 117,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-18T13:29:34.433000Z",
+        "target": "TEXTAREA",
+        "x": 396,
+        "y": 483,
+        "timestamp_second": 326.919,
+        "relative_time": 6.054055555555555,
+        "index": 118,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 248.38409716886054,
+        "timestamp": "2024-10-18T13:29:34.464000Z",
+        "duration": 1.461,
+        "timestamp_second": 326.95,
+        "relative_time": 6.05462962962963,
+        "index": 119,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T13:29:35.927000Z",
+        "highlightedText": "2个100磅氧气",
+        "highlightedTextLength": 8,
+        "timestamp_second": 328.413,
+        "relative_time": 6.081722222222222,
+        "index": 120,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-18T13:29:35.928000Z",
+        "target": "TEXTAREA",
+        "x": 454,
+        "y": 469,
+        "timestamp_second": 328.414,
+        "relative_time": 6.081740740740741,
+        "index": 121,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 641.9950519677368,
+        "timestamp": "2024-10-18T13:29:35.935000Z",
+        "duration": 2.583,
+        "timestamp_second": 328.421,
+        "relative_time": 6.08187037037037,
+        "index": 122,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T13:29:38.784000Z",
+        "highlightedText": "Two 100 lb. tanks of oxygen",
+        "highlightedTextLength": 27,
+        "timestamp_second": 331.27,
+        "relative_time": 6.13462962962963,
+        "index": 123,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-18T13:29:38.785000Z",
+        "target": "TEXTAREA",
+        "x": 319,
+        "y": 467,
+        "timestamp_second": 331.271,
+        "relative_time": 6.134648148148148,
+        "index": 124,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 407.3108868917461,
+        "timestamp": "2024-10-18T13:29:38.785000Z",
+        "duration": 0.711,
+        "timestamp_second": 331.271,
+        "relative_time": 6.134648148148148,
+        "index": 125,
+        "page": "tasksheet"
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T13:29:39.497000Z",
+        "text": "Two 100 lb. tanks of oxygen",
+        "textLength": 27,
+        "timestamp_second": 331.983,
+        "relative_time": 6.147833333333334,
+        "index": 126,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 231.47922523766465,
+        "timestamp": "2024-10-18T13:29:39.501000Z",
+        "duration": 0.143,
+        "timestamp_second": 331.987,
+        "relative_time": 6.147907407407408,
+        "index": 127,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:29:43.456000Z",
+        "duration": 79.807,
+        "timestamp_second": 335.942,
+        "relative_time": 6.221148148148148,
+        "index": 128,
+        "page": "tasksheet"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:30:26.968000Z",
+        "isHidden": false,
+        "timestamp_second": 379.454,
+        "relative_time": 7.0269259259259265,
+        "index": 129,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:30:28.222000Z",
+        "isHidden": true,
+        "timestamp_second": 380.708,
+        "relative_time": 7.050148148148148,
+        "index": 130,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:30:28.332000Z",
+        "isHidden": false,
+        "timestamp_second": 380.818,
+        "relative_time": 7.052185185185185,
+        "index": 131,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T13:30:29.094000Z",
+        "status": 1,
+        "timestamp_second": 381.58,
+        "relative_time": 7.066296296296295,
+        "index": 132,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 222.89049722007803,
+        "timestamp": "2024-10-18T13:30:29.191000Z",
+        "duration": 0.543,
+        "timestamp_second": 381.677,
+        "relative_time": 7.068092592592593,
+        "index": 133,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T13:30:29.911000Z",
+        "target": "TEXTAREA",
+        "x": 502,
+        "y": 671,
+        "timestamp_second": 382.397,
+        "relative_time": 7.081425925925926,
+        "index": 134,
+        "page": "gpt"
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-18T13:30:30.454000Z",
+        "text": "I think Two 100 lb. Tanks of oxygen should come first because oxygen is absolutely necessary for survival and it is impossible to survive without oxygen tubes",
+        "textLength": 158,
+        "timestamp_second": 382.94,
+        "relative_time": 7.091481481481482,
+        "index": 135,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 202.6805344346285,
+        "timestamp": "2024-10-18T13:30:30.565000Z",
+        "duration": 0.603,
+        "timestamp_second": 383.051,
+        "relative_time": 7.093537037037037,
+        "index": 136,
+        "page": "gpt"
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "2024/10/18 21:25:39",
+        "endTime": "2024/10/18 21:30:31",
+        "duration": 292240,
+        "timestamp": "2024-10-18T13:30:31.000000Z",
+        "index": 137,
+        "page": "gpt",
+        "timestamp_second": 383.486,
+        "relative_time": 7.101592592592593
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T13:30:31.382000Z",
+        "target": "path",
+        "x": 698,
+        "y": 706,
+        "timestamp_second": 383.868,
+        "relative_time": 7.108666666666666,
+        "index": 138,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 224.686623514026,
+        "timestamp": "2024-10-18T13:30:31.501000Z",
+        "duration": 0.166,
+        "timestamp_second": 383.987,
+        "relative_time": 7.11087037037037,
+        "index": 139,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:30:34.672000Z",
+        "duration": 26.959,
+        "timestamp_second": 387.158,
+        "relative_time": 7.1695925925925925,
+        "index": 140,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 582.4611996536896,
+        "timestamp": "2024-10-18T13:30:58.626000Z",
+        "duration": 0.807,
+        "timestamp_second": 411.112,
+        "relative_time": 7.613185185185185,
+        "index": 141,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 43.29508206169703,
+        "timestamp": "2024-10-18T13:30:59.451000Z",
+        "duration": 0.284,
+        "timestamp_second": 411.937,
+        "relative_time": 7.6284629629629634,
+        "index": 142,
+        "page": "tasksheet"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T13:30:59.825000Z",
+        "status": 0,
+        "timestamp_second": 412.311,
+        "relative_time": 7.635388888888889,
+        "index": 143,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-18T13:30:59.874000Z",
+        "target": "TEXTAREA",
+        "x": 480,
+        "y": 503,
+        "timestamp_second": 412.36,
+        "relative_time": 7.636296296296297,
+        "index": 144,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 754.4833305512184,
+        "timestamp": "2024-10-18T13:30:59.952000Z",
+        "duration": 0.342,
+        "timestamp_second": 412.438,
+        "relative_time": 7.637740740740741,
+        "index": 145,
+        "page": "tasksheet"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:31:01.415000Z",
+        "isHidden": true,
+        "timestamp_second": 413.901,
+        "relative_time": 7.664833333333333,
+        "index": 146,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:31:02.455000Z",
+        "duration": 44.071999999999996,
+        "timestamp_second": 414.941,
+        "relative_time": 7.6840925925925925,
+        "index": 147,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:31:03.453000Z",
+        "duration": 117.84,
+        "timestamp_second": 415.939,
+        "relative_time": 7.702574074074074,
+        "index": 148,
+        "page": "tasksheet"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:31:43.505000Z",
+        "isHidden": false,
+        "timestamp_second": 455.991,
+        "relative_time": 8.444277777777778,
+        "index": 149,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T13:31:44.918000Z",
+        "status": 1,
+        "timestamp_second": 457.404,
+        "relative_time": 8.470444444444444,
+        "index": 150,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 565.4920213480709,
+        "timestamp": "2024-10-18T13:31:45.177000Z",
+        "duration": 0.224,
+        "timestamp_second": 457.663,
+        "relative_time": 8.475240740740741,
+        "index": 151,
+        "page": "gpt"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T13:31:46.687000Z",
+        "status": 0,
+        "timestamp_second": 459.173,
+        "relative_time": 8.503203703703702,
+        "index": 152,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:31:46.714000Z",
+        "isHidden": true,
+        "timestamp_second": 459.2,
+        "relative_time": 8.503703703703703,
+        "index": 153,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:31:48.467000Z",
+        "duration": 50.077,
+        "timestamp_second": 460.953,
+        "relative_time": 8.536166666666665,
+        "index": 154,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:32:35.479000Z",
+        "isHidden": false,
+        "timestamp_second": 507.965,
+        "relative_time": 9.406759259259259,
+        "index": 155,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:32:36.696000Z",
+        "isHidden": true,
+        "timestamp_second": 509.182,
+        "relative_time": 9.429296296296297,
+        "index": 156,
+        "page": "gpt"
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T13:32:36.772000Z",
+        "isHidden": false,
+        "timestamp_second": 509.258,
+        "relative_time": 9.430703703703704,
+        "index": 157,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T13:32:37.310000Z",
+        "status": 1,
+        "timestamp_second": 509.796,
+        "relative_time": 9.440666666666667,
+        "index": 158,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 128.1848304691921,
+        "timestamp": "2024-10-18T13:32:37.350000Z",
+        "duration": 0.519,
+        "timestamp_second": 509.836,
+        "relative_time": 9.441407407407407,
+        "index": 159,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T13:32:38.049000Z",
+        "target": "TEXTAREA",
+        "x": 454,
+        "y": 693,
+        "timestamp_second": 510.535,
+        "relative_time": 9.454351851851852,
+        "index": 160,
+        "page": "gpt"
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-18T13:32:39.165000Z",
+        "text": "You're right, and I very much agree with your proposal",
+        "textLength": 54,
+        "timestamp_second": 511.651,
+        "relative_time": 9.47501851851852,
+        "index": 161,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 263.2157635140011,
+        "timestamp": "2024-10-18T13:32:39.407000Z",
+        "duration": 0.779,
+        "timestamp_second": 511.893,
+        "relative_time": 9.4795,
+        "index": 162,
+        "page": "gpt"
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "2024/10/18 21:30:31",
+        "endTime": "2024/10/18 21:32:40",
+        "duration": 129084,
+        "timestamp": "2024-10-18T13:32:40.000000Z",
+        "index": 163,
+        "page": "gpt",
+        "timestamp_second": 512.486,
+        "relative_time": 9.490481481481481
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T13:32:40.464000Z",
+        "target": "BUTTON",
+        "x": 710,
+        "y": 722,
+        "timestamp_second": 512.95,
+        "relative_time": 9.499074074074075,
+        "index": 164,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 527.2262800316075,
+        "timestamp": "2024-10-18T13:32:40.885000Z",
+        "duration": 1.367,
+        "timestamp_second": 513.371,
+        "relative_time": 9.50687037037037,
+        "index": 165,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T13:32:45.265000Z",
+        "duration": 12.984,
+        "timestamp_second": 517.751,
+        "relative_time": 9.587981481481481,
+        "index": 166,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1768.9592672229574,
+        "timestamp": "2024-10-18T13:32:55.236000Z",
+        "duration": 2.013,
+        "timestamp_second": 527.722,
+        "relative_time": 9.77262962962963,
+        "index": 167,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2.0,
+        "timestamp": "2024-10-18T13:32:58.134000Z",
+        "duration": 0.017,
+        "timestamp_second": 530.62,
+        "relative_time": 9.826296296296297,
+        "index": 168,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-18T13:32:58.283000Z",
+        "target": "TEXTAREA",
+        "x": 516,
+        "y": 289,
+        "timestamp_second": 530.769,
+        "relative_time": 9.829055555555556,
+        "index": 169,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 806.0117149169982,
+        "timestamp": "2024-10-18T13:32:58.338000Z",
+        "duration": 3.013,
+        "timestamp_second": 530.824,
+        "relative_time": 9.830074074074073,
+        "index": 170,
+        "page": "tasksheet"
+    }
+]

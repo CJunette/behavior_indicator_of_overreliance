@@ -1,0 +1,688 @@
+[
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T18:42:20.776Z",
+        "target": "BUTTON",
+        "x": 580,
+        "y": 31,
+        "timestamp_second": 0.0,
+        "relative_time": 0.0,
+        "index": 0
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-17T18:42:20.778Z",
+        "status": 0,
+        "timestamp_second": 0.002,
+        "relative_time": 3.7037037037037037e-05,
+        "index": 1
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-17T18:42:20.950Z",
+        "status": 1,
+        "timestamp_second": 0.174,
+        "relative_time": 0.0032222222222222222,
+        "index": 2
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 352.2064400029617,
+        "timestamp": "2024-10-17T18:42:20.977Z",
+        "duration": 0.282,
+        "timestamp_second": 0.201,
+        "relative_time": 0.0037222222222222223,
+        "index": 3
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T18:42:21.407Z",
+        "target": "DIV",
+        "x": 400,
+        "y": 404,
+        "timestamp_second": 0.631,
+        "relative_time": 0.011685185185185186,
+        "index": 4
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 346.2067851956381,
+        "timestamp": "2024-10-17T18:42:21.610Z",
+        "duration": 0.08,
+        "timestamp_second": 0.834,
+        "relative_time": 0.015444444444444443,
+        "index": 5
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-17T18:42:24.694Z",
+        "duration": 6.569,
+        "timestamp_second": 3.918,
+        "relative_time": 0.07255555555555555,
+        "index": 6
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-17T18:42:28.260Z",
+        "status": 0,
+        "timestamp_second": 7.484,
+        "relative_time": 0.1385925925925926,
+        "index": 7
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-17T18:43:29.814Z",
+        "status": 1,
+        "timestamp_second": 69.038,
+        "relative_time": 1.2784814814814816,
+        "index": 8
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T18:43:30.227Z",
+        "target": "TEXTAREA",
+        "x": 405,
+        "y": 576,
+        "timestamp_second": 69.451,
+        "relative_time": 1.2861296296296294,
+        "index": 9
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T18:43:30.314Z",
+        "target": "TEXTAREA",
+        "x": 402,
+        "y": 576,
+        "timestamp_second": 69.538,
+        "relative_time": 1.2877407407407406,
+        "index": 10
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-17T18:43:32.079Z",
+        "duration": 4.318,
+        "key_list": "Please summarize the following ",
+        "keyCode_list": [
+            80,
+            108,
+            101,
+            97,
+            115,
+            101,
+            32,
+            115,
+            117,
+            109,
+            109,
+            97,
+            114,
+            105,
+            122,
+            101,
+            32,
+            116,
+            104,
+            101,
+            32,
+            102,
+            111,
+            108,
+            108,
+            111,
+            119,
+            105,
+            110,
+            103,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 31,
+        "timestamp_second": 71.303,
+        "relative_time": 1.320425925925926,
+        "index": 11
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-17T18:43:37.205Z",
+        "duration": 1.162,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 8,
+        "timestamp_second": 76.429,
+        "relative_time": 1.4153518518518517,
+        "index": 12
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-17T18:43:38.960Z",
+        "duration": 4.059,
+        "key_list": "llowing article in 200",
+        "keyCode_list": [
+            108,
+            108,
+            111,
+            119,
+            105,
+            110,
+            103,
+            32,
+            97,
+            114,
+            116,
+            105,
+            99,
+            108,
+            101,
+            32,
+            105,
+            110,
+            32,
+            50,
+            48,
+            48
+        ],
+        "target": "TEXTAREA",
+        "key_count": 22,
+        "timestamp_second": 78.184,
+        "relative_time": 1.4478518518518517,
+        "index": 13
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-17T18:43:43.562Z",
+        "duration": 1.137,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 6,
+        "timestamp_second": 82.786,
+        "relative_time": 1.533074074074074,
+        "index": 14
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-17T18:43:45.076Z",
+        "duration": 1.137,
+        "key_list": "with three ",
+        "keyCode_list": [
+            119,
+            105,
+            116,
+            104,
+            32,
+            116,
+            104,
+            114,
+            101,
+            101,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 11,
+        "timestamp_second": 84.3,
+        "relative_time": 1.5611111111111111,
+        "index": 15
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-17T18:43:46.657Z",
+        "duration": 1.786,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 11,
+        "timestamp_second": 85.881,
+        "relative_time": 1.5903888888888889,
+        "index": 16
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-17T18:43:48.703Z",
+        "duration": 6.062,
+        "key_list": "into its three main points. Use more ",
+        "keyCode_list": [
+            105,
+            110,
+            116,
+            111,
+            32,
+            105,
+            116,
+            115,
+            32,
+            116,
+            104,
+            114,
+            101,
+            101,
+            32,
+            109,
+            97,
+            105,
+            110,
+            32,
+            112,
+            111,
+            105,
+            110,
+            116,
+            115,
+            46,
+            32,
+            85,
+            115,
+            101,
+            32,
+            109,
+            111,
+            114,
+            101,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 37,
+        "timestamp_second": 87.927,
+        "relative_time": 1.6282777777777777,
+        "index": 17
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-17T18:43:55.347Z",
+        "duration": 1.459,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 10,
+        "timestamp_second": 94.571,
+        "relative_time": 1.751314814814815,
+        "index": 18
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-17T18:43:57.770Z",
+        "duration": 3.666,
+        "timestamp_second": 96.994,
+        "relative_time": 1.796185185185185,
+        "index": 19
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-17T18:43:58.431Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 97.655,
+        "relative_time": 1.8084259259259259,
+        "index": 20
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-17T18:43:58.902Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 98.126,
+        "relative_time": 1.8171481481481484,
+        "index": 21
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-17T18:43:59.309Z",
+        "text": "When I sneeze, everyone knows about it. The resulting shockwave(冲击波) wobbles windows, awakens sleeping animals, and sets nearby humans on edge. My partner, who sneezes like a vole(鼠狼) hiccupping(打嗝), insists I do this on purpose. I maintain that the urge to sneeze at this decibel(分贝) level is irresistible. Why do some people sneeze so loudly?\n\nLet’s establish one thing first: Sneezing is important for the body. “The nose is an air filter for the lungs,” says Mas Takashima, the chair of the Department of Otolaryngology, Head and Neck Surgery at Houston Methodist Academic Institute. Inside our nose is a tight mesh of epithelial cells(上皮细胞) (a multipurpose cell found all over the body), tiny hairs, and thick mucus. These elements, says Takashima, “trap particulates(颗粒物) so that the lungs can be protected.” When those particulates build up, they need to be flushed out.\n\nThere are also populations of immune cells in our nose, which wake up when they detect high levels of sneeze-inducing compounds. “Some of the chemicals that are made as a consequence of that immune response cause changes in the lining of our nose,” says Sheena Cruickshank, a professor in the University of Manchester’s Division of Immunology. Those changes will be familiar to anyone who has endured a pollen-laden summer or phlegmy winter. The body makes more mucus, swelling starts in the nose, and signals are sent to the brain via the trigeminal nerve(三叉神经,面部感觉的主要神经), which provides sensation to the face. This signal is processed by an area at the base of our brain called the medulla oblongata(延髓,大脑的一部分，控制许多自主功能，如心跳和呼吸), resulting in reflexive muscle contractions(反射性肌肉收缩). This all leads to a sneeze. But while the causes of sneezing vary, there’s no reason a virus should produce a louder sneeze than grass pollen, says Cruickshank.\n\nInstead, the key to sneezing volume lies in the structure of our respiratory system. The first step of the sneeze reflex, says Takashima, involves deep inhalation. “\n\nYou need that air to be able to expel everything out,” he adds. While air is sucked into our lungs, our vocal cords close tightly. Once enough pressure has built up in our lungs, all the air is expelled. “It is that gush of air that’s pushing through the vocal cords that creates the sound of the sneeze,” says Takashima. The shape and “floppiness(松软度)” of our vocal cords and other soft tissue at the back of the throat influence whether or not we have a quiet or booming sneeze. Lung volume also determines how much air enters and leaves our chest during a sneeze, meaning no single physical measurement will predict sneeze volume. “Some people with big lung volumes have very petite sneezes,” says Takashima.\n\nCan I blame my resonant(共鸣的) throat the next time I rip space-time with a sneeze? Unfortunately, Takashima says it isn’t that simple. “There’s societal norms or cultural factors that can influence the sound of a sneeze,” he says.\n\nTakashima points out that in Japan, where there is a heavy cultural emphasis on not inconveniencing others, people manage to suppress their sneezes. The key here, he says, is to minimize the amount of resonant energy flowing through your oral cavity(口腔)–in simple terms, closing your mouth. This, he says, will reduce the volume of your sneeze.\n\nIs the solution to this deafening problem really that simple? A look at the medical literature suggests that sneeze suppression may be a surprisingly bad idea. A case study from a hospital in the Belgian city of Liège is a cautionary tale. During the peak of the COVID-19 pandemic–when loud sneezing did not go down well in public–a 38-year-old man reported pain and swelling in his face after holding back a sneeze. A scan revealed he had fractured(骨折的) his sinus(鼻窦). Takashima backs this up. “By suppressing a sneeze, you can cause some medical issues such as nose bleeds,” he says. “You can force air up the Eustachian tube(咽鼓管,连接中耳和鼻咽部的管道), possibly causing issues with your eardrum(鼓膜).”\n\nBut the next time you find a dust mote(微粒) tickling your throat in a library, or while a pet sleeps comfortably nearby, there is an alternative to a loud sneeze. “There are times where you don’t want to make a scene or you want to try to keep it as quiet as possible,” says Takashima. “Keeping your mouth closed as you sneeze can definitely do that.”",
+        "textLength": 4326,
+        "timestamp_second": 98.533,
+        "relative_time": 1.824685185185185,
+        "index": 22
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-17T18:43:59.993Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 99.217,
+        "relative_time": 1.837351851851852,
+        "index": 23
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-17T18:44:00.571Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 99.795,
+        "relative_time": 1.8480555555555556,
+        "index": 24
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 337.5035543813724,
+        "timestamp": "2024-10-17T18:44:00.886Z",
+        "duration": 0.64,
+        "timestamp_second": 100.11,
+        "relative_time": 1.853888888888889,
+        "index": 25
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T18:44:01.706Z",
+        "target": "DIV",
+        "x": 556,
+        "y": 594,
+        "timestamp_second": 100.93,
+        "relative_time": 1.869074074074074,
+        "index": 26
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2200.8217527249026,
+        "timestamp": "2024-10-17T18:44:02.009Z",
+        "duration": 3.862,
+        "timestamp_second": 101.233,
+        "relative_time": 1.8746851851851851,
+        "index": 27
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-17T18:44:08.874Z",
+        "duration": 3.5869999999999997,
+        "timestamp_second": 108.098,
+        "relative_time": 2.001814814814815,
+        "index": 28
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 390.3889890483106,
+        "timestamp": "2024-10-17T18:44:09.459Z",
+        "duration": 0.717,
+        "timestamp_second": 108.683,
+        "relative_time": 2.012648148148148,
+        "index": 29
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-17T18:44:10.392Z",
+        "deltaY": 790,
+        "yDirection": 2,
+        "duration": 0.717,
+        "timestamp_second": 109.616,
+        "relative_time": 2.029925925925926,
+        "index": 30
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-17T18:44:11.226Z",
+        "deltaY": 349,
+        "yDirection": 1,
+        "duration": 0.299,
+        "timestamp_second": 110.45,
+        "relative_time": 2.0453703703703705,
+        "index": 31
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-17T18:44:11.842Z",
+        "deltaY": 60,
+        "yDirection": 2,
+        "duration": 0.167,
+        "timestamp_second": 111.066,
+        "relative_time": 2.056777777777778,
+        "index": 32
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 332.57574151458266,
+        "timestamp": "2024-10-17T18:44:12.142Z",
+        "duration": 1.75,
+        "timestamp_second": 111.366,
+        "relative_time": 2.0623333333333336,
+        "index": 33
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T18:44:14.192Z",
+        "target": "LI",
+        "x": 445,
+        "y": 245,
+        "timestamp_second": 113.416,
+        "relative_time": 2.100296296296296,
+        "index": 34
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 880.7128771270209,
+        "timestamp": "2024-10-17T18:44:14.192Z",
+        "duration": 4.484,
+        "timestamp_second": 113.416,
+        "relative_time": 2.100296296296296,
+        "index": 35
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T18:44:18.873Z",
+        "target": "LI",
+        "x": 456,
+        "y": 217,
+        "timestamp_second": 118.097,
+        "relative_time": 2.1869814814814816,
+        "index": 36
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 89.47760282599029,
+        "timestamp": "2024-10-17T18:44:18.875Z",
+        "duration": 0.448,
+        "timestamp_second": 118.099,
+        "relative_time": 2.187018518518519,
+        "index": 37
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-17T18:44:19.324Z",
+        "text": "protective mechanism that helps flush out old cells and par",
+        "highlightedTextLength": 59,
+        "timestamp_second": 118.548,
+        "relative_time": 2.1953333333333336,
+        "index": 38
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T18:44:19.324Z",
+        "target": "P",
+        "x": 397,
+        "y": 272,
+        "timestamp_second": 118.548,
+        "relative_time": 2.1953333333333336,
+        "index": 39
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 9.640986324787264,
+        "timestamp": "2024-10-17T18:44:19.326Z",
+        "duration": 0.449,
+        "timestamp_second": 118.55,
+        "relative_time": 2.1953703703703704,
+        "index": 40
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T18:44:19.889Z",
+        "target": "P",
+        "x": 394,
+        "y": 265,
+        "timestamp_second": 119.113,
+        "relative_time": 2.2057962962962963,
+        "index": 41
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 278.2622909084539,
+        "timestamp": "2024-10-17T18:44:19.893Z",
+        "duration": 0.533,
+        "timestamp_second": 119.117,
+        "relative_time": 2.2058703703703704,
+        "index": 42
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-17T18:44:20.593Z",
+        "deltaY": 1500,
+        "yDirection": 1,
+        "duration": 1.983,
+        "timestamp_second": 119.817,
+        "relative_time": 2.218833333333333,
+        "index": 43
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 316.9054059726732,
+        "timestamp": "2024-10-17T18:44:22.776Z",
+        "duration": 1.299,
+        "timestamp_second": 122.0,
+        "relative_time": 2.259259259259259,
+        "index": 44
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-17T18:44:24.209Z",
+        "deltaY": 1535,
+        "yDirection": 2,
+        "duration": 2.616,
+        "timestamp_second": 123.433,
+        "relative_time": 2.2857962962962963,
+        "index": 45
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 60.85848770643224,
+        "timestamp": "2024-10-17T18:44:27.093Z",
+        "duration": 0.249,
+        "timestamp_second": 126.317,
+        "relative_time": 2.3392037037037032,
+        "index": 46
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-17T18:44:27.673Z",
+        "text": "Sneezing is a vital function of the body, acting as a protective mechanism that helps flush out old cells and particulates from our nasal cavity. This is triggered by a small compound in our nasal cavity and signals processed by the hippocampus in our brain. The process involves immune cells in our nose, which respond to high levels of sneeze-inducing compounds, resulting in changes in the lining of our nose. Professor Sheena Cruikshank from the University of Manchester’s Division of Immunology explains that this leads to more mucus production, swelling in the nose, and reflexive muscle contractions that result in a sneeze.\n\nThe volume of a sneeze is determined by the structure of our respiratory system, including the shape and floppiness of our vocal cords and the volume of our lungs. According to Mas Takashma, the chair of the Department of Otolaryngology, Head and Neck Surgery at Houston Methodist Academic Institute, the pressure built up in our lungs and the gush of air that pushes through the vocal cords create the sound of the sneeze. However, societal norms, cultural factors, and psychological factors can also influence the sound of a sneeze.\n\nSuppressing a sneeze can lead to medical issues, as it may damage the surface of the nose and sinus. An example is given of a man who fractured his sinus after holding back a sneeze during the peak of the COVID-19 pandemic. Nevertheless, Takashma suggests that keeping the mouth closed is the most effective way to sneeze quietly, especially in situations where one does not want to cause a disturbance.",
+        "highlightedTextLength": 1572,
+        "timestamp_second": 126.897,
+        "relative_time": 2.3499444444444446,
+        "index": 47
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T18:44:27.674Z",
+        "target": "OL",
+        "x": 356,
+        "y": 289,
+        "timestamp_second": 126.898,
+        "relative_time": 2.349962962962963,
+        "index": 48
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-17T18:44:28.293Z",
+        "text": "Sneezing is a vital function of the body, acting as a protective mechanism that helps flush out old cells and particulates from our nasal cavity. This is triggered by a small compound in our nasal cavity and signals processed by the hippocampus in our brain. The process involves immune cells in our nose, which respond to high levels of sneeze-inducing compounds, resulting in changes in the lining of our nose. Professor Sheena Cruikshank from the University of Manchester’s Division of Immunology explains that this leads to more mucus production, swelling in the nose, and reflexive muscle contractions that result in a sneeze.\n\nThe volume of a sneeze is determined by the structure of our respiratory system, including the shape and floppiness of our vocal cords and the volume of our lungs. According to Mas Takashma, the chair of the Department of Otolaryngology, Head and Neck Surgery at Houston Methodist Academic Institute, the pressure built up in our lungs and the gush of air that pushes through the vocal cords create the sound of the sneeze. However, societal norms, cultural factors, and psychological factors can also influence the sound of a sneeze.\n\nSuppressing a sneeze can lead to medical issues, as it may damage the surface of the nose and sinus. An example is given of a man who fractured his sinus after holding back a sneeze during the peak of the COVID-19 pandemic. Nevertheless, Takashma suggests that keeping the mouth closed is the most effective way to sneeze quietly, especially in situations where one does not want to cause a disturbance.",
+        "textLength": 1572,
+        "timestamp_second": 127.517,
+        "relative_time": 2.361425925925926,
+        "index": 49
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 308.40850741184204,
+        "timestamp": "2024-10-17T18:44:28.512Z",
+        "duration": 0.077,
+        "timestamp_second": 127.736,
+        "relative_time": 2.3654814814814817,
+        "index": 50
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-17T18:44:28.976Z",
+        "status": 0,
+        "timestamp_second": 128.2,
+        "relative_time": 2.374074074074074,
+        "index": 51
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-17T18:44:31.594Z",
+        "duration": 253.91,
+        "timestamp_second": 130.818,
+        "relative_time": 2.422555555555556,
+        "index": 52
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-17T18:48:42.499Z",
+        "status": 1,
+        "timestamp_second": 381.723,
+        "relative_time": 7.068944444444444,
+        "index": 53
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-17T18:48:44.316Z",
+        "duration": 3.175,
+        "timestamp_second": 383.54,
+        "relative_time": 7.102592592592592,
+        "index": 54
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-17T18:48:44.489Z",
+        "text": "Sneezing is a vital function of the body, acting as a protective mechanism that helps flush out old cells and particulates from our nasal cavity. This is triggered by a small compound in our nasal cavity and signals processed by the hippocampus in our brain. The process involves immune cells in our nose, which respond to high levels of sneeze-inducing compounds, resulting in changes in the lining of our nose. Professor Sheena Cruikshank from the University of Manchester’s Division of Immunology explains that this leads to more mucus production, swelling in the nose, and reflexive muscle contractions that result in a sneeze.\n\nThe volume of a sneeze is determined by the structure of our respiratory system, including the shape and floppiness of our vocal cords and the volume of our lungs. According to Mas Takashma, the chair of the Department of Otolaryngology, Head and Neck Surgery at Houston Methodist Academic Institute, the pressure built up in our lungs and the gush of air that pushes through the vocal cords create the sound of the sneeze. However, societal norms, cultural factors, and psychological factors can also influence the sound of a sneeze.\n\nSuppressing a sneeze can lead to medical issues, as it may damage the surface of the nose and sinus. An example is given of a man who fractured his sinus after holding back a sneeze during the peak of the COVID-19 pandemic. Nevertheless, Takashma suggests that keeping the mouth closed is the most effective way to sneeze quietly, especially in situations where one does not want to cause a disturbance.",
+        "highlightedTextLength": 1572,
+        "timestamp_second": 383.713,
+        "relative_time": 7.105796296296296,
+        "index": 55
+    }
+]

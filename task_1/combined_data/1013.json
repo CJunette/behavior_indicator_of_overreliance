@@ -1,0 +1,1898 @@
+[
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:11:29.016000Z",
+        "target": "BUTTON",
+        "x": 798,
+        "y": 16,
+        "timestamp_second": 0.0,
+        "relative_time": 0.0,
+        "index": 0,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 279.74393414053793,
+        "timestamp": "2024-10-16T14:11:29.017000Z",
+        "duration": 0.266,
+        "timestamp_second": 0.001,
+        "relative_time": 1.8518518518518518e-05,
+        "index": 1,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T14:11:32.199000Z",
+        "target": "BUTTON",
+        "x": 820,
+        "y": 29,
+        "timestamp_second": 3.183,
+        "relative_time": 0.05894444444444444,
+        "index": 2,
+        "page": "gpt"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-16T14:11:32.200000Z",
+        "status": 0,
+        "timestamp_second": 3.184,
+        "relative_time": 0.05896296296296296,
+        "index": 3,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-16T14:11:32.200000Z",
+        "status": 1,
+        "timestamp_second": 3.184,
+        "relative_time": 0.05896296296296296,
+        "index": 4,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 636.3849416836865,
+        "timestamp": "2024-10-16T14:11:32.201000Z",
+        "duration": 0.372,
+        "timestamp_second": 3.185,
+        "relative_time": 0.05898148148148148,
+        "index": 5,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:11:32.291000Z",
+        "duration": 3.309,
+        "timestamp_second": 3.275,
+        "relative_time": 0.06064814814814815,
+        "index": 6,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1805.7403650333817,
+        "timestamp": "2024-10-16T14:11:32.592000Z",
+        "duration": 4.824,
+        "timestamp_second": 3.576,
+        "relative_time": 0.06622222222222222,
+        "index": 7,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:11:35.579000Z",
+        "duration": 3.517,
+        "timestamp_second": 6.563,
+        "relative_time": 0.12153703703703704,
+        "index": 8,
+        "page": "gpt"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-16T14:11:36.090000Z",
+        "status": 0,
+        "timestamp_second": 7.074,
+        "relative_time": 0.131,
+        "index": 9,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:11:37.543000Z",
+        "highlightedText": "You are a member of a space crew originally scheduled to rendezvous with another ship on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to land at a spot some 200 miles (about 321 km) from the rendezvous point. During reentry and landing, much of the equipment aboard was damaged and, since survival depends on reaching the mother ship, the most critical items available must be chosen for the 200-mile trip. Below are listed the 15 items left intact and undamaged after landing. Your task is torank order them in terms of their importance for your crew in allowing them to reach the rendezvous point. Place the number 1 by the most important item, the number 2 by the second most important, and so on through number 15 for the least important.",
+        "highlightedTextLength": 792,
+        "timestamp_second": 8.527,
+        "relative_time": 0.15790740740740739,
+        "index": 10,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:11:37.544000Z",
+        "target": "TEXTAREA",
+        "x": 508,
+        "y": 367,
+        "timestamp_second": 8.528,
+        "relative_time": 0.15792592592592594,
+        "index": 11,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 100.95867274162993,
+        "timestamp": "2024-10-16T14:11:37.832000Z",
+        "duration": 0.126,
+        "timestamp_second": 8.816,
+        "relative_time": 0.16325925925925927,
+        "index": 12,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:11:38.431000Z",
+        "highlightedText": "You are a member of a space crew originally scheduled to rendezvous with another ship on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to land at a spot some 200 miles (about 321 km) from the rendezvous point. During reentry and landing, much of the equipment aboard was damaged and, since survival depends on reaching the mother ship, the most critical items available must be chosen for the 200-mile trip. Below are listed the 15 items left intact and undamaged after landing. Your task is torank order them in terms of their importance for your crew in allowing them to reach the rendezvous point. Place the number 1 by the most important item, the number 2 by the second most important, and so on through number 15 for the least important.",
+        "highlightedTextLength": 792,
+        "timestamp_second": 9.415,
+        "relative_time": 0.17435185185185184,
+        "index": 13,
+        "page": "tasksheet"
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-16T14:11:39.896000Z",
+        "text": "You are a member of a space crew originally scheduled to rendezvous with another ship on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to land at a spot some 200 miles (about 321 km) from the rendezvous point. During reentry and landing, much of the equipment aboard was damaged and, since survival depends on reaching the mother ship, the most critical items available must be chosen for the 200-mile trip. Below are listed the 15 items left intact and undamaged after landing. Your task is torank order them in terms of their importance for your crew in allowing them to reach the rendezvous point. Place the number 1 by the most important item, the number 2 by the second most important, and so on through number 15 for the least important.",
+        "textLength": 792,
+        "timestamp_second": 10.88,
+        "relative_time": 0.20148148148148148,
+        "index": 14,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 325.4062630588596,
+        "timestamp": "2024-10-16T14:11:39.915000Z",
+        "duration": 0.242,
+        "timestamp_second": 10.899,
+        "relative_time": 0.20183333333333334,
+        "index": 15,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 493.41788766974787,
+        "timestamp": "2024-10-16T14:11:40.173000Z",
+        "duration": 0.75,
+        "timestamp_second": 11.157,
+        "relative_time": 0.2066111111111111,
+        "index": 16,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-16T14:11:41.177000Z",
+        "status": 1,
+        "timestamp_second": 12.161,
+        "relative_time": 0.22520370370370368,
+        "index": 17,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T14:11:41.391000Z",
+        "target": "TEXTAREA",
+        "x": 435,
+        "y": 773,
+        "timestamp_second": 12.375,
+        "relative_time": 0.22916666666666666,
+        "index": 18,
+        "page": "gpt"
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-16T14:11:42.549000Z",
+        "text": "You are a member of a space crew originally scheduled to rendezvous with another ship on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to land at a spot some 200 miles (about 321 km) from the rendezvous point. During reentry and landing, much of the equipment aboard was damaged and, since survival depends on reaching the mother ship, the most critical items available must be chosen for the 200-mile trip. Below are listed the 15 items left intact and undamaged after landing. Your task is torank order them in terms of their importance for your crew in allowing them to reach the rendezvous point. Place the number 1 by the most important item, the number 2 by the second most important, and so on through number 15 for the least important.",
+        "textLength": 792,
+        "timestamp_second": 13.533,
+        "relative_time": 0.25061111111111106,
+        "index": 19,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:11:43.161000Z",
+        "duration": 4.9510000000000005,
+        "timestamp_second": 14.145,
+        "relative_time": 0.2619444444444444,
+        "index": 20,
+        "page": "tasksheet"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T14:11:43.796000Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 14.78,
+        "relative_time": 0.27370370370370367,
+        "index": 21,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 389.4134598671585,
+        "timestamp": "2024-10-16T14:11:44.614000Z",
+        "duration": 0.076,
+        "timestamp_second": 15.598,
+        "relative_time": 0.28885185185185186,
+        "index": 22,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 636.3718045027435,
+        "timestamp": "2024-10-16T14:11:45.108000Z",
+        "duration": 2.408,
+        "timestamp_second": 16.092,
+        "relative_time": 0.29799999999999993,
+        "index": 23,
+        "page": "tasksheet"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-16T14:11:45.869000Z",
+        "status": 0,
+        "timestamp_second": 16.853,
+        "relative_time": 0.31209259259259264,
+        "index": 24,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:11:47.695000Z",
+        "duration": 5.641,
+        "timestamp_second": 18.679,
+        "relative_time": 0.3459074074074074,
+        "index": 25,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:11:47.751000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 18.735,
+        "relative_time": 0.34694444444444444,
+        "index": 26,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:11:47.752000Z",
+        "target": "TEXTAREA",
+        "x": 68,
+        "y": 531,
+        "timestamp_second": 18.736,
+        "relative_time": 0.346962962962963,
+        "index": 27,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 53.62918653880661,
+        "timestamp": "2024-10-16T14:11:47.885000Z",
+        "duration": 0.131,
+        "timestamp_second": 18.869,
+        "relative_time": 0.3494259259259259,
+        "index": 28,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:11:48.526000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 19.51,
+        "relative_time": 0.36129629629629634,
+        "index": 29,
+        "page": "tasksheet"
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-16T14:11:50.071000Z",
+        "text": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "textLength": 403,
+        "timestamp_second": 21.055,
+        "relative_time": 0.38990740740740737,
+        "index": 30,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 755.651781949231,
+        "timestamp": "2024-10-16T14:11:50.084000Z",
+        "duration": 0.24,
+        "timestamp_second": 21.068,
+        "relative_time": 0.3901481481481482,
+        "index": 31,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 629.8853901979473,
+        "timestamp": "2024-10-16T14:11:50.331000Z",
+        "duration": 1.0,
+        "timestamp_second": 21.315,
+        "relative_time": 0.39472222222222225,
+        "index": 32,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-16T14:11:51.377000Z",
+        "status": 1,
+        "timestamp_second": 22.361,
+        "relative_time": 0.4140925925925926,
+        "index": 33,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T14:11:51.507000Z",
+        "target": "TEXTAREA",
+        "x": 456,
+        "y": 814,
+        "timestamp_second": 22.491,
+        "relative_time": 0.41650000000000004,
+        "index": 34,
+        "page": "gpt"
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-16T14:11:52.541000Z",
+        "text": "Your items:\r\n\tBox of matches\r\n\tFood concentrate\r\n\t50 feet of nylon rope\r\n\tParachute silk (降落伞布) \r\n\tPortable heating unit\r\n\tTwo .45 caliber pistols (.45口径手枪)\r\n\tOne case of dehydrated milk (一箱脱水牛奶)\r\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\r\n\tStellar map\r\n\tSelf-inflating life raft\r\n\tMagnetic compass\r\n\t20 liters of water\r\n\tSignal flares\r\n\tFirst aid kit, including injection needle\r\n\tSolar-powered FM receiver-transmitter",
+        "textLength": 418,
+        "timestamp_second": 23.525,
+        "relative_time": 0.4356481481481481,
+        "index": 35,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:11:53.327000Z",
+        "duration": 48.716,
+        "timestamp_second": 24.311,
+        "relative_time": 0.4502037037037037,
+        "index": 36,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:11:54.384000Z",
+        "duration": 5.477,
+        "timestamp_second": 25.368,
+        "relative_time": 0.46977777777777774,
+        "index": 37,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T14:11:56.860000Z",
+        "duration": 6.846,
+        "key_list": "Enterhelp me rating the impora",
+        "keyCode_list": [
+            13,
+            104,
+            101,
+            108,
+            112,
+            32,
+            109,
+            101,
+            32,
+            114,
+            97,
+            116,
+            105,
+            110,
+            103,
+            32,
+            116,
+            104,
+            101,
+            32,
+            105,
+            109,
+            112,
+            111,
+            114,
+            97
+        ],
+        "target": "TEXTAREA",
+        "key_count": 26,
+        "timestamp_second": 27.844,
+        "relative_time": 0.5156296296296297,
+        "index": 38,
+        "page": "gpt"
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-16T14:12:04.238000Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 35.222,
+        "relative_time": 0.6522592592592593,
+        "index": 39,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T14:12:04.419000Z",
+        "duration": 1.423,
+        "key_list": "tance oof ",
+        "keyCode_list": [
+            116,
+            97,
+            110,
+            99,
+            101,
+            32,
+            111,
+            111,
+            102,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 10,
+        "timestamp_second": 35.403,
+        "relative_time": 0.655611111111111,
+        "index": 40,
+        "page": "gpt"
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-16T14:12:06.206000Z",
+        "duration": 0.387,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 3,
+        "timestamp_second": 37.19,
+        "relative_time": 0.6887037037037037,
+        "index": 41,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T14:12:07.309000Z",
+        "duration": 1.639,
+        "key_list": "f items.",
+        "keyCode_list": [
+            102,
+            32,
+            105,
+            116,
+            101,
+            109,
+            115,
+            46
+        ],
+        "target": "TEXTAREA",
+        "key_count": 8,
+        "timestamp_second": 38.293,
+        "relative_time": 0.7091296296296296,
+        "index": 42,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 962.3809904423124,
+        "timestamp": "2024-10-16T14:12:09.856000Z",
+        "duration": 4.008,
+        "timestamp_second": 40.84,
+        "relative_time": 0.7562962962962964,
+        "index": 43,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T14:12:16.023000Z",
+        "duration": 4.963,
+        "key_list": " rank them with importane",
+        "keyCode_list": [
+            32,
+            114,
+            97,
+            110,
+            107,
+            32,
+            116,
+            104,
+            101,
+            109,
+            32,
+            119,
+            105,
+            116,
+            104,
+            32,
+            105,
+            109,
+            112,
+            111,
+            114,
+            116,
+            97,
+            110,
+            101
+        ],
+        "target": "TEXTAREA",
+        "key_count": 25,
+        "timestamp_second": 47.007,
+        "relative_time": 0.8704999999999999,
+        "index": 44,
+        "page": "gpt"
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-16T14:12:21.423000Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 52.407,
+        "relative_time": 0.9705,
+        "index": 45,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T14:12:21.584000Z",
+        "duration": 0.792,
+        "key_list": "ce.",
+        "keyCode_list": [
+            99,
+            101,
+            46
+        ],
+        "target": "TEXTAREA",
+        "key_count": 3,
+        "timestamp_second": 52.568,
+        "relative_time": 0.9734814814814814,
+        "index": 46,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 366.47537241033297,
+        "timestamp": "2024-10-16T14:12:23.040000Z",
+        "duration": 0.632,
+        "timestamp_second": 54.024,
+        "relative_time": 1.0004444444444445,
+        "index": 47,
+        "page": "gpt"
+    },
+    {
+        "type": "firstNotNull",
+        "time": "10/16/2024, 10:12:24 PM",
+        "timestamp": "2024-10-16T14:12:24.000000Z",
+        "index": 48,
+        "page": "gpt",
+        "timestamp_second": 54.984,
+        "relative_time": 1.0182222222222224
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T14:12:24.099000Z",
+        "target": "DIV",
+        "x": 756,
+        "y": 806,
+        "timestamp_second": 55.083,
+        "relative_time": 1.0200555555555555,
+        "index": 49,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 272.52798183996947,
+        "timestamp": "2024-10-16T14:12:24.605000Z",
+        "duration": 0.15,
+        "timestamp_second": 55.589,
+        "relative_time": 1.0294259259259257,
+        "index": 50,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:12:27.756000Z",
+        "duration": 6.584,
+        "timestamp_second": 58.74,
+        "relative_time": 1.0877777777777777,
+        "index": 51,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 317.11666323844383,
+        "timestamp": "2024-10-16T14:12:31.339000Z",
+        "duration": 0.658,
+        "timestamp_second": 62.323,
+        "relative_time": 1.1541296296296295,
+        "index": 52,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:12:35.031000Z",
+        "duration": 3.625,
+        "timestamp_second": 66.015,
+        "relative_time": 1.2225,
+        "index": 53,
+        "page": "gpt"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-16T14:12:35.656000Z",
+        "status": 0,
+        "timestamp_second": 66.64,
+        "relative_time": 1.234074074074074,
+        "index": 54,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 502.3484686555639,
+        "timestamp": "2024-10-16T14:12:38.473000Z",
+        "duration": 0.541,
+        "timestamp_second": 69.457,
+        "relative_time": 1.2862407407407406,
+        "index": 55,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 569.7695396081454,
+        "timestamp": "2024-10-16T14:12:39.040000Z",
+        "duration": 5.137,
+        "timestamp_second": 70.024,
+        "relative_time": 1.2967407407407407,
+        "index": 56,
+        "page": "tasksheet"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-16T14:12:41.438000Z",
+        "status": 1,
+        "timestamp_second": 72.422,
+        "relative_time": 1.341148148148148,
+        "index": 57,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2745.2559663010306,
+        "timestamp": "2024-10-16T14:12:41.606000Z",
+        "duration": 8.174,
+        "timestamp_second": 72.59,
+        "relative_time": 1.3442592592592593,
+        "index": 58,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:12:47.182000Z",
+        "duration": 132.399,
+        "timestamp_second": 78.166,
+        "relative_time": 1.4475185185185184,
+        "index": 59,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T14:12:50.191000Z",
+        "target": "P",
+        "x": 518,
+        "y": 315,
+        "timestamp_second": 81.175,
+        "relative_time": 1.5032407407407407,
+        "index": 60,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T14:12:50.395000Z",
+        "target": "P",
+        "x": 518,
+        "y": 315,
+        "timestamp_second": 81.379,
+        "relative_time": 1.5070185185185188,
+        "index": 61,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:12:50.611000Z",
+        "text": "One case of dehydrated milk (一箱脱水牛奶)",
+        "highlightedTextLength": 36,
+        "timestamp_second": 81.595,
+        "relative_time": 1.5110185185185185,
+        "index": 62,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T14:12:50.611000Z",
+        "target": "P",
+        "x": 518,
+        "y": 315,
+        "timestamp_second": 81.595,
+        "relative_time": 1.5110185185185185,
+        "index": 63,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1345.927557534933,
+        "timestamp": "2024-10-16T14:12:50.888000Z",
+        "duration": 3.309,
+        "timestamp_second": 81.872,
+        "relative_time": 1.516148148148148,
+        "index": 64,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:12:54.287000Z",
+        "text": "help me rating the importance of items. rank them with importance.\nYou are a member of a space crew originally scheduled to rendezvous with another ship on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to land at a spot some 200 miles (about 321 km) from the rendezvous point. During reentry and landing, much of the equipment aboard was damaged and, since survival depends on reaching the mother ship, the most critical items available must be chosen for the 200-mile trip. Below are listed the 15 items left intact and undamaged after landing. Your task is torank order them in terms of their importance for your crew in allowing them to reach the rendezvous point. Place the number 1 by the most important item, the number 2 by the second most important, and so on through number 15 for the least important.\nYour items:\nBox of matches\nFood concentrate\n50 feet of nylon rope\nParachute silk (降落伞布)\nPortable heating unit\nTwo .45 caliber pistols (.45口径手枪)\nOne case of dehydrated milk (一箱脱水牛奶)\nTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\nStellar map\nSelf-inflating life raft\nMagnetic compass\n20 liters of water\nSignal flares\nFirst aid kit, including injection needle\nSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 1247,
+        "timestamp_second": 85.271,
+        "relative_time": 1.5790925925925927,
+        "index": 65,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T14:12:54.288000Z",
+        "target": "DIV",
+        "x": 450,
+        "y": 342,
+        "timestamp_second": 85.272,
+        "relative_time": 1.5791111111111114,
+        "index": 66,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 37.521937540206636,
+        "timestamp": "2024-10-16T14:12:54.422000Z",
+        "duration": 0.091,
+        "timestamp_second": 85.406,
+        "relative_time": 1.5815925925925929,
+        "index": 67,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:12:54.971000Z",
+        "text": "help me rating the importance of items. rank them with importance.\nYou are a member of a space crew originally scheduled to rendezvous with another ship on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to land at a spot some 200 miles (about 321 km) from the rendezvous point. During reentry and landing, much of the equipment aboard was damaged and, since survival depends on reaching the mother ship, the most critical items available must be chosen for the 200-mile trip. Below are listed the 15 items left intact and undamaged after landing. Your task is torank order them in terms of their importance for your crew in allowing them to reach the rendezvous point. Place the number 1 by the most important item, the number 2 by the second most important, and so on through number 15 for the least important.\nYour items:\nBox of matches\nFood concentrate\n50 feet of nylon rope\nParachute silk (降落伞布)\nPortable heating unit\nTwo .45 caliber pistols (.45口径手枪)\nOne case of dehydrated milk (一箱脱水牛奶)\nTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\nStellar map\nSelf-inflating life raft\nMagnetic compass\n20 liters of water\nSignal flares\nFirst aid kit, including injection needle\nSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 1247,
+        "timestamp_second": 85.955,
+        "relative_time": 1.591759259259259,
+        "index": 68,
+        "page": "gpt"
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-16T14:12:56.024000Z",
+        "text": "help me rating the importance of items. rank them with importance.\nYou are a member of a space crew originally scheduled to rendezvous with another ship on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to land at a spot some 200 miles (about 321 km) from the rendezvous point. During reentry and landing, much of the equipment aboard was damaged and, since survival depends on reaching the mother ship, the most critical items available must be chosen for the 200-mile trip. Below are listed the 15 items left intact and undamaged after landing. Your task is torank order them in terms of their importance for your crew in allowing them to reach the rendezvous point. Place the number 1 by the most important item, the number 2 by the second most important, and so on through number 15 for the least important.\nYour items:\nBox of matches\nFood concentrate\n50 feet of nylon rope\nParachute silk (降落伞布)\nPortable heating unit\nTwo .45 caliber pistols (.45口径手枪)\nOne case of dehydrated milk (一箱脱水牛奶)\nTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\nStellar map\nSelf-inflating life raft\nMagnetic compass\n20 liters of water\nSignal flares\nFirst aid kit, including injection needle\nSolar-powered FM receiver-transmitter",
+        "textLength": 1247,
+        "timestamp_second": 87.008,
+        "relative_time": 1.6112592592592592,
+        "index": 69,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 428.9606939744572,
+        "timestamp": "2024-10-16T14:12:56.047000Z",
+        "duration": 1.283,
+        "timestamp_second": 87.031,
+        "relative_time": 1.6116851851851854,
+        "index": 70,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:12:58.503000Z",
+        "text": "help me rating the importance of items. rank them with importance.\nYou are a member of a space crew originally scheduled to rendezvous with another ship on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to land at a spot some 200 miles (about 321 km) from the rendezvous point. During reentry and landing, much of the equipment aboard was damaged and, since survival depends on reaching the mother ship, the most critical items available must be chosen for the 200-mile trip. Below are listed the 15 items left intact and undamaged after landing. Your task is torank order them in terms of their importance for your crew in allowing them to reach the rendezvous point. Place the number 1 by the most important item, the number 2 by the second most important, and so on through number 15 for the least important.\nYour items:\nBox of matches\nFood concentrate\n50 feet of nylon rope\nParachute silk (降落伞布)\nPortable heating unit\nTwo .45 caliber pistols (.45口径手枪)\nOne case of dehydrated milk (一箱脱水牛奶)\nTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\nStellar map\nSelf-inflating life raft\nMagnetic compass\n20 liters of water\nSignal flares\nFirst aid kit, including injection needle\nSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 1247,
+        "timestamp_second": 89.487,
+        "relative_time": 1.6571666666666665,
+        "index": 71,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 328.017178957105,
+        "timestamp": "2024-10-16T14:12:58.663000Z",
+        "duration": 0.483,
+        "timestamp_second": 89.647,
+        "relative_time": 1.6601296296296297,
+        "index": 72,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T14:12:59.384000Z",
+        "target": "TEXTAREA",
+        "x": 462,
+        "y": 788,
+        "timestamp_second": 90.368,
+        "relative_time": 1.6734814814814813,
+        "index": 73,
+        "page": "gpt"
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-16T14:13:00.561000Z",
+        "text": "help me rating the importance of items. rank them with importance.\r\nYou are a member of a space crew originally scheduled to rendezvous with another ship on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to land at a spot some 200 miles (about 321 km) from the rendezvous point. During reentry and landing, much of the equipment aboard was damaged and, since survival depends on reaching the mother ship, the most critical items available must be chosen for the 200-mile trip. Below are listed the 15 items left intact and undamaged after landing. Your task is torank order them in terms of their importance for your crew in allowing them to reach the rendezvous point. Place the number 1 by the most important item, the number 2 by the second most important, and so on through number 15 for the least important.\r\nYour items:\r\nBox of matches\r\nFood concentrate\r\n50 feet of nylon rope\r\nParachute silk (降落伞布)\r\nPortable heating unit\r\nTwo .45 caliber pistols (.45口径手枪)\r\nOne case of dehydrated milk (一箱脱水牛奶)\r\nTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\r\nStellar map\r\nSelf-inflating life raft\r\nMagnetic compass\r\n20 liters of water\r\nSignal flares\r\nFirst aid kit, including injection needle\r\nSolar-powered FM receiver-transmitter",
+        "textLength": 1264,
+        "timestamp_second": 91.545,
+        "relative_time": 1.6952777777777779,
+        "index": 74,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T14:13:01.132000Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 92.116,
+        "relative_time": 1.7058518518518517,
+        "index": 75,
+        "page": "gpt"
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-16T14:13:02.624000Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 93.608,
+        "relative_time": 1.7334814814814816,
+        "index": 76,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 306.4298107326358,
+        "timestamp": "2024-10-16T14:13:03.271000Z",
+        "duration": 0.509,
+        "timestamp_second": 94.255,
+        "relative_time": 1.745462962962963,
+        "index": 77,
+        "page": "gpt"
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "10/16/2024, 10:12:24 PM",
+        "endTime": "10/16/2024, 10:13:04 PM",
+        "duration": 40112,
+        "timestamp": "2024-10-16T14:13:04.000000Z",
+        "index": 78,
+        "page": "gpt",
+        "timestamp_second": 94.984,
+        "relative_time": 1.7589629629629628
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T14:13:04.216000Z",
+        "target": "BUTTON",
+        "x": 755,
+        "y": 809,
+        "timestamp_second": 95.2,
+        "relative_time": 1.762962962962963,
+        "index": 79,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 510.584723800981,
+        "timestamp": "2024-10-16T14:13:04.588000Z",
+        "duration": 2.8,
+        "timestamp_second": 95.572,
+        "relative_time": 1.769851851851852,
+        "index": 80,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:13:10.393000Z",
+        "duration": 7.835,
+        "timestamp_second": 101.377,
+        "relative_time": 1.877351851851852,
+        "index": 81,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 149.94688622309332,
+        "timestamp": "2024-10-16T14:13:15.223000Z",
+        "duration": 2.208,
+        "timestamp_second": 106.207,
+        "relative_time": 1.9667962962962964,
+        "index": 82,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:13:20.506000Z",
+        "duration": 12.532,
+        "timestamp_second": 111.49,
+        "relative_time": 2.0646296296296294,
+        "index": 83,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 65.57632066082624,
+        "timestamp": "2024-10-16T14:13:30.020000Z",
+        "duration": 0.409,
+        "timestamp_second": 121.004,
+        "relative_time": 2.240814814814815,
+        "index": 84,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:13:33.433000Z",
+        "duration": 86.013,
+        "timestamp_second": 124.417,
+        "relative_time": 2.3040185185185185,
+        "index": 85,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 770.8904018323337,
+        "timestamp": "2024-10-16T14:14:56.442000Z",
+        "duration": 0.126,
+        "timestamp_second": 207.426,
+        "relative_time": 3.841222222222222,
+        "index": 86,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 104.08640753373038,
+        "timestamp": "2024-10-16T14:14:56.576000Z",
+        "duration": 0.817,
+        "timestamp_second": 207.56,
+        "relative_time": 3.843703703703704,
+        "index": 87,
+        "page": "tasksheet"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-16T14:14:57.619000Z",
+        "status": 0,
+        "timestamp_second": 208.603,
+        "relative_time": 3.863018518518518,
+        "index": 88,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:14:59.538000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 210.522,
+        "relative_time": 3.8985555555555553,
+        "index": 89,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:14:59.578000Z",
+        "duration": 31.772,
+        "timestamp_second": 210.562,
+        "relative_time": 3.8992962962962965,
+        "index": 90,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 734.8610334985715,
+        "timestamp": "2024-10-16T14:15:00.617000Z",
+        "duration": 1.275,
+        "timestamp_second": 211.601,
+        "relative_time": 3.918537037037037,
+        "index": 91,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:15:02.834000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 213.818,
+        "relative_time": 3.959592592592593,
+        "index": 92,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:15:02.841000Z",
+        "target": "SPAN",
+        "x": 86,
+        "y": 649,
+        "timestamp_second": 213.825,
+        "relative_time": 3.959722222222222,
+        "index": 93,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1349.2767130926095,
+        "timestamp": "2024-10-16T14:15:03.159000Z",
+        "duration": 3.187,
+        "timestamp_second": 214.143,
+        "relative_time": 3.9656111111111114,
+        "index": 94,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:15:08.433000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 219.417,
+        "relative_time": 4.0632777777777775,
+        "index": 95,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 785.9280169566446,
+        "timestamp": "2024-10-16T14:15:08.730000Z",
+        "duration": 0.902,
+        "timestamp_second": 219.714,
+        "relative_time": 4.068777777777777,
+        "index": 96,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:15:10.080000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 221.064,
+        "relative_time": 4.0937777777777775,
+        "index": 97,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:15:10.085000Z",
+        "target": "SPAN",
+        "x": 85,
+        "y": 798,
+        "timestamp_second": 221.069,
+        "relative_time": 4.09387037037037,
+        "index": 98,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 532.1781930577472,
+        "timestamp": "2024-10-16T14:15:10.457000Z",
+        "duration": 2.731,
+        "timestamp_second": 221.441,
+        "relative_time": 4.100759259259259,
+        "index": 99,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:15:13.633000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 224.617,
+        "relative_time": 4.159574074074074,
+        "index": 100,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:15:13.637000Z",
+        "target": "SPAN",
+        "x": 86,
+        "y": 341,
+        "timestamp_second": 224.621,
+        "relative_time": 4.159648148148149,
+        "index": 101,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 112.59251907515318,
+        "timestamp": "2024-10-16T14:15:14.268000Z",
+        "duration": 0.986,
+        "timestamp_second": 225.252,
+        "relative_time": 4.171333333333334,
+        "index": 102,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:15:15.724000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 226.708,
+        "relative_time": 4.198296296296297,
+        "index": 103,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:15:15.728000Z",
+        "target": "SPAN",
+        "x": 84,
+        "y": 375,
+        "timestamp_second": 226.712,
+        "relative_time": 4.1983703703703705,
+        "index": 104,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 531.0268571296201,
+        "timestamp": "2024-10-16T14:15:16.262000Z",
+        "duration": 4.113,
+        "timestamp_second": 227.246,
+        "relative_time": 4.208259259259259,
+        "index": 105,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:15:20.923000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 231.907,
+        "relative_time": 4.294574074074074,
+        "index": 106,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:15:20.928000Z",
+        "target": "DIV",
+        "x": 98,
+        "y": 763,
+        "timestamp_second": 231.912,
+        "relative_time": 4.294666666666667,
+        "index": 107,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1833.404282146188,
+        "timestamp": "2024-10-16T14:15:21.321000Z",
+        "duration": 3.797,
+        "timestamp_second": 232.305,
+        "relative_time": 4.301944444444445,
+        "index": 108,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:15:25.610000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 236.594,
+        "relative_time": 4.38137037037037,
+        "index": 109,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:15:25.615000Z",
+        "target": "SPAN",
+        "x": 86,
+        "y": 791,
+        "timestamp_second": 236.599,
+        "relative_time": 4.381462962962963,
+        "index": 110,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1018.4017943349354,
+        "timestamp": "2024-10-16T14:15:25.955000Z",
+        "duration": 2.377,
+        "timestamp_second": 236.939,
+        "relative_time": 4.387759259259259,
+        "index": 111,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 795.7371228826323,
+        "timestamp": "2024-10-16T14:15:28.340000Z",
+        "duration": 1.744,
+        "timestamp_second": 239.324,
+        "relative_time": 4.431925925925926,
+        "index": 112,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-16T14:15:30.312000Z",
+        "status": 1,
+        "timestamp_second": 241.296,
+        "relative_time": 4.468444444444445,
+        "index": 113,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:15:31.337000Z",
+        "duration": 4.043,
+        "timestamp_second": 242.321,
+        "relative_time": 4.487425925925926,
+        "index": 114,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 777.8628118020115,
+        "timestamp": "2024-10-16T14:15:32.212000Z",
+        "duration": 0.138,
+        "timestamp_second": 243.196,
+        "relative_time": 4.503629629629629,
+        "index": 115,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 934.1958413722605,
+        "timestamp": "2024-10-16T14:15:32.375000Z",
+        "duration": 1.742,
+        "timestamp_second": 243.359,
+        "relative_time": 4.506648148148148,
+        "index": 116,
+        "page": "tasksheet"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-16T14:15:34.378000Z",
+        "status": 0,
+        "timestamp_second": 245.362,
+        "relative_time": 4.54374074074074,
+        "index": 117,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:15:34.602000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 245.586,
+        "relative_time": 4.547888888888889,
+        "index": 118,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:15:34.607000Z",
+        "target": "SPAN",
+        "x": 85,
+        "y": 533,
+        "timestamp_second": 245.591,
+        "relative_time": 4.547981481481481,
+        "index": 119,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:15:35.365000Z",
+        "duration": 14.974,
+        "timestamp_second": 246.349,
+        "relative_time": 4.562018518518518,
+        "index": 120,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 136.09428285476315,
+        "timestamp": "2024-10-16T14:15:35.472000Z",
+        "duration": 2.724,
+        "timestamp_second": 246.456,
+        "relative_time": 4.564,
+        "index": 121,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:15:38.996000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 249.98,
+        "relative_time": 4.62925925925926,
+        "index": 122,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:15:39.001000Z",
+        "target": "LI",
+        "x": 92,
+        "y": 653,
+        "timestamp_second": 249.985,
+        "relative_time": 4.629351851851852,
+        "index": 123,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 232.3524584413899,
+        "timestamp": "2024-10-16T14:15:39.938000Z",
+        "duration": 1.321,
+        "timestamp_second": 250.922,
+        "relative_time": 4.646703703703704,
+        "index": 124,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:15:41.730000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 252.714,
+        "relative_time": 4.679888888888889,
+        "index": 125,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:15:41.735000Z",
+        "target": "SPAN",
+        "x": 86,
+        "y": 716,
+        "timestamp_second": 252.719,
+        "relative_time": 4.679981481481481,
+        "index": 126,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 198.64311614492544,
+        "timestamp": "2024-10-16T14:15:42.691000Z",
+        "duration": 1.644,
+        "timestamp_second": 253.675,
+        "relative_time": 4.697685185185185,
+        "index": 127,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:15:46.434000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 257.418,
+        "relative_time": 4.767,
+        "index": 128,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:15:46.438000Z",
+        "target": "SPAN",
+        "x": 90,
+        "y": 763,
+        "timestamp_second": 257.422,
+        "relative_time": 4.767074074074074,
+        "index": 129,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 774.3545135072927,
+        "timestamp": "2024-10-16T14:15:46.824000Z",
+        "duration": 0.492,
+        "timestamp_second": 257.808,
+        "relative_time": 4.774222222222222,
+        "index": 130,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 777.7962059771871,
+        "timestamp": "2024-10-16T14:15:47.324000Z",
+        "duration": 1.213,
+        "timestamp_second": 258.308,
+        "relative_time": 4.7834814814814814,
+        "index": 131,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-16T14:15:48.787000Z",
+        "status": 1,
+        "timestamp_second": 259.771,
+        "relative_time": 4.810574074074074,
+        "index": 132,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:15:50.329000Z",
+        "duration": 3.217,
+        "timestamp_second": 261.313,
+        "relative_time": 4.839129629629629,
+        "index": 133,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 781.4407391539535,
+        "timestamp": "2024-10-16T14:15:50.413000Z",
+        "duration": 0.111,
+        "timestamp_second": 261.397,
+        "relative_time": 4.840685185185185,
+        "index": 134,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 717.4130767424758,
+        "timestamp": "2024-10-16T14:15:50.533000Z",
+        "duration": 1.083,
+        "timestamp_second": 261.517,
+        "relative_time": 4.842907407407408,
+        "index": 135,
+        "page": "tasksheet"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-16T14:15:51.900000Z",
+        "status": 0,
+        "timestamp_second": 262.884,
+        "relative_time": 4.868222222222222,
+        "index": 136,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:15:52.119000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 263.103,
+        "relative_time": 4.872277777777779,
+        "index": 137,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:15:52.123000Z",
+        "target": "SPAN",
+        "x": 92,
+        "y": 755,
+        "timestamp_second": 263.107,
+        "relative_time": 4.872351851851853,
+        "index": 138,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1999.5116220179043,
+        "timestamp": "2024-10-16T14:15:52.641000Z",
+        "duration": 7.592,
+        "timestamp_second": 263.625,
+        "relative_time": 4.881944444444445,
+        "index": 139,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:15:53.539000Z",
+        "duration": 3.576,
+        "timestamp_second": 264.523,
+        "relative_time": 4.898574074074075,
+        "index": 140,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1144.9420285504057,
+        "timestamp": "2024-10-16T14:15:54.100000Z",
+        "duration": 3.124,
+        "timestamp_second": 265.084,
+        "relative_time": 4.9089629629629625,
+        "index": 141,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:16:00.225000Z",
+        "duration": 5.420999999999999,
+        "timestamp_second": 271.209,
+        "relative_time": 5.022388888888889,
+        "index": 142,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:16:00.726000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 271.71,
+        "relative_time": 5.031666666666666,
+        "index": 143,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:16:00.731000Z",
+        "target": "SPAN",
+        "x": 86,
+        "y": 796,
+        "timestamp_second": 271.715,
+        "relative_time": 5.031759259259259,
+        "index": 144,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 776.5354180737195,
+        "timestamp": "2024-10-16T14:16:01.375000Z",
+        "duration": 0.857,
+        "timestamp_second": 272.359,
+        "relative_time": 5.043685185185185,
+        "index": 145,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 801.6848589776746,
+        "timestamp": "2024-10-16T14:16:02.645000Z",
+        "duration": 2.117,
+        "timestamp_second": 273.629,
+        "relative_time": 5.067203703703704,
+        "index": 146,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-16T14:16:05.019000Z",
+        "status": 1,
+        "timestamp_second": 276.003,
+        "relative_time": 5.111166666666667,
+        "index": 147,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:16:05.249000Z",
+        "duration": 6.5969999999999995,
+        "timestamp_second": 276.233,
+        "relative_time": 5.115425925925926,
+        "index": 148,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 767.9788588749507,
+        "timestamp": "2024-10-16T14:16:08.710000Z",
+        "duration": 0.113,
+        "timestamp_second": 279.694,
+        "relative_time": 5.179518518518519,
+        "index": 149,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 915.3528283738051,
+        "timestamp": "2024-10-16T14:16:08.837000Z",
+        "duration": 5.082,
+        "timestamp_second": 279.821,
+        "relative_time": 5.181870370370371,
+        "index": 150,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:16:11.831000Z",
+        "duration": 7.084,
+        "timestamp_second": 282.815,
+        "relative_time": 5.237314814814815,
+        "index": 151,
+        "page": "gpt"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-16T14:16:15.907000Z",
+        "status": 0,
+        "timestamp_second": 286.891,
+        "relative_time": 5.3127962962962965,
+        "index": 152,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:16:16.134000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 287.118,
+        "relative_time": 5.317,
+        "index": 153,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:16:16.138000Z",
+        "target": "DIV",
+        "x": 95,
+        "y": 753,
+        "timestamp_second": 287.122,
+        "relative_time": 5.317074074074074,
+        "index": 154,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 161.96193473498352,
+        "timestamp": "2024-10-16T14:16:16.382000Z",
+        "duration": 1.525,
+        "timestamp_second": 287.366,
+        "relative_time": 5.321592592592593,
+        "index": 155,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:16:17.917000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 288.901,
+        "relative_time": 5.350018518518518,
+        "index": 156,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:16:17.917000Z",
+        "target": "UL",
+        "x": 185,
+        "y": 675,
+        "timestamp_second": 288.901,
+        "relative_time": 5.350018518518518,
+        "index": 157,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 619.0934466082144,
+        "timestamp": "2024-10-16T14:16:18.171000Z",
+        "duration": 2.352,
+        "timestamp_second": 289.155,
+        "relative_time": 5.354722222222222,
+        "index": 158,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:16:20.589000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 291.573,
+        "relative_time": 5.3995,
+        "index": 159,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 668.7213376955042,
+        "timestamp": "2024-10-16T14:16:21.040000Z",
+        "duration": 2.217,
+        "timestamp_second": 292.024,
+        "relative_time": 5.407851851851852,
+        "index": 160,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:16:23.668000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 294.652,
+        "relative_time": 5.456518518518518,
+        "index": 161,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:16:23.672000Z",
+        "target": "SPAN",
+        "x": 90,
+        "y": 753,
+        "timestamp_second": 294.656,
+        "relative_time": 5.456592592592592,
+        "index": 162,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 46.63441361517107,
+        "timestamp": "2024-10-16T14:16:23.863000Z",
+        "duration": 0.244,
+        "timestamp_second": 294.847,
+        "relative_time": 5.4601296296296296,
+        "index": 163,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:16:24.516000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 295.5,
+        "relative_time": 5.472222222222222,
+        "index": 164,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T14:16:24.520000Z",
+        "target": "SPAN",
+        "x": 88,
+        "y": 801,
+        "timestamp_second": 295.504,
+        "relative_time": 5.472296296296297,
+        "index": 165,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 802.0104258347637,
+        "timestamp": "2024-10-16T14:16:24.766000Z",
+        "duration": 1.007,
+        "timestamp_second": 295.75,
+        "relative_time": 5.476851851851852,
+        "index": 166,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 57.004694122206274,
+        "timestamp": "2024-10-16T14:16:25.336000Z",
+        "duration": 0.29,
+        "timestamp_second": 296.32,
+        "relative_time": 5.4874074074074075,
+        "index": 167,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:16:28.636000Z",
+        "duration": 11.918,
+        "timestamp_second": 299.62,
+        "relative_time": 5.548518518518518,
+        "index": 168,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:16:32.236000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 303.22,
+        "relative_time": 5.615185185185186,
+        "index": 169,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:16:36.641000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 307.625,
+        "relative_time": 5.696759259259259,
+        "index": 170,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 824.1040697797725,
+        "timestamp": "2024-10-16T14:16:37.544000Z",
+        "duration": 0.962,
+        "timestamp_second": 308.528,
+        "relative_time": 5.713481481481482,
+        "index": 171,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 56.902874944600626,
+        "timestamp": "2024-10-16T14:16:38.915000Z",
+        "duration": 0.366,
+        "timestamp_second": 309.899,
+        "relative_time": 5.73887037037037,
+        "index": 172,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T14:16:39.716000Z",
+        "highlightedText": "Your items:\n\tBox of matches\n\tFood concentrate\n\t50 feet of nylon rope\n\tParachute silk (降落伞布) \n\tPortable heating unit\n\tTwo .45 caliber pistols (.45口径手枪)\n\tOne case of dehydrated milk (一箱脱水牛奶)\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\n\tStellar map\n\tSelf-inflating life raft\n\tMagnetic compass\n\t20 liters of water\n\tSignal flares\n\tFirst aid kit, including injection needle\n\tSolar-powered FM receiver-transmitter",
+        "highlightedTextLength": 403,
+        "timestamp_second": 310.7,
+        "relative_time": 5.753703703703703,
+        "index": 173,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T14:16:41.507000Z",
+        "duration": 3.529,
+        "timestamp_second": 312.491,
+        "relative_time": 5.78687037037037,
+        "index": 174,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 848.7399749014548,
+        "timestamp": "2024-10-16T14:16:42.035000Z",
+        "duration": 1.433,
+        "timestamp_second": 313.019,
+        "relative_time": 5.796648148148148,
+        "index": 175,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-16T14:16:43.818000Z",
+        "status": 1,
+        "timestamp_second": 314.802,
+        "relative_time": 5.829666666666667,
+        "index": 176,
+        "page": "gpt"
+    }
+]

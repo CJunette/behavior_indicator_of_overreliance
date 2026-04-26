@@ -1,0 +1,3791 @@
+[
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T13:00:49.693000Z",
+        "target": "BUTTON",
+        "x": 915,
+        "y": 24,
+        "timestamp_second": 0.0,
+        "relative_time": 0.0,
+        "index": 0,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 739.8360692193801,
+        "timestamp": "2024-10-16T13:00:49.694000Z",
+        "duration": 2.584,
+        "timestamp_second": 0.001,
+        "relative_time": 1.8518518518518518e-05,
+        "index": 1,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T13:00:51.508000Z",
+        "target": "BUTTON",
+        "x": 918,
+        "y": 25,
+        "timestamp_second": 1.815,
+        "relative_time": 0.033611111111111105,
+        "index": 2,
+        "page": "gpt"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-16T13:00:51.509000Z",
+        "status": 0,
+        "timestamp_second": 1.816,
+        "relative_time": 0.03362962962962963,
+        "index": 3,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-16T13:00:51.509000Z",
+        "status": 1,
+        "timestamp_second": 1.816,
+        "relative_time": 0.03362962962962963,
+        "index": 4,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 670.5567878814927,
+        "timestamp": "2024-10-16T13:00:51.512000Z",
+        "duration": 0.233,
+        "timestamp_second": 1.819,
+        "relative_time": 0.033685185185185186,
+        "index": 5,
+        "page": "gpt"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:00:52.452000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "duration": 0.059,
+        "timestamp_second": 2.759,
+        "relative_time": 0.05109259259259259,
+        "index": 6,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:00:53.012000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 3.319,
+        "relative_time": 0.061462962962962955,
+        "index": 7,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:00:54.508000Z",
+        "deltaY": 200,
+        "yDirection": 1,
+        "duration": 0.123,
+        "timestamp_second": 4.815,
+        "relative_time": 0.08916666666666667,
+        "index": 8,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:00:54.746000Z",
+        "duration": 228.334,
+        "timestamp_second": 5.053,
+        "relative_time": 0.09357407407407407,
+        "index": 9,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 23.004254554256477,
+        "timestamp": "2024-10-16T13:00:55.031000Z",
+        "duration": 0.1,
+        "timestamp_second": 5.338,
+        "relative_time": 0.09885185185185186,
+        "index": 10,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:00:55.131000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 5.438,
+        "relative_time": 0.1007037037037037,
+        "index": 11,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 21.685727886881068,
+        "timestamp": "2024-10-16T13:00:55.131000Z",
+        "duration": 0.121,
+        "timestamp_second": 5.438,
+        "relative_time": 0.1007037037037037,
+        "index": 12,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:00:58.266000Z",
+        "duration": 5.502,
+        "timestamp_second": 8.573,
+        "relative_time": 0.15875925925925927,
+        "index": 13,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 87.05915620199085,
+        "timestamp": "2024-10-16T13:01:00.754000Z",
+        "duration": 1.969,
+        "timestamp_second": 11.061,
+        "relative_time": 0.20483333333333334,
+        "index": 14,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:01:05.726000Z",
+        "duration": 4.089,
+        "timestamp_second": 16.033,
+        "relative_time": 0.29690740740740745,
+        "index": 15,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 47.02561160925143,
+        "timestamp": "2024-10-16T13:01:06.812000Z",
+        "duration": 1.144,
+        "timestamp_second": 17.119,
+        "relative_time": 0.31701851851851853,
+        "index": 16,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:01:10.972000Z",
+        "duration": 17.871,
+        "timestamp_second": 21.279,
+        "relative_time": 0.39405555555555555,
+        "index": 17,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:01:25.828000Z",
+        "deltaY": 200,
+        "yDirection": 1,
+        "duration": 0.344,
+        "timestamp_second": 36.135,
+        "relative_time": 0.6691666666666666,
+        "index": 18,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:01:26.673000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 36.98,
+        "relative_time": 0.6848148148148148,
+        "index": 19,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:01:29.364000Z",
+        "duration": 21.883000000000003,
+        "timestamp_second": 39.671,
+        "relative_time": 0.7346481481481482,
+        "index": 20,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:01:48.237000Z",
+        "deltaY": 1000,
+        "yDirection": 2,
+        "duration": 0.37,
+        "timestamp_second": 58.544,
+        "relative_time": 1.084148148148148,
+        "index": 21,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 16.06225774829909,
+        "timestamp": "2024-10-16T13:01:48.629000Z",
+        "duration": 0.034,
+        "timestamp_second": 58.936,
+        "relative_time": 1.0914074074074074,
+        "index": 22,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:01:48.853000Z",
+        "deltaY": 200,
+        "yDirection": 2,
+        "duration": 0.02,
+        "timestamp_second": 59.16,
+        "relative_time": 1.0955555555555556,
+        "index": 23,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3.0,
+        "timestamp": "2024-10-16T13:01:48.874000Z",
+        "duration": 0.016,
+        "timestamp_second": 59.181,
+        "relative_time": 1.0959444444444444,
+        "index": 24,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:01:48.891000Z",
+        "deltaY": 200,
+        "yDirection": 2,
+        "duration": 0.034,
+        "timestamp_second": 59.198,
+        "relative_time": 1.0962592592592593,
+        "index": 25,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 57.2172943145506,
+        "timestamp": "2024-10-16T13:01:49.157000Z",
+        "duration": 0.134,
+        "timestamp_second": 59.464,
+        "relative_time": 1.101185185185185,
+        "index": 26,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:01:49.436000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "timestamp_second": 59.743,
+        "relative_time": 1.106351851851852,
+        "index": 27,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 28.640986324788173,
+        "timestamp": "2024-10-16T13:01:49.654000Z",
+        "duration": 0.221,
+        "timestamp_second": 59.961,
+        "relative_time": 1.1103888888888889,
+        "index": 28,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:01:49.941000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 60.248,
+        "relative_time": 1.1157037037037036,
+        "index": 29,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:01:50.075000Z",
+        "deltaY": 200,
+        "yDirection": 1,
+        "duration": 0.17,
+        "timestamp_second": 60.382,
+        "relative_time": 1.1181851851851852,
+        "index": 30,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:01:50.759000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 61.066,
+        "relative_time": 1.130851851851852,
+        "index": 31,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 33.14945193517269,
+        "timestamp": "2024-10-16T13:01:51.286000Z",
+        "duration": 0.14,
+        "timestamp_second": 61.593,
+        "relative_time": 1.1406111111111112,
+        "index": 32,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:01:51.590000Z",
+        "deltaY": 500,
+        "yDirection": 2,
+        "duration": 0.103,
+        "timestamp_second": 61.897,
+        "relative_time": 1.1462407407407407,
+        "index": 33,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:01:51.837000Z",
+        "deltaY": 700,
+        "yDirection": 1,
+        "duration": 0.157,
+        "timestamp_second": 62.144,
+        "relative_time": 1.1508148148148147,
+        "index": 34,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 29.129006181830846,
+        "timestamp": "2024-10-16T13:01:52.378000Z",
+        "duration": 0.083,
+        "timestamp_second": 62.685,
+        "relative_time": 1.1608333333333334,
+        "index": 35,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:01:52.503000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 62.81,
+        "relative_time": 1.1631481481481483,
+        "index": 36,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 651.4232000322718,
+        "timestamp": "2024-10-16T13:01:52.638000Z",
+        "duration": 6.397,
+        "timestamp_second": 62.945,
+        "relative_time": 1.1656481481481482,
+        "index": 37,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:02:00.901000Z",
+        "deltaY": 900,
+        "yDirection": 1,
+        "duration": 0.152,
+        "timestamp_second": 71.208,
+        "relative_time": 1.3186666666666667,
+        "index": 38,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 16.52259434752159,
+        "timestamp": "2024-10-16T13:02:01.287000Z",
+        "duration": 0.031,
+        "timestamp_second": 71.594,
+        "relative_time": 1.3258148148148148,
+        "index": 39,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:02:01.318000Z",
+        "deltaY": 800,
+        "yDirection": 1,
+        "duration": 0.153,
+        "timestamp_second": 71.625,
+        "relative_time": 1.3263888888888888,
+        "index": 40,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 27.99488653139815,
+        "timestamp": "2024-10-16T13:02:01.705000Z",
+        "duration": 0.099,
+        "timestamp_second": 72.012,
+        "relative_time": 1.3335555555555556,
+        "index": 41,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:02:01.971000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 72.278,
+        "relative_time": 1.3384814814814816,
+        "index": 42,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:02:02.061000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.032,
+        "timestamp_second": 72.368,
+        "relative_time": 1.340148148148148,
+        "index": 43,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:02:02.603000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "timestamp_second": 72.91,
+        "relative_time": 1.3501851851851852,
+        "index": 44,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-16T13:02:02.655000Z",
+        "duration": 0.017,
+        "timestamp_second": 72.962,
+        "relative_time": 1.3511481481481482,
+        "index": 45,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:02:05.685000Z",
+        "duration": 15.951,
+        "timestamp_second": 75.992,
+        "relative_time": 1.4072592592592592,
+        "index": 46,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 282.97246056771473,
+        "timestamp": "2024-10-16T13:02:18.623000Z",
+        "duration": 1.719,
+        "timestamp_second": 88.93,
+        "relative_time": 1.646851851851852,
+        "index": 47,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:02:20.726000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "duration": 0.104,
+        "timestamp_second": 91.033,
+        "relative_time": 1.6857962962962962,
+        "index": 48,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:02:21.342000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 91.649,
+        "relative_time": 1.6972037037037035,
+        "index": 49,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:02:24.020000Z",
+        "duration": 21.136000000000003,
+        "timestamp_second": 94.327,
+        "relative_time": 1.7467962962962962,
+        "index": 50,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 25.17105597009686,
+        "timestamp": "2024-10-16T13:02:42.152000Z",
+        "duration": 0.097,
+        "timestamp_second": 112.459,
+        "relative_time": 2.082574074074074,
+        "index": 51,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:02:45.252000Z",
+        "duration": 26.679,
+        "timestamp_second": 115.559,
+        "relative_time": 2.1399814814814815,
+        "index": 52,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 171.74165732833535,
+        "timestamp": "2024-10-16T13:03:08.928000Z",
+        "duration": 1.669,
+        "timestamp_second": 139.235,
+        "relative_time": 2.578425925925926,
+        "index": 53,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:03:13.604000Z",
+        "duration": 22.701,
+        "timestamp_second": 143.911,
+        "relative_time": 2.6650185185185187,
+        "index": 54,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 329.6543718356843,
+        "timestamp": "2024-10-16T13:03:33.298000Z",
+        "duration": 2.811,
+        "timestamp_second": 163.605,
+        "relative_time": 3.029722222222222,
+        "index": 55,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:03:39.122000Z",
+        "duration": 7.829,
+        "timestamp_second": 169.429,
+        "relative_time": 3.137574074074074,
+        "index": 56,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 421.40782960694196,
+        "timestamp": "2024-10-16T13:03:43.938000Z",
+        "duration": 7.24,
+        "timestamp_second": 174.245,
+        "relative_time": 3.226759259259259,
+        "index": 57,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:03:51.226000Z",
+        "deltaY": 400,
+        "yDirection": 1,
+        "duration": 0.367,
+        "timestamp_second": 181.533,
+        "relative_time": 3.3617222222222223,
+        "index": 58,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:03:51.970000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 182.277,
+        "relative_time": 3.3755,
+        "index": 59,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 31.102124432045457,
+        "timestamp": "2024-10-16T13:03:52.244000Z",
+        "duration": 0.116,
+        "timestamp_second": 182.551,
+        "relative_time": 3.380574074074074,
+        "index": 60,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:03:52.378000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 182.685,
+        "relative_time": 3.383055555555556,
+        "index": 61,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 80.67624656235603,
+        "timestamp": "2024-10-16T13:03:52.828000Z",
+        "duration": 0.05,
+        "timestamp_second": 183.135,
+        "relative_time": 3.391388888888889,
+        "index": 62,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:03:52.878000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "timestamp_second": 183.185,
+        "relative_time": 3.3923148148148146,
+        "index": 63,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 89.19311377620397,
+        "timestamp": "2024-10-16T13:03:52.894000Z",
+        "duration": 0.868,
+        "timestamp_second": 183.201,
+        "relative_time": 3.392611111111111,
+        "index": 64,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:03:56.777000Z",
+        "duration": 45.61,
+        "timestamp_second": 187.084,
+        "relative_time": 3.4645185185185188,
+        "index": 65,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 684.7214759281687,
+        "timestamp": "2024-10-16T13:04:39.372000Z",
+        "duration": 0.691,
+        "timestamp_second": 229.679,
+        "relative_time": 4.253314814814814,
+        "index": 66,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 516.1091110742818,
+        "timestamp": "2024-10-16T13:04:40.079000Z",
+        "duration": 0.168,
+        "timestamp_second": 230.386,
+        "relative_time": 4.266407407407407,
+        "index": 67,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T13:04:40.515000Z",
+        "target": "TEXTAREA",
+        "x": 544,
+        "y": 1012,
+        "timestamp_second": 230.822,
+        "relative_time": 4.274481481481481,
+        "index": 68,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:04:42.342000Z",
+        "duration": 3.512,
+        "key_list": "what is voval",
+        "keyCode_list": [
+            119,
+            104,
+            97,
+            116,
+            32,
+            105,
+            115,
+            32,
+            118,
+            111,
+            118,
+            97,
+            108
+        ],
+        "target": "TEXTAREA",
+        "key_count": 13,
+        "timestamp_second": 232.649,
+        "relative_time": 4.308314814814815,
+        "index": 69,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:04:43.075000Z",
+        "duration": 21.007,
+        "timestamp_second": 233.382,
+        "relative_time": 4.321888888888889,
+        "index": 70,
+        "page": "tasksheet"
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-16T13:04:46.349000Z",
+        "duration": 0.295,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 3,
+        "timestamp_second": 236.656,
+        "relative_time": 4.382518518518519,
+        "index": 71,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:04:46.782000Z",
+        "duration": 2.971,
+        "key_list": "cal coeds",
+        "keyCode_list": [
+            99,
+            97,
+            108,
+            32,
+            99,
+            111,
+            101,
+            100,
+            115
+        ],
+        "target": "TEXTAREA",
+        "key_count": 9,
+        "timestamp_second": 237.089,
+        "relative_time": 4.390537037037038,
+        "index": 72,
+        "page": "gpt"
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-16T13:04:50.572000Z",
+        "duration": 0.299,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 3,
+        "timestamp_second": 240.879,
+        "relative_time": 4.4607222222222225,
+        "index": 73,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:04:52.443000Z",
+        "duration": 0.447,
+        "key_list": "rds",
+        "keyCode_list": [
+            114,
+            100,
+            115
+        ],
+        "target": "TEXTAREA",
+        "key_count": 3,
+        "timestamp_second": 242.75,
+        "relative_time": 4.49537037037037,
+        "index": 74,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:04:53.359000Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 243.666,
+        "relative_time": 4.512333333333333,
+        "index": 75,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:04:56.365000Z",
+        "duration": 4.981,
+        "timestamp_second": 246.672,
+        "relative_time": 4.568,
+        "index": 76,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 388.9754051599448,
+        "timestamp": "2024-10-16T13:04:58.340000Z",
+        "duration": 1.04,
+        "timestamp_second": 248.647,
+        "relative_time": 4.604574074074074,
+        "index": 77,
+        "page": "gpt"
+    },
+    {
+        "type": "firstNotNull",
+        "time": "2024/10/16 21:04:59",
+        "timestamp": "2024-10-16T13:04:59.000000Z",
+        "index": 78,
+        "page": "gpt",
+        "timestamp_second": 249.307,
+        "relative_time": 4.616796296296296
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T13:04:59.394000Z",
+        "target": "BUTTON",
+        "x": 840,
+        "y": 989,
+        "timestamp_second": 249.701,
+        "relative_time": 4.624092592592592,
+        "index": 79,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 944.4018967067714,
+        "timestamp": "2024-10-16T13:04:59.395000Z",
+        "duration": 1.641,
+        "timestamp_second": 249.702,
+        "relative_time": 4.624111111111111,
+        "index": 80,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 335.83032389772234,
+        "timestamp": "2024-10-16T13:05:01.070000Z",
+        "duration": 1.351,
+        "timestamp_second": 251.377,
+        "relative_time": 4.65512962962963,
+        "index": 81,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:05:04.039000Z",
+        "duration": 12.28,
+        "timestamp_second": 254.346,
+        "relative_time": 4.710111111111112,
+        "index": 82,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:05:05.433000Z",
+        "duration": 10.424,
+        "timestamp_second": 255.74,
+        "relative_time": 4.735925925925926,
+        "index": 83,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 335.29726144182314,
+        "timestamp": "2024-10-16T13:05:12.845000Z",
+        "duration": 0.431,
+        "timestamp_second": 263.152,
+        "relative_time": 4.873185185185185,
+        "index": 84,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 667.0854067648324,
+        "timestamp": "2024-10-16T13:05:13.316000Z",
+        "duration": 1.251,
+        "timestamp_second": 263.623,
+        "relative_time": 4.881907407407407,
+        "index": 85,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:05:16.281000Z",
+        "duration": 26.035999999999998,
+        "timestamp_second": 266.588,
+        "relative_time": 4.936814814814816,
+        "index": 86,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:05:17.570000Z",
+        "duration": 22.142,
+        "timestamp_second": 267.877,
+        "relative_time": 4.960685185185185,
+        "index": 87,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 603.318430628864,
+        "timestamp": "2024-10-16T13:05:36.710000Z",
+        "duration": 2.568,
+        "timestamp_second": 287.017,
+        "relative_time": 5.315129629629629,
+        "index": 88,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 339.3753017584513,
+        "timestamp": "2024-10-16T13:05:39.312000Z",
+        "duration": 3.153,
+        "timestamp_second": 289.619,
+        "relative_time": 5.3633148148148155,
+        "index": 89,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:05:42.291000Z",
+        "duration": 147.64600000000002,
+        "timestamp_second": 292.598,
+        "relative_time": 5.418481481481482,
+        "index": 90,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:05:45.466000Z",
+        "duration": 24.021,
+        "timestamp_second": 295.773,
+        "relative_time": 5.477277777777778,
+        "index": 91,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:06:06.486000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "duration": 0.072,
+        "timestamp_second": 316.793,
+        "relative_time": 5.8665370370370375,
+        "index": 92,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:06:07.058000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 317.365,
+        "relative_time": 5.87712962962963,
+        "index": 93,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:06:09.759000Z",
+        "duration": 40.533,
+        "timestamp_second": 320.066,
+        "relative_time": 5.927148148148147,
+        "index": 94,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 31.894395370642087,
+        "timestamp": "2024-10-16T13:06:47.281000Z",
+        "duration": 0.199,
+        "timestamp_second": 357.588,
+        "relative_time": 6.622,
+        "index": 95,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:06:50.496000Z",
+        "duration": 4.657,
+        "timestamp_second": 360.803,
+        "relative_time": 6.681537037037037,
+        "index": 96,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 51.83570404585771,
+        "timestamp": "2024-10-16T13:06:52.137000Z",
+        "duration": 0.383,
+        "timestamp_second": 362.444,
+        "relative_time": 6.711925925925927,
+        "index": 97,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:06:55.525000Z",
+        "duration": 21.457,
+        "timestamp_second": 365.832,
+        "relative_time": 6.774666666666667,
+        "index": 98,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:07:13.977000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 384.284,
+        "relative_time": 7.11637037037037,
+        "index": 99,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:07:14.483000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 384.79,
+        "relative_time": 7.125740740740741,
+        "index": 100,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:07:17.177000Z",
+        "duration": 21.974,
+        "timestamp_second": 387.484,
+        "relative_time": 7.175629629629629,
+        "index": 101,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 755.1193359014433,
+        "timestamp": "2024-10-16T13:07:36.146000Z",
+        "duration": 6.485,
+        "timestamp_second": 406.453,
+        "relative_time": 7.526907407407407,
+        "index": 102,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:07:45.634000Z",
+        "duration": 15.147,
+        "timestamp_second": 415.941,
+        "relative_time": 7.70261111111111,
+        "index": 103,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 63.198070350617854,
+        "timestamp": "2024-10-16T13:07:57.778000Z",
+        "duration": 1.888,
+        "timestamp_second": 428.085,
+        "relative_time": 7.9275,
+        "index": 104,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:08:02.675000Z",
+        "duration": 6.888999999999999,
+        "timestamp_second": 432.982,
+        "relative_time": 8.018185185185185,
+        "index": 105,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 300.64556062248994,
+        "timestamp": "2024-10-16T13:08:06.555000Z",
+        "duration": 2.703,
+        "timestamp_second": 436.862,
+        "relative_time": 8.090037037037037,
+        "index": 106,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 391.6748339481055,
+        "timestamp": "2024-10-16T13:08:06.924000Z",
+        "duration": 1.102,
+        "timestamp_second": 437.231,
+        "relative_time": 8.096870370370372,
+        "index": 107,
+        "page": "gpt"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-16T13:08:08.636000Z",
+        "status": 0,
+        "timestamp_second": 438.943,
+        "relative_time": 8.128574074074074,
+        "index": 108,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 214.76463357207467,
+        "timestamp": "2024-10-16T13:08:09.026000Z",
+        "duration": 0.201,
+        "timestamp_second": 439.333,
+        "relative_time": 8.135796296296297,
+        "index": 109,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:08:12.230000Z",
+        "duration": 10.100000000000001,
+        "timestamp_second": 442.537,
+        "relative_time": 8.195129629629628,
+        "index": 110,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:08:12.261000Z",
+        "duration": 11.832,
+        "timestamp_second": 442.568,
+        "relative_time": 8.195703703703703,
+        "index": 111,
+        "page": "tasksheet"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-16T13:08:19.327000Z",
+        "status": 1,
+        "timestamp_second": 449.634,
+        "relative_time": 8.326555555555556,
+        "index": 112,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 613.6368459737605,
+        "timestamp": "2024-10-16T13:08:19.443000Z",
+        "duration": 1.624,
+        "timestamp_second": 449.75,
+        "relative_time": 8.328703703703704,
+        "index": 113,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 434.2549360580142,
+        "timestamp": "2024-10-16T13:08:21.090000Z",
+        "duration": 1.551,
+        "timestamp_second": 451.397,
+        "relative_time": 8.359203703703704,
+        "index": 114,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:08:22.665000Z",
+        "deltaY": 500,
+        "yDirection": 1,
+        "duration": 0.344,
+        "timestamp_second": 452.972,
+        "relative_time": 8.38837037037037,
+        "index": 115,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:08:23.509000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 453.816,
+        "relative_time": 8.403999999999998,
+        "index": 116,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:08:23.533000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.181,
+        "timestamp_second": 453.84,
+        "relative_time": 8.404444444444444,
+        "index": 117,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 47.32511922616868,
+        "timestamp": "2024-10-16T13:08:24.010000Z",
+        "duration": 0.2,
+        "timestamp_second": 454.317,
+        "relative_time": 8.413277777777777,
+        "index": 118,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:08:24.068000Z",
+        "duration": 30.992,
+        "timestamp_second": 454.375,
+        "relative_time": 8.414351851851851,
+        "index": 119,
+        "page": "gpt"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:08:24.217000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "timestamp_second": 454.524,
+        "relative_time": 8.417111111111112,
+        "index": 120,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 412.26014140561347,
+        "timestamp": "2024-10-16T13:08:24.217000Z",
+        "duration": 7.635,
+        "timestamp_second": 454.524,
+        "relative_time": 8.417111111111112,
+        "index": 121,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:08:33.171000Z",
+        "deltaY": 400,
+        "yDirection": 1,
+        "duration": 0.116,
+        "timestamp_second": 463.478,
+        "relative_time": 8.582925925925926,
+        "index": 122,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:08:33.796000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 464.103,
+        "relative_time": 8.5945,
+        "index": 123,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.4142135623733338,
+        "timestamp": "2024-10-16T13:08:35.508000Z",
+        "duration": 0.015,
+        "timestamp_second": 465.815,
+        "relative_time": 8.626203703703704,
+        "index": 124,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:08:35.836000Z",
+        "deltaY": 1200,
+        "yDirection": 2,
+        "duration": 0.855,
+        "timestamp_second": 466.143,
+        "relative_time": 8.632277777777778,
+        "index": 125,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:08:37.193000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "timestamp_second": 467.5,
+        "relative_time": 8.657407407407407,
+        "index": 126,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:08:37.875000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.072,
+        "timestamp_second": 468.182,
+        "relative_time": 8.670037037037037,
+        "index": 127,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:08:38.462000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "timestamp_second": 468.769,
+        "relative_time": 8.680907407407409,
+        "index": 128,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:08:41.145000Z",
+        "duration": 13.208,
+        "timestamp_second": 471.452,
+        "relative_time": 8.730592592592593,
+        "index": 129,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:08:51.340000Z",
+        "deltaY": 400,
+        "yDirection": 1,
+        "duration": 0.168,
+        "timestamp_second": 481.647,
+        "relative_time": 8.91938888888889,
+        "index": 130,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 199.66743277729256,
+        "timestamp": "2024-10-16T13:08:51.740000Z",
+        "duration": 0.267,
+        "timestamp_second": 482.047,
+        "relative_time": 8.926796296296297,
+        "index": 131,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:08:52.009000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 482.316,
+        "relative_time": 8.931777777777777,
+        "index": 132,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 170.91592796663463,
+        "timestamp": "2024-10-16T13:08:52.024000Z",
+        "duration": 1.618,
+        "timestamp_second": 482.331,
+        "relative_time": 8.932055555555555,
+        "index": 133,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 903.4673776492291,
+        "timestamp": "2024-10-16T13:08:52.059000Z",
+        "duration": 1.481,
+        "timestamp_second": 482.366,
+        "relative_time": 8.932703703703703,
+        "index": 134,
+        "page": "gpt"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:08:53.668000Z",
+        "deltaY": 300,
+        "yDirection": 2,
+        "duration": 0.108,
+        "timestamp_second": 483.975,
+        "relative_time": 8.9625,
+        "index": 135,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 10.440306508909998,
+        "timestamp": "2024-10-16T13:08:53.882000Z",
+        "duration": 0.017,
+        "timestamp_second": 484.189,
+        "relative_time": 8.966462962962964,
+        "index": 136,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:08:53.899000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 484.206,
+        "relative_time": 8.966777777777777,
+        "index": 137,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 137.13759680159637,
+        "timestamp": "2024-10-16T13:08:53.915000Z",
+        "duration": 0.473,
+        "timestamp_second": 484.222,
+        "relative_time": 8.967074074074073,
+        "index": 138,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:08:54.408000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "timestamp_second": 484.715,
+        "relative_time": 8.976203703703703,
+        "index": 139,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 718.634794637077,
+        "timestamp": "2024-10-16T13:08:54.412000Z",
+        "duration": 5.663,
+        "timestamp_second": 484.719,
+        "relative_time": 8.976277777777778,
+        "index": 140,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:08:56.545000Z",
+        "duration": 3.907,
+        "timestamp_second": 486.852,
+        "relative_time": 9.015777777777776,
+        "index": 141,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1753.141686605437,
+        "timestamp": "2024-10-16T13:08:57.447000Z",
+        "duration": 5.405,
+        "timestamp_second": 487.754,
+        "relative_time": 9.032481481481481,
+        "index": 142,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T13:09:03.036000Z",
+        "target": "TEXTAREA",
+        "x": 506,
+        "y": 980,
+        "timestamp_second": 493.343,
+        "relative_time": 9.135981481481483,
+        "index": 143,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:09:03.092000Z",
+        "duration": 4.011,
+        "timestamp_second": 493.399,
+        "relative_time": 9.137018518518518,
+        "index": 144,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 536.668150675674,
+        "timestamp": "2024-10-16T13:09:03.821000Z",
+        "duration": 0.25,
+        "timestamp_second": 494.128,
+        "relative_time": 9.150518518518519,
+        "index": 145,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 603.9983071524039,
+        "timestamp": "2024-10-16T13:09:04.087000Z",
+        "duration": 0.668,
+        "timestamp_second": 494.394,
+        "relative_time": 9.155444444444445,
+        "index": 146,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:09:07.074000Z",
+        "duration": 31.401,
+        "timestamp_second": 497.381,
+        "relative_time": 9.210759259259259,
+        "index": 147,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:09:07.761000Z",
+        "duration": 27.315,
+        "timestamp_second": 498.068,
+        "relative_time": 9.223481481481482,
+        "index": 148,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1655.9959123133049,
+        "timestamp": "2024-10-16T13:09:32.070000Z",
+        "duration": 3.386,
+        "timestamp_second": 522.377,
+        "relative_time": 9.673648148148148,
+        "index": 149,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 528.2993218674746,
+        "timestamp": "2024-10-16T13:09:35.472000Z",
+        "duration": 0.565,
+        "timestamp_second": 525.779,
+        "relative_time": 9.736648148148149,
+        "index": 150,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T13:09:36.221000Z",
+        "target": "TEXTAREA",
+        "x": 494,
+        "y": 978,
+        "timestamp_second": 526.528,
+        "relative_time": 9.75051851851852,
+        "index": 151,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 45.1934853067396,
+        "timestamp": "2024-10-16T13:09:36.389000Z",
+        "duration": 0.451,
+        "timestamp_second": 526.696,
+        "relative_time": 9.75362962962963,
+        "index": 152,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:09:38.425000Z",
+        "duration": 0.271,
+        "key_list": "Why",
+        "keyCode_list": [
+            87,
+            104,
+            121
+        ],
+        "target": "TEXTAREA",
+        "key_count": 3,
+        "timestamp_second": 528.732,
+        "relative_time": 9.791333333333332,
+        "index": 153,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:09:38.465000Z",
+        "duration": 81.929,
+        "timestamp_second": 528.772,
+        "relative_time": 9.792074074074076,
+        "index": 154,
+        "page": "tasksheet"
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-16T13:09:39.279000Z",
+        "duration": 0.477,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 4,
+        "timestamp_second": 529.586,
+        "relative_time": 9.807148148148148,
+        "index": 155,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:09:40.636000Z",
+        "duration": 2.846,
+        "key_list": "Summ",
+        "keyCode_list": [
+            83,
+            117,
+            109,
+            109
+        ],
+        "target": "TEXTAREA",
+        "key_count": 4,
+        "timestamp_second": 530.943,
+        "relative_time": 9.832277777777778,
+        "index": 156,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:09:46.497000Z",
+        "duration": 3.544,
+        "timestamp_second": 536.804,
+        "relative_time": 9.940814814814814,
+        "index": 157,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:09:47.026000Z",
+        "duration": 0.916,
+        "key_list": "arize ",
+        "keyCode_list": [
+            97,
+            114,
+            105,
+            122,
+            101,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 6,
+        "timestamp_second": 537.333,
+        "relative_time": 9.95061111111111,
+        "index": 158,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:09:50.947000Z",
+        "duration": 3.306,
+        "timestamp_second": 541.254,
+        "relative_time": 10.023222222222222,
+        "index": 159,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:09:51.248000Z",
+        "duration": 0.334,
+        "key_list": "Why",
+        "keyCode_list": [
+            87,
+            104,
+            121
+        ],
+        "target": "TEXTAREA",
+        "key_count": 3,
+        "timestamp_second": 541.555,
+        "relative_time": 10.028796296296296,
+        "index": 160,
+        "page": "gpt"
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-16T13:09:51.896000Z",
+        "duration": 0.341,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 3,
+        "timestamp_second": 542.203,
+        "relative_time": 10.040796296296296,
+        "index": 161,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:09:54.583000Z",
+        "duration": 6.109,
+        "timestamp_second": 544.89,
+        "relative_time": 10.090555555555556,
+        "index": 162,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:09:57.691000Z",
+        "duration": 7.169,
+        "key_list": "these things: Why we ",
+        "keyCode_list": [
+            116,
+            104,
+            101,
+            115,
+            101,
+            32,
+            116,
+            104,
+            105,
+            110,
+            103,
+            115,
+            58,
+            32,
+            87,
+            104,
+            121,
+            32,
+            119,
+            101,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 21,
+        "timestamp_second": 547.998,
+        "relative_time": 10.148111111111112,
+        "index": 163,
+        "page": "gpt"
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-16T13:10:06.676000Z",
+        "duration": 0.335,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 3,
+        "timestamp_second": 556.983,
+        "relative_time": 10.314499999999999,
+        "index": 164,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:10:07.461000Z",
+        "duration": 6.45,
+        "key_list": "do we sneeze? ",
+        "keyCode_list": [
+            100,
+            111,
+            32,
+            119,
+            101,
+            32,
+            115,
+            110,
+            101,
+            101,
+            122,
+            101,
+            63,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 14,
+        "timestamp_second": 557.768,
+        "relative_time": 10.329037037037038,
+        "index": 165,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:10:16.923000Z",
+        "duration": 32.277,
+        "timestamp_second": 567.23,
+        "relative_time": 10.504259259259259,
+        "index": 166,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:10:46.188000Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 596.495,
+        "relative_time": 11.046203703703704,
+        "index": 167,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 85.67631254578737,
+        "timestamp": "2024-10-16T13:10:47.784000Z",
+        "duration": 0.251,
+        "timestamp_second": 598.091,
+        "relative_time": 11.075759259259259,
+        "index": 168,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:10:48.637000Z",
+        "duration": 0.471,
+        "key_list": "Why",
+        "keyCode_list": [
+            87,
+            104,
+            121
+        ],
+        "target": "TEXTAREA",
+        "key_count": 3,
+        "timestamp_second": 598.944,
+        "relative_time": 11.091555555555555,
+        "index": 169,
+        "page": "gpt"
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-16T13:10:49.844000Z",
+        "duration": 0.392,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 3,
+        "timestamp_second": 600.151,
+        "relative_time": 11.113907407407407,
+        "index": 170,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:10:52.111000Z",
+        "duration": 4.077,
+        "timestamp_second": 602.418,
+        "relative_time": 11.155888888888889,
+        "index": 171,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 369.4628911554246,
+        "timestamp": "2024-10-16T13:10:53.185000Z",
+        "duration": 0.607,
+        "timestamp_second": 603.492,
+        "relative_time": 11.175777777777778,
+        "index": 172,
+        "page": "gpt"
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "2024/10/16 21:04:59",
+        "endTime": "2024/10/16 21:10:53",
+        "duration": 354531,
+        "timestamp": "2024-10-16T13:10:53.000000Z",
+        "index": 173,
+        "page": "gpt",
+        "timestamp_second": 603.307,
+        "relative_time": 11.172351851851852
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T13:10:53.924000Z",
+        "target": "BUTTON",
+        "x": 831,
+        "y": 1018,
+        "timestamp_second": 604.231,
+        "relative_time": 11.189462962962963,
+        "index": 174,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1409.7510558771173,
+        "timestamp": "2024-10-16T13:10:54.026000Z",
+        "duration": 3.337,
+        "timestamp_second": 604.333,
+        "relative_time": 11.19135185185185,
+        "index": 175,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 674.8327895685179,
+        "timestamp": "2024-10-16T13:10:57.385000Z",
+        "duration": 0.312,
+        "timestamp_second": 607.692,
+        "relative_time": 11.253555555555556,
+        "index": 176,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:10:57.719000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 608.026,
+        "relative_time": 11.259740740740739,
+        "index": 177,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 20.43157462514864,
+        "timestamp": "2024-10-16T13:10:57.720000Z",
+        "duration": 0.033,
+        "timestamp_second": 608.027,
+        "relative_time": 11.25975925925926,
+        "index": 178,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:10:57.753000Z",
+        "deltaY": 300,
+        "yDirection": 1,
+        "duration": 0.096,
+        "timestamp_second": 608.06,
+        "relative_time": 11.260370370370369,
+        "index": 179,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 32.817074387192406,
+        "timestamp": "2024-10-16T13:10:58.080000Z",
+        "duration": 0.1,
+        "timestamp_second": 608.387,
+        "relative_time": 11.266425925925926,
+        "index": 180,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:10:58.256000Z",
+        "deltaY": 200,
+        "yDirection": 1,
+        "duration": 0.074,
+        "timestamp_second": 608.563,
+        "relative_time": 11.269685185185185,
+        "index": 181,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 19.213591931882547,
+        "timestamp": "2024-10-16T13:10:58.404000Z",
+        "duration": 0.236,
+        "timestamp_second": 608.711,
+        "relative_time": 11.272425925925926,
+        "index": 182,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:10:58.641000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 608.948,
+        "relative_time": 11.276814814814815,
+        "index": 183,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 145.20273982438448,
+        "timestamp": "2024-10-16T13:10:58.654000Z",
+        "duration": 0.394,
+        "timestamp_second": 608.961,
+        "relative_time": 11.277055555555556,
+        "index": 184,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:10:59.142000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 609.449,
+        "relative_time": 11.286092592592592,
+        "index": 185,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 37.30056307974883,
+        "timestamp": "2024-10-16T13:10:59.201000Z",
+        "duration": 0.231,
+        "timestamp_second": 609.508,
+        "relative_time": 11.287185185185185,
+        "index": 186,
+        "page": "tasksheet"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-16T13:10:59.521000Z",
+        "status": 0,
+        "timestamp_second": 609.828,
+        "relative_time": 11.293111111111111,
+        "index": 187,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T13:10:59.641000Z",
+        "target": "TEXTAREA",
+        "x": 416,
+        "y": 793,
+        "timestamp_second": 609.948,
+        "relative_time": 11.295333333333334,
+        "index": 188,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 640.6961509487737,
+        "timestamp": "2024-10-16T13:11:00.016000Z",
+        "duration": 2.497,
+        "timestamp_second": 610.323,
+        "relative_time": 11.302277777777778,
+        "index": 189,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:11:00.366000Z",
+        "duration": 5.189,
+        "timestamp_second": 610.673,
+        "relative_time": 11.308759259259258,
+        "index": 190,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 301.6729055658543,
+        "timestamp": "2024-10-16T13:11:02.552000Z",
+        "duration": 0.701,
+        "timestamp_second": 612.859,
+        "relative_time": 11.349240740740742,
+        "index": 191,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:11:05.521000Z",
+        "duration": 11.635000000000002,
+        "timestamp_second": 615.828,
+        "relative_time": 11.404222222222222,
+        "index": 192,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:11:06.254000Z",
+        "duration": 8.253,
+        "timestamp_second": 616.561,
+        "relative_time": 11.417796296296297,
+        "index": 193,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 619.2973272470699,
+        "timestamp": "2024-10-16T13:11:11.506000Z",
+        "duration": 2.609,
+        "timestamp_second": 621.813,
+        "relative_time": 11.515055555555556,
+        "index": 194,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 340.5687694212138,
+        "timestamp": "2024-10-16T13:11:14.148000Z",
+        "duration": 0.384,
+        "timestamp_second": 624.455,
+        "relative_time": 11.563981481481482,
+        "index": 195,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:11:14.561000Z",
+        "deltaY": 400,
+        "yDirection": 2,
+        "duration": 0.304,
+        "timestamp_second": 624.868,
+        "relative_time": 11.57162962962963,
+        "index": 196,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 7.828427124746668,
+        "timestamp": "2024-10-16T13:11:15.216000Z",
+        "duration": 0.1,
+        "timestamp_second": 625.523,
+        "relative_time": 11.58375925925926,
+        "index": 197,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:11:15.372000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "timestamp_second": 625.679,
+        "relative_time": 11.586648148148146,
+        "index": 198,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 83.35917360311942,
+        "timestamp": "2024-10-16T13:11:15.514000Z",
+        "duration": 2.455,
+        "timestamp_second": 625.821,
+        "relative_time": 11.58927777777778,
+        "index": 199,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:11:17.130000Z",
+        "duration": 23.959,
+        "timestamp_second": 627.437,
+        "relative_time": 11.619203703703704,
+        "index": 200,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:11:20.980000Z",
+        "duration": 16.242,
+        "timestamp_second": 631.287,
+        "relative_time": 11.6905,
+        "index": 201,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 18.38440279938004,
+        "timestamp": "2024-10-16T13:11:34.211000Z",
+        "duration": 0.092,
+        "timestamp_second": 644.518,
+        "relative_time": 11.935518518518519,
+        "index": 202,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:11:34.434000Z",
+        "deltaY": 300,
+        "yDirection": 1,
+        "duration": 0.236,
+        "timestamp_second": 644.741,
+        "relative_time": 11.939648148148148,
+        "index": 203,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 265.2940021964714,
+        "timestamp": "2024-10-16T13:11:34.671000Z",
+        "duration": 0.499,
+        "timestamp_second": 644.978,
+        "relative_time": 11.944037037037036,
+        "index": 204,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:11:35.171000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 645.478,
+        "relative_time": 11.953296296296296,
+        "index": 205,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 117.27236846190863,
+        "timestamp": "2024-10-16T13:11:35.188000Z",
+        "duration": 0.65,
+        "timestamp_second": 645.495,
+        "relative_time": 11.95361111111111,
+        "index": 206,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T13:11:36.378000Z",
+        "target": "TEXTAREA",
+        "x": 480,
+        "y": 895,
+        "timestamp_second": 646.685,
+        "relative_time": 11.975648148148148,
+        "index": 207,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 562.5904606724471,
+        "timestamp": "2024-10-16T13:11:37.530000Z",
+        "duration": 0.527,
+        "timestamp_second": 647.837,
+        "relative_time": 11.99698148148148,
+        "index": 208,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 432.0867206883122,
+        "timestamp": "2024-10-16T13:11:38.074000Z",
+        "duration": 0.801,
+        "timestamp_second": 648.381,
+        "relative_time": 12.007055555555555,
+        "index": 209,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-16T13:11:39.351000Z",
+        "status": 1,
+        "timestamp_second": 649.658,
+        "relative_time": 12.030703703703704,
+        "index": 210,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 176.34286117465672,
+        "timestamp": "2024-10-16T13:11:39.474000Z",
+        "duration": 1.687,
+        "timestamp_second": 649.781,
+        "relative_time": 12.03298148148148,
+        "index": 211,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:11:41.064000Z",
+        "duration": 4.339,
+        "timestamp_second": 651.371,
+        "relative_time": 12.062425925925925,
+        "index": 212,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T13:11:41.666000Z",
+        "text": "Sneezing is a complex reflex that serves as a protective mechanism for the body.",
+        "highlightedTextLength": 80,
+        "timestamp_second": 651.973,
+        "relative_time": 12.073574074074072,
+        "index": 213,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T13:11:41.666000Z",
+        "target": "P",
+        "x": 543,
+        "y": 523,
+        "timestamp_second": 651.973,
+        "relative_time": 12.073574074074072,
+        "index": 214,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 128.34286105093634,
+        "timestamp": "2024-10-16T13:11:41.786000Z",
+        "duration": 0.509,
+        "timestamp_second": 652.093,
+        "relative_time": 12.075796296296296,
+        "index": 215,
+        "page": "gpt"
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-16T13:11:42.296000Z",
+        "text": "Sneezing is a complex reflex that serves as a protective mechanism for the body.",
+        "textLength": 80,
+        "timestamp_second": 652.603,
+        "relative_time": 12.085240740740739,
+        "index": 216,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2044.5135690144161,
+        "timestamp": "2024-10-16T13:11:42.312000Z",
+        "duration": 8.91,
+        "timestamp_second": 652.619,
+        "relative_time": 12.085537037037037,
+        "index": 217,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 727.5223306128537,
+        "timestamp": "2024-10-16T13:11:42.396000Z",
+        "duration": 0.283,
+        "timestamp_second": 652.703,
+        "relative_time": 12.087092592592592,
+        "index": 218,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:11:45.684000Z",
+        "duration": 11.062999999999999,
+        "timestamp_second": 655.991,
+        "relative_time": 12.147981481481482,
+        "index": 219,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T13:11:52.802000Z",
+        "text": "Sneezing is a complex reflex that serves as a protective mechanism for the body. It's triggered by the presence of irritants in the nasal cavity, which are detected by a small compound that activates the so-called \"sneeze gene\". The sneeze signal is then processed by the hippocampus in the brain.\n\nSneezing helps to flush out old cells and can aid the immune system in protecting from viruses. The speed of a sneeze is determined by reflexive muscle contractions. However, it's important to note that holding back a sneeze may damage the surface of the nose and sinuses.\n\nThe sound of a sneeze is influenced by several factors, including cultural and psychological factors, as well as societal norms. Keeping the mouth closed is considered the most effective way to sneeze quietly. So, sneezing is not just a simple reflex, but a significant part of our body's defense mechanism.",
+        "highlightedTextLength": 880,
+        "timestamp_second": 663.109,
+        "relative_time": 12.279796296296297,
+        "index": 220,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T13:11:52.802000Z",
+        "target": "DIV",
+        "x": 373,
+        "y": 499,
+        "timestamp_second": 663.109,
+        "relative_time": 12.279796296296297,
+        "index": 221,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 432.90042352808814,
+        "timestamp": "2024-10-16T13:11:53.024000Z",
+        "duration": 0.684,
+        "timestamp_second": 663.331,
+        "relative_time": 12.283907407407407,
+        "index": 222,
+        "page": "gpt"
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-16T13:11:53.724000Z",
+        "text": "Sneezing is a complex reflex that serves as a protective mechanism for the body. It's triggered by the presence of irritants in the nasal cavity, which are detected by a small compound that activates the so-called \"sneeze gene\". The sneeze signal is then processed by the hippocampus in the brain.\n\nSneezing helps to flush out old cells and can aid the immune system in protecting from viruses. The speed of a sneeze is determined by reflexive muscle contractions. However, it's important to note that holding back a sneeze may damage the surface of the nose and sinuses.\n\nThe sound of a sneeze is influenced by several factors, including cultural and psychological factors, as well as societal norms. Keeping the mouth closed is considered the most effective way to sneeze quietly. So, sneezing is not just a simple reflex, but a significant part of our body's defense mechanism.",
+        "textLength": 880,
+        "timestamp_second": 664.031,
+        "relative_time": 12.29687037037037,
+        "index": 223,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 968.0754273354978,
+        "timestamp": "2024-10-16T13:11:53.742000Z",
+        "duration": 0.884,
+        "timestamp_second": 664.049,
+        "relative_time": 12.297203703703703,
+        "index": 224,
+        "page": "tasksheet"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-16T13:11:54.714000Z",
+        "status": 0,
+        "timestamp_second": 665.021,
+        "relative_time": 12.315203703703704,
+        "index": 225,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T13:11:54.802000Z",
+        "target": "TEXTAREA",
+        "x": 243,
+        "y": 892,
+        "timestamp_second": 665.109,
+        "relative_time": 12.316833333333333,
+        "index": 226,
+        "page": "tasksheet"
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-16T13:11:54.928000Z",
+        "text": "Sneezing is a complex reflex that serves as a protective mechanism for the body. It's triggered by the presence of irritants in the nasal cavity, which are detected by a small compound that activates the so-called \"sneeze gene\". The sneeze signal is then processed by the hippocampus in the brain.\r\n\r\nSneezing helps to flush out old cells and can aid the immune system in protecting from viruses. The speed of a sneeze is determined by reflexive muscle contractions. However, it's important to note that holding back a sneeze may damage the surface of the nose and sinuses.\r\n\r\nThe sound of a sneeze is influenced by several factors, including cultural and psychological factors, as well as societal norms. Keeping the mouth closed is considered the most effective way to sneeze quietly. So, sneezing is not just a simple reflex, but a significant part of our body's defense mechanism.",
+        "textLength": 884,
+        "timestamp_second": 665.235,
+        "relative_time": 12.319166666666668,
+        "index": 227,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 161.37388079114316,
+        "timestamp": "2024-10-16T13:11:55.171000Z",
+        "duration": 0.456,
+        "timestamp_second": 665.478,
+        "relative_time": 12.323666666666666,
+        "index": 228,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:11:55.746000Z",
+        "deltaY": 200,
+        "yDirection": 1,
+        "duration": 0.265,
+        "timestamp_second": 666.053,
+        "relative_time": 12.334314814814814,
+        "index": 229,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 34.0,
+        "timestamp": "2024-10-16T13:11:56.311000Z",
+        "duration": 0.183,
+        "timestamp_second": 666.618,
+        "relative_time": 12.344777777777779,
+        "index": 230,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:11:56.511000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 666.818,
+        "relative_time": 12.348481481481482,
+        "index": 231,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1317.6910101055,
+        "timestamp": "2024-10-16T13:11:56.511000Z",
+        "duration": 8.376,
+        "timestamp_second": 666.818,
+        "relative_time": 12.348481481481482,
+        "index": 232,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:11:56.723000Z",
+        "duration": 7.8420000000000005,
+        "timestamp_second": 667.03,
+        "relative_time": 12.352407407407407,
+        "index": 233,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 159.72493936450337,
+        "timestamp": "2024-10-16T13:12:01.550000Z",
+        "duration": 0.634,
+        "timestamp_second": 671.857,
+        "relative_time": 12.441796296296296,
+        "index": 234,
+        "page": "gpt"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:12:05.027000Z",
+        "deltaY": 300,
+        "yDirection": 2,
+        "duration": 0.216,
+        "timestamp_second": 675.334,
+        "relative_time": 12.506185185185185,
+        "index": 235,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:12:05.189000Z",
+        "duration": 8.043,
+        "timestamp_second": 675.496,
+        "relative_time": 12.509185185185185,
+        "index": 236,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 11.39834563766999,
+        "timestamp": "2024-10-16T13:12:05.262000Z",
+        "duration": 0.065,
+        "timestamp_second": 675.569,
+        "relative_time": 12.510537037037036,
+        "index": 237,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:12:05.738000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.067,
+        "timestamp_second": 676.045,
+        "relative_time": 12.519351851851852,
+        "index": 238,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 21.60125454208537,
+        "timestamp": "2024-10-16T13:12:06.155000Z",
+        "duration": 0.067,
+        "timestamp_second": 676.462,
+        "relative_time": 12.527074074074074,
+        "index": 239,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:12:06.311000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "timestamp_second": 676.618,
+        "relative_time": 12.529962962962966,
+        "index": 240,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 430.5422062419093,
+        "timestamp": "2024-10-16T13:12:08.531000Z",
+        "duration": 1.688,
+        "timestamp_second": 678.838,
+        "relative_time": 12.571074074074073,
+        "index": 241,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 566.6154390543525,
+        "timestamp": "2024-10-16T13:12:10.227000Z",
+        "duration": 0.832,
+        "timestamp_second": 680.534,
+        "relative_time": 12.602481481481481,
+        "index": 242,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-16T13:12:11.190000Z",
+        "status": 1,
+        "timestamp_second": 681.497,
+        "relative_time": 12.620314814814815,
+        "index": 243,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T13:12:11.267000Z",
+        "target": "TEXTAREA",
+        "x": 510,
+        "y": 987,
+        "timestamp_second": 681.574,
+        "relative_time": 12.621740740740739,
+        "index": 244,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 4.0,
+        "timestamp": "2024-10-16T13:12:11.667000Z",
+        "duration": 0.128,
+        "timestamp_second": 681.974,
+        "relative_time": 12.629148148148147,
+        "index": 245,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:12:13.229000Z",
+        "duration": 32.51,
+        "timestamp_second": 683.536,
+        "relative_time": 12.658074074074074,
+        "index": 246,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:12:14.804000Z",
+        "duration": 3.7729999999999997,
+        "timestamp_second": 685.111,
+        "relative_time": 12.68724074074074,
+        "index": 247,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:12:15.568000Z",
+        "duration": 20.017,
+        "key_list": "How can we make the sound of sneeze a little smaller ",
+        "keyCode_list": [
+            72,
+            111,
+            119,
+            32,
+            99,
+            97,
+            110,
+            32,
+            119,
+            101,
+            32,
+            109,
+            97,
+            107,
+            101,
+            32,
+            116,
+            104,
+            101,
+            32,
+            115,
+            111,
+            117,
+            110,
+            100,
+            32,
+            111,
+            102,
+            32,
+            115,
+            110,
+            101,
+            101,
+            122,
+            101,
+            32,
+            97,
+            32,
+            108,
+            105,
+            116,
+            116,
+            108,
+            101,
+            32,
+            115,
+            109,
+            97,
+            108,
+            108,
+            101,
+            114,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 53,
+        "timestamp_second": 685.875,
+        "relative_time": 12.70138888888889,
+        "index": 248,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:12:36.954000Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 707.261,
+        "relative_time": 13.097425925925926,
+        "index": 249,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 330.77265266767427,
+        "timestamp": "2024-10-16T13:12:37.957000Z",
+        "duration": 0.518,
+        "timestamp_second": 708.264,
+        "relative_time": 13.116,
+        "index": 250,
+        "page": "gpt"
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "2024/10/16 21:10:53",
+        "endTime": "2024/10/16 21:12:38",
+        "duration": 104708,
+        "timestamp": "2024-10-16T13:12:38.000000Z",
+        "index": 251,
+        "page": "gpt",
+        "timestamp_second": 708.307,
+        "relative_time": 13.116796296296297
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T13:12:38.632000Z",
+        "target": "BUTTON",
+        "x": 842,
+        "y": 1010,
+        "timestamp_second": 708.939,
+        "relative_time": 13.128499999999999,
+        "index": 252,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1119.3724670138872,
+        "timestamp": "2024-10-16T13:12:38.741000Z",
+        "duration": 3.967,
+        "timestamp_second": 709.048,
+        "relative_time": 13.13051851851852,
+        "index": 253,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1154.6774392807965,
+        "timestamp": "2024-10-16T13:12:42.729000Z",
+        "duration": 3.403,
+        "timestamp_second": 713.036,
+        "relative_time": 13.20437037037037,
+        "index": 254,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:12:45.715000Z",
+        "duration": 3.458,
+        "timestamp_second": 716.022,
+        "relative_time": 13.259666666666666,
+        "index": 255,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 448.86297778896915,
+        "timestamp": "2024-10-16T13:12:46.166000Z",
+        "duration": 3.938,
+        "timestamp_second": 716.473,
+        "relative_time": 13.268018518518518,
+        "index": 256,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:12:49.134000Z",
+        "duration": 19.072,
+        "timestamp_second": 719.441,
+        "relative_time": 13.322981481481483,
+        "index": 257,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:12:53.116000Z",
+        "duration": 3.396,
+        "timestamp_second": 723.423,
+        "relative_time": 13.396722222222222,
+        "index": 258,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 215.9261368509142,
+        "timestamp": "2024-10-16T13:12:53.500000Z",
+        "duration": 1.926,
+        "timestamp_second": 723.807,
+        "relative_time": 13.403833333333335,
+        "index": 259,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:12:58.428000Z",
+        "duration": 4.388,
+        "timestamp_second": 728.735,
+        "relative_time": 13.495092592592592,
+        "index": 260,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 259.79950925647427,
+        "timestamp": "2024-10-16T13:12:59.814000Z",
+        "duration": 2.519,
+        "timestamp_second": 730.121,
+        "relative_time": 13.52075925925926,
+        "index": 261,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T13:13:04.324000Z",
+        "text": "The sound of a sneeze can be minimized in several ways. The most effective method is to keep the mouth closed during the sneeze. This can significantly reduce the noise produced. However, it's important to note that holding back a sneeze entirely can potentially damage the surface of the nose and sinuses, so it's not recommended to suppress a sneeze completely.",
+        "highlightedTextLength": 363,
+        "timestamp_second": 734.631,
+        "relative_time": 13.604277777777776,
+        "index": 262,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T13:13:04.325000Z",
+        "target": "DIV",
+        "x": 374,
+        "y": 503,
+        "timestamp_second": 734.632,
+        "relative_time": 13.604296296296296,
+        "index": 263,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 245.33023199122545,
+        "timestamp": "2024-10-16T13:13:04.509000Z",
+        "duration": 0.611,
+        "timestamp_second": 734.816,
+        "relative_time": 13.607703703703706,
+        "index": 264,
+        "page": "gpt"
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-16T13:13:05.121000Z",
+        "text": "The sound of a sneeze can be minimized in several ways. The most effective method is to keep the mouth closed during the sneeze. This can significantly reduce the noise produced. However, it's important to note that holding back a sneeze entirely can potentially damage the surface of the nose and sinuses, so it's not recommended to suppress a sneeze completely.",
+        "textLength": 363,
+        "timestamp_second": 735.428,
+        "relative_time": 13.619037037037037,
+        "index": 265,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 142.7392952280934,
+        "timestamp": "2024-10-16T13:13:05.137000Z",
+        "duration": 0.05,
+        "timestamp_second": 735.444,
+        "relative_time": 13.619333333333334,
+        "index": 266,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 486.50756104395623,
+        "timestamp": "2024-10-16T13:13:05.204000Z",
+        "duration": 0.284,
+        "timestamp_second": 735.511,
+        "relative_time": 13.620574074074074,
+        "index": 267,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:13:05.510000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 735.817,
+        "relative_time": 13.62624074074074,
+        "index": 268,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 6.7082039324996,
+        "timestamp": "2024-10-16T13:13:05.510000Z",
+        "duration": 0.016,
+        "timestamp_second": 735.817,
+        "relative_time": 13.62624074074074,
+        "index": 269,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:13:05.526000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 735.833,
+        "relative_time": 13.626537037037037,
+        "index": 270,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 17.515268042476237,
+        "timestamp": "2024-10-16T13:13:05.543000Z",
+        "duration": 0.03,
+        "timestamp_second": 735.85,
+        "relative_time": 13.626851851851852,
+        "index": 271,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:13:05.573000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 735.88,
+        "relative_time": 13.627407407407407,
+        "index": 272,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 15.84600658362615,
+        "timestamp": "2024-10-16T13:13:05.594000Z",
+        "duration": 0.067,
+        "timestamp_second": 735.901,
+        "relative_time": 13.627796296296296,
+        "index": 273,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:13:05.661000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 735.968,
+        "relative_time": 13.629037037037037,
+        "index": 274,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 13.300563079748827,
+        "timestamp": "2024-10-16T13:13:05.694000Z",
+        "duration": 0.116,
+        "timestamp_second": 736.001,
+        "relative_time": 13.62964814814815,
+        "index": 275,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:13:05.811000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 736.118,
+        "relative_time": 13.631814814814817,
+        "index": 276,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 121.45767127380168,
+        "timestamp": "2024-10-16T13:13:05.827000Z",
+        "duration": 0.474,
+        "timestamp_second": 736.134,
+        "relative_time": 13.632111111111112,
+        "index": 277,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:13:06.318000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 736.625,
+        "relative_time": 13.641203703703702,
+        "index": 278,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 41.5009982725569,
+        "timestamp": "2024-10-16T13:13:06.322000Z",
+        "duration": 0.371,
+        "timestamp_second": 736.629,
+        "relative_time": 13.641277777777777,
+        "index": 279,
+        "page": "tasksheet"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-16T13:13:06.797000Z",
+        "status": 0,
+        "timestamp_second": 737.104,
+        "relative_time": 13.650074074074075,
+        "index": 280,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T13:13:06.894000Z",
+        "target": "TEXTAREA",
+        "x": 460,
+        "y": 905,
+        "timestamp_second": 737.201,
+        "relative_time": 13.65187037037037,
+        "index": 281,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 105.20727802689726,
+        "timestamp": "2024-10-16T13:13:06.973000Z",
+        "duration": 0.183,
+        "timestamp_second": 737.28,
+        "relative_time": 13.653333333333334,
+        "index": 282,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:13:08.188000Z",
+        "duration": 62.818999999999996,
+        "timestamp_second": 738.495,
+        "relative_time": 13.675833333333335,
+        "index": 283,
+        "page": "gpt"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:13:08.413000Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 738.72,
+        "relative_time": 13.68,
+        "index": 284,
+        "page": "tasksheet"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:13:08.625000Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 738.932,
+        "relative_time": 13.683925925925926,
+        "index": 285,
+        "page": "tasksheet"
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-16T13:13:08.967000Z",
+        "text": "The sound of a sneeze can be minimized in several ways. The most effective method is to keep the mouth closed during the sneeze. This can significantly reduce the noise produced. However, it's important to note that holding back a sneeze entirely can potentially damage the surface of the nose and sinuses, so it's not recommended to suppress a sneeze completely.",
+        "textLength": 363,
+        "timestamp_second": 739.274,
+        "relative_time": 13.69025925925926,
+        "index": 286,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:13:11.629000Z",
+        "duration": 3.108,
+        "timestamp_second": 741.936,
+        "relative_time": 13.739555555555555,
+        "index": 287,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 568.7918296656171,
+        "timestamp": "2024-10-16T13:13:11.733000Z",
+        "duration": 2.432,
+        "timestamp_second": 742.04,
+        "relative_time": 13.741481481481479,
+        "index": 288,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:13:17.167000Z",
+        "duration": 3.105,
+        "timestamp_second": 747.474,
+        "relative_time": 13.84211111111111,
+        "index": 289,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T13:13:17.270000Z",
+        "target": "TEXTAREA",
+        "x": 177,
+        "y": 640,
+        "timestamp_second": 747.577,
+        "relative_time": 13.844018518518519,
+        "index": 290,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 776.4589567941621,
+        "timestamp": "2024-10-16T13:13:17.467000Z",
+        "duration": 0.234,
+        "timestamp_second": 747.774,
+        "relative_time": 13.847666666666667,
+        "index": 291,
+        "page": "tasksheet"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:13:18.539000Z",
+        "duration": 0.563,
+        "key_list": "1. ",
+        "keyCode_list": [
+            49,
+            46,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 3,
+        "timestamp_second": 748.846,
+        "relative_time": 13.867518518518517,
+        "index": 292,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:13:22.115000Z",
+        "duration": 13.183,
+        "timestamp_second": 752.422,
+        "relative_time": 13.933740740740742,
+        "index": 293,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2271.4213846059974,
+        "timestamp": "2024-10-16T13:13:32.286000Z",
+        "duration": 8.323,
+        "timestamp_second": 762.593,
+        "relative_time": 14.122092592592592,
+        "index": 294,
+        "page": "tasksheet"
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-16T13:13:42.847000Z",
+        "duration": 0.362,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 773.154,
+        "relative_time": 14.317666666666668,
+        "index": 295,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:13:43.618000Z",
+        "duration": 3.573,
+        "timestamp_second": 773.925,
+        "relative_time": 14.331944444444444,
+        "index": 296,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 243.80345249309903,
+        "timestamp": "2024-10-16T13:13:44.183000Z",
+        "duration": 1.351,
+        "timestamp_second": 774.49,
+        "relative_time": 14.342407407407407,
+        "index": 297,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T13:13:46.247000Z",
+        "target": "TEXTAREA",
+        "x": 452,
+        "y": 720,
+        "timestamp_second": 776.554,
+        "relative_time": 14.38062962962963,
+        "index": 298,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 314.00320700303564,
+        "timestamp": "2024-10-16T13:13:46.430000Z",
+        "duration": 1.854,
+        "timestamp_second": 776.737,
+        "relative_time": 14.384018518518518,
+        "index": 299,
+        "page": "tasksheet"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T13:13:48.390000Z",
+        "highlightedText": "However, it's important to note that holding back a sneeze may damage the surface of the nose and sinuses.",
+        "highlightedTextLength": 106,
+        "timestamp_second": 778.697,
+        "relative_time": 14.420314814814814,
+        "index": 300,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T13:13:48.391000Z",
+        "target": "TEXTAREA",
+        "x": 429,
+        "y": 780,
+        "timestamp_second": 778.698,
+        "relative_time": 14.420333333333332,
+        "index": 301,
+        "page": "tasksheet"
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-16T13:13:48.927000Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 779.234,
+        "relative_time": 14.430259259259259,
+        "index": 302,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 134.4142933891926,
+        "timestamp": "2024-10-16T13:13:49.119000Z",
+        "duration": 1.2,
+        "timestamp_second": 779.426,
+        "relative_time": 14.433814814814816,
+        "index": 303,
+        "page": "tasksheet"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:13:50.476000Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 780.783,
+        "relative_time": 14.458944444444445,
+        "index": 304,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 131.58780266341637,
+        "timestamp": "2024-10-16T13:13:50.771000Z",
+        "duration": 0.317,
+        "timestamp_second": 781.078,
+        "relative_time": 14.464407407407407,
+        "index": 305,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:13:51.110000Z",
+        "deltaY": 200,
+        "yDirection": 2,
+        "duration": 0.32,
+        "timestamp_second": 781.417,
+        "relative_time": 14.470685185185186,
+        "index": 306,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:13:51.939000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "timestamp_second": 782.246,
+        "relative_time": 14.486037037037036,
+        "index": 307,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:13:54.199000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 784.506,
+        "relative_time": 14.527888888888887,
+        "index": 308,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:13:54.708000Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "timestamp_second": 785.015,
+        "relative_time": 14.537314814814813,
+        "index": 309,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:13:55.047000Z",
+        "deltaY": 300,
+        "yDirection": 1,
+        "duration": 0.195,
+        "timestamp_second": 785.354,
+        "relative_time": 14.543592592592594,
+        "index": 310,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 31.498365053390444,
+        "timestamp": "2024-10-16T13:13:55.349000Z",
+        "duration": 0.05,
+        "timestamp_second": 785.656,
+        "relative_time": 14.549185185185184,
+        "index": 311,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-16T13:13:55.416000Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 785.723,
+        "relative_time": 14.550425925925925,
+        "index": 312,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 194.14034892815835,
+        "timestamp": "2024-10-16T13:13:55.416000Z",
+        "duration": 0.491,
+        "timestamp_second": 785.723,
+        "relative_time": 14.550425925925925,
+        "index": 313,
+        "page": "tasksheet"
+    },
+    {
+        "type": "scroll",
+        "timestamp": "2024-10-16T13:13:55.922000Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "timestamp_second": 786.229,
+        "relative_time": 14.559796296296298,
+        "index": 314,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 84.57404181437596,
+        "timestamp": "2024-10-16T13:13:55.926000Z",
+        "duration": 0.718,
+        "timestamp_second": 786.233,
+        "relative_time": 14.559870370370371,
+        "index": 315,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T13:13:56.863000Z",
+        "target": "TEXTAREA",
+        "x": 177,
+        "y": 672,
+        "timestamp_second": 787.17,
+        "relative_time": 14.577222222222222,
+        "index": 316,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 189.34430406693718,
+        "timestamp": "2024-10-16T13:13:56.927000Z",
+        "duration": 0.151,
+        "timestamp_second": 787.234,
+        "relative_time": 14.57840740740741,
+        "index": 317,
+        "page": "tasksheet"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:13:58.510000Z",
+        "duration": 3.416,
+        "key_list": "2.3. ",
+        "keyCode_list": [
+            50,
+            46,
+            51,
+            46,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 5,
+        "timestamp_second": 788.817,
+        "relative_time": 14.607722222222222,
+        "index": 318,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 350.1141520969031,
+        "timestamp": "2024-10-16T13:14:01.950000Z",
+        "duration": 1.785,
+        "timestamp_second": 792.257,
+        "relative_time": 14.671425925925924,
+        "index": 319,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T13:14:04.047000Z",
+        "target": "TEXTAREA",
+        "x": 188,
+        "y": 683,
+        "timestamp_second": 794.354,
+        "relative_time": 14.710259259259258,
+        "index": 320,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.4142135623696959,
+        "timestamp": "2024-10-16T13:14:04.151000Z",
+        "duration": 0.018,
+        "timestamp_second": 794.458,
+        "relative_time": 14.712185185185184,
+        "index": 321,
+        "page": "tasksheet"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:14:04.169000Z",
+        "duration": 0.0,
+        "key_list": " ",
+        "keyCode_list": [
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 794.476,
+        "relative_time": 14.71251851851852,
+        "index": 322,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 230.64647726337716,
+        "timestamp": "2024-10-16T13:14:04.186000Z",
+        "duration": 0.483,
+        "timestamp_second": 794.493,
+        "relative_time": 14.712833333333334,
+        "index": 323,
+        "page": "tasksheet"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T13:14:04.911000Z",
+        "target": "TEXTAREA",
+        "x": 314,
+        "y": 862,
+        "timestamp_second": 795.218,
+        "relative_time": 14.726259259259258,
+        "index": 324,
+        "page": "tasksheet"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:14:05.446000Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 795.753,
+        "relative_time": 14.736166666666668,
+        "index": 325,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 137.40671765367733,
+        "timestamp": "2024-10-16T13:14:05.721000Z",
+        "duration": 0.1,
+        "timestamp_second": 796.028,
+        "relative_time": 14.741259259259259,
+        "index": 326,
+        "page": "tasksheet"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:14:06.442000Z",
+        "duration": 0.0,
+        "key_list": " ",
+        "keyCode_list": [
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 796.749,
+        "relative_time": 14.754611111111112,
+        "index": 327,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 169.25087606872694,
+        "timestamp": "2024-10-16T13:14:06.622000Z",
+        "duration": 0.401,
+        "timestamp_second": 796.929,
+        "relative_time": 14.757944444444442,
+        "index": 328,
+        "page": "tasksheet"
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-16T13:14:07.397000Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 797.704,
+        "relative_time": 14.772296296296295,
+        "index": 329,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 330.9819086595453,
+        "timestamp": "2024-10-16T13:14:07.756000Z",
+        "duration": 0.234,
+        "timestamp_second": 798.063,
+        "relative_time": 14.778944444444445,
+        "index": 330,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 502.80626182801643,
+        "timestamp": "2024-10-16T13:14:08.006000Z",
+        "duration": 0.784,
+        "timestamp_second": 798.313,
+        "relative_time": 14.783574074074075,
+        "index": 331,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-16T13:14:08.882000Z",
+        "status": 1,
+        "timestamp_second": 799.189,
+        "relative_time": 14.799796296296297,
+        "index": 332,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 138.63713529014058,
+        "timestamp": "2024-10-16T13:14:08.957000Z",
+        "duration": 0.667,
+        "timestamp_second": 799.264,
+        "relative_time": 14.801185185185187,
+        "index": 333,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T13:14:09.774000Z",
+        "text": "In summary, while sneezing is a natural reflex and part of our body's defense mechanism, there are ways to make it less noisy while still allowing it to serve its protective function.",
+        "highlightedTextLength": 183,
+        "timestamp_second": 800.081,
+        "relative_time": 14.816314814814815,
+        "index": 334,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-16T13:14:09.774000Z",
+        "target": "DIV",
+        "x": 364,
+        "y": 804,
+        "timestamp_second": 800.081,
+        "relative_time": 14.816314814814815,
+        "index": 335,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 104.03568881298997,
+        "timestamp": "2024-10-16T13:14:10.063000Z",
+        "duration": 1.027,
+        "timestamp_second": 800.37,
+        "relative_time": 14.821666666666665,
+        "index": 336,
+        "page": "gpt"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:14:10.993000Z",
+        "duration": 3.237,
+        "timestamp_second": 801.3,
+        "relative_time": 14.838888888888887,
+        "index": 337,
+        "page": "tasksheet"
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-16T13:14:11.090000Z",
+        "text": "In summary, while sneezing is a natural reflex and part of our body's defense mechanism, there are ways to make it less noisy while still allowing it to serve its protective function.",
+        "textLength": 183,
+        "timestamp_second": 801.397,
+        "relative_time": 14.840685185185187,
+        "index": 338,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 248.19531056666528,
+        "timestamp": "2024-10-16T13:14:11.109000Z",
+        "duration": 0.1,
+        "timestamp_second": 801.416,
+        "relative_time": 14.841037037037038,
+        "index": 339,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 577.5244476187218,
+        "timestamp": "2024-10-16T13:14:11.227000Z",
+        "duration": 0.4,
+        "timestamp_second": 801.534,
+        "relative_time": 14.843222222222222,
+        "index": 340,
+        "page": "tasksheet"
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-16T13:14:11.686000Z",
+        "status": 0,
+        "timestamp_second": 801.993,
+        "relative_time": 14.851722222222225,
+        "index": 341,
+        "page": "gpt"
+    },
+    {
+        "type": "click",
+        "e": "click",
+        "timestamp": "2024-10-16T13:14:11.776000Z",
+        "target": "TEXTAREA",
+        "x": 324,
+        "y": 909,
+        "timestamp_second": 802.083,
+        "relative_time": 14.853388888888889,
+        "index": 342,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-16T13:14:12.011000Z",
+        "duration": 0.016,
+        "timestamp_second": 802.318,
+        "relative_time": 14.857740740740741,
+        "index": 343,
+        "page": "tasksheet"
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-16T13:14:12.060000Z",
+        "text": "In summary, while sneezing is a natural reflex and part of our body's defense mechanism, there are ways to make it less noisy while still allowing it to serve its protective function.",
+        "textLength": 183,
+        "timestamp_second": 802.367,
+        "relative_time": 14.858648148148148,
+        "index": 344,
+        "page": "tasksheet"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1218.632897752963,
+        "timestamp": "2024-10-16T13:14:12.192000Z",
+        "duration": 2.555,
+        "timestamp_second": 802.499,
+        "relative_time": 14.861092592592593,
+        "index": 345,
+        "page": "tasksheet"
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-16T13:14:14.218000Z",
+        "duration": 4.991,
+        "timestamp_second": 804.525,
+        "relative_time": 14.89861111111111,
+        "index": 346,
+        "page": "gpt"
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 924.935079133229,
+        "timestamp": "2024-10-16T13:14:16.200000Z",
+        "duration": 0.999,
+        "timestamp_second": 806.507,
+        "relative_time": 14.935314814814815,
+        "index": 347,
+        "page": "gpt"
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-16T13:14:17.410000Z",
+        "status": 1,
+        "timestamp_second": 807.717,
+        "relative_time": 14.957722222222221,
+        "index": 348,
+        "page": "gpt"
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-16T13:14:17.495000Z",
+        "text": "In summary, while sneezing is a natural reflex and part of our body's defense mechanism, there are ways to make it less noisy while still allowing it to serve its protective function.",
+        "highlightedTextLength": 183,
+        "timestamp_second": 807.802,
+        "relative_time": 14.959296296296296,
+        "index": 349,
+        "page": "gpt"
+    }
+]

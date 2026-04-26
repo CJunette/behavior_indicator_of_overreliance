@@ -1,0 +1,6316 @@
+[
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:10:20.398Z",
+        "target": "BUTTON",
+        "x": 732,
+        "y": 26,
+        "timestamp_second": 0.0,
+        "relative_time": 0.0,
+        "index": 0
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:10:20.398Z",
+        "status": 0,
+        "timestamp_second": 0.0,
+        "relative_time": 0.0,
+        "index": 1
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:10:21.133Z",
+        "status": 1,
+        "timestamp_second": 0.735,
+        "relative_time": 0.01361111111111111,
+        "index": 2
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1136.5482296980008,
+        "timestamp": "2024-10-18T02:10:21.138Z",
+        "duration": 1.791,
+        "timestamp_second": 0.74,
+        "relative_time": 0.013703703703703704,
+        "index": 3
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:10:23.020Z",
+        "target": "TEXTAREA",
+        "x": 476,
+        "y": 584,
+        "timestamp_second": 2.622,
+        "relative_time": 0.04855555555555555,
+        "index": 4
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 87.76889947019299,
+        "timestamp": "2024-10-18T02:10:23.209Z",
+        "duration": 0.539,
+        "timestamp_second": 2.811,
+        "relative_time": 0.052055555555555556,
+        "index": 5
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:10:26.759Z",
+        "duration": 4.657,
+        "timestamp_second": 6.361,
+        "relative_time": 0.11779629629629629,
+        "index": 6
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:10:28.405Z",
+        "duration": 1.131,
+        "key_list": "My spae",
+        "keyCode_list": [
+            77,
+            121,
+            32,
+            115,
+            112,
+            97,
+            101
+        ],
+        "target": "TEXTAREA",
+        "key_count": 7,
+        "timestamp_second": 8.007,
+        "relative_time": 0.14827777777777779,
+        "index": 7
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:10:30.021Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 9.623,
+        "relative_time": 0.1782037037037037,
+        "index": 8
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:10:30.116Z",
+        "duration": 1.09,
+        "key_list": "ceshiop",
+        "keyCode_list": [
+            99,
+            101,
+            115,
+            104,
+            105,
+            111,
+            112
+        ],
+        "target": "TEXTAREA",
+        "key_count": 7,
+        "timestamp_second": 9.718,
+        "relative_time": 0.17996296296296296,
+        "index": 9
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:10:31.519Z",
+        "duration": 0.146,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 11.121,
+        "relative_time": 0.20594444444444446,
+        "index": 10
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:10:31.914Z",
+        "duration": 6.3,
+        "key_list": "p crashed landed on the Moon and ",
+        "keyCode_list": [
+            112,
+            32,
+            99,
+            114,
+            97,
+            115,
+            104,
+            101,
+            100,
+            32,
+            108,
+            97,
+            110,
+            100,
+            101,
+            100,
+            32,
+            111,
+            110,
+            32,
+            116,
+            104,
+            101,
+            32,
+            77,
+            111,
+            111,
+            110,
+            32,
+            97,
+            110,
+            100,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 33,
+        "timestamp_second": 11.516,
+        "relative_time": 0.21325925925925926,
+        "index": 11
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:10:41.221Z",
+        "duration": 10.676,
+        "timestamp_second": 20.823,
+        "relative_time": 0.3856111111111111,
+        "index": 12
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:10:48.890Z",
+        "duration": 0.441,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 4,
+        "timestamp_second": 28.492,
+        "relative_time": 0.5276296296296297,
+        "index": 13
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:10:50.678Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 30.28,
+        "relative_time": 0.5607407407407408,
+        "index": 14
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:10:50.856Z",
+        "duration": 0.303,
+        "key_list": ". ",
+        "keyCode_list": [
+            46,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 2,
+        "timestamp_second": 30.458,
+        "relative_time": 0.564037037037037,
+        "index": 15
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 454.01218069180504,
+        "timestamp": "2024-10-18T02:10:51.718Z",
+        "duration": 0.252,
+        "timestamp_second": 31.32,
+        "relative_time": 0.5800000000000001,
+        "index": 16
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:10:54.984Z",
+        "duration": 12.506,
+        "timestamp_second": 34.586,
+        "relative_time": 0.6404814814814814,
+        "index": 17
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:11:04.476Z",
+        "duration": 4.645,
+        "key_list": "The mission was originally schel",
+        "keyCode_list": [
+            84,
+            104,
+            101,
+            32,
+            109,
+            105,
+            115,
+            115,
+            105,
+            111,
+            110,
+            32,
+            119,
+            97,
+            115,
+            32,
+            111,
+            114,
+            105,
+            103,
+            105,
+            110,
+            97,
+            108,
+            108,
+            121,
+            32,
+            115,
+            99,
+            104,
+            101,
+            108
+        ],
+        "target": "TEXTAREA",
+        "key_count": 32,
+        "timestamp_second": 44.078,
+        "relative_time": 0.8162592592592592,
+        "index": 18
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:11:11.872Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 51.474,
+        "relative_time": 0.9532222222222222,
+        "index": 19
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:11:12.010Z",
+        "duration": 1.003,
+        "key_list": "duled to ",
+        "keyCode_list": [
+            100,
+            117,
+            108,
+            101,
+            100,
+            32,
+            116,
+            111,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 9,
+        "timestamp_second": 51.612,
+        "relative_time": 0.9557777777777778,
+        "index": 20
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:11:16.023Z",
+        "duration": 3.125,
+        "timestamp_second": 55.625,
+        "relative_time": 1.0300925925925926,
+        "index": 21
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:11:16.138Z",
+        "status": 0,
+        "timestamp_second": 55.74,
+        "relative_time": 1.0322222222222222,
+        "index": 22
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 533.3874876255559,
+        "timestamp": "2024-10-18T02:11:30.081Z",
+        "duration": 0.465,
+        "timestamp_second": 69.683,
+        "relative_time": 1.290425925925926,
+        "index": 23
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:11:30.588Z",
+        "status": 1,
+        "timestamp_second": 70.19,
+        "relative_time": 1.2998148148148148,
+        "index": 24
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:11:30.693Z",
+        "target": "TEXTAREA",
+        "x": 496,
+        "y": 616,
+        "timestamp_second": 70.295,
+        "relative_time": 1.3017592592592593,
+        "index": 25
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 67.48977665781604,
+        "timestamp": "2024-10-18T02:11:30.724Z",
+        "duration": 0.222,
+        "timestamp_second": 70.326,
+        "relative_time": 1.3023333333333333,
+        "index": 26
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-18T02:11:30.949Z",
+        "text": "rendezvous with another ship on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to land at a spot some 200 miles (about 321 km) from the rendezvous point. During reentry and landing, much of the equipment aboard was damaged and, since survival depends on reaching the mother ship, the most critical items available must be chosen for the 200-mile trip. Below are listed the 15 items left intact and undamaged after landing. Your task is torank order them in terms of their importance for your crew in allowing them to reach the rendezvous point.",
+        "textLength": 592,
+        "timestamp_second": 70.551,
+        "relative_time": 1.3065,
+        "index": 27
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 213.2820493895215,
+        "timestamp": "2024-10-18T02:11:30.955Z",
+        "duration": 1.042,
+        "timestamp_second": 70.557,
+        "relative_time": 1.3066111111111112,
+        "index": 28
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:11:32.232Z",
+        "target": "TEXTAREA",
+        "x": 465,
+        "y": 563,
+        "timestamp_second": 71.834,
+        "relative_time": 1.3302592592592593,
+        "index": 29
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 74.92073943655487,
+        "timestamp": "2024-10-18T02:11:32.254Z",
+        "duration": 0.174,
+        "timestamp_second": 71.856,
+        "relative_time": 1.3306666666666667,
+        "index": 30
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:11:32.487Z",
+        "duration": 0.0,
+        "key_list": " ",
+        "keyCode_list": [
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 72.089,
+        "relative_time": 1.3349814814814813,
+        "index": 31
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 52.54977647648593,
+        "timestamp": "2024-10-18T02:11:32.555Z",
+        "duration": 0.609,
+        "timestamp_second": 72.157,
+        "relative_time": 1.3362407407407406,
+        "index": 32
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:11:33.312Z",
+        "target": "TEXTAREA",
+        "x": 527,
+        "y": 628,
+        "timestamp_second": 72.914,
+        "relative_time": 1.3502592592592593,
+        "index": 33
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 537.7655357958538,
+        "timestamp": "2024-10-18T02:11:33.504Z",
+        "duration": 0.381,
+        "timestamp_second": 73.106,
+        "relative_time": 1.3538148148148146,
+        "index": 34
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:11:36.894Z",
+        "duration": 6.227,
+        "timestamp_second": 76.496,
+        "relative_time": 1.4165925925925926,
+        "index": 35
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:11:40.112Z",
+        "duration": 12.003,
+        "key_list": "EnterBelow are the 15 items that I can gather from the shiop",
+        "keyCode_list": [
+            13,
+            66,
+            101,
+            108,
+            111,
+            119,
+            32,
+            97,
+            114,
+            101,
+            32,
+            116,
+            104,
+            101,
+            32,
+            49,
+            53,
+            32,
+            105,
+            116,
+            101,
+            109,
+            115,
+            32,
+            116,
+            104,
+            97,
+            116,
+            32,
+            73,
+            32,
+            99,
+            97,
+            110,
+            32,
+            103,
+            97,
+            116,
+            104,
+            101,
+            114,
+            32,
+            102,
+            114,
+            111,
+            109,
+            32,
+            116,
+            104,
+            101,
+            32,
+            115,
+            104,
+            105,
+            111,
+            112
+        ],
+        "target": "TEXTAREA",
+        "key_count": 56,
+        "timestamp_second": 79.714,
+        "relative_time": 1.4761851851851853,
+        "index": 36
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:11:52.639Z",
+        "duration": 0.117,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 92.241,
+        "relative_time": 1.7081666666666666,
+        "index": 37
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:11:53.011Z",
+        "duration": 3.214,
+        "key_list": "p, ensru",
+        "keyCode_list": [
+            112,
+            44,
+            32,
+            101,
+            110,
+            115,
+            114,
+            117
+        ],
+        "target": "TEXTAREA",
+        "key_count": 8,
+        "timestamp_second": 92.613,
+        "relative_time": 1.7150555555555553,
+        "index": 38
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:11:56.495Z",
+        "duration": 0.146,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 96.097,
+        "relative_time": 1.779574074074074,
+        "index": 39
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:11:56.848Z",
+        "duration": 0.499,
+        "key_list": "ure th",
+        "keyCode_list": [
+            117,
+            114,
+            101,
+            32,
+            116,
+            104
+        ],
+        "target": "TEXTAREA",
+        "key_count": 6,
+        "timestamp_second": 96.45,
+        "relative_time": 1.7861111111111112,
+        "index": 40
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:11:57.773Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 97.375,
+        "relative_time": 1.8032407407407407,
+        "index": 41
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:11:58.018Z",
+        "duration": 5.024,
+        "key_list": "o rank them based on importance ",
+        "keyCode_list": [
+            111,
+            32,
+            114,
+            97,
+            110,
+            107,
+            32,
+            116,
+            104,
+            101,
+            109,
+            32,
+            98,
+            97,
+            115,
+            101,
+            100,
+            32,
+            111,
+            110,
+            32,
+            105,
+            109,
+            112,
+            111,
+            114,
+            116,
+            97,
+            110,
+            99,
+            101,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 32,
+        "timestamp_second": 97.62,
+        "relative_time": 1.807777777777778,
+        "index": 42
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 628.3206984814406,
+        "timestamp": "2024-10-18T02:12:03.990Z",
+        "duration": 0.267,
+        "timestamp_second": 103.592,
+        "relative_time": 1.9183703703703703,
+        "index": 43
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:12:07.267Z",
+        "duration": 9.940999999999999,
+        "timestamp_second": 106.869,
+        "relative_time": 1.9790555555555553,
+        "index": 44
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1133.4624452374155,
+        "timestamp": "2024-10-18T02:12:14.198Z",
+        "duration": 3.473,
+        "timestamp_second": 113.8,
+        "relative_time": 2.1074074074074076,
+        "index": 45
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:17.863Z",
+        "target": "TEXTAREA",
+        "x": 503,
+        "y": 617,
+        "timestamp_second": 117.465,
+        "relative_time": 2.1752777777777776,
+        "index": 46
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 31.951532750365004,
+        "timestamp": "2024-10-18T02:12:17.931Z",
+        "duration": 0.794,
+        "timestamp_second": 117.533,
+        "relative_time": 2.1765370370370367,
+        "index": 47
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:12:18.932Z",
+        "duration": 0.642,
+        "key_list": " their",
+        "keyCode_list": [
+            32,
+            116,
+            104,
+            101,
+            105,
+            114
+        ],
+        "target": "TEXTAREA",
+        "key_count": 6,
+        "timestamp_second": 118.534,
+        "relative_time": 2.1950740740740744,
+        "index": 48
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 11.23606797749926,
+        "timestamp": "2024-10-18T02:12:20.461Z",
+        "duration": 0.131,
+        "timestamp_second": 120.063,
+        "relative_time": 2.223388888888889,
+        "index": 49
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:20.773Z",
+        "target": "TEXTAREA",
+        "x": 512,
+        "y": 622,
+        "timestamp_second": 120.375,
+        "relative_time": 2.229166666666667,
+        "index": 50
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 6.0,
+        "timestamp": "2024-10-18T02:12:20.806Z",
+        "duration": 0.393,
+        "timestamp_second": 120.408,
+        "relative_time": 2.2297777777777776,
+        "index": 51
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:21.708Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 121.31,
+        "relative_time": 2.2464814814814815,
+        "index": 52
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:12:24.204Z",
+        "duration": 3.26,
+        "timestamp_second": 123.806,
+        "relative_time": 2.2927037037037037,
+        "index": 53
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:12:24.459Z",
+        "duration": 0.179,
+        "key_list": ". ",
+        "keyCode_list": [
+            46,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 2,
+        "timestamp_second": 124.061,
+        "relative_time": 2.297425925925926,
+        "index": 54
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:26.156Z",
+        "duration": 0.164,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 125.758,
+        "relative_time": 2.328851851851852,
+        "index": 55
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:12:27.282Z",
+        "duration": 0.335,
+        "key_list": ": ",
+        "keyCode_list": [
+            58,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 2,
+        "timestamp_second": 126.884,
+        "relative_time": 2.349703703703704,
+        "index": 56
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 527.5808661541341,
+        "timestamp": "2024-10-18T02:12:27.885Z",
+        "duration": 0.138,
+        "timestamp_second": 127.487,
+        "relative_time": 2.36087037037037,
+        "index": 57
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:12:30.120Z",
+        "status": 0,
+        "timestamp_second": 129.722,
+        "relative_time": 2.4022592592592593,
+        "index": 58
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:12:31.038Z",
+        "duration": 3.388,
+        "timestamp_second": 130.64,
+        "relative_time": 2.4192592592592588,
+        "index": 59
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 487.9791150628589,
+        "timestamp": "2024-10-18T02:12:31.412Z",
+        "duration": 0.57,
+        "timestamp_second": 131.014,
+        "relative_time": 2.4261851851851852,
+        "index": 60
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:12:32.064Z",
+        "status": 1,
+        "timestamp_second": 131.666,
+        "relative_time": 2.438259259259259,
+        "index": 61
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 6.2360679774992605,
+        "timestamp": "2024-10-18T02:12:32.114Z",
+        "duration": 0.038,
+        "timestamp_second": 131.716,
+        "relative_time": 2.439185185185185,
+        "index": 62
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:32.153Z",
+        "target": "TEXTAREA",
+        "x": 480,
+        "y": 619,
+        "timestamp_second": 131.755,
+        "relative_time": 2.439907407407407,
+        "index": 63
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 10.472135954998521,
+        "timestamp": "2024-10-18T02:12:32.155Z",
+        "duration": 0.08,
+        "timestamp_second": 131.757,
+        "relative_time": 2.4399444444444445,
+        "index": 64
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:12:32.862Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 132.464,
+        "relative_time": 2.4530370370370367,
+        "index": 65
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 111.18270128985023,
+        "timestamp": "2024-10-18T02:12:33.343Z",
+        "duration": 0.409,
+        "timestamp_second": 132.945,
+        "relative_time": 2.4619444444444443,
+        "index": 66
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-18T02:12:33.758Z",
+        "text": "Box of matches\r\n\tFood concentrate\r\n\t50 feet of nylon rope\r\n\tParachute silk (降落伞布) \r\n\tPortable heating unit\r\n\tTwo .45 caliber pistols (.45口径手枪)\r\n\tOne case of dehydrated milk (一箱脱水牛奶)\r\n\tTwo 100 lb. tanks of oxygen (2个100磅氧气瓶)\r\n\tStellar map\r\n\tSelf-inflating life raft\r\n\tMagnetic compass\r\n\t20 liters of water\r\n\tSignal flares\r\n\tFirst aid kit, including injection needle\r\n\tSolar-powered FM receiver-transmitter",
+        "textLength": 404,
+        "timestamp_second": 133.36,
+        "relative_time": 2.46962962962963,
+        "index": 67
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 319.91354428130217,
+        "timestamp": "2024-10-18T02:12:33.773Z",
+        "duration": 0.676,
+        "timestamp_second": 133.375,
+        "relative_time": 2.4699074074074074,
+        "index": 68
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:12:34.480Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 134.082,
+        "relative_time": 2.4829999999999997,
+        "index": 69
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3.0,
+        "timestamp": "2024-10-18T02:12:34.489Z",
+        "duration": 0.048,
+        "timestamp_second": 134.091,
+        "relative_time": 2.483166666666667,
+        "index": 70
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:12:34.537Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 134.139,
+        "relative_time": 2.4840555555555555,
+        "index": 71
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 145.1162737194063,
+        "timestamp": "2024-10-18T02:12:34.544Z",
+        "duration": 1.326,
+        "timestamp_second": 134.146,
+        "relative_time": 2.484185185185185,
+        "index": 72
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:35.991Z",
+        "target": "TEXTAREA",
+        "x": 493,
+        "y": 543,
+        "timestamp_second": 135.593,
+        "relative_time": 2.5109814814814815,
+        "index": 73
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 138.46874533017035,
+        "timestamp": "2024-10-18T02:12:35.995Z",
+        "duration": 1.021,
+        "timestamp_second": 135.597,
+        "relative_time": 2.5110555555555556,
+        "index": 74
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:37.264Z",
+        "target": "TEXTAREA",
+        "x": 403,
+        "y": 481,
+        "timestamp_second": 136.866,
+        "relative_time": 2.534555555555556,
+        "index": 75
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 276.27438935839746,
+        "timestamp": "2024-10-18T02:12:37.391Z",
+        "duration": 1.104,
+        "timestamp_second": 136.993,
+        "relative_time": 2.536907407407407,
+        "index": 76
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:12:38.987Z",
+        "text": "(降落伞布)",
+        "highlightedTextLength": 6,
+        "timestamp_second": 138.589,
+        "relative_time": 2.566462962962963,
+        "index": 77
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:38.988Z",
+        "target": "TEXTAREA",
+        "x": 496,
+        "y": 515,
+        "timestamp_second": 138.59,
+        "relative_time": 2.5664814814814814,
+        "index": 78
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 58.80560929182684,
+        "timestamp": "2024-10-18T02:12:39.057Z",
+        "duration": 0.519,
+        "timestamp_second": 138.659,
+        "relative_time": 2.567759259259259,
+        "index": 79
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:39.580Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 139.182,
+        "relative_time": 2.577444444444444,
+        "index": 80
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 301.7394132933041,
+        "timestamp": "2024-10-18T02:12:39.593Z",
+        "duration": 1.481,
+        "timestamp_second": 139.195,
+        "relative_time": 2.5776851851851847,
+        "index": 81
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:41.304Z",
+        "target": "TEXTAREA",
+        "x": 520,
+        "y": 583,
+        "timestamp_second": 140.906,
+        "relative_time": 2.6093703703703706,
+        "index": 82
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 51.518040627081064,
+        "timestamp": "2024-10-18T02:12:41.867Z",
+        "duration": 0.642,
+        "timestamp_second": 141.469,
+        "relative_time": 2.619796296296296,
+        "index": 83
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:12:42.605Z",
+        "text": "(.45口径手枪)",
+        "highlightedTextLength": 9,
+        "timestamp_second": 142.207,
+        "relative_time": 2.633462962962963,
+        "index": 84
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:42.605Z",
+        "target": "TEXTAREA",
+        "x": 550,
+        "y": 562,
+        "timestamp_second": 142.207,
+        "relative_time": 2.633462962962963,
+        "index": 85
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:42.718Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 142.32,
+        "relative_time": 2.6355555555555554,
+        "index": 86
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 13.0,
+        "timestamp": "2024-10-18T02:12:42.787Z",
+        "duration": 0.24,
+        "timestamp_second": 142.389,
+        "relative_time": 2.6368333333333336,
+        "index": 87
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:12:43.036Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 142.638,
+        "relative_time": 2.6414444444444447,
+        "index": 88
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 380.61759820074803,
+        "timestamp": "2024-10-18T02:12:43.065Z",
+        "duration": 1.326,
+        "timestamp_second": 142.667,
+        "relative_time": 2.6419814814814817,
+        "index": 89
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:12:44.561Z",
+        "text": "(一箱脱水牛奶)",
+        "highlightedTextLength": 8,
+        "timestamp_second": 144.163,
+        "relative_time": 2.6696851851851853,
+        "index": 90
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:44.562Z",
+        "target": "DIV",
+        "x": 312,
+        "y": 499,
+        "timestamp_second": 144.164,
+        "relative_time": 2.6697037037037035,
+        "index": 91
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:44.598Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 144.2,
+        "relative_time": 2.67037037037037,
+        "index": 92
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 531.9531517765572,
+        "timestamp": "2024-10-18T02:12:44.620Z",
+        "duration": 1.334,
+        "timestamp_second": 144.222,
+        "relative_time": 2.670777777777778,
+        "index": 93
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:12:46.618Z",
+        "text": "(2个100磅氧气瓶)",
+        "highlightedTextLength": 11,
+        "timestamp_second": 146.22,
+        "relative_time": 2.707777777777778,
+        "index": 94
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:46.618Z",
+        "target": "TEXTAREA",
+        "x": 587,
+        "y": 507,
+        "timestamp_second": 146.22,
+        "relative_time": 2.707777777777778,
+        "index": 95
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:46.653Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 146.255,
+        "relative_time": 2.708425925925926,
+        "index": 96
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 338.0076608241179,
+        "timestamp": "2024-10-18T02:12:46.698Z",
+        "duration": 0.667,
+        "timestamp_second": 146.3,
+        "relative_time": 2.7092592592592597,
+        "index": 97
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:47.712Z",
+        "target": "TEXTAREA",
+        "x": 400,
+        "y": 381,
+        "timestamp_second": 147.314,
+        "relative_time": 2.7280370370370366,
+        "index": 98
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 10.828427124746668,
+        "timestamp": "2024-10-18T02:12:47.720Z",
+        "duration": 0.098,
+        "timestamp_second": 147.322,
+        "relative_time": 2.7281851851851853,
+        "index": 99
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:47.818Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 147.42,
+        "relative_time": 2.73,
+        "index": 100
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 34.536631057249906,
+        "timestamp": "2024-10-18T02:12:47.827Z",
+        "duration": 0.515,
+        "timestamp_second": 147.429,
+        "relative_time": 2.730166666666667,
+        "index": 101
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:48.486Z",
+        "target": "TEXTAREA",
+        "x": 400,
+        "y": 399,
+        "timestamp_second": 148.088,
+        "relative_time": 2.7423703703703706,
+        "index": 102
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:48.504Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 148.106,
+        "relative_time": 2.7427037037037034,
+        "index": 103
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 20.650281539874413,
+        "timestamp": "2024-10-18T02:12:48.514Z",
+        "duration": 0.313,
+        "timestamp_second": 148.116,
+        "relative_time": 2.7428888888888894,
+        "index": 104
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:49.014Z",
+        "target": "TEXTAREA",
+        "x": 399,
+        "y": 417,
+        "timestamp_second": 148.616,
+        "relative_time": 2.7521481481481485,
+        "index": 105
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:49.058Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 148.66,
+        "relative_time": 2.752962962962963,
+        "index": 106
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 18.0,
+        "timestamp": "2024-10-18T02:12:49.140Z",
+        "duration": 0.23,
+        "timestamp_second": 148.742,
+        "relative_time": 2.7544814814814815,
+        "index": 107
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:49.518Z",
+        "target": "TEXTAREA",
+        "x": 400,
+        "y": 436,
+        "timestamp_second": 149.12,
+        "relative_time": 2.761481481481481,
+        "index": 108
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-18T02:12:49.545Z",
+        "duration": 0.02,
+        "timestamp_second": 149.147,
+        "relative_time": 2.7619814814814814,
+        "index": 109
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:49.602Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 149.204,
+        "relative_time": 2.763037037037037,
+        "index": 110
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 18.0,
+        "timestamp": "2024-10-18T02:12:49.634Z",
+        "duration": 0.097,
+        "timestamp_second": 149.236,
+        "relative_time": 2.763629629629629,
+        "index": 111
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:50.052Z",
+        "target": "TEXTAREA",
+        "x": 402,
+        "y": 455,
+        "timestamp_second": 149.654,
+        "relative_time": 2.77137037037037,
+        "index": 112
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:50.129Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 149.731,
+        "relative_time": 2.772796296296296,
+        "index": 113
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 24.656854249493335,
+        "timestamp": "2024-10-18T02:12:50.173Z",
+        "duration": 0.214,
+        "timestamp_second": 149.775,
+        "relative_time": 2.7736111111111112,
+        "index": 114
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:50.588Z",
+        "target": "TEXTAREA",
+        "x": 397,
+        "y": 478,
+        "timestamp_second": 150.19,
+        "relative_time": 2.781296296296296,
+        "index": 115
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-18T02:12:50.615Z",
+        "duration": 0.008,
+        "timestamp_second": 150.217,
+        "relative_time": 2.7817962962962963,
+        "index": 116
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:50.665Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 150.267,
+        "relative_time": 2.782722222222222,
+        "index": 117
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 10.0,
+        "timestamp": "2024-10-18T02:12:50.724Z",
+        "duration": 0.231,
+        "timestamp_second": 150.326,
+        "relative_time": 2.7838148148148147,
+        "index": 118
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:51.173Z",
+        "target": "TEXTAREA",
+        "x": 400,
+        "y": 489,
+        "timestamp_second": 150.775,
+        "relative_time": 2.79212962962963,
+        "index": 119
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:51.259Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 150.861,
+        "relative_time": 2.793722222222222,
+        "index": 120
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 12.0,
+        "timestamp": "2024-10-18T02:12:51.310Z",
+        "duration": 0.119,
+        "timestamp_second": 150.912,
+        "relative_time": 2.7946666666666666,
+        "index": 121
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:51.689Z",
+        "target": "TEXTAREA",
+        "x": 400,
+        "y": 502,
+        "timestamp_second": 151.291,
+        "relative_time": 2.8016851851851854,
+        "index": 122
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:51.800Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 151.402,
+        "relative_time": 2.80374074074074,
+        "index": 123
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 26.0,
+        "timestamp": "2024-10-18T02:12:51.815Z",
+        "duration": 1.152,
+        "timestamp_second": 151.417,
+        "relative_time": 2.8040185185185185,
+        "index": 124
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:12:52.979Z",
+        "duration": 0.0,
+        "key_list": "o",
+        "keyCode_list": [
+            111
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 152.581,
+        "relative_time": 2.8255740740740736,
+        "index": 125
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 19.656854249493335,
+        "timestamp": "2024-10-18T02:12:52.988Z",
+        "duration": 0.493,
+        "timestamp_second": 152.59,
+        "relative_time": 2.825740740740741,
+        "index": 126
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:53.704Z",
+        "target": "TEXTAREA",
+        "x": 401,
+        "y": 511,
+        "timestamp_second": 153.306,
+        "relative_time": 2.8390000000000004,
+        "index": 127
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 43.89949493661334,
+        "timestamp": "2024-10-18T02:12:53.759Z",
+        "duration": 0.509,
+        "timestamp_second": 153.361,
+        "relative_time": 2.8400185185185185,
+        "index": 128
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:54.269Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 153.871,
+        "relative_time": 2.849462962962963,
+        "index": 129
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 23.828427124746668,
+        "timestamp": "2024-10-18T02:12:54.294Z",
+        "duration": 0.587,
+        "timestamp_second": 153.896,
+        "relative_time": 2.8499259259259255,
+        "index": 130
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:55.056Z",
+        "target": "TEXTAREA",
+        "x": 398,
+        "y": 541,
+        "timestamp_second": 154.658,
+        "relative_time": 2.8640370370370367,
+        "index": 131
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 17.07106781186667,
+        "timestamp": "2024-10-18T02:12:55.080Z",
+        "duration": 0.199,
+        "timestamp_second": 154.682,
+        "relative_time": 2.8644814814814814,
+        "index": 132
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:55.283Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 154.885,
+        "relative_time": 2.868240740740741,
+        "index": 133
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 10.828427124746668,
+        "timestamp": "2024-10-18T02:12:55.292Z",
+        "duration": 0.289,
+        "timestamp_second": 154.894,
+        "relative_time": 2.8684074074074073,
+        "index": 134
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:55.779Z",
+        "target": "TEXTAREA",
+        "x": 401,
+        "y": 558,
+        "timestamp_second": 155.381,
+        "relative_time": 2.877425925925926,
+        "index": 135
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:55.840Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 155.442,
+        "relative_time": 2.8785555555555558,
+        "index": 136
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 17.650281539874413,
+        "timestamp": "2024-10-18T02:12:55.904Z",
+        "duration": 0.479,
+        "timestamp_second": 155.506,
+        "relative_time": 2.8797407407407407,
+        "index": 137
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:56.471Z",
+        "target": "TEXTAREA",
+        "x": 401,
+        "y": 574,
+        "timestamp_second": 156.073,
+        "relative_time": 2.8902407407407407,
+        "index": 138
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:56.511Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 156.113,
+        "relative_time": 2.8909814814814814,
+        "index": 139
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 28.16227766016891,
+        "timestamp": "2024-10-18T02:12:56.568Z",
+        "duration": 0.128,
+        "timestamp_second": 156.17,
+        "relative_time": 2.8920370370370367,
+        "index": 140
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:56.984Z",
+        "target": "TEXTAREA",
+        "x": 399,
+        "y": 602,
+        "timestamp_second": 156.586,
+        "relative_time": 2.8997407407407407,
+        "index": 141
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:57.049Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 156.651,
+        "relative_time": 2.9009444444444443,
+        "index": 142
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 20.24264068712,
+        "timestamp": "2024-10-18T02:12:57.087Z",
+        "duration": 0.457,
+        "timestamp_second": 156.689,
+        "relative_time": 2.901648148148148,
+        "index": 143
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:57.602Z",
+        "target": "TEXTAREA",
+        "x": 400,
+        "y": 613,
+        "timestamp_second": 157.204,
+        "relative_time": 2.9111851851851855,
+        "index": 144
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:57.634Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 157.236,
+        "relative_time": 2.9117777777777776,
+        "index": 145
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 45.52428284708003,
+        "timestamp": "2024-10-18T02:12:57.713Z",
+        "duration": 0.15,
+        "timestamp_second": 157.315,
+        "relative_time": 2.9132407407407404,
+        "index": 146
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:12:57.883Z",
+        "deltaY": 200,
+        "yDirection": 1,
+        "duration": 0.091,
+        "timestamp_second": 157.485,
+        "relative_time": 2.916388888888889,
+        "index": 147
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 74.8848481285604,
+        "timestamp": "2024-10-18T02:12:58.023Z",
+        "duration": 0.715,
+        "timestamp_second": 157.625,
+        "relative_time": 2.9189814814814814,
+        "index": 148
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:12:58.891Z",
+        "target": "TEXTAREA",
+        "x": 402,
+        "y": 601,
+        "timestamp_second": 158.493,
+        "relative_time": 2.9350555555555555,
+        "index": 149
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:12:58.966Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 158.568,
+        "relative_time": 2.9364444444444446,
+        "index": 150
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 263.29838713738354,
+        "timestamp": "2024-10-18T02:12:58.977Z",
+        "duration": 0.462,
+        "timestamp_second": 158.579,
+        "relative_time": 2.9366481481481483,
+        "index": 151
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:12:59.471Z",
+        "deltaY": 200,
+        "yDirection": 1,
+        "duration": 0.087,
+        "timestamp_second": 159.073,
+        "relative_time": 2.9457962962962965,
+        "index": 152
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 119.86416374409237,
+        "timestamp": "2024-10-18T02:12:59.571Z",
+        "duration": 0.72,
+        "timestamp_second": 159.173,
+        "relative_time": 2.947648148148148,
+        "index": 153
+    },
+    {
+        "type": "firstNotNull",
+        "time": "10/18/2024, 10:13:00 AM",
+        "timestamp": "2024-10-18T02:13:00.000000Z",
+        "index": 154
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:13:00.465Z",
+        "target": "BUTTON",
+        "x": 657,
+        "y": 609,
+        "timestamp_second": 160.067,
+        "relative_time": 2.964203703703704,
+        "index": 155
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1257.4318696943774,
+        "timestamp": "2024-10-18T02:13:00.634Z",
+        "duration": 5.923,
+        "timestamp_second": 160.236,
+        "relative_time": 2.9673333333333334,
+        "index": 156
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:13:06.575Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.049,
+        "timestamp_second": 166.177,
+        "relative_time": 3.0773518518518514,
+        "index": 157
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1381.4852266296803,
+        "timestamp": "2024-10-18T02:13:06.717Z",
+        "duration": 1.305,
+        "timestamp_second": 166.319,
+        "relative_time": 3.079981481481481,
+        "index": 158
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:13:08.313Z",
+        "status": 0,
+        "timestamp_second": 167.915,
+        "relative_time": 3.109537037037037,
+        "index": 159
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:13:11.028Z",
+        "duration": 3.6369999999999996,
+        "timestamp_second": 170.63,
+        "relative_time": 3.1598148148148146,
+        "index": 160
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 543.7737663854459,
+        "timestamp": "2024-10-18T02:13:11.659Z",
+        "duration": 3.158,
+        "timestamp_second": 171.261,
+        "relative_time": 3.1715,
+        "index": 161
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:13:14.856Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 174.458,
+        "relative_time": 3.230703703703704,
+        "index": 162
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:13:15.448Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 175.05,
+        "relative_time": 3.241666666666667,
+        "index": 163
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:13:17.827Z",
+        "duration": 20.186999999999998,
+        "timestamp_second": 177.429,
+        "relative_time": 3.2857222222222227,
+        "index": 164
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 520.0262691391981,
+        "timestamp": "2024-10-18T02:13:35.004Z",
+        "duration": 1.074,
+        "timestamp_second": 194.606,
+        "relative_time": 3.6038148148148146,
+        "index": 165
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:13:36.314Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 195.916,
+        "relative_time": 3.628074074074074,
+        "index": 166
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 41.48528137424,
+        "timestamp": "2024-10-18T02:13:36.370Z",
+        "duration": 3.68,
+        "timestamp_second": 195.972,
+        "relative_time": 3.6291111111111114,
+        "index": 167
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:13:40.071Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 199.673,
+        "relative_time": 3.6976481481481485,
+        "index": 168
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 6.0,
+        "timestamp": "2024-10-18T02:13:40.113Z",
+        "duration": 1.599,
+        "timestamp_second": 199.715,
+        "relative_time": 3.698425925925926,
+        "index": 169
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:13:41.792Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 201.394,
+        "relative_time": 3.729518518518519,
+        "index": 170
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:13:42.436Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 202.038,
+        "relative_time": 3.7414444444444444,
+        "index": 171
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:13:43.126Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 202.728,
+        "relative_time": 3.754222222222223,
+        "index": 172
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:13:43.675Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 203.277,
+        "relative_time": 3.7643888888888886,
+        "index": 173
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:13:44.212Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 203.814,
+        "relative_time": 3.774333333333333,
+        "index": 174
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:13:44.794Z",
+        "duration": 4.4879999999999995,
+        "timestamp_second": 204.396,
+        "relative_time": 3.7851111111111106,
+        "index": 175
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 106.58910843894773,
+        "timestamp": "2024-10-18T02:13:46.281Z",
+        "duration": 4.706,
+        "timestamp_second": 205.883,
+        "relative_time": 3.8126481481481482,
+        "index": 176
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:13:50.994Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 210.596,
+        "relative_time": 3.8999259259259262,
+        "index": 177
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-18T02:13:51.022Z",
+        "duration": 0.007,
+        "timestamp_second": 210.624,
+        "relative_time": 3.9004444444444446,
+        "index": 178
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:13:51.064Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 210.666,
+        "relative_time": 3.9012222222222217,
+        "index": 179
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:13:54.030Z",
+        "duration": 3.808,
+        "timestamp_second": 213.632,
+        "relative_time": 3.956148148148148,
+        "index": 180
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1088.0138621346741,
+        "timestamp": "2024-10-18T02:13:54.837Z",
+        "duration": 7.167,
+        "timestamp_second": 214.439,
+        "relative_time": 3.971092592592593,
+        "index": 181
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:14:02.204Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "duration": 0.123,
+        "timestamp_second": 221.806,
+        "relative_time": 4.107518518518519,
+        "index": 182
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 553.2684188759267,
+        "timestamp": "2024-10-18T02:14:03.180Z",
+        "duration": 2.772,
+        "timestamp_second": 222.782,
+        "relative_time": 4.125592592592593,
+        "index": 183
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:14:08.955Z",
+        "duration": 4.709,
+        "timestamp_second": 228.557,
+        "relative_time": 4.232537037037036,
+        "index": 184
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 74.2746829016105,
+        "timestamp": "2024-10-18T02:14:10.661Z",
+        "duration": 0.709,
+        "timestamp_second": 230.263,
+        "relative_time": 4.26412962962963,
+        "index": 185
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:14:14.380Z",
+        "duration": 5.186,
+        "timestamp_second": 233.982,
+        "relative_time": 4.333,
+        "index": 186
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 132.2492235949976,
+        "timestamp": "2024-10-18T02:14:16.556Z",
+        "duration": 0.285,
+        "timestamp_second": 236.158,
+        "relative_time": 4.373296296296296,
+        "index": 187
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:14:16.952Z",
+        "status": 1,
+        "timestamp_second": 236.554,
+        "relative_time": 4.380629629629629,
+        "index": 188
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:14:17.041Z",
+        "target": "P",
+        "x": 606,
+        "y": 337,
+        "timestamp_second": 236.643,
+        "relative_time": 4.382277777777778,
+        "index": 189
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 610.387520883658,
+        "timestamp": "2024-10-18T02:14:17.160Z",
+        "duration": 0.244,
+        "timestamp_second": 236.762,
+        "relative_time": 4.384481481481481,
+        "index": 190
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:14:19.067Z",
+        "status": 0,
+        "timestamp_second": 238.669,
+        "relative_time": 4.419796296296297,
+        "index": 191
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:14:20.408Z",
+        "duration": 4.93,
+        "timestamp_second": 240.01,
+        "relative_time": 4.444629629629629,
+        "index": 192
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 703.662475988629,
+        "timestamp": "2024-10-18T02:14:22.334Z",
+        "duration": 0.961,
+        "timestamp_second": 241.936,
+        "relative_time": 4.480296296296296,
+        "index": 193
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:14:26.300Z",
+        "duration": 8.733,
+        "timestamp_second": 245.902,
+        "relative_time": 4.553740740740741,
+        "index": 194
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1830.3292817519105,
+        "timestamp": "2024-10-18T02:14:32.028Z",
+        "duration": 4.854,
+        "timestamp_second": 251.63,
+        "relative_time": 4.659814814814815,
+        "index": 195
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:14:36.972Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 256.574,
+        "relative_time": 4.7513703703703705,
+        "index": 196
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 485.92178237967164,
+        "timestamp": "2024-10-18T02:14:37.125Z",
+        "duration": 0.159,
+        "timestamp_second": 256.727,
+        "relative_time": 4.754203703703704,
+        "index": 197
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:14:40.285Z",
+        "duration": 15.639999999999999,
+        "timestamp_second": 259.887,
+        "relative_time": 4.812722222222223,
+        "index": 198
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 627.588828233318,
+        "timestamp": "2024-10-18T02:14:52.924Z",
+        "duration": 0.423,
+        "timestamp_second": 272.526,
+        "relative_time": 5.046777777777778,
+        "index": 199
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:14:53.399Z",
+        "status": 1,
+        "timestamp_second": 273.001,
+        "relative_time": 5.055574074074073,
+        "index": 200
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:14:53.483Z",
+        "target": "P",
+        "x": 560,
+        "y": 459,
+        "timestamp_second": 273.085,
+        "relative_time": 5.057129629629629,
+        "index": 201
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 234.12145617034184,
+        "timestamp": "2024-10-18T02:14:53.642Z",
+        "duration": 0.448,
+        "timestamp_second": 273.244,
+        "relative_time": 5.060074074074074,
+        "index": 202
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:14:54.159Z",
+        "deltaY": 300,
+        "yDirection": 1,
+        "duration": 0.569,
+        "timestamp_second": 273.761,
+        "relative_time": 5.069648148148149,
+        "index": 203
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 72.24621125123667,
+        "timestamp": "2024-10-18T02:14:55.034Z",
+        "duration": 0.363,
+        "timestamp_second": 274.636,
+        "relative_time": 5.085851851851853,
+        "index": 204
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:14:55.516Z",
+        "target": "DIV",
+        "x": 410,
+        "y": 511,
+        "timestamp_second": 275.118,
+        "relative_time": 5.094777777777778,
+        "index": 205
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 416.0179907600286,
+        "timestamp": "2024-10-18T02:14:56.412Z",
+        "duration": 0.21,
+        "timestamp_second": 276.014,
+        "relative_time": 5.11137037037037,
+        "index": 206
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:14:57.578Z",
+        "status": 0,
+        "timestamp_second": 277.18,
+        "relative_time": 5.132962962962963,
+        "index": 207
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 204.889070662437,
+        "timestamp": "2024-10-18T02:14:58.132Z",
+        "duration": 0.807,
+        "timestamp_second": 277.734,
+        "relative_time": 5.143222222222222,
+        "index": 208
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:15:01.945Z",
+        "duration": 6.366,
+        "timestamp_second": 281.547,
+        "relative_time": 5.2138333333333335,
+        "index": 209
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 526.6780332075468,
+        "timestamp": "2024-10-18T02:15:05.305Z",
+        "duration": 0.333,
+        "timestamp_second": 284.907,
+        "relative_time": 5.276055555555556,
+        "index": 210
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:15:05.777Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 285.379,
+        "relative_time": 5.284796296296297,
+        "index": 211
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 527.2868015718632,
+        "timestamp": "2024-10-18T02:15:06.093Z",
+        "duration": 0.195,
+        "timestamp_second": 285.695,
+        "relative_time": 5.290648148148148,
+        "index": 212
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:15:09.289Z",
+        "duration": 22.947000000000003,
+        "timestamp_second": 288.891,
+        "relative_time": 5.349833333333334,
+        "index": 213
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 31.31610800233466,
+        "timestamp": "2024-10-18T02:15:29.235Z",
+        "duration": 0.067,
+        "timestamp_second": 308.837,
+        "relative_time": 5.719203703703704,
+        "index": 214
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:15:32.308Z",
+        "duration": 3.106,
+        "timestamp_second": 311.91,
+        "relative_time": 5.776111111111112,
+        "index": 215
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 487.0336380149274,
+        "timestamp": "2024-10-18T02:15:32.408Z",
+        "duration": 0.687,
+        "timestamp_second": 312.01,
+        "relative_time": 5.777962962962962,
+        "index": 216
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:15:33.178Z",
+        "status": 1,
+        "timestamp_second": 312.78,
+        "relative_time": 5.792222222222222,
+        "index": 217
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:15:33.234Z",
+        "target": "P",
+        "x": 538,
+        "y": 349,
+        "timestamp_second": 312.836,
+        "relative_time": 5.79325925925926,
+        "index": 218
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:15:34.096Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 313.698,
+        "relative_time": 5.809222222222222,
+        "index": 219
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:15:34.804Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "duration": 0.049,
+        "timestamp_second": 314.406,
+        "relative_time": 5.822333333333334,
+        "index": 220
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 545.5152884037525,
+        "timestamp": "2024-10-18T02:15:35.359Z",
+        "duration": 0.178,
+        "timestamp_second": 314.961,
+        "relative_time": 5.832611111111111,
+        "index": 221
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:15:38.547Z",
+        "duration": 3.0309999999999997,
+        "timestamp_second": 318.149,
+        "relative_time": 5.891648148148148,
+        "index": 222
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 504.2491080717373,
+        "timestamp": "2024-10-18T02:15:38.568Z",
+        "duration": 0.458,
+        "timestamp_second": 318.17,
+        "relative_time": 5.892037037037038,
+        "index": 223
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:15:39.427Z",
+        "deltaY": 200,
+        "yDirection": 1,
+        "duration": 0.102,
+        "timestamp_second": 319.029,
+        "relative_time": 5.907944444444444,
+        "index": 224
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 118.8199960704369,
+        "timestamp": "2024-10-18T02:15:39.979Z",
+        "duration": 0.617,
+        "timestamp_second": 319.581,
+        "relative_time": 5.918166666666667,
+        "index": 225
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:15:40.853Z",
+        "target": "P",
+        "x": 427,
+        "y": 393,
+        "timestamp_second": 320.455,
+        "relative_time": 5.934351851851852,
+        "index": 226
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2.0,
+        "timestamp": "2024-10-18T02:15:42.415Z",
+        "duration": 0.587,
+        "timestamp_second": 322.017,
+        "relative_time": 5.963277777777778,
+        "index": 227
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:15:43.027Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 322.629,
+        "relative_time": 5.974611111111112,
+        "index": 228
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-18T02:15:43.068Z",
+        "duration": 0.699,
+        "timestamp_second": 322.67,
+        "relative_time": 5.975370370370371,
+        "index": 229
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:15:43.783Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "duration": 0.041,
+        "timestamp_second": 323.385,
+        "relative_time": 5.988611111111111,
+        "index": 230
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 769.5010919431297,
+        "timestamp": "2024-10-18T02:15:44.352Z",
+        "duration": 5.049,
+        "timestamp_second": 323.954,
+        "relative_time": 5.999148148148149,
+        "index": 231
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:15:49.498Z",
+        "deltaY": 200,
+        "yDirection": 2,
+        "duration": 0.465,
+        "timestamp_second": 329.1,
+        "relative_time": 6.094444444444445,
+        "index": 232
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 40.48227922873048,
+        "timestamp": "2024-10-18T02:15:50.570Z",
+        "duration": 0.747,
+        "timestamp_second": 330.172,
+        "relative_time": 6.114296296296297,
+        "index": 233
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:15:51.380Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 330.982,
+        "relative_time": 6.129296296296297,
+        "index": 234
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 4.0,
+        "timestamp": "2024-10-18T02:15:52.253Z",
+        "duration": 0.121,
+        "timestamp_second": 331.855,
+        "relative_time": 6.145462962962963,
+        "index": 235
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:15:52.510Z",
+        "deltaY": 200,
+        "yDirection": 2,
+        "duration": 0.446,
+        "timestamp_second": 332.112,
+        "relative_time": 6.150222222222223,
+        "index": 236
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1565.784064846921,
+        "timestamp": "2024-10-18T02:15:53.916Z",
+        "duration": 3.804,
+        "timestamp_second": 333.518,
+        "relative_time": 6.1762592592592584,
+        "index": 237
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:15:58.605Z",
+        "status": 0,
+        "timestamp_second": 338.207,
+        "relative_time": 6.263092592592592,
+        "index": 238
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 286.11984667993966,
+        "timestamp": "2024-10-18T02:15:58.949Z",
+        "duration": 2.653,
+        "timestamp_second": 338.551,
+        "relative_time": 6.269462962962963,
+        "index": 239
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:16:01.638Z",
+        "status": 1,
+        "timestamp_second": 341.24,
+        "relative_time": 6.319259259259259,
+        "index": 240
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:16:01.697Z",
+        "target": "P",
+        "x": 610,
+        "y": 517,
+        "timestamp_second": 341.299,
+        "relative_time": 6.320351851851852,
+        "index": 241
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 163.46585507652344,
+        "timestamp": "2024-10-18T02:16:01.706Z",
+        "duration": 0.348,
+        "timestamp_second": 341.308,
+        "relative_time": 6.320518518518519,
+        "index": 242
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:16:02.085Z",
+        "target": "TEXTAREA",
+        "x": 474,
+        "y": 601,
+        "timestamp_second": 341.687,
+        "relative_time": 6.327537037037037,
+        "index": 243
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 805.8450206210327,
+        "timestamp": "2024-10-18T02:16:02.088Z",
+        "duration": 0.762,
+        "timestamp_second": 341.69,
+        "relative_time": 6.327592592592593,
+        "index": 244
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:16:03.083Z",
+        "status": 0,
+        "timestamp_second": 342.685,
+        "relative_time": 6.346018518518519,
+        "index": 245
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:16:03.894Z",
+        "status": 1,
+        "timestamp_second": 343.496,
+        "relative_time": 6.361037037037037,
+        "index": 246
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 612.9609031911896,
+        "timestamp": "2024-10-18T02:16:03.977Z",
+        "duration": 0.486,
+        "timestamp_second": 343.579,
+        "relative_time": 6.362574074074074,
+        "index": 247
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:16:04.625Z",
+        "target": "TEXTAREA",
+        "x": 446,
+        "y": 587,
+        "timestamp_second": 344.227,
+        "relative_time": 6.374574074074074,
+        "index": 248
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:16:05.750Z",
+        "duration": 1.816,
+        "key_list": "Kindly ranking",
+        "keyCode_list": [
+            75,
+            105,
+            110,
+            100,
+            108,
+            121,
+            32,
+            114,
+            97,
+            110,
+            107,
+            105,
+            110,
+            103
+        ],
+        "target": "TEXTAREA",
+        "key_count": 14,
+        "timestamp_second": 345.352,
+        "relative_time": 6.395407407407407,
+        "index": 249
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:16:07.883Z",
+        "duration": 0.291,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 3,
+        "timestamp_second": 347.485,
+        "relative_time": 6.434907407407407,
+        "index": 250
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:16:08.427Z",
+        "duration": 8.191,
+        "key_list": " them based on the order of importance for sruvi",
+        "keyCode_list": [
+            32,
+            116,
+            104,
+            101,
+            109,
+            32,
+            98,
+            97,
+            115,
+            101,
+            100,
+            32,
+            111,
+            110,
+            32,
+            116,
+            104,
+            101,
+            32,
+            111,
+            114,
+            100,
+            101,
+            114,
+            32,
+            111,
+            102,
+            32,
+            105,
+            109,
+            112,
+            111,
+            114,
+            116,
+            97,
+            110,
+            99,
+            101,
+            32,
+            102,
+            111,
+            114,
+            32,
+            115,
+            114,
+            117,
+            118,
+            105
+        ],
+        "target": "TEXTAREA",
+        "key_count": 48,
+        "timestamp_second": 348.029,
+        "relative_time": 6.4449814814814825,
+        "index": 251
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:16:18.010Z",
+        "duration": 0.445,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 4,
+        "timestamp_second": 357.612,
+        "relative_time": 6.622444444444445,
+        "index": 252
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:16:18.907Z",
+        "duration": 0.51,
+        "key_list": "urv",
+        "keyCode_list": [
+            117,
+            114,
+            118
+        ],
+        "target": "TEXTAREA",
+        "key_count": 3,
+        "timestamp_second": 358.509,
+        "relative_time": 6.639055555555556,
+        "index": 253
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:16:20.185Z",
+        "duration": 0.539,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 4,
+        "timestamp_second": 359.787,
+        "relative_time": 6.6627222222222215,
+        "index": 254
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:16:22.420Z",
+        "duration": 3.3810000000000002,
+        "timestamp_second": 362.022,
+        "relative_time": 6.704111111111111,
+        "index": 255
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:16:22.798Z",
+        "duration": 0.99,
+        "key_list": "survia",
+        "keyCode_list": [
+            115,
+            117,
+            114,
+            118,
+            105,
+            97
+        ],
+        "target": "TEXTAREA",
+        "key_count": 6,
+        "timestamp_second": 362.4,
+        "relative_time": 6.71111111111111,
+        "index": 256
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:16:24.499Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 364.101,
+        "relative_time": 6.7426111111111116,
+        "index": 257
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:16:24.810Z",
+        "duration": 0.149,
+        "key_list": "al",
+        "keyCode_list": [
+            97,
+            108
+        ],
+        "target": "TEXTAREA",
+        "key_count": 2,
+        "timestamp_second": 364.412,
+        "relative_time": 6.7483703703703695,
+        "index": 258
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:16:27.764Z",
+        "duration": 0.171,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 367.366,
+        "relative_time": 6.803074074074074,
+        "index": 259
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:16:27.963Z",
+        "duration": 3.125,
+        "timestamp_second": 367.565,
+        "relative_time": 6.80675925925926,
+        "index": 260
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:16:28.084Z",
+        "duration": 0.438,
+        "key_list": "vakl ",
+        "keyCode_list": [
+            118,
+            97,
+            107,
+            108,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 5,
+        "timestamp_second": 367.686,
+        "relative_time": 6.809,
+        "index": 261
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:16:28.788Z",
+        "duration": 0.303,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 3,
+        "timestamp_second": 368.39,
+        "relative_time": 6.8220370370370365,
+        "index": 262
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:16:29.386Z",
+        "duration": 0.208,
+        "key_list": "l ",
+        "keyCode_list": [
+            108,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 2,
+        "timestamp_second": 368.988,
+        "relative_time": 6.83311111111111,
+        "index": 263
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:16:30.133Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 369.735,
+        "relative_time": 6.8469444444444445,
+        "index": 264
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:16:31.357Z",
+        "duration": 3.389,
+        "key_list": " with 1 being the  ost",
+        "keyCode_list": [
+            32,
+            119,
+            105,
+            116,
+            104,
+            32,
+            49,
+            32,
+            98,
+            101,
+            105,
+            110,
+            103,
+            32,
+            116,
+            104,
+            101,
+            32,
+            32,
+            111,
+            115,
+            116
+        ],
+        "target": "TEXTAREA",
+        "key_count": 22,
+        "timestamp_second": 370.959,
+        "relative_time": 6.869611111111111,
+        "index": 265
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:16:34.933Z",
+        "duration": 0.805,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 4,
+        "timestamp_second": 374.535,
+        "relative_time": 6.935833333333334,
+        "index": 266
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:16:36.019Z",
+        "duration": 1.841,
+        "key_list": "most importnat ",
+        "keyCode_list": [
+            109,
+            111,
+            115,
+            116,
+            32,
+            105,
+            109,
+            112,
+            111,
+            114,
+            116,
+            110,
+            97,
+            116,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 15,
+        "timestamp_second": 375.621,
+        "relative_time": 6.955944444444444,
+        "index": 267
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:16:38.199Z",
+        "duration": 0.466,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 4,
+        "timestamp_second": 377.801,
+        "relative_time": 6.996314814814815,
+        "index": 268
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:16:38.818Z",
+        "duration": 0.333,
+        "key_list": "atnt",
+        "keyCode_list": [
+            97,
+            116,
+            110,
+            116
+        ],
+        "target": "TEXTAREA",
+        "key_count": 4,
+        "timestamp_second": 378.42,
+        "relative_time": 7.007777777777778,
+        "index": 269
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:16:39.489Z",
+        "duration": 0.307,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 3,
+        "timestamp_second": 379.091,
+        "relative_time": 7.020203703703704,
+        "index": 270
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:16:40.074Z",
+        "duration": 7.686,
+        "key_list": "nt, and 15 being the least important. Note that ",
+        "keyCode_list": [
+            110,
+            116,
+            44,
+            32,
+            97,
+            110,
+            100,
+            32,
+            49,
+            53,
+            32,
+            98,
+            101,
+            105,
+            110,
+            103,
+            32,
+            116,
+            104,
+            101,
+            32,
+            108,
+            101,
+            97,
+            115,
+            116,
+            32,
+            105,
+            109,
+            112,
+            111,
+            114,
+            116,
+            97,
+            110,
+            116,
+            46,
+            32,
+            78,
+            111,
+            116,
+            101,
+            32,
+            116,
+            104,
+            97,
+            116,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 48,
+        "timestamp_second": 379.676,
+        "relative_time": 7.031037037037037,
+        "index": 271
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1114.4908378016771,
+        "timestamp": "2024-10-18T02:16:49.087Z",
+        "duration": 0.901,
+        "timestamp_second": 388.689,
+        "relative_time": 7.1979444444444445,
+        "index": 272
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:16:52.988Z",
+        "duration": 4.242,
+        "timestamp_second": 392.59,
+        "relative_time": 7.270185185185185,
+        "index": 273
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:16:54.230Z",
+        "duration": 3.186,
+        "key_list": "the environment is on th e",
+        "keyCode_list": [
+            116,
+            104,
+            101,
+            32,
+            101,
+            110,
+            118,
+            105,
+            114,
+            111,
+            110,
+            109,
+            101,
+            110,
+            116,
+            32,
+            105,
+            115,
+            32,
+            111,
+            110,
+            32,
+            116,
+            104,
+            32,
+            101
+        ],
+        "target": "TEXTAREA",
+        "key_count": 26,
+        "timestamp_second": 393.832,
+        "relative_time": 7.293185185185185,
+        "index": 274
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:16:57.646Z",
+        "duration": 0.149,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 397.248,
+        "relative_time": 7.356444444444445,
+        "index": 275
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:16:57.883Z",
+        "duration": 1.213,
+        "key_list": "e Moon",
+        "keyCode_list": [
+            101,
+            32,
+            77,
+            111,
+            111,
+            110
+        ],
+        "target": "TEXTAREA",
+        "key_count": 6,
+        "timestamp_second": 397.485,
+        "relative_time": 7.360833333333333,
+        "index": 276
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:17:00.495Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 400.097,
+        "relative_time": 7.409203703703704,
+        "index": 277
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "10/18/2024, 10:13:00 AM",
+        "endTime": "10/18/2024, 10:17:01 AM",
+        "duration": 241221,
+        "timestamp": "2024-10-18T02:17:01.000000Z",
+        "index": 278
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:17:03.496Z",
+        "duration": 5.814,
+        "timestamp_second": 403.098,
+        "relative_time": 7.464777777777779,
+        "index": 279
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 442.576401522987,
+        "timestamp": "2024-10-18T02:17:06.309Z",
+        "duration": 0.521,
+        "timestamp_second": 405.911,
+        "relative_time": 7.516870370370371,
+        "index": 280
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:17:06.838Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 406.44,
+        "relative_time": 7.526666666666666,
+        "index": 281
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.4142135623696959,
+        "timestamp": "2024-10-18T02:17:06.888Z",
+        "duration": 0.007,
+        "timestamp_second": 406.49,
+        "relative_time": 7.527592592592593,
+        "index": 282
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:17:06.895Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 406.497,
+        "relative_time": 7.5277222222222235,
+        "index": 283
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 142.22249113485304,
+        "timestamp": "2024-10-18T02:17:06.904Z",
+        "duration": 0.569,
+        "timestamp_second": 406.506,
+        "relative_time": 7.527888888888888,
+        "index": 284
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:17:07.502Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 407.104,
+        "relative_time": 7.538962962962962,
+        "index": 285
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 19.271514324507734,
+        "timestamp": "2024-10-18T02:17:07.612Z",
+        "duration": 0.223,
+        "timestamp_second": 407.214,
+        "relative_time": 7.541,
+        "index": 286
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:17:07.835Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 407.437,
+        "relative_time": 7.5451296296296295,
+        "index": 287
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-18T02:17:07.848Z",
+        "duration": 0.006,
+        "timestamp_second": 407.45,
+        "relative_time": 7.54537037037037,
+        "index": 288
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:17:07.892Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 407.494,
+        "relative_time": 7.546185185185187,
+        "index": 289
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 638.9317578678674,
+        "timestamp": "2024-10-18T02:17:08.057Z",
+        "duration": 1.921,
+        "timestamp_second": 407.659,
+        "relative_time": 7.549240740740741,
+        "index": 290
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:17:12.983Z",
+        "duration": 4.427,
+        "timestamp_second": 412.585,
+        "relative_time": 7.640462962962963,
+        "index": 291
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:17:14.405Z",
+        "status": 0,
+        "timestamp_second": 414.007,
+        "relative_time": 7.6667962962962966,
+        "index": 292
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1239.4979608877984,
+        "timestamp": "2024-10-18T02:17:19.739Z",
+        "duration": 5.123,
+        "timestamp_second": 419.341,
+        "relative_time": 7.765574074074075,
+        "index": 293
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:17:24.904Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 424.506,
+        "relative_time": 7.8612222222222226,
+        "index": 294
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 21.0,
+        "timestamp": "2024-10-18T02:17:25.016Z",
+        "duration": 0.709,
+        "timestamp_second": 424.618,
+        "relative_time": 7.863296296296296,
+        "index": 295
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:17:26.552Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 426.154,
+        "relative_time": 7.891740740740741,
+        "index": 296
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 306.50764899486967,
+        "timestamp": "2024-10-18T02:17:26.732Z",
+        "duration": 0.687,
+        "timestamp_second": 426.334,
+        "relative_time": 7.895074074074074,
+        "index": 297
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:17:27.480Z",
+        "status": 1,
+        "timestamp_second": 427.082,
+        "relative_time": 7.908925925925926,
+        "index": 298
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:17:27.552Z",
+        "target": "TEXTAREA",
+        "x": 440,
+        "y": 608,
+        "timestamp_second": 427.154,
+        "relative_time": 7.910259259259258,
+        "index": 299
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 172.08277034196362,
+        "timestamp": "2024-10-18T02:17:27.582Z",
+        "duration": 0.503,
+        "timestamp_second": 427.184,
+        "relative_time": 7.910814814814815,
+        "index": 300
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:17:29.058Z",
+        "duration": 0.683,
+        "key_list": "wy i",
+        "keyCode_list": [
+            119,
+            121,
+            32,
+            105
+        ],
+        "target": "TEXTAREA",
+        "key_count": 4,
+        "timestamp_second": 428.66,
+        "relative_time": 7.938148148148148,
+        "index": 301
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:17:30.065Z",
+        "duration": 0.479,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 4,
+        "timestamp_second": 429.667,
+        "relative_time": 7.956796296296295,
+        "index": 302
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:17:31.149Z",
+        "duration": 2.185,
+        "key_list": "why isn't the ",
+        "keyCode_list": [
+            119,
+            104,
+            121,
+            32,
+            105,
+            115,
+            110,
+            39,
+            116,
+            32,
+            116,
+            104,
+            101,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 14,
+        "timestamp_second": 430.751,
+        "relative_time": 7.976870370370371,
+        "index": 303
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 341.61110649945476,
+        "timestamp": "2024-10-18T02:17:34.489Z",
+        "duration": 0.326,
+        "timestamp_second": 434.091,
+        "relative_time": 8.038722222222223,
+        "index": 304
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:17:34.835Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 434.437,
+        "relative_time": 8.04512962962963,
+        "index": 305
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 30.313708498957567,
+        "timestamp": "2024-10-18T02:17:34.954Z",
+        "duration": 0.784,
+        "timestamp_second": 434.556,
+        "relative_time": 8.047333333333333,
+        "index": 306
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:17:35.804Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 435.406,
+        "relative_time": 8.063074074074073,
+        "index": 307
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 119.89230911255436,
+        "timestamp": "2024-10-18T02:17:36.070Z",
+        "duration": 0.578,
+        "timestamp_second": 435.672,
+        "relative_time": 8.068,
+        "index": 308
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:17:37.767Z",
+        "duration": 6.846,
+        "key_list": "oxygen tank the most important given that the M",
+        "keyCode_list": [
+            111,
+            120,
+            121,
+            103,
+            101,
+            110,
+            32,
+            116,
+            97,
+            110,
+            107,
+            32,
+            116,
+            104,
+            101,
+            32,
+            109,
+            111,
+            115,
+            116,
+            32,
+            105,
+            109,
+            112,
+            111,
+            114,
+            116,
+            97,
+            110,
+            116,
+            32,
+            103,
+            105,
+            118,
+            101,
+            110,
+            32,
+            116,
+            104,
+            97,
+            116,
+            32,
+            116,
+            104,
+            101,
+            32,
+            77
+        ],
+        "target": "TEXTAREA",
+        "key_count": 47,
+        "timestamp_second": 437.369,
+        "relative_time": 8.099425925925926,
+        "index": 309
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:17:45.365Z",
+        "duration": 0.142,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 444.967,
+        "relative_time": 8.24012962962963,
+        "index": 310
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:17:45.766Z",
+        "duration": 0.671,
+        "key_list": "h ",
+        "keyCode_list": [
+            104,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 2,
+        "timestamp_second": 445.368,
+        "relative_time": 8.247555555555556,
+        "index": 311
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:17:46.648Z",
+        "duration": 0.875,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 5,
+        "timestamp_second": 446.25,
+        "relative_time": 8.26388888888889,
+        "index": 312
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:17:47.730Z",
+        "duration": 2.137,
+        "key_list": "humans can't be",
+        "keyCode_list": [
+            104,
+            117,
+            109,
+            97,
+            110,
+            115,
+            32,
+            99,
+            97,
+            110,
+            39,
+            116,
+            32,
+            98,
+            101
+        ],
+        "target": "TEXTAREA",
+        "key_count": 15,
+        "timestamp_second": 447.332,
+        "relative_time": 8.283925925925924,
+        "index": 313
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:17:50.167Z",
+        "duration": 0.174,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 449.769,
+        "relative_time": 8.329055555555556,
+        "index": 314
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:17:50.403Z",
+        "duration": 0.445,
+        "key_list": "reath",
+        "keyCode_list": [
+            114,
+            101,
+            97,
+            116,
+            104
+        ],
+        "target": "TEXTAREA",
+        "key_count": 5,
+        "timestamp_second": 450.005,
+        "relative_time": 8.333425925925926,
+        "index": 315
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:17:51.277Z",
+        "duration": 0.546,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 4,
+        "timestamp_second": 450.879,
+        "relative_time": 8.349611111111113,
+        "index": 316
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:17:52.338Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 451.94,
+        "relative_time": 8.369259259259259,
+        "index": 317
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:17:52.506Z",
+        "duration": 1.483,
+        "key_list": "breathe in M",
+        "keyCode_list": [
+            98,
+            114,
+            101,
+            97,
+            116,
+            104,
+            101,
+            32,
+            105,
+            110,
+            32,
+            77
+        ],
+        "target": "TEXTAREA",
+        "key_count": 12,
+        "timestamp_second": 452.108,
+        "relative_time": 8.372370370370371,
+        "index": 318
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:17:54.372Z",
+        "duration": 0.139,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 453.974,
+        "relative_time": 8.406925925925925,
+        "index": 319
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:17:54.621Z",
+        "duration": 0.125,
+        "key_list": "th",
+        "keyCode_list": [
+            116,
+            104
+        ],
+        "target": "TEXTAREA",
+        "key_count": 2,
+        "timestamp_second": 454.223,
+        "relative_time": 8.411537037037037,
+        "index": 320
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:17:55.049Z",
+        "duration": 0.138,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 454.651,
+        "relative_time": 8.419462962962964,
+        "index": 321
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:17:55.256Z",
+        "duration": 0.963,
+        "key_list": " thee ",
+        "keyCode_list": [
+            32,
+            116,
+            104,
+            101,
+            101,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 6,
+        "timestamp_second": 454.858,
+        "relative_time": 8.423296296296297,
+        "index": 322
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:17:56.530Z",
+        "duration": 0.144,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 456.132,
+        "relative_time": 8.44688888888889,
+        "index": 323
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:17:56.835Z",
+        "duration": 1.53,
+        "key_list": " Mooon's",
+        "keyCode_list": [
+            32,
+            77,
+            111,
+            111,
+            111,
+            110,
+            39,
+            115
+        ],
+        "target": "TEXTAREA",
+        "key_count": 8,
+        "timestamp_second": 456.437,
+        "relative_time": 8.452537037037038,
+        "index": 324
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:17:58.533Z",
+        "duration": 0.382,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 4,
+        "timestamp_second": 458.135,
+        "relative_time": 8.48398148148148,
+        "index": 325
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:17:59.206Z",
+        "duration": 2.746,
+        "key_list": "n's atmosphere?",
+        "keyCode_list": [
+            110,
+            39,
+            115,
+            32,
+            97,
+            116,
+            109,
+            111,
+            115,
+            112,
+            104,
+            101,
+            114,
+            101,
+            63
+        ],
+        "target": "TEXTAREA",
+        "key_count": 15,
+        "timestamp_second": 458.808,
+        "relative_time": 8.496444444444444,
+        "index": 326
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:18:02.389Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 461.991,
+        "relative_time": 8.555388888888888,
+        "index": 327
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "10/18/2024, 10:17:01 AM",
+        "endTime": "10/18/2024, 10:18:03 AM",
+        "duration": 61401,
+        "timestamp": "2024-10-18T02:18:03.000000Z",
+        "index": 328
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 527.7643203483822,
+        "timestamp": "2024-10-18T02:18:04.238Z",
+        "duration": 2.561,
+        "timestamp_second": 463.84,
+        "relative_time": 8.589629629629629,
+        "index": 329
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:18:07.045Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.098,
+        "timestamp_second": 466.647,
+        "relative_time": 8.64161111111111,
+        "index": 330
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 10.242640687109088,
+        "timestamp": "2024-10-18T02:18:07.275Z",
+        "duration": 0.65,
+        "timestamp_second": 466.877,
+        "relative_time": 8.645870370370371,
+        "index": 331
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:18:10.937Z",
+        "duration": 16.541,
+        "timestamp_second": 470.539,
+        "relative_time": 8.713685185185186,
+        "index": 332
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 207.34920278225763,
+        "timestamp": "2024-10-18T02:18:24.466Z",
+        "duration": 0.397,
+        "timestamp_second": 484.068,
+        "relative_time": 8.964222222222222,
+        "index": 333
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:18:24.930Z",
+        "deltaY": 200,
+        "yDirection": 1,
+        "duration": 0.057,
+        "timestamp_second": 484.532,
+        "relative_time": 8.972814814814814,
+        "index": 334
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 416.94037604944606,
+        "timestamp": "2024-10-18T02:18:25.113Z",
+        "duration": 10.27,
+        "timestamp_second": 484.715,
+        "relative_time": 8.976203703703703,
+        "index": 335
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:18:35.731Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 495.333,
+        "relative_time": 9.172833333333335,
+        "index": 336
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 46.89292222697986,
+        "timestamp": "2024-10-18T02:18:36.000Z",
+        "duration": 2.669,
+        "timestamp_second": 495.602,
+        "relative_time": 9.177814814814814,
+        "index": 337
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:18:41.676Z",
+        "duration": 4.96,
+        "timestamp_second": 501.278,
+        "relative_time": 9.282925925925927,
+        "index": 338
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:18:43.629Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 503.231,
+        "relative_time": 9.319092592592593,
+        "index": 339
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:18:47.073Z",
+        "text": "o",
+        "highlightedTextLength": 1,
+        "timestamp_second": 506.675,
+        "relative_time": 9.382870370370371,
+        "index": 340
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:18:47.074Z",
+        "target": "P",
+        "x": 474,
+        "y": 423,
+        "timestamp_second": 506.676,
+        "relative_time": 9.382888888888889,
+        "index": 341
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 200.31305265499395,
+        "timestamp": "2024-10-18T02:18:47.336Z",
+        "duration": 0.408,
+        "timestamp_second": 506.938,
+        "relative_time": 9.38774074074074,
+        "index": 342
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:18:47.877Z",
+        "target": "TEXTAREA",
+        "x": 435,
+        "y": 603,
+        "timestamp_second": 507.479,
+        "relative_time": 9.397759259259258,
+        "index": 343
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3.0,
+        "timestamp": "2024-10-18T02:18:48.015Z",
+        "duration": 0.056,
+        "timestamp_second": 507.617,
+        "relative_time": 9.400314814814816,
+        "index": 344
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:18:48.977Z",
+        "duration": 3.007,
+        "key_list": "How would you d",
+        "keyCode_list": [
+            72,
+            111,
+            119,
+            32,
+            119,
+            111,
+            117,
+            108,
+            100,
+            32,
+            121,
+            111,
+            117,
+            32,
+            100
+        ],
+        "target": "TEXTAREA",
+        "key_count": 15,
+        "timestamp_second": 508.579,
+        "relative_time": 9.41812962962963,
+        "index": 345
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:18:52.411Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 512.013,
+        "relative_time": 9.481722222222224,
+        "index": 346
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:18:52.797Z",
+        "duration": 2.574,
+        "key_list": "suggest to reat",
+        "keyCode_list": [
+            115,
+            117,
+            103,
+            103,
+            101,
+            115,
+            116,
+            32,
+            116,
+            111,
+            32,
+            114,
+            101,
+            97,
+            116
+        ],
+        "target": "TEXTAREA",
+        "key_count": 15,
+        "timestamp_second": 512.399,
+        "relative_time": 9.48887037037037,
+        "index": 347
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:18:55.670Z",
+        "duration": 0.689,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 4,
+        "timestamp_second": 515.272,
+        "relative_time": 9.542074074074074,
+        "index": 348
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:18:56.585Z",
+        "duration": 2.23,
+        "key_list": "breathe if I ",
+        "keyCode_list": [
+            98,
+            114,
+            101,
+            97,
+            116,
+            104,
+            101,
+            32,
+            105,
+            102,
+            32,
+            73,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 13,
+        "timestamp_second": 516.187,
+        "relative_time": 9.559018518518519,
+        "index": 349
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:19:01.826Z",
+        "duration": 3.979,
+        "timestamp_second": 521.428,
+        "relative_time": 9.656074074074073,
+        "index": 350
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 110.43999989646545,
+        "timestamp": "2024-10-18T02:19:02.794Z",
+        "duration": 0.313,
+        "timestamp_second": 522.396,
+        "relative_time": 9.674,
+        "index": 351
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:03.112Z",
+        "deltaY": 300,
+        "yDirection": 2,
+        "duration": 0.104,
+        "timestamp_second": 522.714,
+        "relative_time": 9.67988888888889,
+        "index": 352
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 20.07106781184848,
+        "timestamp": "2024-10-18T02:19:03.286Z",
+        "duration": 0.291,
+        "timestamp_second": 522.888,
+        "relative_time": 9.683111111111112,
+        "index": 353
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:03.636Z",
+        "deltaY": 200,
+        "yDirection": 2,
+        "duration": 0.135,
+        "timestamp_second": 523.238,
+        "relative_time": 9.689592592592595,
+        "index": 354
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 13.414213562369696,
+        "timestamp": "2024-10-18T02:19:03.806Z",
+        "duration": 0.34,
+        "timestamp_second": 523.408,
+        "relative_time": 9.69274074074074,
+        "index": 355
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:04.256Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 523.858,
+        "relative_time": 9.701074074074073,
+        "index": 356
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 7.650281539870775,
+        "timestamp": "2024-10-18T02:19:04.299Z",
+        "duration": 0.384,
+        "timestamp_second": 523.901,
+        "relative_time": 9.701870370370369,
+        "index": 357
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:04.848Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 524.45,
+        "relative_time": 9.712037037037039,
+        "index": 358
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3.414213562369696,
+        "timestamp": "2024-10-18T02:19:05.410Z",
+        "duration": 0.021,
+        "timestamp_second": 525.012,
+        "relative_time": 9.722444444444443,
+        "index": 359
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:19:06.091Z",
+        "duration": 0.15,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 525.693,
+        "relative_time": 9.735055555555554,
+        "index": 360
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:19:06.991Z",
+        "duration": 6.667,
+        "key_list": "oxygen tank isn't the most important tool?",
+        "keyCode_list": [
+            111,
+            120,
+            121,
+            103,
+            101,
+            110,
+            32,
+            116,
+            97,
+            110,
+            107,
+            32,
+            105,
+            115,
+            110,
+            39,
+            116,
+            32,
+            116,
+            104,
+            101,
+            32,
+            109,
+            111,
+            115,
+            116,
+            32,
+            105,
+            109,
+            112,
+            111,
+            114,
+            116,
+            97,
+            110,
+            116,
+            32,
+            116,
+            111,
+            111,
+            108,
+            63
+        ],
+        "target": "TEXTAREA",
+        "key_count": 42,
+        "timestamp_second": 526.593,
+        "relative_time": 9.751722222222222,
+        "index": 361
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:19:13.874Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 533.476,
+        "relative_time": 9.879185185185186,
+        "index": 362
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "10/18/2024, 10:18:03 AM",
+        "endTime": "10/18/2024, 10:19:14 AM",
+        "duration": 71540,
+        "timestamp": "2024-10-18T02:19:14.000000Z",
+        "index": 363
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 203.93334487536777,
+        "timestamp": "2024-10-18T02:19:15.410Z",
+        "duration": 1.371,
+        "timestamp_second": 535.012,
+        "relative_time": 9.907629629629628,
+        "index": 364
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:18.413Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 538.015,
+        "relative_time": 9.96324074074074,
+        "index": 365
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 225.51234902951546,
+        "timestamp": "2024-10-18T02:19:19.237Z",
+        "duration": 6.934,
+        "timestamp_second": 538.839,
+        "relative_time": 9.9785,
+        "index": 366
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:26.770Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 546.372,
+        "relative_time": 10.117999999999999,
+        "index": 367
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 8.0,
+        "timestamp": "2024-10-18T02:19:28.116Z",
+        "duration": 4.037,
+        "timestamp_second": 547.718,
+        "relative_time": 10.142925925925924,
+        "index": 368
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:32.173Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 551.775,
+        "relative_time": 10.218055555555555,
+        "index": 369
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-18T02:19:32.201Z",
+        "duration": 0.007,
+        "timestamp_second": 551.803,
+        "relative_time": 10.218574074074075,
+        "index": 370
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:32.235Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 551.837,
+        "relative_time": 10.219203703703704,
+        "index": 371
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 538.7602004759829,
+        "timestamp": "2024-10-18T02:19:34.278Z",
+        "duration": 0.152,
+        "timestamp_second": 553.88,
+        "relative_time": 10.257037037037037,
+        "index": 372
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:19:35.016Z",
+        "status": 0,
+        "timestamp_second": 554.618,
+        "relative_time": 10.270703703703704,
+        "index": 373
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 673.9156177106124,
+        "timestamp": "2024-10-18T02:19:35.930Z",
+        "duration": 3.686,
+        "timestamp_second": 555.532,
+        "relative_time": 10.28762962962963,
+        "index": 374
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:39.648Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 559.25,
+        "relative_time": 10.356481481481481,
+        "index": 375
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:40.993Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.041,
+        "timestamp_second": 560.595,
+        "relative_time": 10.38138888888889,
+        "index": 376
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:41.750Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.041,
+        "timestamp_second": 561.352,
+        "relative_time": 10.395407407407408,
+        "index": 377
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-18T02:19:41.825Z",
+        "duration": 0.021,
+        "timestamp_second": 561.427,
+        "relative_time": 10.396796296296298,
+        "index": 378
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:42.581Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.078,
+        "timestamp_second": 562.183,
+        "relative_time": 10.410796296296295,
+        "index": 379
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1382.4472631000244,
+        "timestamp": "2024-10-18T02:19:42.694Z",
+        "duration": 1.805,
+        "timestamp_second": 562.296,
+        "relative_time": 10.41288888888889,
+        "index": 380
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:44.499Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 564.101,
+        "relative_time": 10.446314814814816,
+        "index": 381
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3.6502815398707753,
+        "timestamp": "2024-10-18T02:19:44.506Z",
+        "duration": 0.014,
+        "timestamp_second": 564.108,
+        "relative_time": 10.446444444444444,
+        "index": 382
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:44.520Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 564.122,
+        "relative_time": 10.446703703703703,
+        "index": 383
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 7.472135955002159,
+        "timestamp": "2024-10-18T02:19:44.527Z",
+        "duration": 0.028,
+        "timestamp_second": 564.129,
+        "relative_time": 10.446833333333334,
+        "index": 384
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:44.555Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 564.157,
+        "relative_time": 10.447351851851852,
+        "index": 385
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 7.236067977501079,
+        "timestamp": "2024-10-18T02:19:44.562Z",
+        "duration": 0.034,
+        "timestamp_second": 564.164,
+        "relative_time": 10.447481481481482,
+        "index": 386
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:44.596Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 564.198,
+        "relative_time": 10.44811111111111,
+        "index": 387
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 36.36505818198202,
+        "timestamp": "2024-10-18T02:19:44.603Z",
+        "duration": 0.222,
+        "timestamp_second": 564.205,
+        "relative_time": 10.448240740740742,
+        "index": 388
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:44.879Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.03,
+        "timestamp_second": 564.481,
+        "relative_time": 10.453351851851851,
+        "index": 389
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3.6502815398707753,
+        "timestamp": "2024-10-18T02:19:44.923Z",
+        "duration": 0.014,
+        "timestamp_second": 564.525,
+        "relative_time": 10.454166666666666,
+        "index": 390
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:44.943Z",
+        "deltaY": 600,
+        "yDirection": 2,
+        "duration": 0.702,
+        "timestamp_second": 564.545,
+        "relative_time": 10.454537037037035,
+        "index": 391
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 5.414213562369696,
+        "timestamp": "2024-10-18T02:19:45.735Z",
+        "duration": 0.292,
+        "timestamp_second": 565.337,
+        "relative_time": 10.469203703703704,
+        "index": 392
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:46.152Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.048,
+        "timestamp_second": 565.754,
+        "relative_time": 10.476925925925926,
+        "index": 393
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 637.7890129976804,
+        "timestamp": "2024-10-18T02:19:46.256Z",
+        "duration": 0.969,
+        "timestamp_second": 565.858,
+        "relative_time": 10.47885185185185,
+        "index": 394
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:19:50.239Z",
+        "duration": 7.645,
+        "timestamp_second": 569.841,
+        "relative_time": 10.552611111111112,
+        "index": 395
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 499.27228407087387,
+        "timestamp": "2024-10-18T02:19:54.870Z",
+        "duration": 0.365,
+        "timestamp_second": 574.472,
+        "relative_time": 10.638370370370371,
+        "index": 396
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:19:55.290Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 574.892,
+        "relative_time": 10.64614814814815,
+        "index": 397
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 831.6548022832867,
+        "timestamp": "2024-10-18T02:19:55.478Z",
+        "duration": 9.643,
+        "timestamp_second": 575.08,
+        "relative_time": 10.64962962962963,
+        "index": 398
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:20:08.135Z",
+        "duration": 9.911999999999999,
+        "timestamp_second": 587.737,
+        "relative_time": 10.884018518518518,
+        "index": 399
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1266.7358248416567,
+        "timestamp": "2024-10-18T02:20:15.033Z",
+        "duration": 12.23,
+        "timestamp_second": 594.635,
+        "relative_time": 11.011759259259259,
+        "index": 400
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:27.269Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 606.871,
+        "relative_time": 11.238351851851853,
+        "index": 401
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 9.404918347281637,
+        "timestamp": "2024-10-18T02:20:27.283Z",
+        "duration": 0.035,
+        "timestamp_second": 606.885,
+        "relative_time": 11.23861111111111,
+        "index": 402
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:27.318Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 606.92,
+        "relative_time": 11.239259259259258,
+        "index": 403
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 33.792417163567734,
+        "timestamp": "2024-10-18T02:20:27.332Z",
+        "duration": 0.312,
+        "timestamp_second": 606.934,
+        "relative_time": 11.239518518518517,
+        "index": 404
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:27.706Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.057,
+        "timestamp_second": 607.308,
+        "relative_time": 11.246444444444444,
+        "index": 405
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 39.414213562369696,
+        "timestamp": "2024-10-18T02:20:27.798Z",
+        "duration": 0.555,
+        "timestamp_second": 607.4,
+        "relative_time": 11.248148148148147,
+        "index": 406
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:28.374Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 607.976,
+        "relative_time": 11.258814814814814,
+        "index": 407
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 8.828427124739392,
+        "timestamp": "2024-10-18T02:20:29.390Z",
+        "duration": 0.144,
+        "timestamp_second": 608.992,
+        "relative_time": 11.27762962962963,
+        "index": 408
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:29.901Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.042,
+        "timestamp_second": 609.503,
+        "relative_time": 11.287092592592593,
+        "index": 409
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 7.414213562369696,
+        "timestamp": "2024-10-18T02:20:29.978Z",
+        "duration": 0.273,
+        "timestamp_second": 609.58,
+        "relative_time": 11.28851851851852,
+        "index": 410
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:30.512Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.07,
+        "timestamp_second": 610.114,
+        "relative_time": 11.298407407407408,
+        "index": 411
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-18T02:20:30.881Z",
+        "duration": 0.01,
+        "timestamp_second": 610.483,
+        "relative_time": 11.30524074074074,
+        "index": 412
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:31.667Z",
+        "deltaY": 500,
+        "yDirection": 2,
+        "duration": 0.97,
+        "timestamp_second": 611.269,
+        "relative_time": 11.319796296296296,
+        "index": 413
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:33.617Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 613.219,
+        "relative_time": 11.35590740740741,
+        "index": 414
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 7.0,
+        "timestamp": "2024-10-18T02:20:33.932Z",
+        "duration": 1.015,
+        "timestamp_second": 613.534,
+        "relative_time": 11.361740740740741,
+        "index": 415
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:35.803Z",
+        "deltaY": 300,
+        "yDirection": 2,
+        "duration": 0.612,
+        "timestamp_second": 615.405,
+        "relative_time": 11.396388888888888,
+        "index": 416
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:37.026Z",
+        "deltaY": 400,
+        "yDirection": 1,
+        "duration": 0.063,
+        "timestamp_second": 616.628,
+        "relative_time": 11.419037037037038,
+        "index": 417
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-18T02:20:37.382Z",
+        "duration": 0.007,
+        "timestamp_second": 616.984,
+        "relative_time": 11.42562962962963,
+        "index": 418
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:37.394Z",
+        "deltaY": 400,
+        "yDirection": 1,
+        "duration": 0.063,
+        "timestamp_second": 616.996,
+        "relative_time": 11.425851851851851,
+        "index": 419
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-18T02:20:37.645Z",
+        "duration": 0.071,
+        "timestamp_second": 617.247,
+        "relative_time": 11.430499999999999,
+        "index": 420
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:38.051Z",
+        "deltaY": 300,
+        "yDirection": 1,
+        "duration": 0.058,
+        "timestamp_second": 617.653,
+        "relative_time": 11.438018518518518,
+        "index": 421
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 5.0,
+        "timestamp": "2024-10-18T02:20:38.319Z",
+        "duration": 0.123,
+        "timestamp_second": 617.921,
+        "relative_time": 11.442981481481482,
+        "index": 422
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:38.483Z",
+        "deltaY": 300,
+        "yDirection": 1,
+        "duration": 0.071,
+        "timestamp_second": 618.085,
+        "relative_time": 11.44601851851852,
+        "index": 423
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 5.0,
+        "timestamp": "2024-10-18T02:20:38.658Z",
+        "duration": 0.216,
+        "timestamp_second": 618.26,
+        "relative_time": 11.449259259259259,
+        "index": 424
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:39.151Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "duration": 0.042,
+        "timestamp_second": 618.753,
+        "relative_time": 11.45838888888889,
+        "index": 425
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 537.7073909000537,
+        "timestamp": "2024-10-18T02:20:39.932Z",
+        "duration": 0.293,
+        "timestamp_second": 619.534,
+        "relative_time": 11.472851851851852,
+        "index": 426
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:20:43.235Z",
+        "duration": 13.433,
+        "timestamp_second": 622.837,
+        "relative_time": 11.534018518518518,
+        "index": 427
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 494.28618315528,
+        "timestamp": "2024-10-18T02:20:53.658Z",
+        "duration": 0.308,
+        "timestamp_second": 633.26,
+        "relative_time": 11.727037037037038,
+        "index": 428
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:53.991Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 633.593,
+        "relative_time": 11.733203703703703,
+        "index": 429
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 6.0,
+        "timestamp": "2024-10-18T02:20:54.026Z",
+        "duration": 0.649,
+        "timestamp_second": 633.628,
+        "relative_time": 11.733851851851853,
+        "index": 430
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:55.345Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 634.947,
+        "relative_time": 11.758277777777778,
+        "index": 431
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 29.82842712473939,
+        "timestamp": "2024-10-18T02:20:55.819Z",
+        "duration": 3.286,
+        "timestamp_second": 635.421,
+        "relative_time": 11.767055555555556,
+        "index": 432
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:20:59.817Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 639.419,
+        "relative_time": 11.841092592592592,
+        "index": 433
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 15.242640687109088,
+        "timestamp": "2024-10-18T02:21:01.844Z",
+        "duration": 2.557,
+        "timestamp_second": 641.446,
+        "relative_time": 11.87862962962963,
+        "index": 434
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:21:07.414Z",
+        "duration": 3.533,
+        "timestamp_second": 647.016,
+        "relative_time": 11.981777777777777,
+        "index": 435
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 593.0691758767498,
+        "timestamp": "2024-10-18T02:21:07.934Z",
+        "duration": 2.782,
+        "timestamp_second": 647.536,
+        "relative_time": 11.991407407407406,
+        "index": 436
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:21:13.721Z",
+        "duration": 39.947,
+        "timestamp_second": 653.323,
+        "relative_time": 12.098574074074074,
+        "index": 437
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 442.2773545040327,
+        "timestamp": "2024-10-18T02:21:50.663Z",
+        "duration": 0.29,
+        "timestamp_second": 690.265,
+        "relative_time": 12.782685185185185,
+        "index": 438
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:21:51.045Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 690.647,
+        "relative_time": 12.78975925925926,
+        "index": 439
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 471.6048434418699,
+        "timestamp": "2024-10-18T02:21:51.392Z",
+        "duration": 0.24,
+        "timestamp_second": 690.994,
+        "relative_time": 12.796185185185186,
+        "index": 440
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:21:54.641Z",
+        "duration": 22.891000000000002,
+        "timestamp_second": 694.243,
+        "relative_time": 12.856351851851851,
+        "index": 441
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 390.317167901645,
+        "timestamp": "2024-10-18T02:22:14.523Z",
+        "duration": 0.431,
+        "timestamp_second": 714.125,
+        "relative_time": 13.224537037037038,
+        "index": 442
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:22:14.995Z",
+        "status": 1,
+        "timestamp_second": 714.597,
+        "relative_time": 13.233277777777777,
+        "index": 443
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:22:15.085Z",
+        "target": "TEXTAREA",
+        "x": 439,
+        "y": 586,
+        "timestamp_second": 714.687,
+        "relative_time": 13.234944444444444,
+        "index": 444
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 16.1231056256147,
+        "timestamp": "2024-10-18T02:22:15.305Z",
+        "duration": 0.058,
+        "timestamp_second": 714.907,
+        "relative_time": 13.23901851851852,
+        "index": 445
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:22:15.925Z",
+        "duration": 2.363,
+        "key_list": "what are the other s",
+        "keyCode_list": [
+            119,
+            104,
+            97,
+            116,
+            32,
+            97,
+            114,
+            101,
+            32,
+            116,
+            104,
+            101,
+            32,
+            111,
+            116,
+            104,
+            101,
+            114,
+            32,
+            115
+        ],
+        "target": "TEXTAREA",
+        "key_count": 20,
+        "timestamp_second": 715.527,
+        "relative_time": 13.2505,
+        "index": 446
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:22:18.623Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 718.225,
+        "relative_time": 13.300462962962964,
+        "index": 447
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:22:18.732Z",
+        "duration": 3.731,
+        "key_list": "assumptions you have made?",
+        "keyCode_list": [
+            97,
+            115,
+            115,
+            117,
+            109,
+            112,
+            116,
+            105,
+            111,
+            110,
+            115,
+            32,
+            121,
+            111,
+            117,
+            32,
+            104,
+            97,
+            118,
+            101,
+            32,
+            109,
+            97,
+            100,
+            101,
+            63
+        ],
+        "target": "TEXTAREA",
+        "key_count": 26,
+        "timestamp_second": 718.334,
+        "relative_time": 13.302481481481482,
+        "index": 448
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "10/18/2024, 10:19:14 AM",
+        "endTime": "10/18/2024, 10:22:23 AM",
+        "duration": 188625,
+        "timestamp": "2024-10-18T02:22:23.000000Z",
+        "index": 449
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 275.22716520483664,
+        "timestamp": "2024-10-18T02:22:24.086Z",
+        "duration": 2.502,
+        "timestamp_second": 723.688,
+        "relative_time": 13.40162962962963,
+        "index": 450
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:22:28.078Z",
+        "deltaY": 800,
+        "yDirection": 2,
+        "duration": 0.707,
+        "timestamp_second": 727.68,
+        "relative_time": 13.475555555555555,
+        "index": 451
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:22:29.292Z",
+        "deltaY": 200,
+        "yDirection": 2,
+        "duration": 0.076,
+        "timestamp_second": 728.894,
+        "relative_time": 13.498037037037037,
+        "index": 452
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:22:29.603Z",
+        "duration": 3.1140000000000003,
+        "timestamp_second": 729.205,
+        "relative_time": 13.503796296296297,
+        "index": 453
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:22:29.702Z",
+        "deltaY": 300,
+        "yDirection": 2,
+        "duration": 0.09,
+        "timestamp_second": 729.304,
+        "relative_time": 13.50562962962963,
+        "index": 454
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 4.414213562369696,
+        "timestamp": "2024-10-18T02:22:30.031Z",
+        "duration": 0.175,
+        "timestamp_second": 729.633,
+        "relative_time": 13.511722222222222,
+        "index": 455
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:22:30.223Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.028,
+        "timestamp_second": 729.825,
+        "relative_time": 13.51527777777778,
+        "index": 456
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-18T02:22:30.269Z",
+        "duration": 0.009,
+        "timestamp_second": 729.871,
+        "relative_time": 13.516129629629628,
+        "index": 457
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:22:30.278Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 729.88,
+        "relative_time": 13.516296296296296,
+        "index": 458
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2.0,
+        "timestamp": "2024-10-18T02:22:30.297Z",
+        "duration": 0.009,
+        "timestamp_second": 729.899,
+        "relative_time": 13.516648148148146,
+        "index": 459
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:22:30.324Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 729.926,
+        "relative_time": 13.51714814814815,
+        "index": 460
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3.0,
+        "timestamp": "2024-10-18T02:22:30.588Z",
+        "duration": 0.082,
+        "timestamp_second": 730.19,
+        "relative_time": 13.522037037037038,
+        "index": 461
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:22:30.737Z",
+        "deltaY": 300,
+        "yDirection": 2,
+        "duration": 0.193,
+        "timestamp_second": 730.339,
+        "relative_time": 13.524796296296298,
+        "index": 462
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 498.374787083274,
+        "timestamp": "2024-10-18T02:22:31.162Z",
+        "duration": 0.76,
+        "timestamp_second": 730.764,
+        "relative_time": 13.532666666666668,
+        "index": 463
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:22:34.932Z",
+        "duration": 11.315,
+        "timestamp_second": 734.534,
+        "relative_time": 13.602481481481481,
+        "index": 464
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:22:43.237Z",
+        "status": 0,
+        "timestamp_second": 742.839,
+        "relative_time": 13.756277777777779,
+        "index": 465
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1080.8490907432424,
+        "timestamp": "2024-10-18T02:23:04.171Z",
+        "duration": 2.755,
+        "timestamp_second": 763.773,
+        "relative_time": 14.143944444444445,
+        "index": 466
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:06.979Z",
+        "deltaY": 600,
+        "yDirection": 1,
+        "duration": 0.092,
+        "timestamp_second": 766.581,
+        "relative_time": 14.195944444444445,
+        "index": 467
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 9.082762530299078,
+        "timestamp": "2024-10-18T02:23:07.322Z",
+        "duration": 0.013,
+        "timestamp_second": 766.924,
+        "relative_time": 14.202296296296296,
+        "index": 468
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:07.336Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 766.938,
+        "relative_time": 14.202555555555554,
+        "index": 469
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 5.0,
+        "timestamp": "2024-10-18T02:23:07.342Z",
+        "duration": 0.007,
+        "timestamp_second": 766.944,
+        "relative_time": 14.202666666666666,
+        "index": 470
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:07.349Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "duration": 0.014,
+        "timestamp_second": 766.951,
+        "relative_time": 14.202796296296297,
+        "index": 471
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2.0,
+        "timestamp": "2024-10-18T02:23:07.363Z",
+        "duration": 0.007,
+        "timestamp_second": 766.965,
+        "relative_time": 14.203055555555554,
+        "index": 472
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:07.370Z",
+        "deltaY": 200,
+        "yDirection": 1,
+        "duration": 0.021,
+        "timestamp_second": 766.972,
+        "relative_time": 14.203185185185186,
+        "index": 473
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 11.828427124739392,
+        "timestamp": "2024-10-18T02:23:07.398Z",
+        "duration": 0.166,
+        "timestamp_second": 767.0,
+        "relative_time": 14.203703703703704,
+        "index": 474
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:07.642Z",
+        "deltaY": 200,
+        "yDirection": 1,
+        "duration": 0.027,
+        "timestamp_second": 767.244,
+        "relative_time": 14.208222222222222,
+        "index": 475
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-18T02:23:07.676Z",
+        "duration": 0.007,
+        "timestamp_second": 767.278,
+        "relative_time": 14.208851851851852,
+        "index": 476
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:07.689Z",
+        "deltaY": 200,
+        "yDirection": 1,
+        "duration": 0.021,
+        "timestamp_second": 767.291,
+        "relative_time": 14.209092592592592,
+        "index": 477
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 8.0,
+        "timestamp": "2024-10-18T02:23:07.857Z",
+        "duration": 0.082,
+        "timestamp_second": 767.459,
+        "relative_time": 14.212203703703702,
+        "index": 478
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:07.971Z",
+        "deltaY": 200,
+        "yDirection": 1,
+        "duration": 0.024,
+        "timestamp_second": 767.573,
+        "relative_time": 14.214314814814816,
+        "index": 479
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-18T02:23:08.002Z",
+        "duration": 0.007,
+        "timestamp_second": 767.604,
+        "relative_time": 14.214888888888892,
+        "index": 480
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:08.009Z",
+        "deltaY": 200,
+        "yDirection": 1,
+        "duration": 0.014,
+        "timestamp_second": 767.611,
+        "relative_time": 14.21501851851852,
+        "index": 481
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3.0,
+        "timestamp": "2024-10-18T02:23:08.169Z",
+        "duration": 0.046,
+        "timestamp_second": 767.771,
+        "relative_time": 14.217981481481482,
+        "index": 482
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:08.439Z",
+        "deltaY": 500,
+        "yDirection": 1,
+        "duration": 0.077,
+        "timestamp_second": 768.041,
+        "relative_time": 14.222981481481483,
+        "index": 483
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3.0,
+        "timestamp": "2024-10-18T02:23:08.682Z",
+        "duration": 0.1,
+        "timestamp_second": 768.284,
+        "relative_time": 14.227481481481483,
+        "index": 484
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:08.816Z",
+        "deltaY": 400,
+        "yDirection": 1,
+        "duration": 0.063,
+        "timestamp_second": 768.418,
+        "relative_time": 14.229962962962963,
+        "index": 485
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 96.3181319047726,
+        "timestamp": "2024-10-18T02:23:09.120Z",
+        "duration": 0.671,
+        "timestamp_second": 768.722,
+        "relative_time": 14.23559259259259,
+        "index": 486
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:09.795Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 769.397,
+        "relative_time": 14.248092592592593,
+        "index": 487
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2.0,
+        "timestamp": "2024-10-18T02:23:09.807Z",
+        "duration": 0.007,
+        "timestamp_second": 769.409,
+        "relative_time": 14.248314814814814,
+        "index": 488
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:09.814Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.007,
+        "timestamp_second": 769.416,
+        "relative_time": 14.248444444444445,
+        "index": 489
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 5.0,
+        "timestamp": "2024-10-18T02:23:09.828Z",
+        "duration": 0.014,
+        "timestamp_second": 769.43,
+        "relative_time": 14.248703703703702,
+        "index": 490
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:09.842Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 769.444,
+        "relative_time": 14.248962962962963,
+        "index": 491
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-18T02:23:09.849Z",
+        "duration": 0.007,
+        "timestamp_second": 769.451,
+        "relative_time": 14.249092592592593,
+        "index": 492
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:09.871Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 769.473,
+        "relative_time": 14.249499999999998,
+        "index": 493
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 148.85643821580015,
+        "timestamp": "2024-10-18T02:23:09.877Z",
+        "duration": 0.444,
+        "timestamp_second": 769.479,
+        "relative_time": 14.249611111111113,
+        "index": 494
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:10.333Z",
+        "deltaY": 200,
+        "yDirection": 2,
+        "duration": 0.072,
+        "timestamp_second": 769.935,
+        "relative_time": 14.258055555555554,
+        "index": 495
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 190.78106001362175,
+        "timestamp": "2024-10-18T02:23:10.419Z",
+        "duration": 0.545,
+        "timestamp_second": 770.021,
+        "relative_time": 14.259648148148147,
+        "index": 496
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:23:11.004Z",
+        "status": 1,
+        "timestamp_second": 770.606,
+        "relative_time": 14.27048148148148,
+        "index": 497
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:23:11.073Z",
+        "target": "TEXTAREA",
+        "x": 462,
+        "y": 584,
+        "timestamp_second": 770.675,
+        "relative_time": 14.271759259259259,
+        "index": 498
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:23:13.333Z",
+        "duration": 7.051,
+        "key_list": "is a compass functional in the Moon?",
+        "keyCode_list": [
+            105,
+            115,
+            32,
+            97,
+            32,
+            99,
+            111,
+            109,
+            112,
+            97,
+            115,
+            115,
+            32,
+            102,
+            117,
+            110,
+            99,
+            116,
+            105,
+            111,
+            110,
+            97,
+            108,
+            32,
+            105,
+            110,
+            32,
+            116,
+            104,
+            101,
+            32,
+            77,
+            111,
+            111,
+            110,
+            63
+        ],
+        "target": "TEXTAREA",
+        "key_count": 36,
+        "timestamp_second": 772.935,
+        "relative_time": 14.31361111111111,
+        "index": 499
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "10/18/2024, 10:22:23 AM",
+        "endTime": "10/18/2024, 10:23:21 AM",
+        "duration": 57880,
+        "timestamp": "2024-10-18T02:23:21.000000Z",
+        "index": 500
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:23:23.384Z",
+        "duration": 7.201,
+        "timestamp_second": 782.986,
+        "relative_time": 14.49974074074074,
+        "index": 501
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 752.4199134149385,
+        "timestamp": "2024-10-18T02:23:27.585Z",
+        "duration": 5.014,
+        "timestamp_second": 787.187,
+        "relative_time": 14.577537037037036,
+        "index": 502
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:32.605Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 792.207,
+        "relative_time": 14.6705,
+        "index": 503
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2.0,
+        "timestamp": "2024-10-18T02:23:32.619Z",
+        "duration": 0.014,
+        "timestamp_second": 792.221,
+        "relative_time": 14.670759259259258,
+        "index": 504
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:32.640Z",
+        "deltaY": 100,
+        "yDirection": 2,
+        "duration": 0.028,
+        "timestamp_second": 792.242,
+        "relative_time": 14.671148148148147,
+        "index": 505
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3.0,
+        "timestamp": "2024-10-18T02:23:32.675Z",
+        "duration": 0.021,
+        "timestamp_second": 792.277,
+        "relative_time": 14.671796296296296,
+        "index": 506
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:32.779Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 792.381,
+        "relative_time": 14.67372222222222,
+        "index": 507
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2.0,
+        "timestamp": "2024-10-18T02:23:32.966Z",
+        "duration": 0.112,
+        "timestamp_second": 792.568,
+        "relative_time": 14.677185185185184,
+        "index": 508
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:33.237Z",
+        "deltaY": 300,
+        "yDirection": 2,
+        "duration": 0.167,
+        "timestamp_second": 792.839,
+        "relative_time": 14.682203703703706,
+        "index": 509
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 256.2571608621656,
+        "timestamp": "2024-10-18T02:23:33.737Z",
+        "duration": 1.257,
+        "timestamp_second": 793.339,
+        "relative_time": 14.691462962962964,
+        "index": 510
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:34.994Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 794.596,
+        "relative_time": 14.714740740740742,
+        "index": 511
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2.2360679775010794,
+        "timestamp": "2024-10-18T02:23:35.001Z",
+        "duration": 0.007,
+        "timestamp_second": 794.603,
+        "relative_time": 14.71487037037037,
+        "index": 512
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:35.015Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 794.617,
+        "relative_time": 14.715129629629628,
+        "index": 513
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.4142135623696959,
+        "timestamp": "2024-10-18T02:23:35.015Z",
+        "duration": 0.007,
+        "timestamp_second": 794.617,
+        "relative_time": 14.715129629629628,
+        "index": 514
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:35.029Z",
+        "deltaY": 300,
+        "yDirection": 1,
+        "duration": 0.035,
+        "timestamp_second": 794.631,
+        "relative_time": 14.715388888888889,
+        "index": 515
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-18T02:23:35.265Z",
+        "duration": 0.062,
+        "timestamp_second": 794.867,
+        "relative_time": 14.719759259259257,
+        "index": 516
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:35.355Z",
+        "deltaY": 300,
+        "yDirection": 1,
+        "duration": 0.049,
+        "timestamp_second": 794.957,
+        "relative_time": 14.721425925925926,
+        "index": 517
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3.414213562369696,
+        "timestamp": "2024-10-18T02:23:35.598Z",
+        "duration": 0.202,
+        "timestamp_second": 795.2,
+        "relative_time": 14.725925925925926,
+        "index": 518
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:23:35.848Z",
+        "deltaY": 400,
+        "yDirection": 1,
+        "duration": 0.063,
+        "timestamp_second": 795.45,
+        "relative_time": 14.730555555555554,
+        "index": 519
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 545.1490037704789,
+        "timestamp": "2024-10-18T02:23:36.175Z",
+        "duration": 0.295,
+        "timestamp_second": 795.777,
+        "relative_time": 14.736611111111111,
+        "index": 520
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:23:39.473Z",
+        "duration": 17.142,
+        "timestamp_second": 799.075,
+        "relative_time": 14.797685185185186,
+        "index": 521
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 853.1335474283333,
+        "timestamp": "2024-10-18T02:23:53.612Z",
+        "duration": 1.159,
+        "timestamp_second": 813.214,
+        "relative_time": 15.05951851851852,
+        "index": 522
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:23:54.928Z",
+        "target": "P",
+        "x": 566,
+        "y": 277,
+        "timestamp_second": 814.53,
+        "relative_time": 15.083888888888888,
+        "index": 523
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:23:55.099Z",
+        "text": "functional",
+        "highlightedTextLength": 10,
+        "timestamp_second": 814.701,
+        "relative_time": 15.087055555555557,
+        "index": 524
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:23:55.099Z",
+        "target": "P",
+        "x": 566,
+        "y": 277,
+        "timestamp_second": 814.701,
+        "relative_time": 15.087055555555557,
+        "index": 525
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:23:55.287Z",
+        "text": "is a compass functional in the Moon?",
+        "highlightedTextLength": 36,
+        "timestamp_second": 814.889,
+        "relative_time": 15.090537037037038,
+        "index": 526
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:23:55.287Z",
+        "target": "P",
+        "x": 566,
+        "y": 277,
+        "timestamp_second": 814.889,
+        "relative_time": 15.090537037037038,
+        "index": 527
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 423.9635202850186,
+        "timestamp": "2024-10-18T02:23:55.376Z",
+        "duration": 0.229,
+        "timestamp_second": 814.978,
+        "relative_time": 15.092185185185183,
+        "index": 528
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:23:55.638Z",
+        "text": "is a compass functional in the Moon?",
+        "textLength": 36,
+        "timestamp_second": 815.24,
+        "relative_time": 15.097037037037037,
+        "index": 529
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 130.6567779005709,
+        "timestamp": "2024-10-18T02:23:55.827Z",
+        "duration": 0.139,
+        "timestamp_second": 815.429,
+        "relative_time": 15.100537037037038,
+        "index": 530
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:23:56.127Z",
+        "target": "TEXTAREA",
+        "x": 449,
+        "y": 571,
+        "timestamp_second": 815.729,
+        "relative_time": 15.106092592592594,
+        "index": 531
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 56.95618116095284,
+        "timestamp": "2024-10-18T02:23:56.167Z",
+        "duration": 0.171,
+        "timestamp_second": 815.769,
+        "relative_time": 15.106833333333332,
+        "index": 532
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-18T02:23:56.343Z",
+        "text": "is a compass functional in the Moon?",
+        "textLength": 36,
+        "timestamp_second": 815.945,
+        "relative_time": 15.110092592592594,
+        "index": 533
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 201.01032495106483,
+        "timestamp": "2024-10-18T02:23:56.353Z",
+        "duration": 0.453,
+        "timestamp_second": 815.955,
+        "relative_time": 15.110277777777778,
+        "index": 534
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "10/18/2024, 10:23:21 AM",
+        "endTime": "10/18/2024, 10:23:56 AM",
+        "duration": 35878,
+        "timestamp": "2024-10-18T02:23:56.000000Z",
+        "index": 535
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:23:57.002Z",
+        "target": "BUTTON",
+        "x": 686,
+        "y": 622,
+        "timestamp_second": 816.604,
+        "relative_time": 15.122296296296298,
+        "index": 536
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2008.7597622503672,
+        "timestamp": "2024-10-18T02:23:57.021Z",
+        "duration": 5.96,
+        "timestamp_second": 816.623,
+        "relative_time": 15.12264814814815,
+        "index": 537
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:24:03.214Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 822.816,
+        "relative_time": 15.237333333333334,
+        "index": 538
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 670.8982438485909,
+        "timestamp": "2024-10-18T02:24:05.000Z",
+        "duration": 0.817,
+        "timestamp_second": 824.602,
+        "relative_time": 15.270407407407408,
+        "index": 539
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:24:08.820Z",
+        "duration": 3.084,
+        "timestamp_second": 828.422,
+        "relative_time": 15.341148148148148,
+        "index": 540
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:24:08.901Z",
+        "status": 0,
+        "timestamp_second": 828.503,
+        "relative_time": 15.34264814814815,
+        "index": 541
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 602.832427351721,
+        "timestamp": "2024-10-18T02:24:13.834Z",
+        "duration": 0.312,
+        "timestamp_second": 833.436,
+        "relative_time": 15.434000000000001,
+        "index": 542
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:24:14.191Z",
+        "status": 1,
+        "timestamp_second": 833.793,
+        "relative_time": 15.44061111111111,
+        "index": 543
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:24:14.274Z",
+        "target": "TEXTAREA",
+        "x": 450,
+        "y": 593,
+        "timestamp_second": 833.876,
+        "relative_time": 15.442148148148146,
+        "index": 544
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3.2360679775010794,
+        "timestamp": "2024-10-18T02:24:14.313Z",
+        "duration": 0.02,
+        "timestamp_second": 833.915,
+        "relative_time": 15.44287037037037,
+        "index": 545
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:24:15.154Z",
+        "duration": 2.405,
+        "key_list": "can a gun ",
+        "keyCode_list": [
+            99,
+            97,
+            110,
+            32,
+            97,
+            32,
+            103,
+            117,
+            110,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 10,
+        "timestamp_second": 834.756,
+        "relative_time": 15.458444444444444,
+        "index": 546
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:24:18.120Z",
+        "duration": 0.485,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 4,
+        "timestamp_second": 837.722,
+        "relative_time": 15.51337037037037,
+        "index": 547
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:24:18.919Z",
+        "duration": 1.504,
+        "key_list": "pistol wor",
+        "keyCode_list": [
+            112,
+            105,
+            115,
+            116,
+            111,
+            108,
+            32,
+            119,
+            111,
+            114
+        ],
+        "target": "TEXTAREA",
+        "key_count": 10,
+        "timestamp_second": 838.521,
+        "relative_time": 15.528166666666666,
+        "index": 548
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:24:20.726Z",
+        "duration": 0.335,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 3,
+        "timestamp_second": 840.328,
+        "relative_time": 15.561629629629628,
+        "index": 549
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:24:21.393Z",
+        "duration": 2.8,
+        "key_list": "function in the Moon",
+        "keyCode_list": [
+            102,
+            117,
+            110,
+            99,
+            116,
+            105,
+            111,
+            110,
+            32,
+            105,
+            110,
+            32,
+            116,
+            104,
+            101,
+            32,
+            77,
+            111,
+            111,
+            110
+        ],
+        "target": "TEXTAREA",
+        "key_count": 20,
+        "timestamp_second": 840.995,
+        "relative_time": 15.57398148148148,
+        "index": 550
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "10/18/2024, 10:23:56 AM",
+        "endTime": "10/18/2024, 10:24:24 AM",
+        "duration": 27867,
+        "timestamp": "2024-10-18T02:24:24.000000Z",
+        "index": 551
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1032.5133722671308,
+        "timestamp": "2024-10-18T02:24:25.882Z",
+        "duration": 3.169,
+        "timestamp_second": 845.484,
+        "relative_time": 15.65711111111111,
+        "index": 552
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:24:29.069Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 848.671,
+        "relative_time": 15.71612962962963,
+        "index": 553
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1163.1462511393838,
+        "timestamp": "2024-10-18T02:24:29.624Z",
+        "duration": 8.139,
+        "timestamp_second": 849.226,
+        "relative_time": 15.72640740740741,
+        "index": 554
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:24:40.771Z",
+        "duration": 11.472000000000001,
+        "timestamp_second": 860.373,
+        "relative_time": 15.932833333333335,
+        "index": 555
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 21.074964724990423,
+        "timestamp": "2024-10-18T02:24:49.235Z",
+        "duration": 0.062,
+        "timestamp_second": 868.837,
+        "relative_time": 16.089574074074072,
+        "index": 556
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:24:49.965Z",
+        "status": 0,
+        "timestamp_second": 869.567,
+        "relative_time": 16.103092592592596,
+        "index": 557
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:24:52.298Z",
+        "duration": 15.931,
+        "timestamp_second": 871.9,
+        "relative_time": 16.146296296296295,
+        "index": 558
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1729.1899209838593,
+        "timestamp": "2024-10-18T02:25:05.228Z",
+        "duration": 1.257,
+        "timestamp_second": 884.83,
+        "relative_time": 16.385740740740744,
+        "index": 559
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:25:06.623Z",
+        "status": 1,
+        "timestamp_second": 886.225,
+        "relative_time": 16.411574074074075,
+        "index": 560
+    }
+]

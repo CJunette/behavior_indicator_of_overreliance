@@ -1,0 +1,128 @@
+[
+    {
+        "type": "click",
+        "timestamp": "2024-10-19T22:02:58.982Z",
+        "target": "BUTTON",
+        "x": 914,
+        "y": 24,
+        "timestamp_second": 0.0,
+        "relative_time": 0.0,
+        "index": 0
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-19T22:02:58.983Z",
+        "status": 0,
+        "timestamp_second": 0.001,
+        "relative_time": 1.8518518518518518e-05,
+        "index": 1
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-19T22:02:58.983Z",
+        "status": 1,
+        "timestamp_second": 0.001,
+        "relative_time": 1.8518518518518518e-05,
+        "index": 2
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 186.74340766224486,
+        "timestamp": "2024-10-19T22:02:58.984Z",
+        "duration": 1.822,
+        "timestamp_second": 0.002,
+        "relative_time": 3.7037037037037037e-05,
+        "index": 3
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-19T22:03:02.254Z",
+        "status": 0,
+        "timestamp_second": 3.272,
+        "relative_time": 0.06059259259259259,
+        "index": 4
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-19T22:03:02.257Z",
+        "isHidden": true,
+        "timestamp_second": 3.275,
+        "relative_time": 0.06064814814814815,
+        "index": 5
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-19T22:03:04.403Z",
+        "duration": 161.061,
+        "timestamp_second": 5.421,
+        "relative_time": 0.1003888888888889,
+        "index": 6
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-19T22:05:41.868Z",
+        "isHidden": false,
+        "timestamp_second": 162.886,
+        "relative_time": 3.0164074074074074,
+        "index": 7
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-19T22:05:41.871Z",
+        "status": 1,
+        "timestamp_second": 162.889,
+        "relative_time": 3.0164629629629633,
+        "index": 8
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1269.0417519056791,
+        "timestamp": "2024-10-19T22:05:42.073Z",
+        "duration": 0.733,
+        "timestamp_second": 163.091,
+        "relative_time": 3.0202037037037037,
+        "index": 9
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-19T22:05:45.815Z",
+        "duration": 7.600999999999999,
+        "timestamp_second": 166.833,
+        "relative_time": 3.0894999999999997,
+        "index": 10
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-19T22:05:50.407Z",
+        "status": 0,
+        "timestamp_second": 171.425,
+        "relative_time": 3.1745370370370374,
+        "index": 11
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 796.0691259669256,
+        "timestamp": "2024-10-19T22:05:50.726Z",
+        "duration": 1.002,
+        "timestamp_second": 171.744,
+        "relative_time": 3.180444444444445,
+        "index": 12
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-19T22:05:52.396Z",
+        "status": 1,
+        "timestamp_second": 173.414,
+        "relative_time": 3.21137037037037,
+        "index": 13
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-19T22:05:52.486Z",
+        "text": "The type of power sockets used in Denmark are Type A and Type K. Don't forget to bring an adapter.",
+        "highlightedTextLength": 98,
+        "timestamp_second": 173.504,
+        "relative_time": 3.2130370370370374,
+        "index": 14
+    }
+]

@@ -1,0 +1,6454 @@
+[
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:37:08.647Z",
+        "target": "BUTTON",
+        "x": 909,
+        "y": 28,
+        "timestamp_second": 0.0,
+        "relative_time": 0.0,
+        "index": 0
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:37:08.648Z",
+        "status": 0,
+        "timestamp_second": 0.001,
+        "relative_time": 1.8518518518518518e-05,
+        "index": 1
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:37:08.648Z",
+        "status": 1,
+        "timestamp_second": 0.001,
+        "relative_time": 1.8518518518518518e-05,
+        "index": 2
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 644.3374816018245,
+        "timestamp": "2024-10-18T02:37:08.649Z",
+        "duration": 0.386,
+        "timestamp_second": 0.002,
+        "relative_time": 3.7037037037037037e-05,
+        "index": 3
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:37:09.547Z",
+        "status": 0,
+        "timestamp_second": 0.9,
+        "relative_time": 0.016666666666666666,
+        "index": 4
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:37:12.043Z",
+        "duration": 9.518,
+        "timestamp_second": 3.396,
+        "relative_time": 0.06288888888888888,
+        "index": 5
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 510.6512015495773,
+        "timestamp": "2024-10-18T02:37:18.553Z",
+        "duration": 0.333,
+        "timestamp_second": 9.906,
+        "relative_time": 0.18344444444444447,
+        "index": 6
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:37:19.107Z",
+        "status": 1,
+        "timestamp_second": 10.46,
+        "relative_time": 0.1937037037037037,
+        "index": 7
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:37:19.333Z",
+        "target": "TEXTAREA",
+        "x": 509,
+        "y": 872,
+        "timestamp_second": 10.686,
+        "relative_time": 0.1978888888888889,
+        "index": 8
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:37:21.771Z",
+        "duration": 8.844,
+        "key_list": "Help me prepare a trip to Copenhagen in Denmark. ",
+        "keyCode_list": [
+            72,
+            101,
+            108,
+            112,
+            32,
+            109,
+            101,
+            32,
+            112,
+            114,
+            101,
+            112,
+            97,
+            114,
+            101,
+            32,
+            97,
+            32,
+            116,
+            114,
+            105,
+            112,
+            32,
+            116,
+            111,
+            32,
+            67,
+            111,
+            112,
+            101,
+            110,
+            104,
+            97,
+            103,
+            101,
+            110,
+            32,
+            105,
+            110,
+            32,
+            68,
+            101,
+            110,
+            109,
+            97,
+            114,
+            107,
+            46,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 49,
+        "timestamp_second": 13.124,
+        "relative_time": 0.24303703703703705,
+        "index": 9
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 619.4686311667128,
+        "timestamp": "2024-10-18T02:37:31.352Z",
+        "duration": 0.316,
+        "timestamp_second": 22.705,
+        "relative_time": 0.4204629629629629,
+        "index": 10
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:37:34.672Z",
+        "duration": 8.719,
+        "timestamp_second": 26.025,
+        "relative_time": 0.4819444444444444,
+        "index": 11
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 919.9551360649721,
+        "timestamp": "2024-10-18T02:37:40.387Z",
+        "duration": 2.179,
+        "timestamp_second": 31.74,
+        "relative_time": 0.5877777777777777,
+        "index": 12
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:37:45.581Z",
+        "duration": 6.593999999999999,
+        "timestamp_second": 36.934,
+        "relative_time": 0.683962962962963,
+        "index": 13
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:37:49.161Z",
+        "duration": 3.67,
+        "key_list": "I need to gather 6 ",
+        "keyCode_list": [
+            73,
+            32,
+            110,
+            101,
+            101,
+            100,
+            32,
+            116,
+            111,
+            32,
+            103,
+            97,
+            116,
+            104,
+            101,
+            114,
+            32,
+            54,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 19,
+        "timestamp_second": 40.514,
+        "relative_time": 0.7502592592592593,
+        "index": 14
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:37:55.840Z",
+        "duration": 3.052,
+        "timestamp_second": 47.193,
+        "relative_time": 0.8739444444444444,
+        "index": 15
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:37:55.883Z",
+        "duration": 3.57,
+        "key_list": "interesting spots ",
+        "keyCode_list": [
+            105,
+            110,
+            116,
+            101,
+            114,
+            101,
+            115,
+            116,
+            105,
+            110,
+            103,
+            32,
+            115,
+            112,
+            111,
+            116,
+            115,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 18,
+        "timestamp_second": 47.236,
+        "relative_time": 0.8747407407407407,
+        "index": 16
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:38:02.463Z",
+        "duration": 4.143,
+        "timestamp_second": 53.816,
+        "relative_time": 0.9965925925925927,
+        "index": 17
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:38:03.596Z",
+        "duration": 1.519,
+        "key_list": "to visia",
+        "keyCode_list": [
+            116,
+            111,
+            32,
+            118,
+            105,
+            115,
+            105,
+            97
+        ],
+        "target": "TEXTAREA",
+        "key_count": 8,
+        "timestamp_second": 54.949,
+        "relative_time": 1.017574074074074,
+        "index": 18
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:38:05.392Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 56.745,
+        "relative_time": 1.0508333333333333,
+        "index": 19
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:38:05.453Z",
+        "duration": 3.183,
+        "key_list": "t in",
+        "keyCode_list": [
+            116,
+            32,
+            105,
+            110
+        ],
+        "target": "TEXTAREA",
+        "key_count": 4,
+        "timestamp_second": 56.806,
+        "relative_time": 1.0519629629629628,
+        "index": 20
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:38:09.078Z",
+        "duration": 0.298,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 3,
+        "timestamp_second": 60.431,
+        "relative_time": 1.1190925925925925,
+        "index": 21
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:38:09.756Z",
+        "duration": 1.997,
+        "key_list": " so help e",
+        "keyCode_list": [
+            32,
+            115,
+            111,
+            32,
+            104,
+            101,
+            108,
+            112,
+            32,
+            101
+        ],
+        "target": "TEXTAREA",
+        "key_count": 10,
+        "timestamp_second": 61.109,
+        "relative_time": 1.1316481481481482,
+        "index": 22
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:38:12.242Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 63.595,
+        "relative_time": 1.177685185185185,
+        "index": 23
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:38:12.415Z",
+        "duration": 3.896,
+        "key_list": "me list some of them ",
+        "keyCode_list": [
+            109,
+            101,
+            32,
+            108,
+            105,
+            115,
+            116,
+            32,
+            115,
+            111,
+            109,
+            101,
+            32,
+            111,
+            102,
+            32,
+            116,
+            104,
+            101,
+            109,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 21,
+        "timestamp_second": 63.768,
+        "relative_time": 1.1808888888888889,
+        "index": 24
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:38:17.346Z",
+        "duration": 0.183,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 68.699,
+        "relative_time": 1.2722037037037037,
+        "index": 25
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:38:17.919Z",
+        "duration": 8.489,
+        "key_list": "a little more of them for me to choose and explain the res",
+        "keyCode_list": [
+            97,
+            32,
+            108,
+            105,
+            116,
+            116,
+            108,
+            101,
+            32,
+            109,
+            111,
+            114,
+            101,
+            32,
+            111,
+            102,
+            32,
+            116,
+            104,
+            101,
+            109,
+            32,
+            102,
+            111,
+            114,
+            32,
+            109,
+            101,
+            32,
+            116,
+            111,
+            32,
+            99,
+            104,
+            111,
+            111,
+            115,
+            101,
+            32,
+            97,
+            110,
+            100,
+            32,
+            101,
+            120,
+            112,
+            108,
+            97,
+            105,
+            110,
+            32,
+            116,
+            104,
+            101,
+            32,
+            114,
+            101,
+            115
+        ],
+        "target": "TEXTAREA",
+        "key_count": 58,
+        "timestamp_second": 69.272,
+        "relative_time": 1.2828148148148149,
+        "index": 26
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:38:26.802Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 78.155,
+        "relative_time": 1.4473148148148147,
+        "index": 27
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:38:26.876Z",
+        "duration": 0.419,
+        "key_list": "ason",
+        "keyCode_list": [
+            97,
+            115,
+            111,
+            110
+        ],
+        "target": "TEXTAREA",
+        "key_count": 4,
+        "timestamp_second": 78.229,
+        "relative_time": 1.4486851851851852,
+        "index": 28
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:38:30.309Z",
+        "duration": 3.1369999999999996,
+        "timestamp_second": 81.662,
+        "relative_time": 1.5122592592592594,
+        "index": 29
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:38:30.432Z",
+        "duration": 6.562,
+        "key_list": " and if you know admission pices and ",
+        "keyCode_list": [
+            32,
+            97,
+            110,
+            100,
+            32,
+            105,
+            102,
+            32,
+            121,
+            111,
+            117,
+            32,
+            107,
+            110,
+            111,
+            119,
+            32,
+            97,
+            100,
+            109,
+            105,
+            115,
+            115,
+            105,
+            111,
+            110,
+            32,
+            112,
+            105,
+            99,
+            101,
+            115,
+            32,
+            97,
+            110,
+            100,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 37,
+        "timestamp_second": 81.785,
+        "relative_time": 1.514537037037037,
+        "index": 30
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:38:37.416Z",
+        "duration": 1.351,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 9,
+        "timestamp_second": 88.769,
+        "relative_time": 1.6438703703703705,
+        "index": 31
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:38:38.913Z",
+        "duration": 3.58,
+        "key_list": "rices and opening days. ",
+        "keyCode_list": [
+            114,
+            105,
+            99,
+            101,
+            115,
+            32,
+            97,
+            110,
+            100,
+            32,
+            111,
+            112,
+            101,
+            110,
+            105,
+            110,
+            103,
+            32,
+            100,
+            97,
+            121,
+            115,
+            46,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 24,
+        "timestamp_second": 90.266,
+        "relative_time": 1.6715925925925925,
+        "index": 32
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1775.9273875833105,
+        "timestamp": "2024-10-18T02:38:43.676Z",
+        "duration": 1.823,
+        "timestamp_second": 95.029,
+        "relative_time": 1.759796296296296,
+        "index": 33
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:38:48.508Z",
+        "duration": 3.343,
+        "timestamp_second": 99.861,
+        "relative_time": 1.8492777777777778,
+        "index": 34
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 563.5325676615703,
+        "timestamp": "2024-10-18T02:38:48.842Z",
+        "duration": 0.466,
+        "timestamp_second": 100.195,
+        "relative_time": 1.8554629629629629,
+        "index": 35
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:38:49.879Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 101.232,
+        "relative_time": 1.8746666666666665,
+        "index": 36
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:38:51.141Z",
+        "duration": 2.136,
+        "key_list": "EnterHere is a ",
+        "keyCode_list": [
+            13,
+            72,
+            101,
+            114,
+            101,
+            32,
+            105,
+            115,
+            32,
+            97,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 11,
+        "timestamp_second": 102.494,
+        "relative_time": 1.898037037037037,
+        "index": 37
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:38:53.526Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 104.879,
+        "relative_time": 1.9422037037037037,
+        "index": 38
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:38:53.715Z",
+        "duration": 6.361,
+        "key_list": "n example of how you can format a location:",
+        "keyCode_list": [
+            110,
+            32,
+            101,
+            120,
+            97,
+            109,
+            112,
+            108,
+            101,
+            32,
+            111,
+            102,
+            32,
+            104,
+            111,
+            119,
+            32,
+            121,
+            111,
+            117,
+            32,
+            99,
+            97,
+            110,
+            32,
+            102,
+            111,
+            114,
+            109,
+            97,
+            116,
+            32,
+            97,
+            32,
+            108,
+            111,
+            99,
+            97,
+            116,
+            105,
+            111,
+            110,
+            58
+        ],
+        "target": "TEXTAREA",
+        "key_count": 43,
+        "timestamp_second": 105.068,
+        "relative_time": 1.9457037037037037,
+        "index": 39
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:39:00.312Z",
+        "duration": 3.431,
+        "key_list": "EnterLocation 1:",
+        "keyCode_list": [
+            13,
+            76,
+            111,
+            99,
+            97,
+            116,
+            105,
+            111,
+            110,
+            32,
+            49,
+            58
+        ],
+        "target": "TEXTAREA",
+        "key_count": 12,
+        "timestamp_second": 111.665,
+        "relative_time": 2.0678703703703705,
+        "index": 40
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:39:04.441Z",
+        "duration": 3.622,
+        "key_list": "Enter    location ",
+        "keyCode_list": [
+            13,
+            32,
+            32,
+            32,
+            32,
+            108,
+            111,
+            99,
+            97,
+            116,
+            105,
+            111,
+            110,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 14,
+        "timestamp_second": 115.794,
+        "relative_time": 2.144333333333333,
+        "index": 41
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:39:08.567Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 119.92,
+        "relative_time": 2.220740740740741,
+        "index": 42
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:39:08.802Z",
+        "duration": 1.282,
+        "key_list": ": UCLA",
+        "keyCode_list": [
+            58,
+            32,
+            85,
+            67,
+            76,
+            65
+        ],
+        "target": "TEXTAREA",
+        "key_count": 6,
+        "timestamp_second": 120.155,
+        "relative_time": 2.225092592592593,
+        "index": 43
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:39:10.572Z",
+        "duration": 0.674,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 5,
+        "timestamp_second": 121.925,
+        "relative_time": 2.25787037037037,
+        "index": 44
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:39:11.718Z",
+        "duration": 0.0,
+        "key_list": " ",
+        "keyCode_list": [
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 123.071,
+        "relative_time": 2.2790925925925927,
+        "index": 45
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:39:12.426Z",
+        "duration": 4.938,
+        "key_list": "Enter    reason:",
+        "keyCode_list": [
+            13,
+            32,
+            32,
+            32,
+            32,
+            114,
+            101,
+            97,
+            115,
+            111,
+            110,
+            58
+        ],
+        "target": "TEXTAREA",
+        "key_count": 12,
+        "timestamp_second": 123.779,
+        "relative_time": 2.2922037037037035,
+        "index": 46
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:39:17.655Z",
+        "duration": 2.29,
+        "key_list": "Enterprice:",
+        "keyCode_list": [
+            13,
+            112,
+            114,
+            105,
+            99,
+            101,
+            58
+        ],
+        "target": "TEXTAREA",
+        "key_count": 7,
+        "timestamp_second": 129.008,
+        "relative_time": 2.389037037037037,
+        "index": 47
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:39:20.506Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 131.859,
+        "relative_time": 2.4418333333333333,
+        "index": 48
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:39:23.516Z",
+        "duration": 4.9239999999999995,
+        "timestamp_second": 134.869,
+        "relative_time": 2.4975740740740737,
+        "index": 49
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:39:25.430Z",
+        "duration": 2.193,
+        "key_list": "opening days:",
+        "keyCode_list": [
+            111,
+            112,
+            101,
+            110,
+            105,
+            110,
+            103,
+            32,
+            100,
+            97,
+            121,
+            115,
+            58
+        ],
+        "target": "TEXTAREA",
+        "key_count": 13,
+        "timestamp_second": 136.783,
+        "relative_time": 2.533018518518518,
+        "index": 50
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:39:28.819Z",
+        "duration": 1.107,
+        "key_list": "Enter...",
+        "keyCode_list": [
+            13,
+            46,
+            46,
+            46
+        ],
+        "target": "TEXTAREA",
+        "key_count": 4,
+        "timestamp_second": 140.172,
+        "relative_time": 2.5957777777777777,
+        "index": 51
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1763.431529373789,
+        "timestamp": "2024-10-18T02:39:30.599Z",
+        "duration": 3.103,
+        "timestamp_second": 141.952,
+        "relative_time": 2.628740740740741,
+        "index": 52
+    },
+    {
+        "type": "firstNotNull",
+        "time": "18/10/2024 10:39:35",
+        "timestamp": "2024-10-18T02:39:35.000000Z",
+        "index": 53
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:39:35.153Z",
+        "target": "BUTTON",
+        "x": 828,
+        "y": 879,
+        "timestamp_second": 146.506,
+        "relative_time": 2.713074074074074,
+        "index": 54
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 746.9636249989471,
+        "timestamp": "2024-10-18T02:39:35.452Z",
+        "duration": 4.483,
+        "timestamp_second": 146.805,
+        "relative_time": 2.718611111111111,
+        "index": 55
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:39:42.940Z",
+        "duration": 3.199,
+        "timestamp_second": 154.293,
+        "relative_time": 2.857277777777778,
+        "index": 56
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 596.9202427245964,
+        "timestamp": "2024-10-18T02:39:43.134Z",
+        "duration": 0.559,
+        "timestamp_second": 154.487,
+        "relative_time": 2.86087037037037,
+        "index": 57
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:39:46.694Z",
+        "duration": 7.1739999999999995,
+        "timestamp_second": 158.047,
+        "relative_time": 2.926796296296296,
+        "index": 58
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1240.3361577297474,
+        "timestamp": "2024-10-18T02:39:50.867Z",
+        "duration": 2.936,
+        "timestamp_second": 162.22,
+        "relative_time": 3.004074074074074,
+        "index": 59
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:39:56.805Z",
+        "duration": 9.762,
+        "timestamp_second": 168.158,
+        "relative_time": 3.1140370370370367,
+        "index": 60
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 790.4460665538518,
+        "timestamp": "2024-10-18T02:40:03.566Z",
+        "duration": 0.809,
+        "timestamp_second": 174.919,
+        "relative_time": 3.2392407407407413,
+        "index": 61
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:40:04.773Z",
+        "target": "TEXTAREA",
+        "x": 499,
+        "y": 884,
+        "timestamp_second": 176.126,
+        "relative_time": 3.261592592592593,
+        "index": 62
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:40:05.692Z",
+        "duration": 2.017,
+        "key_list": "Rank these destio",
+        "keyCode_list": [
+            82,
+            97,
+            110,
+            107,
+            32,
+            116,
+            104,
+            101,
+            115,
+            101,
+            32,
+            100,
+            101,
+            115,
+            116,
+            105,
+            111
+        ],
+        "target": "TEXTAREA",
+        "key_count": 17,
+        "timestamp_second": 177.045,
+        "relative_time": 3.2786111111111107,
+        "index": 63
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:40:08.099Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 179.452,
+        "relative_time": 3.3231851851851855,
+        "index": 64
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:40:08.342Z",
+        "duration": 0.443,
+        "key_list": "nations",
+        "keyCode_list": [
+            110,
+            97,
+            116,
+            105,
+            111,
+            110,
+            115
+        ],
+        "target": "TEXTAREA",
+        "key_count": 7,
+        "timestamp_second": 179.695,
+        "relative_time": 3.3276851851851847,
+        "index": 65
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:40:09.537Z",
+        "duration": 0.0,
+        "key_list": [
+            "Delete"
+        ],
+        "key_count": 1,
+        "timestamp_second": 180.89,
+        "relative_time": 3.3498148148148146,
+        "index": 66
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:40:09.881Z",
+        "duration": 1.961,
+        "key_list": "Now r ",
+        "keyCode_list": [
+            78,
+            111,
+            119,
+            32,
+            114,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 6,
+        "timestamp_second": 181.234,
+        "relative_time": 3.356185185185186,
+        "index": 67
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:40:14.857Z",
+        "duration": 3.91,
+        "timestamp_second": 186.21,
+        "relative_time": 3.4483333333333337,
+        "index": 68
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:40:15.752Z",
+        "duration": 0.451,
+        "key_list": "for ",
+        "keyCode_list": [
+            102,
+            111,
+            114,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 4,
+        "timestamp_second": 187.105,
+        "relative_time": 3.4649074074074075,
+        "index": 69
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:40:16.757Z",
+        "duration": 0.439,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 4,
+        "timestamp_second": 188.11,
+        "relative_time": 3.4835185185185185,
+        "index": 70
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:40:18.213Z",
+        "duration": 0.093,
+        "key_list": "by ",
+        "keyCode_list": [
+            98,
+            121,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 3,
+        "timestamp_second": 189.566,
+        "relative_time": 3.5104814814814818,
+        "index": 71
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:40:21.319Z",
+        "duration": 3.3659999999999997,
+        "timestamp_second": 192.672,
+        "relative_time": 3.5679999999999996,
+        "index": 72
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:40:21.672Z",
+        "duration": 9.613,
+        "key_list": "relevance for a first time in this city to make the trip as exce",
+        "keyCode_list": [
+            114,
+            101,
+            108,
+            101,
+            118,
+            97,
+            110,
+            99,
+            101,
+            32,
+            102,
+            111,
+            114,
+            32,
+            97,
+            32,
+            102,
+            105,
+            114,
+            115,
+            116,
+            32,
+            116,
+            105,
+            109,
+            101,
+            32,
+            105,
+            110,
+            32,
+            116,
+            104,
+            105,
+            115,
+            32,
+            99,
+            105,
+            116,
+            121,
+            32,
+            116,
+            111,
+            32,
+            109,
+            97,
+            107,
+            101,
+            32,
+            116,
+            104,
+            101,
+            32,
+            116,
+            114,
+            105,
+            112,
+            32,
+            97,
+            115,
+            32,
+            101,
+            120,
+            99,
+            101
+        ],
+        "target": "TEXTAREA",
+        "key_count": 64,
+        "timestamp_second": 193.025,
+        "relative_time": 3.5745370370370373,
+        "index": 73
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:40:31.543Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 202.896,
+        "relative_time": 3.7573333333333334,
+        "index": 74
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:40:31.718Z",
+        "duration": 5.999,
+        "key_list": "iting and interesting as possible.",
+        "keyCode_list": [
+            105,
+            116,
+            105,
+            110,
+            103,
+            32,
+            97,
+            110,
+            100,
+            32,
+            105,
+            110,
+            116,
+            101,
+            114,
+            101,
+            115,
+            116,
+            105,
+            110,
+            103,
+            32,
+            97,
+            115,
+            32,
+            112,
+            111,
+            115,
+            115,
+            105,
+            98,
+            108,
+            101,
+            46
+        ],
+        "target": "TEXTAREA",
+        "key_count": 34,
+        "timestamp_second": 203.071,
+        "relative_time": 3.7605740740740736,
+        "index": 75
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 492.2531985439673,
+        "timestamp": "2024-10-18T02:40:39.376Z",
+        "duration": 0.1,
+        "timestamp_second": 210.729,
+        "relative_time": 3.9023888888888894,
+        "index": 76
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:40:42.484Z",
+        "duration": 3.1,
+        "timestamp_second": 213.837,
+        "relative_time": 3.9599444444444445,
+        "index": 77
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 554.1924174197266,
+        "timestamp": "2024-10-18T02:40:42.576Z",
+        "duration": 0.183,
+        "timestamp_second": 213.929,
+        "relative_time": 3.9616481481481483,
+        "index": 78
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:40:45.691Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 217.044,
+        "relative_time": 4.019333333333334,
+        "index": 79
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 398.0361316514336,
+        "timestamp": "2024-10-18T02:40:46.415Z",
+        "duration": 0.927,
+        "timestamp_second": 217.768,
+        "relative_time": 4.032740740740741,
+        "index": 80
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "18/10/2024 10:39:35",
+        "endTime": "18/10/2024 10:40:49",
+        "duration": 74557,
+        "timestamp": "2024-10-18T02:40:49.000000Z",
+        "index": 81
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:40:49.710Z",
+        "target": "BUTTON",
+        "x": 838,
+        "y": 896,
+        "timestamp_second": 221.063,
+        "relative_time": 4.093759259259259,
+        "index": 82
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 274.3204495220052,
+        "timestamp": "2024-10-18T02:40:50.041Z",
+        "duration": 1.933,
+        "timestamp_second": 221.394,
+        "relative_time": 4.099888888888889,
+        "index": 83
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:40:53.491Z",
+        "deltaY": 24,
+        "yDirection": 1,
+        "duration": 0.3,
+        "timestamp_second": 224.844,
+        "relative_time": 4.163777777777778,
+        "index": 84
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:40:54.643Z",
+        "deltaY": 34,
+        "yDirection": 1,
+        "duration": 0.264,
+        "timestamp_second": 225.996,
+        "relative_time": 4.185111111111111,
+        "index": 85
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:40:54.983Z",
+        "duration": 3.017,
+        "timestamp_second": 226.336,
+        "relative_time": 4.191407407407407,
+        "index": 86
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:40:54.991Z",
+        "deltaY": 1,
+        "yDirection": 1,
+        "duration": 0.017,
+        "timestamp_second": 226.344,
+        "relative_time": 4.1915555555555555,
+        "index": 87
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 88.77237266459997,
+        "timestamp": "2024-10-18T02:40:55.890Z",
+        "duration": 0.167,
+        "timestamp_second": 227.243,
+        "relative_time": 4.2082037037037034,
+        "index": 88
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:40:56.257Z",
+        "deltaY": 20,
+        "yDirection": 2,
+        "duration": 0.318,
+        "timestamp_second": 227.61,
+        "relative_time": 4.215,
+        "index": 89
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 139.38056122354465,
+        "timestamp": "2024-10-18T02:40:56.907Z",
+        "duration": 0.65,
+        "timestamp_second": 228.26,
+        "relative_time": 4.227037037037037,
+        "index": 90
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:40:58.141Z",
+        "deltaY": 13,
+        "yDirection": 2,
+        "duration": 0.349,
+        "timestamp_second": 229.494,
+        "relative_time": 4.249888888888889,
+        "index": 91
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:40:59.373Z",
+        "deltaY": 32,
+        "yDirection": 1,
+        "duration": 0.217,
+        "timestamp_second": 230.726,
+        "relative_time": 4.272703703703703,
+        "index": 92
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 128.29027979181774,
+        "timestamp": "2024-10-18T02:40:59.857Z",
+        "duration": 0.583,
+        "timestamp_second": 231.21,
+        "relative_time": 4.281666666666667,
+        "index": 93
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:41:01.007Z",
+        "deltaY": 53,
+        "yDirection": 2,
+        "duration": 0.25,
+        "timestamp_second": 232.36,
+        "relative_time": 4.3029629629629635,
+        "index": 94
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1260.9465549949855,
+        "timestamp": "2024-10-18T02:41:01.573Z",
+        "duration": 3.3,
+        "timestamp_second": 232.926,
+        "relative_time": 4.313444444444444,
+        "index": 95
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:41:05.173Z",
+        "deltaY": 250,
+        "yDirection": 2,
+        "duration": 0.366,
+        "timestamp_second": 236.526,
+        "relative_time": 4.380111111111111,
+        "index": 96
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 211.46220930044365,
+        "timestamp": "2024-10-18T02:41:05.689Z",
+        "duration": 0.184,
+        "timestamp_second": 237.042,
+        "relative_time": 4.389666666666667,
+        "index": 97
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:41:05.956Z",
+        "deltaY": 70,
+        "yDirection": 2,
+        "duration": 0.25,
+        "timestamp_second": 237.309,
+        "relative_time": 4.394611111111111,
+        "index": 98
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 92.71212301247942,
+        "timestamp": "2024-10-18T02:41:06.390Z",
+        "duration": 1.616,
+        "timestamp_second": 237.743,
+        "relative_time": 4.402648148148148,
+        "index": 99
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:41:08.356Z",
+        "deltaY": 1609,
+        "yDirection": 2,
+        "duration": 2.65,
+        "timestamp_second": 239.709,
+        "relative_time": 4.439055555555556,
+        "index": 100
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:41:11.007Z",
+        "duration": 3.016,
+        "timestamp_second": 242.36,
+        "relative_time": 4.488148148148149,
+        "index": 101
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:41:11.022Z",
+        "deltaY": 398,
+        "yDirection": 2,
+        "duration": 0.95,
+        "timestamp_second": 242.375,
+        "relative_time": 4.4884259259259265,
+        "index": 102
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 130.72049242354842,
+        "timestamp": "2024-10-18T02:41:12.218Z",
+        "duration": 0.546,
+        "timestamp_second": 243.571,
+        "relative_time": 4.510574074074074,
+        "index": 103
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:41:13.150Z",
+        "target": "STRONG",
+        "x": 477,
+        "y": 375,
+        "timestamp_second": 244.503,
+        "relative_time": 4.527833333333333,
+        "index": 104
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:41:13.374Z",
+        "text": "Amarienborg",
+        "highlightedTextLength": 11,
+        "timestamp_second": 244.727,
+        "relative_time": 4.531981481481481,
+        "index": 105
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:41:13.374Z",
+        "target": "STRONG",
+        "x": 477,
+        "y": 375,
+        "timestamp_second": 244.727,
+        "relative_time": 4.531981481481481,
+        "index": 106
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:41:16.112Z",
+        "text": "Amarienborg",
+        "textLength": 11,
+        "timestamp_second": 247.465,
+        "relative_time": 4.582685185185185,
+        "index": 107
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:41:16.189Z",
+        "duration": 3.246,
+        "timestamp_second": 247.542,
+        "relative_time": 4.5841111111111115,
+        "index": 108
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 435.54159274923586,
+        "timestamp": "2024-10-18T02:41:16.434Z",
+        "duration": 0.078,
+        "timestamp_second": 247.787,
+        "relative_time": 4.588648148148148,
+        "index": 109
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:41:17.181Z",
+        "status": 0,
+        "timestamp_second": 248.534,
+        "relative_time": 4.602481481481481,
+        "index": 110
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 422.95972976860503,
+        "timestamp": "2024-10-18T02:41:18.138Z",
+        "duration": 1.507,
+        "timestamp_second": 249.491,
+        "relative_time": 4.620203703703704,
+        "index": 111
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:41:19.943Z",
+        "status": 1,
+        "timestamp_second": 251.296,
+        "relative_time": 4.65362962962963,
+        "index": 112
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 179.21102490056728,
+        "timestamp": "2024-10-18T02:41:20.126Z",
+        "duration": 0.711,
+        "timestamp_second": 251.479,
+        "relative_time": 4.657018518518519,
+        "index": 113
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:41:21.058Z",
+        "text": "It's the home of the Danish royal family. You can watch the change of guard at 12:00.",
+        "highlightedTextLength": 85,
+        "timestamp_second": 252.411,
+        "relative_time": 4.674277777777778,
+        "index": 114
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:41:21.058Z",
+        "target": "P",
+        "x": 618,
+        "y": 415,
+        "timestamp_second": 252.411,
+        "relative_time": 4.674277777777778,
+        "index": 115
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:41:21.330Z",
+        "text": "It's the home of the Danish royal family. You can watch the change of guard at 12:00.",
+        "textLength": 85,
+        "timestamp_second": 252.683,
+        "relative_time": 4.6793148148148145,
+        "index": 116
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 508.4004866853611,
+        "timestamp": "2024-10-18T02:41:21.470Z",
+        "duration": 0.068,
+        "timestamp_second": 252.823,
+        "relative_time": 4.681907407407407,
+        "index": 117
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:41:22.101Z",
+        "status": 0,
+        "timestamp_second": 253.454,
+        "relative_time": 4.6935925925925925,
+        "index": 118
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 646.6468091726601,
+        "timestamp": "2024-10-18T02:41:22.554Z",
+        "duration": 0.7,
+        "timestamp_second": 253.907,
+        "relative_time": 4.701981481481482,
+        "index": 119
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:41:23.454Z",
+        "status": 1,
+        "timestamp_second": 254.807,
+        "relative_time": 4.718648148148148,
+        "index": 120
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 197.11394366739114,
+        "timestamp": "2024-10-18T02:41:23.602Z",
+        "duration": 0.635,
+        "timestamp_second": 254.955,
+        "relative_time": 4.721388888888889,
+        "index": 121
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:41:24.398Z",
+        "text": "$1.25 (reservation required)",
+        "highlightedTextLength": 28,
+        "timestamp_second": 255.751,
+        "relative_time": 4.736129629629629,
+        "index": 122
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:41:24.398Z",
+        "target": "P",
+        "x": 419,
+        "y": 437,
+        "timestamp_second": 255.751,
+        "relative_time": 4.736129629629629,
+        "index": 123
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:41:24.643Z",
+        "text": "$1.25 (reservation required)",
+        "textLength": 28,
+        "timestamp_second": 255.996,
+        "relative_time": 4.740666666666667,
+        "index": 124
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 401.7794545214674,
+        "timestamp": "2024-10-18T02:41:24.723Z",
+        "duration": 0.048,
+        "timestamp_second": 256.076,
+        "relative_time": 4.742148148148149,
+        "index": 125
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:41:25.455Z",
+        "status": 0,
+        "timestamp_second": 256.808,
+        "relative_time": 4.755703703703704,
+        "index": 126
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 439.5298830383472,
+        "timestamp": "2024-10-18T02:41:26.304Z",
+        "duration": 0.797,
+        "timestamp_second": 257.657,
+        "relative_time": 4.771425925925925,
+        "index": 127
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:41:27.355Z",
+        "status": 1,
+        "timestamp_second": 258.708,
+        "relative_time": 4.790888888888889,
+        "index": 128
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 51.3603166873545,
+        "timestamp": "2024-10-18T02:41:27.567Z",
+        "duration": 0.303,
+        "timestamp_second": 258.92,
+        "relative_time": 4.794814814814815,
+        "index": 129
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:41:28.213Z",
+        "text": "All week",
+        "highlightedTextLength": 8,
+        "timestamp_second": 259.566,
+        "relative_time": 4.806777777777778,
+        "index": 130
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:41:28.213Z",
+        "target": "P",
+        "x": 478,
+        "y": 471,
+        "timestamp_second": 259.566,
+        "relative_time": 4.806777777777778,
+        "index": 131
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:41:28.422Z",
+        "text": "All week",
+        "textLength": 8,
+        "timestamp_second": 259.775,
+        "relative_time": 4.810648148148148,
+        "index": 132
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 427.0727019117912,
+        "timestamp": "2024-10-18T02:41:28.516Z",
+        "duration": 0.049,
+        "timestamp_second": 259.869,
+        "relative_time": 4.81238888888889,
+        "index": 133
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:41:29.133Z",
+        "status": 0,
+        "timestamp_second": 260.486,
+        "relative_time": 4.823814814814815,
+        "index": 134
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 501.38486623495555,
+        "timestamp": "2024-10-18T02:41:30.137Z",
+        "duration": 0.116,
+        "timestamp_second": 261.49,
+        "relative_time": 4.842407407407408,
+        "index": 135
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:41:30.487Z",
+        "deltaY": 1904,
+        "yDirection": 1,
+        "duration": 1.617,
+        "timestamp_second": 261.84,
+        "relative_time": 4.848888888888888,
+        "index": 136
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:41:32.438Z",
+        "deltaY": 1119,
+        "yDirection": 2,
+        "duration": 0.716,
+        "timestamp_second": 263.791,
+        "relative_time": 4.885018518518518,
+        "index": 137
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:41:33.254Z",
+        "duration": 3.1189999999999998,
+        "timestamp_second": 264.607,
+        "relative_time": 4.90012962962963,
+        "index": 138
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 218.489322842619,
+        "timestamp": "2024-10-18T02:41:33.372Z",
+        "duration": 0.397,
+        "timestamp_second": 264.725,
+        "relative_time": 4.902314814814815,
+        "index": 139
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:41:34.064Z",
+        "status": 1,
+        "timestamp_second": 265.417,
+        "relative_time": 4.915129629629629,
+        "index": 140
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:41:34.174Z",
+        "target": "STRONG",
+        "x": 470,
+        "y": 587,
+        "timestamp_second": 265.527,
+        "relative_time": 4.917166666666666,
+        "index": 141
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:41:34.390Z",
+        "text": "Nyhavn",
+        "highlightedTextLength": 6,
+        "timestamp_second": 265.743,
+        "relative_time": 4.921166666666667,
+        "index": 142
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:41:34.390Z",
+        "target": "STRONG",
+        "x": 470,
+        "y": 587,
+        "timestamp_second": 265.743,
+        "relative_time": 4.921166666666667,
+        "index": 143
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:41:34.781Z",
+        "text": "Nyhavn",
+        "textLength": 6,
+        "timestamp_second": 266.134,
+        "relative_time": 4.928407407407407,
+        "index": 144
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 460.7097303236005,
+        "timestamp": "2024-10-18T02:41:34.851Z",
+        "duration": 0.08,
+        "timestamp_second": 266.204,
+        "relative_time": 4.929703703703703,
+        "index": 145
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:41:35.713Z",
+        "status": 0,
+        "timestamp_second": 267.066,
+        "relative_time": 4.945666666666666,
+        "index": 146
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 582.7045989117978,
+        "timestamp": "2024-10-18T02:41:36.202Z",
+        "duration": 1.35,
+        "timestamp_second": 267.555,
+        "relative_time": 4.954722222222222,
+        "index": 147
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:41:37.871Z",
+        "status": 1,
+        "timestamp_second": 269.224,
+        "relative_time": 4.98562962962963,
+        "index": 148
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 116.28687738770532,
+        "timestamp": "2024-10-18T02:41:38.098Z",
+        "duration": 1.137,
+        "timestamp_second": 269.451,
+        "relative_time": 4.989833333333333,
+        "index": 149
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:41:39.590Z",
+        "text": "It's one of Copenhagen's most iconic and picturesque areas, known for its colorful buildings and vibrant atmosphere.",
+        "highlightedTextLength": 116,
+        "timestamp_second": 270.943,
+        "relative_time": 5.017462962962963,
+        "index": 150
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:41:39.590Z",
+        "target": "P",
+        "x": 531,
+        "y": 646,
+        "timestamp_second": 270.943,
+        "relative_time": 5.017462962962963,
+        "index": 151
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 494.6688747150838,
+        "timestamp": "2024-10-18T02:41:40.015Z",
+        "duration": 0.08,
+        "timestamp_second": 271.368,
+        "relative_time": 5.025333333333333,
+        "index": 152
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:41:40.477Z",
+        "text": "It's one of Copenhagen's most iconic and picturesque areas, known for its colorful buildings and vibrant atmosphere.",
+        "textLength": 116,
+        "timestamp_second": 271.83,
+        "relative_time": 5.033888888888889,
+        "index": 153
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:41:40.935Z",
+        "status": 0,
+        "timestamp_second": 272.288,
+        "relative_time": 5.042370370370371,
+        "index": 154
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:41:43.099Z",
+        "duration": 5.3740000000000006,
+        "timestamp_second": 274.452,
+        "relative_time": 5.0824444444444445,
+        "index": 155
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 335.5810552340772,
+        "timestamp": "2024-10-18T02:41:45.469Z",
+        "duration": 0.099,
+        "timestamp_second": 276.822,
+        "relative_time": 5.126333333333333,
+        "index": 156
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:41:45.818Z",
+        "deltaY": 1034,
+        "yDirection": 1,
+        "duration": 2.317,
+        "timestamp_second": 277.171,
+        "relative_time": 5.132796296296297,
+        "index": 157
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:41:48.574Z",
+        "duration": 3.033,
+        "timestamp_second": 279.927,
+        "relative_time": 5.183833333333334,
+        "index": 158
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:41:48.601Z",
+        "deltaY": 688,
+        "yDirection": 2,
+        "duration": 0.633,
+        "timestamp_second": 279.954,
+        "relative_time": 5.184333333333333,
+        "index": 159
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 182.58554109460238,
+        "timestamp": "2024-10-18T02:41:49.627Z",
+        "duration": 0.44,
+        "timestamp_second": 280.98,
+        "relative_time": 5.203333333333333,
+        "index": 160
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:41:50.234Z",
+        "deltaY": 389,
+        "yDirection": 2,
+        "duration": 0.317,
+        "timestamp_second": 281.587,
+        "relative_time": 5.214574074074074,
+        "index": 161
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 314.78631751587454,
+        "timestamp": "2024-10-18T02:41:50.697Z",
+        "duration": 0.446,
+        "timestamp_second": 282.05,
+        "relative_time": 5.223148148148148,
+        "index": 162
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:41:51.250Z",
+        "deltaY": 453,
+        "yDirection": 2,
+        "duration": 1.184,
+        "timestamp_second": 282.603,
+        "relative_time": 5.233388888888888,
+        "index": 163
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 131.33308461351044,
+        "timestamp": "2024-10-18T02:41:52.881Z",
+        "duration": 0.869,
+        "timestamp_second": 284.234,
+        "relative_time": 5.263592592592592,
+        "index": 164
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:41:53.975Z",
+        "status": 1,
+        "timestamp_second": 285.328,
+        "relative_time": 5.283851851851852,
+        "index": 165
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:41:54.108Z",
+        "target": "STRONG",
+        "x": 457,
+        "y": 375,
+        "timestamp_second": 285.461,
+        "relative_time": 5.286314814814816,
+        "index": 166
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 187.08168272857802,
+        "timestamp": "2024-10-18T02:41:54.283Z",
+        "duration": 0.317,
+        "timestamp_second": 285.636,
+        "relative_time": 5.289555555555555,
+        "index": 167
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:41:54.734Z",
+        "text": "The Little Mermaid Statue",
+        "highlightedTextLength": 25,
+        "timestamp_second": 286.087,
+        "relative_time": 5.297907407407408,
+        "index": 168
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:41:54.734Z",
+        "target": "P",
+        "x": 651,
+        "y": 373,
+        "timestamp_second": 286.087,
+        "relative_time": 5.297907407407408,
+        "index": 169
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 623.5464518661029,
+        "timestamp": "2024-10-18T02:41:55.080Z",
+        "duration": 0.1,
+        "timestamp_second": 286.433,
+        "relative_time": 5.3043148148148145,
+        "index": 170
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:41:55.221Z",
+        "text": "The Little Mermaid Statue",
+        "textLength": 25,
+        "timestamp_second": 286.574,
+        "relative_time": 5.306925925925926,
+        "index": 171
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:41:56.005Z",
+        "status": 0,
+        "timestamp_second": 287.358,
+        "relative_time": 5.321444444444444,
+        "index": 172
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 556.8416690473896,
+        "timestamp": "2024-10-18T02:41:56.551Z",
+        "duration": 2.432,
+        "timestamp_second": 287.904,
+        "relative_time": 5.331555555555555,
+        "index": 173
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:41:59.240Z",
+        "status": 1,
+        "timestamp_second": 290.593,
+        "relative_time": 5.381351851851853,
+        "index": 174
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 167.03571378487686,
+        "timestamp": "2024-10-18T02:41:59.397Z",
+        "duration": 1.069,
+        "timestamp_second": 290.75,
+        "relative_time": 5.3842592592592595,
+        "index": 175
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:42:00.609Z",
+        "text": "It's a character from Grimm's Fairy Tales and a symbol of Copenhagen.",
+        "highlightedTextLength": 69,
+        "timestamp_second": 291.962,
+        "relative_time": 5.406703703703704,
+        "index": 176
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:42:00.609Z",
+        "target": "P",
+        "x": 553,
+        "y": 417,
+        "timestamp_second": 291.962,
+        "relative_time": 5.406703703703704,
+        "index": 177
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 65.2334395841026,
+        "timestamp": "2024-10-18T02:42:01.170Z",
+        "duration": 0.018,
+        "timestamp_second": 292.523,
+        "relative_time": 5.417092592592593,
+        "index": 178
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:42:01.188Z",
+        "text": "It's a character from Grimm's Fairy Tales and a symbol of Copenhagen.",
+        "textLength": 69,
+        "timestamp_second": 292.541,
+        "relative_time": 5.417425925925926,
+        "index": 179
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 351.2219531360133,
+        "timestamp": "2024-10-18T02:42:01.199Z",
+        "duration": 0.05,
+        "timestamp_second": 292.552,
+        "relative_time": 5.41762962962963,
+        "index": 180
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:42:02.269Z",
+        "status": 0,
+        "timestamp_second": 293.622,
+        "relative_time": 5.437444444444445,
+        "index": 181
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1004.7795239207262,
+        "timestamp": "2024-10-18T02:42:02.901Z",
+        "duration": 0.615,
+        "timestamp_second": 294.254,
+        "relative_time": 5.449148148148149,
+        "index": 182
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:42:06.527Z",
+        "duration": 3.553,
+        "timestamp_second": 297.88,
+        "relative_time": 5.5162962962962965,
+        "index": 183
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 656.4383363730667,
+        "timestamp": "2024-10-18T02:42:07.069Z",
+        "duration": 0.129,
+        "timestamp_second": 298.422,
+        "relative_time": 5.5263333333333335,
+        "index": 184
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:42:07.465Z",
+        "deltaY": 1759,
+        "yDirection": 1,
+        "duration": 2.683,
+        "timestamp_second": 298.818,
+        "relative_time": 5.533666666666667,
+        "index": 185
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:42:10.207Z",
+        "duration": 3.484,
+        "timestamp_second": 301.56,
+        "relative_time": 5.584444444444444,
+        "index": 186
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 122.3925572996086,
+        "timestamp": "2024-10-18T02:42:10.682Z",
+        "duration": 0.116,
+        "timestamp_second": 302.035,
+        "relative_time": 5.593240740740741,
+        "index": 187
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:42:10.948Z",
+        "deltaY": 809,
+        "yDirection": 2,
+        "duration": 0.233,
+        "timestamp_second": 302.301,
+        "relative_time": 5.598166666666667,
+        "index": 188
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:42:11.231Z",
+        "deltaY": 1,
+        "yDirection": 1,
+        "duration": 0.034,
+        "timestamp_second": 302.584,
+        "relative_time": 5.603407407407408,
+        "index": 189
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:42:11.915Z",
+        "deltaY": 625,
+        "yDirection": 2,
+        "duration": 1.432,
+        "timestamp_second": 303.268,
+        "relative_time": 5.616074074074073,
+        "index": 190
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 205.9263164802942,
+        "timestamp": "2024-10-18T02:42:13.614Z",
+        "duration": 0.433,
+        "timestamp_second": 304.967,
+        "relative_time": 5.647537037037037,
+        "index": 191
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:42:14.379Z",
+        "status": 1,
+        "timestamp_second": 305.732,
+        "relative_time": 5.661703703703704,
+        "index": 192
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:42:14.531Z",
+        "target": "STRONG",
+        "x": 492,
+        "y": 516,
+        "timestamp_second": 305.884,
+        "relative_time": 5.664518518518519,
+        "index": 193
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 89.42640929685149,
+        "timestamp": "2024-10-18T02:42:14.714Z",
+        "duration": 0.201,
+        "timestamp_second": 306.067,
+        "relative_time": 5.667907407407408,
+        "index": 194
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:42:15.055Z",
+        "text": "Christiansborg Palace",
+        "highlightedTextLength": 21,
+        "timestamp_second": 306.408,
+        "relative_time": 5.674222222222222,
+        "index": 195
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:42:15.055Z",
+        "target": "P",
+        "x": 598,
+        "y": 521,
+        "timestamp_second": 306.408,
+        "relative_time": 5.674222222222222,
+        "index": 196
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 17.0,
+        "timestamp": "2024-10-18T02:42:15.452Z",
+        "duration": 0.008,
+        "timestamp_second": 306.805,
+        "relative_time": 5.681574074074074,
+        "index": 197
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:42:15.460Z",
+        "text": "Christiansborg Palace",
+        "textLength": 21,
+        "timestamp_second": 306.813,
+        "relative_time": 5.681722222222222,
+        "index": 198
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 476.35582461866943,
+        "timestamp": "2024-10-18T02:42:15.480Z",
+        "duration": 0.064,
+        "timestamp_second": 306.833,
+        "relative_time": 5.682092592592593,
+        "index": 199
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:42:16.629Z",
+        "status": 0,
+        "timestamp_second": 307.982,
+        "relative_time": 5.703370370370371,
+        "index": 200
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:42:18.555Z",
+        "duration": 3.219,
+        "timestamp_second": 309.908,
+        "relative_time": 5.739037037037038,
+        "index": 201
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 560.9923913326347,
+        "timestamp": "2024-10-18T02:42:18.764Z",
+        "duration": 0.85,
+        "timestamp_second": 310.117,
+        "relative_time": 5.742907407407408,
+        "index": 202
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:42:19.909Z",
+        "status": 1,
+        "timestamp_second": 311.262,
+        "relative_time": 5.764111111111111,
+        "index": 203
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:42:20.063Z",
+        "target": "P",
+        "x": 438,
+        "y": 547,
+        "timestamp_second": 311.416,
+        "relative_time": 5.766962962962962,
+        "index": 204
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 256.2012190787682,
+        "timestamp": "2024-10-18T02:42:20.230Z",
+        "duration": 0.916,
+        "timestamp_second": 311.583,
+        "relative_time": 5.770055555555556,
+        "index": 205
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:42:21.283Z",
+        "text": "It's one of the most significant landmarks in Copenhagen, both historically and politically.",
+        "highlightedTextLength": 92,
+        "timestamp_second": 312.636,
+        "relative_time": 5.789555555555556,
+        "index": 206
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:42:21.283Z",
+        "target": "P",
+        "x": 695,
+        "y": 558,
+        "timestamp_second": 312.636,
+        "relative_time": 5.789555555555556,
+        "index": 207
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 639.5236357911599,
+        "timestamp": "2024-10-18T02:42:21.663Z",
+        "duration": 0.19,
+        "timestamp_second": 313.016,
+        "relative_time": 5.796592592592593,
+        "index": 208
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:42:21.853Z",
+        "text": "It's one of the most significant landmarks in Copenhagen, both historically and politically.",
+        "textLength": 92,
+        "timestamp_second": 313.206,
+        "relative_time": 5.800111111111112,
+        "index": 209
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 21.09502310973039,
+        "timestamp": "2024-10-18T02:42:22.133Z",
+        "duration": 0.013,
+        "timestamp_second": 313.486,
+        "relative_time": 5.805296296296296,
+        "index": 210
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:42:22.815Z",
+        "status": 0,
+        "timestamp_second": 314.168,
+        "relative_time": 5.817925925925927,
+        "index": 211
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1169.9870518338284,
+        "timestamp": "2024-10-18T02:42:24.632Z",
+        "duration": 0.94,
+        "timestamp_second": 315.985,
+        "relative_time": 5.851574074074074,
+        "index": 212
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:42:28.582Z",
+        "duration": 6.307,
+        "timestamp_second": 319.935,
+        "relative_time": 5.924722222222222,
+        "index": 213
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 371.85950453268015,
+        "timestamp": "2024-10-18T02:42:31.879Z",
+        "duration": 0.099,
+        "timestamp_second": 323.232,
+        "relative_time": 5.985777777777778,
+        "index": 214
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:42:32.296Z",
+        "deltaY": 1492,
+        "yDirection": 1,
+        "duration": 1.049,
+        "timestamp_second": 323.649,
+        "relative_time": 5.9935,
+        "index": 215
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 85.0448097626504,
+        "timestamp": "2024-10-18T02:42:33.691Z",
+        "duration": 0.137,
+        "timestamp_second": 325.044,
+        "relative_time": 6.019333333333333,
+        "index": 216
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:42:34.129Z",
+        "deltaY": 37,
+        "yDirection": 1,
+        "duration": 0.333,
+        "timestamp_second": 325.482,
+        "relative_time": 6.027444444444445,
+        "index": 217
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:42:35.090Z",
+        "deltaY": 89,
+        "yDirection": 1,
+        "duration": 0.305,
+        "timestamp_second": 326.443,
+        "relative_time": 6.0452407407407405,
+        "index": 218
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:42:35.495Z",
+        "deltaY": 992,
+        "yDirection": 2,
+        "duration": 1.0,
+        "timestamp_second": 326.848,
+        "relative_time": 6.052740740740741,
+        "index": 219
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:42:36.511Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 327.864,
+        "relative_time": 6.071555555555555,
+        "index": 220
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:42:36.835Z",
+        "duration": 3.2230000000000003,
+        "timestamp_second": 328.188,
+        "relative_time": 6.077555555555556,
+        "index": 221
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 49.19803902718559,
+        "timestamp": "2024-10-18T02:42:37.051Z",
+        "duration": 0.166,
+        "timestamp_second": 328.404,
+        "relative_time": 6.081555555555555,
+        "index": 222
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:42:37.278Z",
+        "deltaY": 376,
+        "yDirection": 2,
+        "duration": 0.283,
+        "timestamp_second": 328.631,
+        "relative_time": 6.085759259259259,
+        "index": 223
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 57.682477156420646,
+        "timestamp": "2024-10-18T02:42:37.927Z",
+        "duration": 0.201,
+        "timestamp_second": 329.28,
+        "relative_time": 6.097777777777777,
+        "index": 224
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:42:38.178Z",
+        "deltaY": 128,
+        "yDirection": 2,
+        "duration": 0.217,
+        "timestamp_second": 329.531,
+        "relative_time": 6.1024259259259255,
+        "index": 225
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 22.048627177537128,
+        "timestamp": "2024-10-18T02:42:38.559Z",
+        "duration": 0.252,
+        "timestamp_second": 329.912,
+        "relative_time": 6.109481481481481,
+        "index": 226
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:42:39.007Z",
+        "status": 1,
+        "timestamp_second": 330.36,
+        "relative_time": 6.117777777777778,
+        "index": 227
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:42:39.147Z",
+        "target": "STRONG",
+        "x": 472,
+        "y": 511,
+        "timestamp_second": 330.5,
+        "relative_time": 6.12037037037037,
+        "index": 228
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 164.14282394584006,
+        "timestamp": "2024-10-18T02:42:39.294Z",
+        "duration": 0.3,
+        "timestamp_second": 330.647,
+        "relative_time": 6.1230925925925925,
+        "index": 229
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:42:39.736Z",
+        "text": "National Museum of Denmark",
+        "highlightedTextLength": 26,
+        "timestamp_second": 331.089,
+        "relative_time": 6.131277777777778,
+        "index": 230
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:42:39.736Z",
+        "target": "STRONG",
+        "x": 652,
+        "y": 517,
+        "timestamp_second": 331.089,
+        "relative_time": 6.131277777777778,
+        "index": 231
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 603.0036349942966,
+        "timestamp": "2024-10-18T02:42:40.017Z",
+        "duration": 0.071,
+        "timestamp_second": 331.37,
+        "relative_time": 6.136481481481482,
+        "index": 232
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:42:40.156Z",
+        "text": "National Museum of Denmark",
+        "textLength": 26,
+        "timestamp_second": 331.509,
+        "relative_time": 6.139055555555556,
+        "index": 233
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:42:40.958Z",
+        "status": 0,
+        "timestamp_second": 332.311,
+        "relative_time": 6.153907407407408,
+        "index": 234
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 478.4290991736343,
+        "timestamp": "2024-10-18T02:42:42.744Z",
+        "duration": 0.866,
+        "timestamp_second": 334.097,
+        "relative_time": 6.186981481481481,
+        "index": 235
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:42:43.835Z",
+        "status": 1,
+        "timestamp_second": 335.188,
+        "relative_time": 6.207185185185185,
+        "index": 236
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:42:43.995Z",
+        "target": "P",
+        "x": 444,
+        "y": 544,
+        "timestamp_second": 335.348,
+        "relative_time": 6.210148148148149,
+        "index": 237
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 167.21195647012064,
+        "timestamp": "2024-10-18T02:42:44.177Z",
+        "duration": 0.417,
+        "timestamp_second": 335.53,
+        "relative_time": 6.213518518518518,
+        "index": 238
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:42:44.671Z",
+        "text": "It's the country’s largest cultural history museum, showcasing Denmark’s rich history.",
+        "highlightedTextLength": 86,
+        "timestamp_second": 336.024,
+        "relative_time": 6.222666666666667,
+        "index": 239
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:42:44.671Z",
+        "target": "P",
+        "x": 613,
+        "y": 564,
+        "timestamp_second": 336.024,
+        "relative_time": 6.222666666666667,
+        "index": 240
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:42:44.960Z",
+        "text": "It's the country’s largest cultural history museum, showcasing Denmark’s rich history.",
+        "textLength": 86,
+        "timestamp_second": 336.313,
+        "relative_time": 6.228018518518518,
+        "index": 241
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 548.8620106381932,
+        "timestamp": "2024-10-18T02:42:44.980Z",
+        "duration": 0.064,
+        "timestamp_second": 336.333,
+        "relative_time": 6.228388888888889,
+        "index": 242
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:42:45.749Z",
+        "status": 0,
+        "timestamp_second": 337.102,
+        "relative_time": 6.242629629629629,
+        "index": 243
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 494.4239350721473,
+        "timestamp": "2024-10-18T02:42:47.429Z",
+        "duration": 1.013,
+        "timestamp_second": 338.782,
+        "relative_time": 6.273740740740741,
+        "index": 244
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:42:48.747Z",
+        "status": 1,
+        "timestamp_second": 340.1,
+        "relative_time": 6.298148148148148,
+        "index": 245
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 43.0,
+        "timestamp": "2024-10-18T02:42:48.873Z",
+        "duration": 0.186,
+        "timestamp_second": 340.226,
+        "relative_time": 6.300481481481482,
+        "index": 246
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:42:49.060Z",
+        "text": "$10",
+        "highlightedTextLength": 3,
+        "timestamp_second": 340.413,
+        "relative_time": 6.303944444444444,
+        "index": 247
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:42:49.060Z",
+        "target": "P",
+        "x": 470,
+        "y": 579,
+        "timestamp_second": 340.413,
+        "relative_time": 6.303944444444444,
+        "index": 248
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:42:49.388Z",
+        "text": "$10",
+        "textLength": 3,
+        "timestamp_second": 340.741,
+        "relative_time": 6.310018518518517,
+        "index": 249
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 359.07561634958256,
+        "timestamp": "2024-10-18T02:42:49.406Z",
+        "duration": 0.064,
+        "timestamp_second": 340.759,
+        "relative_time": 6.310351851851852,
+        "index": 250
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:42:50.260Z",
+        "status": 0,
+        "timestamp_second": 341.613,
+        "relative_time": 6.326166666666666,
+        "index": 251
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:42:52.472Z",
+        "duration": 6.638,
+        "timestamp_second": 343.825,
+        "relative_time": 6.36712962962963,
+        "index": 252
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 279.60236016305134,
+        "timestamp": "2024-10-18T02:42:56.108Z",
+        "duration": 0.101,
+        "timestamp_second": 347.461,
+        "relative_time": 6.434462962962963,
+        "index": 253
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:42:56.367Z",
+        "deltaY": 1489,
+        "yDirection": 1,
+        "duration": 2.059,
+        "timestamp_second": 347.72,
+        "relative_time": 6.43925925925926,
+        "index": 254
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 93.18625102475926,
+        "timestamp": "2024-10-18T02:42:58.571Z",
+        "duration": 0.354,
+        "timestamp_second": 349.924,
+        "relative_time": 6.480074074074074,
+        "index": 255
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:42:59.175Z",
+        "deltaY": 808,
+        "yDirection": 2,
+        "duration": 0.25,
+        "timestamp_second": 350.528,
+        "relative_time": 6.491259259259259,
+        "index": 256
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:42:59.441Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 350.794,
+        "relative_time": 6.496185185185185,
+        "index": 257
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:42:59.475Z",
+        "deltaY": 275,
+        "yDirection": 2,
+        "duration": 0.951,
+        "timestamp_second": 350.828,
+        "relative_time": 6.496814814814815,
+        "index": 258
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 175.62611644444405,
+        "timestamp": "2024-10-18T02:43:00.554Z",
+        "duration": 0.471,
+        "timestamp_second": 351.907,
+        "relative_time": 6.516796296296295,
+        "index": 259
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:43:01.217Z",
+        "status": 1,
+        "timestamp_second": 352.57,
+        "relative_time": 6.5290740740740745,
+        "index": 260
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:43:01.349Z",
+        "target": "STRONG",
+        "x": 459,
+        "y": 467,
+        "timestamp_second": 352.702,
+        "relative_time": 6.531518518518518,
+        "index": 261
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 55.784571026379126,
+        "timestamp": "2024-10-18T02:43:01.508Z",
+        "duration": 0.133,
+        "timestamp_second": 352.861,
+        "relative_time": 6.534462962962963,
+        "index": 262
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:43:01.772Z",
+        "text": "Tivoli Gardens",
+        "highlightedTextLength": 14,
+        "timestamp_second": 353.125,
+        "relative_time": 6.539351851851852,
+        "index": 263
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:43:01.772Z",
+        "target": "P",
+        "x": 526,
+        "y": 481,
+        "timestamp_second": 353.125,
+        "relative_time": 6.539351851851852,
+        "index": 264
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 481.1969530039132,
+        "timestamp": "2024-10-18T02:43:02.083Z",
+        "duration": 0.049,
+        "timestamp_second": 353.436,
+        "relative_time": 6.545111111111111,
+        "index": 265
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:43:02.185Z",
+        "text": "Tivoli Gardens",
+        "textLength": 14,
+        "timestamp_second": 353.538,
+        "relative_time": 6.547,
+        "index": 266
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:43:02.865Z",
+        "status": 0,
+        "timestamp_second": 354.218,
+        "relative_time": 6.559592592592593,
+        "index": 267
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 982.3352194953695,
+        "timestamp": "2024-10-18T02:43:03.261Z",
+        "duration": 0.863,
+        "timestamp_second": 354.614,
+        "relative_time": 6.566925925925926,
+        "index": 268
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:43:04.327Z",
+        "status": 1,
+        "timestamp_second": 355.68,
+        "relative_time": 6.586666666666667,
+        "index": 269
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:43:04.488Z",
+        "target": "P",
+        "x": 455,
+        "y": 497,
+        "timestamp_second": 355.841,
+        "relative_time": 6.589648148148148,
+        "index": 270
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 212.66897433661507,
+        "timestamp": "2024-10-18T02:43:04.641Z",
+        "duration": 0.383,
+        "timestamp_second": 355.994,
+        "relative_time": 6.5924814814814825,
+        "index": 271
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:43:05.193Z",
+        "text": "Known for its enchanting atmosphere, beautiful gardens, and thrilling amusement park rides.",
+        "highlightedTextLength": 91,
+        "timestamp_second": 356.546,
+        "relative_time": 6.602703703703703,
+        "index": 272
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:43:05.193Z",
+        "target": "P",
+        "x": 674,
+        "y": 511,
+        "timestamp_second": 356.546,
+        "relative_time": 6.602703703703703,
+        "index": 273
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 561.6688969044117,
+        "timestamp": "2024-10-18T02:43:05.494Z",
+        "duration": 0.08,
+        "timestamp_second": 356.847,
+        "relative_time": 6.608277777777777,
+        "index": 274
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:43:05.578Z",
+        "text": "Known for its enchanting atmosphere, beautiful gardens, and thrilling amusement park rides.",
+        "textLength": 91,
+        "timestamp_second": 356.931,
+        "relative_time": 6.609833333333333,
+        "index": 275
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:43:06.478Z",
+        "status": 0,
+        "timestamp_second": 357.831,
+        "relative_time": 6.6265,
+        "index": 276
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:43:08.598Z",
+        "duration": 9.017,
+        "timestamp_second": 359.951,
+        "relative_time": 6.66575925925926,
+        "index": 277
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 416.85016274889495,
+        "timestamp": "2024-10-18T02:43:14.609Z",
+        "duration": 0.147,
+        "timestamp_second": 365.962,
+        "relative_time": 6.777074074074074,
+        "index": 278
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:43:15.107Z",
+        "deltaY": 1275,
+        "yDirection": 1,
+        "duration": 1.275,
+        "timestamp_second": 366.46,
+        "relative_time": 6.786296296296296,
+        "index": 279
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:43:16.889Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "duration": 0.333,
+        "timestamp_second": 368.242,
+        "relative_time": 6.819296296296297,
+        "index": 280
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:43:17.761Z",
+        "duration": 3.014,
+        "timestamp_second": 369.114,
+        "relative_time": 6.835444444444444,
+        "index": 281
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 309.1538834750172,
+        "timestamp": "2024-10-18T02:43:17.770Z",
+        "duration": 1.002,
+        "timestamp_second": 369.123,
+        "relative_time": 6.835611111111111,
+        "index": 282
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:43:19.015Z",
+        "status": 1,
+        "timestamp_second": 370.368,
+        "relative_time": 6.858666666666667,
+        "index": 283
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:43:19.229Z",
+        "target": "TEXTAREA",
+        "x": 533,
+        "y": 844,
+        "timestamp_second": 370.582,
+        "relative_time": 6.862629629629629,
+        "index": 284
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 185.12809925997135,
+        "timestamp": "2024-10-18T02:43:19.415Z",
+        "duration": 0.173,
+        "timestamp_second": 370.768,
+        "relative_time": 6.866074074074073,
+        "index": 285
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:43:19.772Z",
+        "deltaY": 54,
+        "yDirection": 2,
+        "duration": 0.633,
+        "timestamp_second": 371.125,
+        "relative_time": 6.872685185185186,
+        "index": 286
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:43:20.556Z",
+        "deltaY": 137,
+        "yDirection": 1,
+        "duration": 0.299,
+        "timestamp_second": 371.909,
+        "relative_time": 6.887203703703704,
+        "index": 287
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:43:21.597Z",
+        "duration": 5.274,
+        "key_list": "I can only explore 6 location, ",
+        "keyCode_list": [
+            73,
+            32,
+            99,
+            97,
+            110,
+            32,
+            111,
+            110,
+            108,
+            121,
+            32,
+            101,
+            120,
+            112,
+            108,
+            111,
+            114,
+            101,
+            32,
+            54,
+            32,
+            108,
+            111,
+            99,
+            97,
+            116,
+            105,
+            111,
+            110,
+            44,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 31,
+        "timestamp_second": 372.95,
+        "relative_time": 6.906481481481482,
+        "index": 288
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:43:29.874Z",
+        "duration": 3.644,
+        "timestamp_second": 381.227,
+        "relative_time": 7.059759259259259,
+        "index": 289
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:43:30.515Z",
+        "status": 0,
+        "timestamp_second": 381.868,
+        "relative_time": 7.071629629629629,
+        "index": 290
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T02:43:30.522Z",
+        "isHidden": true,
+        "timestamp_second": 381.875,
+        "relative_time": 7.0717592592592595,
+        "index": 291
+    },
+    {
+        "type": "visibilityChange",
+        "timestamp": "2024-10-18T02:43:33.598Z",
+        "isHidden": false,
+        "timestamp_second": 384.951,
+        "relative_time": 7.128722222222223,
+        "index": 292
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:43:33.599Z",
+        "status": 1,
+        "timestamp_second": 384.952,
+        "relative_time": 7.128740740740741,
+        "index": 293
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 874.6247098985987,
+        "timestamp": "2024-10-18T02:43:33.920Z",
+        "duration": 0.35,
+        "timestamp_second": 385.273,
+        "relative_time": 7.134685185185186,
+        "index": 294
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:43:34.854Z",
+        "duration": 3.626,
+        "key_list": "have time to ",
+        "keyCode_list": [
+            104,
+            97,
+            118,
+            101,
+            32,
+            116,
+            105,
+            109,
+            101,
+            32,
+            116,
+            111,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 13,
+        "timestamp_second": 386.207,
+        "relative_time": 7.1519814814814815,
+        "index": 295
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:43:39.180Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 390.533,
+        "relative_time": 7.2320925925925925,
+        "index": 296
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:43:40.784Z",
+        "duration": 0.158,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 392.137,
+        "relative_time": 7.261796296296296,
+        "index": 297
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:43:41.071Z",
+        "duration": 0.097,
+        "key_list": "s ",
+        "keyCode_list": [
+            115,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 2,
+        "timestamp_second": 392.424,
+        "relative_time": 7.26711111111111,
+        "index": 298
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:43:41.441Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 392.794,
+        "relative_time": 7.273962962962963,
+        "index": 299
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:43:41.672Z",
+        "duration": 5.701,
+        "key_list": ", help me pick them for me as I don't t",
+        "keyCode_list": [
+            44,
+            32,
+            104,
+            101,
+            108,
+            112,
+            32,
+            109,
+            101,
+            32,
+            112,
+            105,
+            99,
+            107,
+            32,
+            116,
+            104,
+            101,
+            109,
+            32,
+            102,
+            111,
+            114,
+            32,
+            109,
+            101,
+            32,
+            97,
+            115,
+            32,
+            73,
+            32,
+            100,
+            111,
+            110,
+            39,
+            116,
+            32,
+            116
+        ],
+        "target": "TEXTAREA",
+        "key_count": 39,
+        "timestamp_second": 393.025,
+        "relative_time": 7.278240740740741,
+        "index": 300
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:43:47.598Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 398.951,
+        "relative_time": 7.387981481481481,
+        "index": 301
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:43:47.785Z",
+        "duration": 2.098,
+        "key_list": "know the city v",
+        "keyCode_list": [
+            107,
+            110,
+            111,
+            119,
+            32,
+            116,
+            104,
+            101,
+            32,
+            99,
+            105,
+            116,
+            121,
+            32,
+            118
+        ],
+        "target": "TEXTAREA",
+        "key_count": 15,
+        "timestamp_second": 399.138,
+        "relative_time": 7.391444444444444,
+        "index": 302
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:43:50.575Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 401.928,
+        "relative_time": 7.4431111111111115,
+        "index": 303
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:43:52.051Z",
+        "duration": 1.567,
+        "key_list": "very well.",
+        "keyCode_list": [
+            118,
+            101,
+            114,
+            121,
+            32,
+            119,
+            101,
+            108,
+            108,
+            46
+        ],
+        "target": "TEXTAREA",
+        "key_count": 10,
+        "timestamp_second": 403.404,
+        "relative_time": 7.470444444444444,
+        "index": 304
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 360.5159865944297,
+        "timestamp": "2024-10-18T02:43:54.246Z",
+        "duration": 0.561,
+        "timestamp_second": 405.599,
+        "relative_time": 7.511092592592592,
+        "index": 305
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "18/10/2024 10:40:49",
+        "endTime": "18/10/2024 10:43:54",
+        "duration": 185289,
+        "timestamp": "2024-10-18T02:43:54.000000Z",
+        "index": 306
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:43:54.999Z",
+        "target": "BUTTON",
+        "x": 839,
+        "y": 901,
+        "timestamp_second": 406.352,
+        "relative_time": 7.525037037037037,
+        "index": 307
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:43:57.807Z",
+        "duration": 7.909,
+        "timestamp_second": 409.16,
+        "relative_time": 7.577037037037037,
+        "index": 308
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1895.9904203641345,
+        "timestamp": "2024-10-18T02:44:02.716Z",
+        "duration": 6.256,
+        "timestamp_second": 414.069,
+        "relative_time": 7.667944444444445,
+        "index": 309
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:44:09.035Z",
+        "target": "P",
+        "x": 517,
+        "y": 176,
+        "timestamp_second": 420.388,
+        "relative_time": 7.784962962962963,
+        "index": 310
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:44:09.358Z",
+        "target": "P",
+        "x": 517,
+        "y": 176,
+        "timestamp_second": 420.711,
+        "relative_time": 7.7909444444444444,
+        "index": 311
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 162.7353894127591,
+        "timestamp": "2024-10-18T02:44:09.533Z",
+        "duration": 0.299,
+        "timestamp_second": 420.886,
+        "relative_time": 7.794185185185186,
+        "index": 312
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:44:10.056Z",
+        "text": "The home of the Danish royal family, it's a must-see spot for first-time visitors. The change of guard at 12:00 is a unique experience.",
+        "highlightedTextLength": 135,
+        "timestamp_second": 421.409,
+        "relative_time": 7.803870370370371,
+        "index": 313
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:44:10.056Z",
+        "target": "P",
+        "x": 675,
+        "y": 226,
+        "timestamp_second": 421.409,
+        "relative_time": 7.803870370370371,
+        "index": 314
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 631.9825872353103,
+        "timestamp": "2024-10-18T02:44:10.415Z",
+        "duration": 0.078,
+        "timestamp_second": 421.768,
+        "relative_time": 7.810518518518518,
+        "index": 315
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:44:10.614Z",
+        "text": "The home of the Danish royal family, it's a must-see spot for first-time visitors. The change of guard at 12:00 is a unique experience.",
+        "textLength": 135,
+        "timestamp_second": 421.967,
+        "relative_time": 7.814203703703704,
+        "index": 316
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:44:11.112Z",
+        "status": 0,
+        "timestamp_second": 422.465,
+        "relative_time": 7.823425925925926,
+        "index": 317
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 742.5744912545051,
+        "timestamp": "2024-10-18T02:44:13.281Z",
+        "duration": 1.524,
+        "timestamp_second": 424.634,
+        "relative_time": 7.8635925925925925,
+        "index": 318
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:44:15.066Z",
+        "status": 1,
+        "timestamp_second": 426.419,
+        "relative_time": 7.896648148148149,
+        "index": 319
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:44:15.221Z",
+        "target": "P",
+        "x": 486,
+        "y": 256,
+        "timestamp_second": 426.574,
+        "relative_time": 7.899518518518518,
+        "index": 320
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 104.35379732060392,
+        "timestamp": "2024-10-18T02:44:15.381Z",
+        "duration": 1.133,
+        "timestamp_second": 426.734,
+        "relative_time": 7.902481481481481,
+        "index": 321
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:44:16.778Z",
+        "text": "This iconic and picturesque area is known for its colorful buildings and vibrant atmosphere. It's the perfect spot to enjoy the local vibe and take some memorable photos.",
+        "highlightedTextLength": 170,
+        "timestamp_second": 428.131,
+        "relative_time": 7.928351851851851,
+        "index": 322
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:44:16.779Z",
+        "target": "P",
+        "x": 553,
+        "y": 312,
+        "timestamp_second": 428.132,
+        "relative_time": 7.92837037037037,
+        "index": 323
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 465.5977893815434,
+        "timestamp": "2024-10-18T02:44:17.154Z",
+        "duration": 0.167,
+        "timestamp_second": 428.507,
+        "relative_time": 7.935314814814815,
+        "index": 324
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:44:17.321Z",
+        "text": "This iconic and picturesque area is known for its colorful buildings and vibrant atmosphere. It's the perfect spot to enjoy the local vibe and take some memorable photos.",
+        "textLength": 170,
+        "timestamp_second": 428.674,
+        "relative_time": 7.938407407407406,
+        "index": 325
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 63.70098363196303,
+        "timestamp": "2024-10-18T02:44:17.332Z",
+        "duration": 0.359,
+        "timestamp_second": 428.685,
+        "relative_time": 7.938611111111111,
+        "index": 326
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:44:18.748Z",
+        "status": 0,
+        "timestamp_second": 430.101,
+        "relative_time": 7.964833333333334,
+        "index": 327
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:44:20.699Z",
+        "duration": 4.139,
+        "timestamp_second": 432.052,
+        "relative_time": 8.000962962962964,
+        "index": 328
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 897.496127979226,
+        "timestamp": "2024-10-18T02:44:21.830Z",
+        "duration": 1.267,
+        "timestamp_second": 433.183,
+        "relative_time": 8.021907407407406,
+        "index": 329
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:44:23.456Z",
+        "status": 1,
+        "timestamp_second": 434.809,
+        "relative_time": 8.05201851851852,
+        "index": 330
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:44:23.603Z",
+        "target": "P",
+        "x": 599,
+        "y": 357,
+        "timestamp_second": 434.956,
+        "relative_time": 8.054740740740742,
+        "index": 331
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 76.9724923112517,
+        "timestamp": "2024-10-18T02:44:23.747Z",
+        "duration": 0.416,
+        "timestamp_second": 435.1,
+        "relative_time": 8.057407407407407,
+        "index": 332
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:44:24.286Z",
+        "text": "As a symbol of Copenhagen and a character from Grimm's Fairy Tales, this statue is a must-visit. It's one of the most photographed statues in the world.",
+        "highlightedTextLength": 152,
+        "timestamp_second": 435.639,
+        "relative_time": 8.067388888888889,
+        "index": 333
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:44:24.286Z",
+        "target": "P",
+        "x": 645,
+        "y": 412,
+        "timestamp_second": 435.639,
+        "relative_time": 8.067388888888889,
+        "index": 334
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 345.06528082511795,
+        "timestamp": "2024-10-18T02:44:24.581Z",
+        "duration": 0.054,
+        "timestamp_second": 435.934,
+        "relative_time": 8.072851851851851,
+        "index": 335
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:44:24.635Z",
+        "text": "As a symbol of Copenhagen and a character from Grimm's Fairy Tales, this statue is a must-visit. It's one of the most photographed statues in the world.",
+        "textLength": 152,
+        "timestamp_second": 435.988,
+        "relative_time": 8.07385185185185,
+        "index": 336
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 177.59461911401013,
+        "timestamp": "2024-10-18T02:44:24.646Z",
+        "duration": 0.042,
+        "timestamp_second": 435.999,
+        "relative_time": 8.074055555555557,
+        "index": 337
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:44:26.334Z",
+        "status": 0,
+        "timestamp_second": 437.687,
+        "relative_time": 8.105314814814815,
+        "index": 338
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:44:27.693Z",
+        "duration": 3.8249999999999997,
+        "timestamp_second": 439.046,
+        "relative_time": 8.130481481481482,
+        "index": 339
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 631.1351649725548,
+        "timestamp": "2024-10-18T02:44:28.513Z",
+        "duration": 1.254,
+        "timestamp_second": 439.866,
+        "relative_time": 8.145666666666667,
+        "index": 340
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:44:29.957Z",
+        "status": 1,
+        "timestamp_second": 441.31,
+        "relative_time": 8.172407407407407,
+        "index": 341
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:44:30.096Z",
+        "target": "P",
+        "x": 585,
+        "y": 445,
+        "timestamp_second": 441.449,
+        "relative_time": 8.174981481481481,
+        "index": 342
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 121.15528931952576,
+        "timestamp": "2024-10-18T02:44:30.262Z",
+        "duration": 0.551,
+        "timestamp_second": 441.615,
+        "relative_time": 8.178055555555556,
+        "index": 343
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:44:30.965Z",
+        "text": "This significant landmark holds both historical and political importance. It provides a deep insight into Danish history.",
+        "highlightedTextLength": 121,
+        "timestamp_second": 442.318,
+        "relative_time": 8.191074074074074,
+        "index": 344
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:44:30.965Z",
+        "target": "P",
+        "x": 704,
+        "y": 489,
+        "timestamp_second": 442.318,
+        "relative_time": 8.191074074074074,
+        "index": 345
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 677.1223524628731,
+        "timestamp": "2024-10-18T02:44:31.276Z",
+        "duration": 0.099,
+        "timestamp_second": 442.629,
+        "relative_time": 8.196833333333334,
+        "index": 346
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:44:31.556Z",
+        "text": "This significant landmark holds both historical and political importance. It provides a deep insight into Danish history.",
+        "textLength": 121,
+        "timestamp_second": 442.909,
+        "relative_time": 8.202018518518518,
+        "index": 347
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:44:32.280Z",
+        "status": 0,
+        "timestamp_second": 443.633,
+        "relative_time": 8.215425925925926,
+        "index": 348
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:44:34.388Z",
+        "duration": 3.32,
+        "timestamp_second": 445.741,
+        "relative_time": 8.254462962962963,
+        "index": 349
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 474.96458339191304,
+        "timestamp": "2024-10-18T02:44:34.695Z",
+        "duration": 1.494,
+        "timestamp_second": 446.048,
+        "relative_time": 8.260148148148149,
+        "index": 350
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:44:36.414Z",
+        "status": 1,
+        "timestamp_second": 447.767,
+        "relative_time": 8.29198148148148,
+        "index": 351
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:44:36.568Z",
+        "target": "P",
+        "x": 635,
+        "y": 532,
+        "timestamp_second": 447.921,
+        "relative_time": 8.294833333333333,
+        "index": 352
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 123.41847726464039,
+        "timestamp": "2024-10-18T02:44:36.712Z",
+        "duration": 0.483,
+        "timestamp_second": 448.065,
+        "relative_time": 8.2975,
+        "index": 353
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:44:37.257Z",
+        "text": "To understand the rich history and culture of Denmark, a visit to the country’s largest cultural history museum is essential.",
+        "highlightedTextLength": 125,
+        "timestamp_second": 448.61,
+        "relative_time": 8.307592592592593,
+        "index": 354
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:44:37.258Z",
+        "target": "DIV",
+        "x": 773,
+        "y": 574,
+        "timestamp_second": 448.611,
+        "relative_time": 8.307611111111111,
+        "index": 355
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 701.4881322784349,
+        "timestamp": "2024-10-18T02:44:37.561Z",
+        "duration": 0.092,
+        "timestamp_second": 448.914,
+        "relative_time": 8.313222222222223,
+        "index": 356
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:44:37.684Z",
+        "text": "To understand the rich history and culture of Denmark, a visit to the country’s largest cultural history museum is essential.",
+        "textLength": 125,
+        "timestamp_second": 449.037,
+        "relative_time": 8.3155,
+        "index": 357
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:44:39.571Z",
+        "status": 0,
+        "timestamp_second": 450.924,
+        "relative_time": 8.350444444444443,
+        "index": 358
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:44:40.656Z",
+        "duration": 5.7620000000000005,
+        "timestamp_second": 452.009,
+        "relative_time": 8.370537037037037,
+        "index": 359
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 697.8504644697605,
+        "timestamp": "2024-10-18T02:44:43.415Z",
+        "duration": 0.762,
+        "timestamp_second": 454.768,
+        "relative_time": 8.42162962962963,
+        "index": 360
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:44:44.596Z",
+        "status": 1,
+        "timestamp_second": 455.949,
+        "relative_time": 8.4435,
+        "index": 361
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:44:44.750Z",
+        "target": "P",
+        "x": 527,
+        "y": 616,
+        "timestamp_second": 456.103,
+        "relative_time": 8.446351851851851,
+        "index": 362
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 217.20941701422998,
+        "timestamp": "2024-10-18T02:44:44.910Z",
+        "duration": 0.8,
+        "timestamp_second": 456.263,
+        "relative_time": 8.449314814814816,
+        "index": 363
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:44:45.877Z",
+        "text": "Known for its enchanting atmosphere, beautiful gardens, and thrilling amusement park rides, it's a fun and relaxing place to visit. It's a great way to end your day in Copenhagen.",
+        "highlightedTextLength": 179,
+        "timestamp_second": 457.23,
+        "relative_time": 8.467222222222222,
+        "index": 364
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:44:45.878Z",
+        "target": "P",
+        "x": 747,
+        "y": 669,
+        "timestamp_second": 457.231,
+        "relative_time": 8.46724074074074,
+        "index": 365
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 767.9997421614171,
+        "timestamp": "2024-10-18T02:44:46.166Z",
+        "duration": 0.122,
+        "timestamp_second": 457.519,
+        "relative_time": 8.472574074074075,
+        "index": 366
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:44:46.689Z",
+        "text": "Known for its enchanting atmosphere, beautiful gardens, and thrilling amusement park rides, it's a fun and relaxing place to visit. It's a great way to end your day in Copenhagen.",
+        "textLength": 179,
+        "timestamp_second": 458.042,
+        "relative_time": 8.482259259259258,
+        "index": 367
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:44:48.061Z",
+        "status": 0,
+        "timestamp_second": 459.414,
+        "relative_time": 8.507666666666665,
+        "index": 368
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:44:49.294Z",
+        "duration": 11.556999999999999,
+        "timestamp_second": 460.647,
+        "relative_time": 8.5305,
+        "index": 369
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 667.9673229944092,
+        "timestamp": "2024-10-18T02:44:57.846Z",
+        "duration": 0.363,
+        "timestamp_second": 469.199,
+        "relative_time": 8.68887037037037,
+        "index": 370
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:44:58.460Z",
+        "status": 1,
+        "timestamp_second": 469.813,
+        "relative_time": 8.70024074074074,
+        "index": 371
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:44:58.684Z",
+        "target": "TEXTAREA",
+        "x": 532,
+        "y": 864,
+        "timestamp_second": 470.037,
+        "relative_time": 8.704388888888888,
+        "index": 372
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:44:59.204Z",
+        "duration": 2.294,
+        "key_list": "Now I'd liek ",
+        "keyCode_list": [
+            78,
+            111,
+            119,
+            32,
+            73,
+            39,
+            100,
+            32,
+            108,
+            105,
+            101,
+            107,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 13,
+        "timestamp_second": 470.557,
+        "relative_time": 8.714018518518518,
+        "index": 373
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:45:02.047Z",
+        "duration": 0.4,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 4,
+        "timestamp_second": 473.4,
+        "relative_time": 8.766666666666666,
+        "index": 374
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:45:03.172Z",
+        "duration": 3.8,
+        "key_list": "ike you to help me with",
+        "keyCode_list": [
+            105,
+            107,
+            101,
+            32,
+            121,
+            111,
+            117,
+            32,
+            116,
+            111,
+            32,
+            104,
+            101,
+            108,
+            112,
+            32,
+            109,
+            101,
+            32,
+            119,
+            105,
+            116,
+            104
+        ],
+        "target": "TEXTAREA",
+        "key_count": 23,
+        "timestamp_second": 474.525,
+        "relative_time": 8.7875,
+        "index": 375
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:45:07.326Z",
+        "duration": 0.484,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 4,
+        "timestamp_second": 478.679,
+        "relative_time": 8.864425925925925,
+        "index": 376
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:45:09.819Z",
+        "duration": 10.801,
+        "key_list": "for my trip by providing a comprehensive list of tips ",
+        "keyCode_list": [
+            102,
+            111,
+            114,
+            32,
+            109,
+            121,
+            32,
+            116,
+            114,
+            105,
+            112,
+            32,
+            98,
+            121,
+            32,
+            112,
+            114,
+            111,
+            118,
+            105,
+            100,
+            105,
+            110,
+            103,
+            32,
+            97,
+            32,
+            99,
+            111,
+            109,
+            112,
+            114,
+            101,
+            104,
+            101,
+            110,
+            115,
+            105,
+            118,
+            101,
+            32,
+            108,
+            105,
+            115,
+            116,
+            32,
+            111,
+            102,
+            32,
+            116,
+            105,
+            112,
+            115,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 54,
+        "timestamp_second": 481.172,
+        "relative_time": 8.910592592592593,
+        "index": 377
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1877.4484762344728,
+        "timestamp": "2024-10-18T02:45:21.263Z",
+        "duration": 4.992,
+        "timestamp_second": 492.616,
+        "relative_time": 9.122518518518518,
+        "index": 378
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:45:27.160Z",
+        "duration": 12.284,
+        "key_list": "travel to go to Copenhagen, whether it's to prepare or to know ",
+        "keyCode_list": [
+            116,
+            114,
+            97,
+            118,
+            101,
+            108,
+            32,
+            116,
+            111,
+            32,
+            103,
+            111,
+            32,
+            116,
+            111,
+            32,
+            67,
+            111,
+            112,
+            101,
+            110,
+            104,
+            97,
+            103,
+            101,
+            110,
+            44,
+            32,
+            119,
+            104,
+            101,
+            116,
+            104,
+            101,
+            114,
+            32,
+            105,
+            116,
+            39,
+            115,
+            32,
+            116,
+            111,
+            32,
+            112,
+            114,
+            101,
+            112,
+            97,
+            114,
+            101,
+            32,
+            111,
+            114,
+            32,
+            116,
+            111,
+            32,
+            107,
+            110,
+            111,
+            119,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 63,
+        "timestamp_second": 498.513,
+        "relative_time": 9.231722222222222,
+        "index": 379
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:45:40.756Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 512.109,
+        "relative_time": 9.4835,
+        "index": 380
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:45:41.877Z",
+        "duration": 0.393,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 513.23,
+        "relative_time": 9.504259259259259,
+        "index": 381
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:45:42.460Z",
+        "duration": 3.052,
+        "timestamp_second": 513.813,
+        "relative_time": 9.515055555555556,
+        "index": 382
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:45:42.496Z",
+        "duration": 5.286,
+        "key_list": ",  or to do when I will be then",
+        "keyCode_list": [
+            44,
+            32,
+            32,
+            111,
+            114,
+            32,
+            116,
+            111,
+            32,
+            100,
+            111,
+            32,
+            119,
+            104,
+            101,
+            110,
+            32,
+            73,
+            32,
+            119,
+            105,
+            108,
+            108,
+            32,
+            98,
+            101,
+            32,
+            116,
+            104,
+            101,
+            110
+        ],
+        "target": "TEXTAREA",
+        "key_count": 31,
+        "timestamp_second": 513.849,
+        "relative_time": 9.515722222222223,
+        "index": 383
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:45:48.148Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 519.501,
+        "relative_time": 9.620388888888888,
+        "index": 384
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:45:48.243Z",
+        "duration": 0.604,
+        "key_list": "re.",
+        "keyCode_list": [
+            114,
+            101,
+            46
+        ],
+        "target": "TEXTAREA",
+        "key_count": 3,
+        "timestamp_second": 519.596,
+        "relative_time": 9.622148148148147,
+        "index": 385
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:45:50.300Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 521.653,
+        "relative_time": 9.660240740740742,
+        "index": 386
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 269.3822121506091,
+        "timestamp": "2024-10-18T02:45:51.132Z",
+        "duration": 0.553,
+        "timestamp_second": 522.485,
+        "relative_time": 9.675648148148149,
+        "index": 387
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "18/10/2024 10:43:54",
+        "endTime": "18/10/2024 10:45:51",
+        "duration": 116807,
+        "timestamp": "2024-10-18T02:45:51.000000Z",
+        "index": 388
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:45:51.808Z",
+        "target": "path",
+        "x": 822,
+        "y": 890,
+        "timestamp_second": 523.161,
+        "relative_time": 9.688166666666666,
+        "index": 389
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 439.4852340458092,
+        "timestamp": "2024-10-18T02:45:52.168Z",
+        "duration": 1.95,
+        "timestamp_second": 523.521,
+        "relative_time": 9.694833333333333,
+        "index": 390
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:45:55.984Z",
+        "deltaY": 100,
+        "yDirection": 1,
+        "duration": 0.333,
+        "timestamp_second": 527.337,
+        "relative_time": 9.7655,
+        "index": 391
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:45:57.019Z",
+        "deltaY": 23,
+        "yDirection": 1,
+        "duration": 0.098,
+        "timestamp_second": 528.372,
+        "relative_time": 9.784666666666666,
+        "index": 392
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:45:57.127Z",
+        "duration": 3.016,
+        "timestamp_second": 528.48,
+        "relative_time": 9.786666666666667,
+        "index": 393
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:45:57.134Z",
+        "deltaY": 6,
+        "yDirection": 1,
+        "duration": 0.116,
+        "timestamp_second": 528.487,
+        "relative_time": 9.786796296296297,
+        "index": 394
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:45:57.701Z",
+        "deltaY": 27,
+        "yDirection": 2,
+        "duration": 0.466,
+        "timestamp_second": 529.054,
+        "relative_time": 9.797296296296295,
+        "index": 395
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:45:58.767Z",
+        "deltaY": 69,
+        "yDirection": 1,
+        "duration": 0.4,
+        "timestamp_second": 530.12,
+        "relative_time": 9.817037037037037,
+        "index": 396
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 480.75806452020333,
+        "timestamp": "2024-10-18T02:45:59.684Z",
+        "duration": 0.067,
+        "timestamp_second": 531.037,
+        "relative_time": 9.83401851851852,
+        "index": 397
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:46:02.763Z",
+        "duration": 3.149,
+        "timestamp_second": 534.116,
+        "relative_time": 9.891037037037037,
+        "index": 398
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 543.3462987320308,
+        "timestamp": "2024-10-18T02:46:02.900Z",
+        "duration": 0.855,
+        "timestamp_second": 534.253,
+        "relative_time": 9.893574074074076,
+        "index": 399
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:46:04.150Z",
+        "deltaY": 20,
+        "yDirection": 2,
+        "duration": 0.366,
+        "timestamp_second": 535.503,
+        "relative_time": 9.916722222222223,
+        "index": 400
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 103.13090623606695,
+        "timestamp": "2024-10-18T02:46:04.966Z",
+        "duration": 0.25,
+        "timestamp_second": 536.319,
+        "relative_time": 9.931833333333334,
+        "index": 401
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:46:05.499Z",
+        "deltaY": 131,
+        "yDirection": 1,
+        "duration": 0.434,
+        "timestamp_second": 536.852,
+        "relative_time": 9.941703703703702,
+        "index": 402
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 312.1898907366485,
+        "timestamp": "2024-10-18T02:46:05.933Z",
+        "duration": 0.55,
+        "timestamp_second": 537.286,
+        "relative_time": 9.94974074074074,
+        "index": 403
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:46:06.916Z",
+        "target": "TEXTAREA",
+        "x": 550,
+        "y": 882,
+        "timestamp_second": 538.269,
+        "relative_time": 9.967944444444445,
+        "index": 404
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:46:09.735Z",
+        "duration": 6.351,
+        "timestamp_second": 541.088,
+        "relative_time": 10.020148148148147,
+        "index": 405
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 784.3098540640785,
+        "timestamp": "2024-10-18T02:46:13.068Z",
+        "duration": 1.894,
+        "timestamp_second": 544.421,
+        "relative_time": 10.081870370370371,
+        "index": 406
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:46:15.377Z",
+        "target": "TEXTAREA",
+        "x": 586,
+        "y": 887,
+        "timestamp_second": 546.73,
+        "relative_time": 10.12462962962963,
+        "index": 407
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:46:17.197Z",
+        "duration": 6.483,
+        "key_list": "Pick the 6 most important so that I don't forget them.",
+        "keyCode_list": [
+            80,
+            105,
+            99,
+            107,
+            32,
+            116,
+            104,
+            101,
+            32,
+            54,
+            32,
+            109,
+            111,
+            115,
+            116,
+            32,
+            105,
+            109,
+            112,
+            111,
+            114,
+            116,
+            97,
+            110,
+            116,
+            32,
+            115,
+            111,
+            32,
+            116,
+            104,
+            97,
+            116,
+            32,
+            73,
+            32,
+            100,
+            111,
+            110,
+            39,
+            116,
+            32,
+            102,
+            111,
+            114,
+            103,
+            101,
+            116,
+            32,
+            116,
+            104,
+            101,
+            109,
+            46
+        ],
+        "target": "TEXTAREA",
+        "key_count": 54,
+        "timestamp_second": 548.55,
+        "relative_time": 10.158333333333333,
+        "index": 408
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 257.8158166030844,
+        "timestamp": "2024-10-18T02:46:24.364Z",
+        "duration": 0.532,
+        "timestamp_second": 555.717,
+        "relative_time": 10.291055555555555,
+        "index": 409
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "18/10/2024 10:45:51",
+        "endTime": "18/10/2024 10:46:24",
+        "duration": 33167,
+        "timestamp": "2024-10-18T02:46:24.000000Z",
+        "index": 410
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:46:24.975Z",
+        "target": "DIV",
+        "x": 852,
+        "y": 892,
+        "timestamp_second": 556.328,
+        "relative_time": 10.30237037037037,
+        "index": 411
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 442.56169292593404,
+        "timestamp": "2024-10-18T02:46:25.230Z",
+        "duration": 0.933,
+        "timestamp_second": 556.583,
+        "relative_time": 10.307092592592593,
+        "index": 412
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:46:29.171Z",
+        "duration": 3.535,
+        "timestamp_second": 560.524,
+        "relative_time": 10.380074074074074,
+        "index": 413
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 122.40639162831212,
+        "timestamp": "2024-10-18T02:46:29.698Z",
+        "duration": 0.215,
+        "timestamp_second": 561.051,
+        "relative_time": 10.389833333333334,
+        "index": 414
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:46:30.413Z",
+        "deltaY": 1,
+        "yDirection": 2,
+        "duration": 0.2,
+        "timestamp_second": 561.766,
+        "relative_time": 10.403074074074073,
+        "index": 415
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 115.58514324337011,
+        "timestamp": "2024-10-18T02:46:30.847Z",
+        "duration": 0.449,
+        "timestamp_second": 562.2,
+        "relative_time": 10.411111111111111,
+        "index": 416
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:46:31.629Z",
+        "deltaY": 113,
+        "yDirection": 2,
+        "duration": 0.217,
+        "timestamp_second": 562.982,
+        "relative_time": 10.425592592592592,
+        "index": 417
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 418.19936000776215,
+        "timestamp": "2024-10-18T02:46:32.080Z",
+        "duration": 1.866,
+        "timestamp_second": 563.433,
+        "relative_time": 10.433944444444444,
+        "index": 418
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:46:33.991Z",
+        "text": "Currency: The official currency in Denmark is the Danish Krone (DKK). Most places do not accept euros, so you'll need to have some local currency on hand.",
+        "highlightedTextLength": 154,
+        "timestamp_second": 565.344,
+        "relative_time": 10.469333333333335,
+        "index": 419
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:46:34.393Z",
+        "text": "Currency: The official currency in Denmark is the Danish Krone (DKK). Most places do not accept euros, so you'll need to have some local currency on hand.",
+        "highlightedTextLength": 154,
+        "timestamp_second": 565.746,
+        "relative_time": 10.476777777777778,
+        "index": 420
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 382.11523107739777,
+        "timestamp": "2024-10-18T02:46:35.013Z",
+        "duration": 0.666,
+        "timestamp_second": 566.366,
+        "relative_time": 10.48825925925926,
+        "index": 421
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:46:35.708Z",
+        "text": "C",
+        "highlightedTextLength": 1,
+        "timestamp_second": 567.061,
+        "relative_time": 10.501129629629629,
+        "index": 422
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 332.24868760789104,
+        "timestamp": "2024-10-18T02:46:36.179Z",
+        "duration": 0.3,
+        "timestamp_second": 567.532,
+        "relative_time": 10.509851851851852,
+        "index": 423
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:46:36.658Z",
+        "text": "Sure, here are the top 6 essential travel tips for your trip to Copenhagen:\n\nCurrency: The official currency in Denmark is the Danish Krone (DKK). Most places do not accept euros, so you'll need to have some local currency on hand.",
+        "highlightedTextLength": 231,
+        "timestamp_second": 568.011,
+        "relative_time": 10.518722222222221,
+        "index": 424
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:46:37.331Z",
+        "text": "Sure, here are the top 6 essential travel tips for your trip to Copenhagen:\n\nCurrency: The official currency in Denmark is the Danish Krone (DKK). Most places do not accept euros, so you'll need to have some local currency on hand.",
+        "highlightedTextLength": 231,
+        "timestamp_second": 568.684,
+        "relative_time": 10.531185185185185,
+        "index": 425
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:46:37.331Z",
+        "target": "P",
+        "x": 755,
+        "y": 689,
+        "timestamp_second": 568.684,
+        "relative_time": 10.531185185185185,
+        "index": 426
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:46:37.529Z",
+        "deltaY": 426,
+        "yDirection": 1,
+        "duration": 0.451,
+        "timestamp_second": 568.882,
+        "relative_time": 10.534851851851851,
+        "index": 427
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:46:38.226Z",
+        "deltaY": 239,
+        "yDirection": 2,
+        "duration": 0.303,
+        "timestamp_second": 569.579,
+        "relative_time": 10.547759259259259,
+        "index": 428
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 413.7489174301227,
+        "timestamp": "2024-10-18T02:46:38.620Z",
+        "duration": 0.575,
+        "timestamp_second": 569.973,
+        "relative_time": 10.555055555555555,
+        "index": 429
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:46:39.531Z",
+        "target": "STRONG",
+        "x": 419,
+        "y": 420,
+        "timestamp_second": 570.884,
+        "relative_time": 10.571925925925926,
+        "index": 430
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 345.8702801350446,
+        "timestamp": "2024-10-18T02:46:39.711Z",
+        "duration": 0.684,
+        "timestamp_second": 571.064,
+        "relative_time": 10.575259259259258,
+        "index": 431
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:46:40.507Z",
+        "text": "Currency: The official currency in Denmark is the Danish Krone (DKK). Most places do not accept euros, so you'll need to have some local currency on hand.",
+        "highlightedTextLength": 154,
+        "timestamp_second": 571.86,
+        "relative_time": 10.590000000000002,
+        "index": 432
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:46:40.507Z",
+        "target": "P",
+        "x": 765,
+        "y": 460,
+        "timestamp_second": 571.86,
+        "relative_time": 10.590000000000002,
+        "index": 433
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 668.3302538818534,
+        "timestamp": "2024-10-18T02:46:40.868Z",
+        "duration": 0.073,
+        "timestamp_second": 572.221,
+        "relative_time": 10.596685185185185,
+        "index": 434
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:46:41.089Z",
+        "text": "Currency: The official currency in Denmark is the Danish Krone (DKK). Most places do not accept euros, so you'll need to have some local currency on hand.",
+        "textLength": 154,
+        "timestamp_second": 572.442,
+        "relative_time": 10.600777777777779,
+        "index": 435
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:46:41.644Z",
+        "status": 0,
+        "timestamp_second": 572.997,
+        "relative_time": 10.611055555555554,
+        "index": 436
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 456.9592811206603,
+        "timestamp": "2024-10-18T02:46:43.445Z",
+        "duration": 0.682,
+        "timestamp_second": 574.798,
+        "relative_time": 10.644407407407408,
+        "index": 437
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:46:44.312Z",
+        "status": 1,
+        "timestamp_second": 575.665,
+        "relative_time": 10.660462962962962,
+        "index": 438
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:46:44.479Z",
+        "target": "STRONG",
+        "x": 480,
+        "y": 501,
+        "timestamp_second": 575.832,
+        "relative_time": 10.663555555555556,
+        "index": 439
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 47.77269903474371,
+        "timestamp": "2024-10-18T02:46:44.711Z",
+        "duration": 0.867,
+        "timestamp_second": 576.064,
+        "relative_time": 10.66785185185185,
+        "index": 440
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:46:45.585Z",
+        "text": "Transportation: There are in total 6 metros in Copenhagen. Visitors can reach anywhere by metro. It's a convenient and efficient way to get around the city.",
+        "highlightedTextLength": 156,
+        "timestamp_second": 576.938,
+        "relative_time": 10.684037037037037,
+        "index": 441
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:46:45.585Z",
+        "target": "P",
+        "x": 479,
+        "y": 553,
+        "timestamp_second": 576.938,
+        "relative_time": 10.684037037037037,
+        "index": 442
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:46:45.893Z",
+        "text": "Transportation: There are in total 6 metros in Copenhagen. Visitors can reach anywhere by metro. It's a convenient and efficient way to get around the city.",
+        "textLength": 156,
+        "timestamp_second": 577.246,
+        "relative_time": 10.68974074074074,
+        "index": 443
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 491.41828291502316,
+        "timestamp": "2024-10-18T02:46:46.125Z",
+        "duration": 0.144,
+        "timestamp_second": 577.478,
+        "relative_time": 10.694037037037036,
+        "index": 444
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:46:48.258Z",
+        "status": 0,
+        "timestamp_second": 579.611,
+        "relative_time": 10.733537037037037,
+        "index": 445
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:46:49.279Z",
+        "duration": 3.828,
+        "timestamp_second": 580.632,
+        "relative_time": 10.752444444444444,
+        "index": 446
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 822.1134992795705,
+        "timestamp": "2024-10-18T02:46:50.097Z",
+        "duration": 0.863,
+        "timestamp_second": 581.45,
+        "relative_time": 10.767592592592594,
+        "index": 447
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:46:51.241Z",
+        "status": 1,
+        "timestamp_second": 582.594,
+        "relative_time": 10.78877777777778,
+        "index": 448
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:46:51.396Z",
+        "target": "P",
+        "x": 491,
+        "y": 589,
+        "timestamp_second": 582.749,
+        "relative_time": 10.791648148148148,
+        "index": 449
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 269.9547298749603,
+        "timestamp": "2024-10-18T02:46:51.576Z",
+        "duration": 1.117,
+        "timestamp_second": 582.929,
+        "relative_time": 10.79498148148148,
+        "index": 450
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:46:52.696Z",
+        "text": "The weather in Copenhagen in December can be quite cold, with temperatures below -15 degrees Celsius. Be sure to pack warm clothing.",
+        "highlightedTextLength": 132,
+        "timestamp_second": 584.049,
+        "relative_time": 10.815722222222222,
+        "index": 451
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:46:52.696Z",
+        "target": "P",
+        "x": 746,
+        "y": 635,
+        "timestamp_second": 584.049,
+        "relative_time": 10.815722222222222,
+        "index": 452
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 31.144823004797217,
+        "timestamp": "2024-10-18T02:46:53.042Z",
+        "duration": 0.014,
+        "timestamp_second": 584.395,
+        "relative_time": 10.822129629629629,
+        "index": 453
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:46:53.056Z",
+        "text": "The weather in Copenhagen in December can be quite cold, with temperatures below -15 degrees Celsius. Be sure to pack warm clothing.",
+        "textLength": 132,
+        "timestamp_second": 584.409,
+        "relative_time": 10.822388888888888,
+        "index": 454
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 605.7931693814171,
+        "timestamp": "2024-10-18T02:46:53.060Z",
+        "duration": 0.06,
+        "timestamp_second": 584.413,
+        "relative_time": 10.822462962962963,
+        "index": 455
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:46:53.551Z",
+        "status": 0,
+        "timestamp_second": 584.904,
+        "relative_time": 10.831555555555555,
+        "index": 456
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:46:56.133Z",
+        "duration": 16.958,
+        "timestamp_second": 587.486,
+        "relative_time": 10.87937037037037,
+        "index": 457
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 711.0923971379525,
+        "timestamp": "2024-10-18T02:47:10.078Z",
+        "duration": 0.613,
+        "timestamp_second": 601.431,
+        "relative_time": 11.137611111111113,
+        "index": 458
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:47:10.942Z",
+        "deltaY": 347,
+        "yDirection": 1,
+        "duration": 0.566,
+        "timestamp_second": 602.295,
+        "relative_time": 11.15361111111111,
+        "index": 459
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 364.54045128151483,
+        "timestamp": "2024-10-18T02:47:11.524Z",
+        "duration": 0.517,
+        "timestamp_second": 602.877,
+        "relative_time": 11.164388888888887,
+        "index": 460
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:47:12.308Z",
+        "status": 1,
+        "timestamp_second": 603.661,
+        "relative_time": 11.178907407407406,
+        "index": 461
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:47:12.476Z",
+        "target": "P",
+        "x": 495,
+        "y": 434,
+        "timestamp_second": 603.829,
+        "relative_time": 11.182018518518518,
+        "index": 462
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 142.7472741452948,
+        "timestamp": "2024-10-18T02:47:12.658Z",
+        "duration": 0.466,
+        "timestamp_second": 604.011,
+        "relative_time": 11.185388888888887,
+        "index": 463
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:47:13.215Z",
+        "text": "The official language is Danish, but English is widely spoken in Copenhagen. However, it's always appreciated when visitors try to use a few local phrases. The “hello” in Danish is “hej”, “thank you” is “farvel”, and “goodbye” is “tak”.",
+        "highlightedTextLength": 236,
+        "timestamp_second": 604.568,
+        "relative_time": 11.195703703703703,
+        "index": 464
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:47:13.215Z",
+        "target": "P",
+        "x": 613,
+        "y": 514,
+        "timestamp_second": 604.568,
+        "relative_time": 11.195703703703703,
+        "index": 465
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 32.75667870831967,
+        "timestamp": "2024-10-18T02:47:13.482Z",
+        "duration": 0.008,
+        "timestamp_second": 604.835,
+        "relative_time": 11.200648148148149,
+        "index": 466
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:47:13.490Z",
+        "text": "The official language is Danish, but English is widely spoken in Copenhagen. However, it's always appreciated when visitors try to use a few local phrases. The “hello” in Danish is “hej”, “thank you” is “farvel”, and “goodbye” is “tak”.",
+        "textLength": 236,
+        "timestamp_second": 604.843,
+        "relative_time": 11.200796296296296,
+        "index": 467
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 421.55066019293736,
+        "timestamp": "2024-10-18T02:47:13.507Z",
+        "duration": 0.046,
+        "timestamp_second": 604.86,
+        "relative_time": 11.201111111111112,
+        "index": 468
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:47:14.122Z",
+        "status": 0,
+        "timestamp_second": 605.475,
+        "relative_time": 11.2125,
+        "index": 469
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 452.5705796291586,
+        "timestamp": "2024-10-18T02:47:15.773Z",
+        "duration": 0.734,
+        "timestamp_second": 607.126,
+        "relative_time": 11.243074074074073,
+        "index": 470
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:47:16.731Z",
+        "status": 1,
+        "timestamp_second": 608.084,
+        "relative_time": 11.260814814814815,
+        "index": 471
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:47:16.871Z",
+        "target": "STRONG",
+        "x": 451,
+        "y": 549,
+        "timestamp_second": 608.224,
+        "relative_time": 11.263407407407408,
+        "index": 472
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 114.47475456885877,
+        "timestamp": "2024-10-18T02:47:17.023Z",
+        "duration": 0.6,
+        "timestamp_second": 608.376,
+        "relative_time": 11.266222222222222,
+        "index": 473
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:47:17.668Z",
+        "text": "Copenhagen Card: You can get a Copenhagen Card that covers 80 attractions and public transports with $30. It's a great way to save money if you plan on visiting many attractions.",
+        "highlightedTextLength": 178,
+        "timestamp_second": 609.021,
+        "relative_time": 11.278166666666666,
+        "index": 474
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:47:17.668Z",
+        "target": "P",
+        "x": 578,
+        "y": 611,
+        "timestamp_second": 609.021,
+        "relative_time": 11.278166666666666,
+        "index": 475
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 571.1402132881049,
+        "timestamp": "2024-10-18T02:47:18.021Z",
+        "duration": 0.488,
+        "timestamp_second": 609.374,
+        "relative_time": 11.284703703703704,
+        "index": 476
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:47:18.672Z",
+        "text": "Copenhagen Card: You can get a Copenhagen Card that covers 80 attractions and public transports with $30. It's a great way to save money if you plan on visiting many attractions.",
+        "textLength": 178,
+        "timestamp_second": 610.025,
+        "relative_time": 11.29675925925926,
+        "index": 477
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:47:20.118Z",
+        "status": 0,
+        "timestamp_second": 611.471,
+        "relative_time": 11.323537037037038,
+        "index": 478
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:47:21.519Z",
+        "duration": 3.6979999999999995,
+        "timestamp_second": 612.872,
+        "relative_time": 11.349481481481481,
+        "index": 479
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 449.0367105847836,
+        "timestamp": "2024-10-18T02:47:22.207Z",
+        "duration": 0.366,
+        "timestamp_second": 613.56,
+        "relative_time": 11.36222222222222,
+        "index": 480
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:47:22.974Z",
+        "deltaY": 26,
+        "yDirection": 1,
+        "duration": 0.232,
+        "timestamp_second": 614.327,
+        "relative_time": 11.376425925925925,
+        "index": 481
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:47:23.967Z",
+        "deltaY": 1,
+        "yDirection": 1,
+        "duration": 0.009,
+        "timestamp_second": 615.32,
+        "relative_time": 11.394814814814817,
+        "index": 482
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 109.15110927287606,
+        "timestamp": "2024-10-18T02:47:24.242Z",
+        "duration": 0.73,
+        "timestamp_second": 615.595,
+        "relative_time": 11.399907407407408,
+        "index": 483
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:47:25.250Z",
+        "status": 1,
+        "timestamp_second": 616.603,
+        "relative_time": 11.418574074074073,
+        "index": 484
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:47:25.418Z",
+        "target": "STRONG",
+        "x": 430,
+        "y": 651,
+        "timestamp_second": 616.771,
+        "relative_time": 11.421685185185185,
+        "index": 485
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 241.58361516792502,
+        "timestamp": "2024-10-18T02:47:25.622Z",
+        "duration": 1.35,
+        "timestamp_second": 616.975,
+        "relative_time": 11.425462962962964,
+        "index": 486
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:47:27.113Z",
+        "text": "Tipping: The tip rate in Copenhagen is over 50%. It's customary to leave a tip in restaurants and for taxi drivers.",
+        "highlightedTextLength": 115,
+        "timestamp_second": 618.466,
+        "relative_time": 11.453074074074074,
+        "index": 487
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:47:27.113Z",
+        "target": "P",
+        "x": 578,
+        "y": 690,
+        "timestamp_second": 618.466,
+        "relative_time": 11.453074074074074,
+        "index": 488
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 561.6899370027386,
+        "timestamp": "2024-10-18T02:47:27.474Z",
+        "duration": 0.165,
+        "timestamp_second": 618.827,
+        "relative_time": 11.45975925925926,
+        "index": 489
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:47:27.740Z",
+        "text": "Tipping: The tip rate in Copenhagen is over 50%. It's customary to leave a tip in restaurants and for taxi drivers.",
+        "textLength": 115,
+        "timestamp_second": 619.093,
+        "relative_time": 11.464685185185184,
+        "index": 490
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:47:28.572Z",
+        "status": 0,
+        "timestamp_second": 619.925,
+        "relative_time": 11.480092592592591,
+        "index": 491
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 995.5296718745667,
+        "timestamp": "2024-10-18T02:47:30.239Z",
+        "duration": 1.799,
+        "timestamp_second": 621.592,
+        "relative_time": 11.510962962962964,
+        "index": 492
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:47:32.367Z",
+        "status": 1,
+        "timestamp_second": 623.72,
+        "relative_time": 11.55037037037037,
+        "index": 493
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:47:32.592Z",
+        "target": "P",
+        "x": 569,
+        "y": 469,
+        "timestamp_second": 623.945,
+        "relative_time": 11.554537037037038,
+        "index": 494
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 95.69871721885283,
+        "timestamp": "2024-10-18T02:47:32.738Z",
+        "duration": 0.133,
+        "timestamp_second": 624.091,
+        "relative_time": 11.557240740740742,
+        "index": 495
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:47:33.572Z",
+        "deltaY": 2001,
+        "yDirection": 2,
+        "duration": 2.299,
+        "timestamp_second": 624.925,
+        "relative_time": 11.572685185185184,
+        "index": 496
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:47:35.880Z",
+        "duration": 3.749,
+        "timestamp_second": 627.233,
+        "relative_time": 11.615425925925924,
+        "index": 497
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:47:36.621Z",
+        "deltaY": 105,
+        "yDirection": 2,
+        "duration": 0.301,
+        "timestamp_second": 627.974,
+        "relative_time": 11.62914814814815,
+        "index": 498
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:47:37.104Z",
+        "deltaY": 557,
+        "yDirection": 1,
+        "duration": 0.217,
+        "timestamp_second": 628.457,
+        "relative_time": 11.638092592592592,
+        "index": 499
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:47:37.488Z",
+        "deltaY": 23,
+        "yDirection": 2,
+        "duration": 0.233,
+        "timestamp_second": 628.841,
+        "relative_time": 11.645203703703704,
+        "index": 500
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 344.5970292226557,
+        "timestamp": "2024-10-18T02:47:37.937Z",
+        "duration": 1.684,
+        "timestamp_second": 629.29,
+        "relative_time": 11.653518518518517,
+        "index": 501
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:47:39.984Z",
+        "target": "STRONG",
+        "x": 418,
+        "y": 248,
+        "timestamp_second": 631.337,
+        "relative_time": 11.691425925925927,
+        "index": 502
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 312.2614640198153,
+        "timestamp": "2024-10-18T02:47:40.204Z",
+        "duration": 0.533,
+        "timestamp_second": 631.557,
+        "relative_time": 11.695500000000001,
+        "index": 503
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:47:40.860Z",
+        "text": "Power Sockets: The type of power sockets used in Denmark are Type A and Type K. Make sure to bring an adapter if your devices use different plugs.",
+        "highlightedTextLength": 146,
+        "timestamp_second": 632.213,
+        "relative_time": 11.707648148148147,
+        "index": 504
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:47:40.860Z",
+        "target": "P",
+        "x": 736,
+        "y": 288,
+        "timestamp_second": 632.213,
+        "relative_time": 11.707648148148147,
+        "index": 505
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 52.69813108746894,
+        "timestamp": "2024-10-18T02:47:41.422Z",
+        "duration": 0.021,
+        "timestamp_second": 632.775,
+        "relative_time": 11.718055555555555,
+        "index": 506
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:47:41.444Z",
+        "text": "Power Sockets: The type of power sockets used in Denmark are Type A and Type K. Make sure to bring an adapter if your devices use different plugs.",
+        "textLength": 146,
+        "timestamp_second": 632.797,
+        "relative_time": 11.718462962962963,
+        "index": 507
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 138.09211151923228,
+        "timestamp": "2024-10-18T02:47:41.453Z",
+        "duration": 0.164,
+        "timestamp_second": 632.806,
+        "relative_time": 11.71862962962963,
+        "index": 508
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:47:41.938Z",
+        "deltaY": 195,
+        "yDirection": 1,
+        "duration": 0.75,
+        "timestamp_second": 633.291,
+        "relative_time": 11.727611111111113,
+        "index": 509
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 121.07618311831902,
+        "timestamp": "2024-10-18T02:47:43.009Z",
+        "duration": 0.194,
+        "timestamp_second": 634.362,
+        "relative_time": 11.747444444444444,
+        "index": 510
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:47:43.537Z",
+        "deltaY": 77,
+        "yDirection": 1,
+        "duration": 0.717,
+        "timestamp_second": 634.89,
+        "relative_time": 11.757222222222222,
+        "index": 511
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 384.2499721241911,
+        "timestamp": "2024-10-18T02:47:44.482Z",
+        "duration": 0.055,
+        "timestamp_second": 635.835,
+        "relative_time": 11.774722222222223,
+        "index": 512
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:47:47.544Z",
+        "duration": 3.299,
+        "timestamp_second": 638.897,
+        "relative_time": 11.831425925925927,
+        "index": 513
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:47:47.836Z",
+        "status": 0,
+        "timestamp_second": 639.189,
+        "relative_time": 11.836833333333333,
+        "index": 514
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 969.9991135004238,
+        "timestamp": "2024-10-18T02:47:49.703Z",
+        "duration": 0.433,
+        "timestamp_second": 641.056,
+        "relative_time": 11.871407407407409,
+        "index": 515
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:47:50.386Z",
+        "deltaY": 683,
+        "yDirection": 1,
+        "duration": 0.5,
+        "timestamp_second": 641.739,
+        "relative_time": 11.884055555555555,
+        "index": 516
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 17.80449381476501,
+        "timestamp": "2024-10-18T02:47:50.886Z",
+        "duration": 0.016,
+        "timestamp_second": 642.239,
+        "relative_time": 11.893314814814815,
+        "index": 517
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:47:50.986Z",
+        "deltaY": 1279,
+        "yDirection": 1,
+        "duration": 0.966,
+        "timestamp_second": 642.339,
+        "relative_time": 11.895166666666668,
+        "index": 518
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1297.2801452346903,
+        "timestamp": "2024-10-18T02:47:51.969Z",
+        "duration": 2.1,
+        "timestamp_second": 643.322,
+        "relative_time": 11.91337037037037,
+        "index": 519
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:47:54.216Z",
+        "status": 1,
+        "timestamp_second": 645.569,
+        "relative_time": 11.95498148148148,
+        "index": 520
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:47:54.442Z",
+        "target": "TEXTAREA",
+        "x": 555,
+        "y": 888,
+        "timestamp_second": 645.795,
+        "relative_time": 11.959166666666667,
+        "index": 521
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1090.7777073745674,
+        "timestamp": "2024-10-18T02:47:54.685Z",
+        "duration": 1.317,
+        "timestamp_second": 646.038,
+        "relative_time": 11.963666666666667,
+        "index": 522
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:47:57.816Z",
+        "duration": 3.158,
+        "key_list": "Try to think of other tips ",
+        "keyCode_list": [
+            84,
+            114,
+            121,
+            32,
+            116,
+            111,
+            32,
+            116,
+            104,
+            105,
+            110,
+            107,
+            32,
+            111,
+            102,
+            32,
+            111,
+            116,
+            104,
+            101,
+            114,
+            32,
+            116,
+            105,
+            112,
+            115,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 27,
+        "timestamp_second": 649.169,
+        "relative_time": 12.021648148148149,
+        "index": 523
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T02:48:01.386Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 652.739,
+        "relative_time": 12.08775925925926,
+        "index": 524
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:48:02.782Z",
+        "duration": 3.784,
+        "key_list": " I should know before traveling",
+        "keyCode_list": [
+            32,
+            73,
+            32,
+            115,
+            104,
+            111,
+            117,
+            108,
+            100,
+            32,
+            107,
+            110,
+            111,
+            119,
+            32,
+            98,
+            101,
+            102,
+            111,
+            114,
+            101,
+            32,
+            116,
+            114,
+            97,
+            118,
+            101,
+            108,
+            105,
+            110,
+            103
+        ],
+        "target": "TEXTAREA",
+        "key_count": 31,
+        "timestamp_second": 654.135,
+        "relative_time": 12.113611111111112,
+        "index": 525
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T02:48:06.962Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 658.315,
+        "relative_time": 12.191018518518518,
+        "index": 526
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 385.41442303282383,
+        "timestamp": "2024-10-18T02:48:07.645Z",
+        "duration": 0.605,
+        "timestamp_second": 658.998,
+        "relative_time": 12.203666666666669,
+        "index": 527
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "18/10/2024 10:46:24",
+        "endTime": "18/10/2024 10:48:08",
+        "duration": 103368,
+        "timestamp": "2024-10-18T02:48:08.000000Z",
+        "index": 528
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:48:08.344Z",
+        "target": "BUTTON",
+        "x": 850,
+        "y": 879,
+        "timestamp_second": 659.697,
+        "relative_time": 12.216611111111112,
+        "index": 529
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 204.92229195890832,
+        "timestamp": "2024-10-18T02:48:08.651Z",
+        "duration": 0.166,
+        "timestamp_second": 660.004,
+        "relative_time": 12.222296296296296,
+        "index": 530
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:48:11.829Z",
+        "duration": 4.449,
+        "timestamp_second": 663.182,
+        "relative_time": 12.281148148148148,
+        "index": 531
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 145.1050237891177,
+        "timestamp": "2024-10-18T02:48:13.266Z",
+        "duration": 2.933,
+        "timestamp_second": 664.619,
+        "relative_time": 12.30775925925926,
+        "index": 532
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:48:16.566Z",
+        "deltaY": 45,
+        "yDirection": 2,
+        "duration": 0.218,
+        "timestamp_second": 667.919,
+        "relative_time": 12.36887037037037,
+        "index": 533
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 121.95820853250916,
+        "timestamp": "2024-10-18T02:48:18.332Z",
+        "duration": 0.139,
+        "timestamp_second": 669.685,
+        "relative_time": 12.401574074074073,
+        "index": 534
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:48:19.449Z",
+        "deltaY": 27,
+        "yDirection": 2,
+        "duration": 0.216,
+        "timestamp_second": 670.802,
+        "relative_time": 12.42225925925926,
+        "index": 535
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 88.27893010109256,
+        "timestamp": "2024-10-18T02:48:19.915Z",
+        "duration": 0.167,
+        "timestamp_second": 671.268,
+        "relative_time": 12.430888888888889,
+        "index": 536
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:48:21.105Z",
+        "deltaY": 25,
+        "yDirection": 2,
+        "duration": 0.195,
+        "timestamp_second": 672.458,
+        "relative_time": 12.452925925925925,
+        "index": 537
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 109.32344465224014,
+        "timestamp": "2024-10-18T02:48:21.565Z",
+        "duration": 1.734,
+        "timestamp_second": 672.918,
+        "relative_time": 12.461444444444444,
+        "index": 538
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:48:24.362Z",
+        "text": "Clothing: Danish style is often casual yet stylish. Pack comfortable shoes for walking, and remember that layers are key due to the changing weather.",
+        "highlightedTextLength": 149,
+        "timestamp_second": 675.715,
+        "relative_time": 12.513240740740741,
+        "index": 539
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 94.11604270570388,
+        "timestamp": "2024-10-18T02:48:24.515Z",
+        "duration": 0.166,
+        "timestamp_second": 675.868,
+        "relative_time": 12.516074074074075,
+        "index": 540
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:48:25.048Z",
+        "deltaY": 140,
+        "yDirection": 1,
+        "duration": 0.3,
+        "timestamp_second": 676.401,
+        "relative_time": 12.525944444444443,
+        "index": 541
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 70.9053072680108,
+        "timestamp": "2024-10-18T02:48:25.464Z",
+        "duration": 0.167,
+        "timestamp_second": 676.817,
+        "relative_time": 12.53364814814815,
+        "index": 542
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:48:25.948Z",
+        "deltaY": 129,
+        "yDirection": 1,
+        "duration": 0.717,
+        "timestamp_second": 677.301,
+        "relative_time": 12.542611111111112,
+        "index": 543
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:48:28.639Z",
+        "duration": 3.865,
+        "timestamp_second": 679.992,
+        "relative_time": 12.592444444444444,
+        "index": 544
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 383.87059203251556,
+        "timestamp": "2024-10-18T02:48:29.496Z",
+        "duration": 2.901,
+        "timestamp_second": 680.849,
+        "relative_time": 12.608314814814817,
+        "index": 545
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:48:32.432Z",
+        "text": "ing: Stores in Copenhagen usually close earlier than in many other European cities, often around 6 pm on weekdays. Plan your shopping accordingly.\n\nPublic Behavior: Danes are generally reserved and respect personal space.",
+        "highlightedTextLength": 221,
+        "timestamp_second": 683.785,
+        "relative_time": 12.662685185185186,
+        "index": 546
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:48:32.432Z",
+        "target": "OL",
+        "x": 570,
+        "y": 651,
+        "timestamp_second": 683.785,
+        "relative_time": 12.662685185185186,
+        "index": 547
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:48:32.827Z",
+        "text": "ing: Stores in Copenhagen usually close earlier than in many other European cities, often around 6 pm on weekdays. Plan your shopping accordingly.\n\nPublic Behavior: Danes are generally reserved and respect personal space.",
+        "highlightedTextLength": 221,
+        "timestamp_second": 684.18,
+        "relative_time": 12.669999999999998,
+        "index": 548
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:48:32.827Z",
+        "target": "P",
+        "x": 570,
+        "y": 651,
+        "timestamp_second": 684.18,
+        "relative_time": 12.669999999999998,
+        "index": 549
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:48:32.998Z",
+        "deltaY": 200,
+        "yDirection": 2,
+        "duration": 1.133,
+        "timestamp_second": 684.351,
+        "relative_time": 12.673166666666665,
+        "index": 550
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 138.49560626538005,
+        "timestamp": "2024-10-18T02:48:34.251Z",
+        "duration": 0.296,
+        "timestamp_second": 685.604,
+        "relative_time": 12.696370370370373,
+        "index": 551
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:48:34.613Z",
+        "deltaY": 185,
+        "yDirection": 2,
+        "duration": 0.351,
+        "timestamp_second": 685.966,
+        "relative_time": 12.703074074074076,
+        "index": 552
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 138.4318572965858,
+        "timestamp": "2024-10-18T02:48:35.156Z",
+        "duration": 0.991,
+        "timestamp_second": 686.509,
+        "relative_time": 12.71312962962963,
+        "index": 553
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:48:36.591Z",
+        "target": "P",
+        "x": 519,
+        "y": 545,
+        "timestamp_second": 687.944,
+        "relative_time": 12.739703703703704,
+        "index": 554
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 87.33211677016516,
+        "timestamp": "2024-10-18T02:48:36.847Z",
+        "duration": 0.666,
+        "timestamp_second": 688.2,
+        "relative_time": 12.744444444444444,
+        "index": 555
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:48:37.525Z",
+        "text": "Free Wi-Fi is widely available in Copenhagen, including in public areas, cafes, and hotels. However, it's always useful to have a data plan as a backup.",
+        "highlightedTextLength": 152,
+        "timestamp_second": 688.878,
+        "relative_time": 12.757000000000001,
+        "index": 556
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:48:37.525Z",
+        "target": "P",
+        "x": 566,
+        "y": 608,
+        "timestamp_second": 688.878,
+        "relative_time": 12.757000000000001,
+        "index": 557
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 57.7185116019391,
+        "timestamp": "2024-10-18T02:48:38.180Z",
+        "duration": 0.216,
+        "timestamp_second": 689.533,
+        "relative_time": 12.76912962962963,
+        "index": 558
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T02:48:38.580Z",
+        "deltaY": 132,
+        "yDirection": 2,
+        "duration": 0.834,
+        "timestamp_second": 689.933,
+        "relative_time": 12.776537037037036,
+        "index": 559
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 207.2043046066683,
+        "timestamp": "2024-10-18T02:48:39.717Z",
+        "duration": 2.446,
+        "timestamp_second": 691.07,
+        "relative_time": 12.797592592592594,
+        "index": 560
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:48:42.718Z",
+        "target": "P",
+        "x": 494,
+        "y": 526,
+        "timestamp_second": 694.071,
+        "relative_time": 12.853166666666668,
+        "index": 561
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 130.07384560070932,
+        "timestamp": "2024-10-18T02:48:43.029Z",
+        "duration": 0.5,
+        "timestamp_second": 694.382,
+        "relative_time": 12.858925925925924,
+        "index": 562
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:48:43.630Z",
+        "text": "Copenhagen is generally very safe, but like in any major city, it's wise to stay vigilant, especially at night and in crowded areas.",
+        "highlightedTextLength": 132,
+        "timestamp_second": 694.983,
+        "relative_time": 12.870055555555554,
+        "index": 563
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:48:43.630Z",
+        "target": "P",
+        "x": 616,
+        "y": 570,
+        "timestamp_second": 694.983,
+        "relative_time": 12.870055555555554,
+        "index": 564
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 600.9740197304636,
+        "timestamp": "2024-10-18T02:48:44.473Z",
+        "duration": 0.1,
+        "timestamp_second": 695.826,
+        "relative_time": 12.885666666666667,
+        "index": 565
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:48:47.581Z",
+        "duration": 11.971,
+        "timestamp_second": 698.934,
+        "relative_time": 12.943222222222223,
+        "index": 566
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 926.1570272666722,
+        "timestamp": "2024-10-18T02:48:56.544Z",
+        "duration": 3.199,
+        "timestamp_second": 707.897,
+        "relative_time": 13.109203703703704,
+        "index": 567
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:49:00.080Z",
+        "target": "STRONG",
+        "x": 432,
+        "y": 531,
+        "timestamp_second": 711.433,
+        "relative_time": 13.174685185185183,
+        "index": 568
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 185.87779945874354,
+        "timestamp": "2024-10-18T02:49:00.293Z",
+        "duration": 0.317,
+        "timestamp_second": 711.646,
+        "relative_time": 13.17862962962963,
+        "index": 569
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:49:00.769Z",
+        "text": "Safety: Copenhagen is generally very safe, but like in any major city, it's wise to stay vigilant, especially at night and in crowded areas.",
+        "highlightedTextLength": 140,
+        "timestamp_second": 712.122,
+        "relative_time": 13.187444444444443,
+        "index": 570
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T02:49:00.769Z",
+        "target": "P",
+        "x": 621,
+        "y": 568,
+        "timestamp_second": 712.122,
+        "relative_time": 13.187444444444443,
+        "index": 571
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 315.59523896712926,
+        "timestamp": "2024-10-18T02:49:01.101Z",
+        "duration": 0.037,
+        "timestamp_second": 712.454,
+        "relative_time": 13.193592592592593,
+        "index": 572
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T02:49:01.141Z",
+        "text": "Safety: Copenhagen is generally very safe, but like in any major city, it's wise to stay vigilant, especially at night and in crowded areas.",
+        "textLength": 140,
+        "timestamp_second": 712.494,
+        "relative_time": 13.194333333333333,
+        "index": 573
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 163.60012224933598,
+        "timestamp": "2024-10-18T02:49:01.144Z",
+        "duration": 0.016,
+        "timestamp_second": 712.497,
+        "relative_time": 13.19438888888889,
+        "index": 574
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T02:49:01.582Z",
+        "status": 0,
+        "timestamp_second": 712.935,
+        "relative_time": 13.2025,
+        "index": 575
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T02:49:04.176Z",
+        "duration": 30.097,
+        "timestamp_second": 715.529,
+        "relative_time": 13.250537037037036,
+        "index": 576
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 858.5309720160585,
+        "timestamp": "2024-10-18T02:49:31.257Z",
+        "duration": 0.672,
+        "timestamp_second": 742.61,
+        "relative_time": 13.752037037037038,
+        "index": 577
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T02:49:32.157Z",
+        "status": 1,
+        "timestamp_second": 743.51,
+        "relative_time": 13.768703703703702,
+        "index": 578
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T02:49:32.173Z",
+        "text": "Safety: Copenhagen is generally very safe, but like in any major city, it's wise to stay vigilant, especially at night and in crowded areas.",
+        "highlightedTextLength": 140,
+        "timestamp_second": 743.526,
+        "relative_time": 13.768999999999998,
+        "index": 579
+    }
+]

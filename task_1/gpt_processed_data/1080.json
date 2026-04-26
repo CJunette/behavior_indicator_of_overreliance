@@ -1,0 +1,430 @@
+[
+    {
+        "type": "click",
+        "timestamp": "2024-10-19T08:42:53.727Z",
+        "target": "BUTTON",
+        "x": 681,
+        "y": 29,
+        "timestamp_second": 0.0,
+        "relative_time": 0.0,
+        "index": 0
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-19T08:42:53.729Z",
+        "status": 0,
+        "timestamp_second": 0.002,
+        "relative_time": 3.7037037037037037e-05,
+        "index": 1
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-19T08:42:53.895Z",
+        "status": 1,
+        "timestamp_second": 0.168,
+        "relative_time": 0.003111111111111111,
+        "index": 2
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 483.1667047870417,
+        "timestamp": "2024-10-19T08:42:53.936Z",
+        "duration": 0.266,
+        "timestamp_second": 0.209,
+        "relative_time": 0.0038703703703703704,
+        "index": 3
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-19T08:42:57.204Z",
+        "duration": 56.911,
+        "timestamp_second": 3.477,
+        "relative_time": 0.06438888888888888,
+        "index": 4
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-19T08:43:51.113Z",
+        "status": 0,
+        "timestamp_second": 57.386,
+        "relative_time": 1.0627037037037037,
+        "index": 5
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-19T08:45:06.242Z",
+        "status": 1,
+        "timestamp_second": 132.515,
+        "relative_time": 2.453981481481481,
+        "index": 6
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 4.242640687119319,
+        "timestamp": "2024-10-19T08:45:06.716Z",
+        "duration": 0.033,
+        "timestamp_second": 132.989,
+        "relative_time": 2.4627592592592595,
+        "index": 7
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-19T08:45:07.155Z",
+        "target": "TEXTAREA",
+        "x": 424,
+        "y": 712,
+        "timestamp_second": 133.428,
+        "relative_time": 2.4708888888888887,
+        "index": 8
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-19T08:45:07.554Z",
+        "text": "It is approximately 10:00 am in mid-July and you have just crash landed in the Atacama Desert in South America. Your light twin-engined plane containing the bodies of the pilot and co-pilot has completely burned out with only the frame remaining. None of you have been injured. The pilot was unable to notify anyone of your position before the crash. However, he had indicated before impact that you were 50 miles (about 80 km) from a mining camp, which is the nearest known settlement, and approximately 65 miles (about 104 km) off the course that was filed in your Flight Plan. The immediate area is quite flat, except for occasional cacti, and appears to be rather barren. The last weather report indicated that the temperature would reach 110 F (43℃) today, which means that the temperature at ground level will be 130 F (54℃). You are dressed in lightweight clothing-short-sleeved shirts, pants, socks, and street shoes. Everyone has a handkerchief and collectively, you have 3 packs of cigarettes and a ballpoint pen. Before your plane caught fire, your group was able to salvage the 15 items listed on the “Salvaged Items” page. Your task is to rank these items according to their importance to your survival, starting with a “1” for the most important,to a “15” for the least important.\n\nNotice:\n\twhat you need to know before you can begin creating a list of essential items? The list of items is dependent upon the location and conditions of the new world.\n\nYour items:\n\tTorch with 4 battery-cells\n\tFolding knife\n\tAir map of the area\n\tPlastic raincoat (large size)\n\tMagnetic compass\n\tFirst-aid kit\n\t.45 calibre pistol (loaded) (.45口径手枪)\n\tParachute (red & white) (降落伞)\n\tBottle of 1000 salt tablets\n\t2 litres of water per person\n\tA book entitled ‘Desert Animals That Can Be Eaten’\n\tSunglasses (for everyone)\n\t2 litres of 180 proof liquor (2升90度的烈酒)\n\tOvercoat (for everyone)\n\tA cosmetic mirror",
+        "textLength": 1899,
+        "timestamp_second": 133.827,
+        "relative_time": 2.478277777777778,
+        "index": 9
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 687.4711734126931,
+        "timestamp": "2024-10-19T08:45:07.649Z",
+        "duration": 0.383,
+        "timestamp_second": 133.922,
+        "relative_time": 2.480037037037037,
+        "index": 10
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-19T08:45:08.383Z",
+        "duration": 4.091,
+        "key_list": "EnterHelp me rank the iet",
+        "keyCode_list": [
+            13,
+            72,
+            101,
+            108,
+            112,
+            32,
+            109,
+            101,
+            32,
+            114,
+            97,
+            110,
+            107,
+            32,
+            116,
+            104,
+            101,
+            32,
+            105,
+            101,
+            116
+        ],
+        "target": "TEXTAREA",
+        "key_count": 21,
+        "timestamp_second": 134.656,
+        "relative_time": 2.4936296296296296,
+        "index": 11
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-19T08:45:12.751Z",
+        "duration": 0.131,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 139.024,
+        "relative_time": 2.5745185185185187,
+        "index": 12
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-19T08:45:13.126Z",
+        "duration": 0.415,
+        "key_list": "tems",
+        "keyCode_list": [
+            116,
+            101,
+            109,
+            115
+        ],
+        "target": "TEXTAREA",
+        "key_count": 4,
+        "timestamp_second": 139.399,
+        "relative_time": 2.581462962962963,
+        "index": 13
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 560.9017439626655,
+        "timestamp": "2024-10-19T08:45:14.030Z",
+        "duration": 0.769,
+        "timestamp_second": 140.303,
+        "relative_time": 2.5982037037037036,
+        "index": 14
+    },
+    {
+        "type": "firstNotNull",
+        "time": "10/19/2024, 4:45:14 PM",
+        "timestamp": "2024-10-19T08:45:14.000000Z",
+        "index": 15
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-19T08:45:14.930Z",
+        "target": "DIV",
+        "x": 641,
+        "y": 735,
+        "timestamp_second": 141.203,
+        "relative_time": 2.6148703703703706,
+        "index": 16
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 732.784718652812,
+        "timestamp": "2024-10-19T08:45:15.200Z",
+        "duration": 0.515,
+        "timestamp_second": 141.473,
+        "relative_time": 2.6198703703703705,
+        "index": 17
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-19T08:45:17.532Z",
+        "status": 0,
+        "timestamp_second": 143.805,
+        "relative_time": 2.6630555555555557,
+        "index": 18
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-19T08:45:18.718Z",
+        "duration": 8.074,
+        "timestamp_second": 144.991,
+        "relative_time": 2.6850185185185187,
+        "index": 19
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:45:23.789Z",
+        "deltaY": 856,
+        "yDirection": 2,
+        "duration": 0.593,
+        "timestamp_second": 150.062,
+        "relative_time": 2.778925925925926,
+        "index": 20
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:45:24.398Z",
+        "deltaY": 199,
+        "yDirection": 1,
+        "duration": 0.257,
+        "timestamp_second": 150.671,
+        "relative_time": 2.7902037037037033,
+        "index": 21
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:45:25.339Z",
+        "deltaY": 202,
+        "yDirection": 1,
+        "duration": 0.86,
+        "timestamp_second": 151.612,
+        "relative_time": 2.8076296296296293,
+        "index": 22
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-19T08:45:26.228Z",
+        "duration": 24.201,
+        "timestamp_second": 152.501,
+        "relative_time": 2.8240925925925926,
+        "index": 23
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:45:47.429Z",
+        "deltaY": 173,
+        "yDirection": 1,
+        "duration": 0.852,
+        "timestamp_second": 173.702,
+        "relative_time": 3.2167037037037036,
+        "index": 24
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-19T08:45:49.590Z",
+        "duration": 79.039,
+        "timestamp_second": 175.863,
+        "relative_time": 3.256722222222222,
+        "index": 25
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:47:05.627Z",
+        "deltaY": 324,
+        "yDirection": 1,
+        "duration": 1.569,
+        "timestamp_second": 251.9,
+        "relative_time": 4.6648148148148145,
+        "index": 26
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:47:07.887Z",
+        "deltaY": 16,
+        "yDirection": 1,
+        "duration": 0.026,
+        "timestamp_second": 254.16,
+        "relative_time": 4.706666666666667,
+        "index": 27
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-19T08:47:07.914Z",
+        "duration": 3.017,
+        "timestamp_second": 254.187,
+        "relative_time": 4.707166666666667,
+        "index": 28
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:47:07.930Z",
+        "deltaY": 60,
+        "yDirection": 1,
+        "duration": 0.182,
+        "timestamp_second": 254.203,
+        "relative_time": 4.707462962962963,
+        "index": 29
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:47:08.176Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 254.449,
+        "relative_time": 4.712018518518519,
+        "index": 30
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:47:08.627Z",
+        "deltaY": 113,
+        "yDirection": 1,
+        "duration": 0.235,
+        "timestamp_second": 254.9,
+        "relative_time": 4.720370370370371,
+        "index": 31
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:47:09.526Z",
+        "deltaY": 71,
+        "yDirection": 1,
+        "duration": 0.253,
+        "timestamp_second": 255.799,
+        "relative_time": 4.737018518518519,
+        "index": 32
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:47:12.059Z",
+        "deltaY": 140,
+        "yDirection": 1,
+        "duration": 0.837,
+        "timestamp_second": 258.332,
+        "relative_time": 4.783925925925925,
+        "index": 33
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:47:37.693Z",
+        "deltaY": 413,
+        "yDirection": 1,
+        "duration": 1.348,
+        "timestamp_second": 283.966,
+        "relative_time": 5.258629629629629,
+        "index": 34
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-19T08:47:39.965Z",
+        "duration": 3.0799999999999996,
+        "timestamp_second": 286.238,
+        "relative_time": 5.300703703703704,
+        "index": 35
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:47:40.043Z",
+        "deltaY": 103,
+        "yDirection": 1,
+        "duration": 0.302,
+        "timestamp_second": 286.316,
+        "relative_time": 5.302148148148148,
+        "index": 36
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:47:40.859Z",
+        "deltaY": 58,
+        "yDirection": 1,
+        "duration": 0.219,
+        "timestamp_second": 287.132,
+        "relative_time": 5.317259259259259,
+        "index": 37
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:47:41.626Z",
+        "deltaY": 37,
+        "yDirection": 1,
+        "duration": 0.169,
+        "timestamp_second": 287.899,
+        "relative_time": 5.331462962962963,
+        "index": 38
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:47:46.627Z",
+        "deltaY": 91,
+        "yDirection": 1,
+        "duration": 0.251,
+        "timestamp_second": 292.9,
+        "relative_time": 5.424074074074073,
+        "index": 39
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T08:47:46.958Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 293.231,
+        "relative_time": 5.430203703703704,
+        "index": 40
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-19T08:47:48.873Z",
+        "duration": 26.964000000000002,
+        "timestamp_second": 295.146,
+        "relative_time": 5.465666666666667,
+        "index": 41
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-19T08:48:12.836Z",
+        "status": 1,
+        "timestamp_second": 319.109,
+        "relative_time": 5.909425925925926,
+        "index": 42
+    }
+]

@@ -1,0 +1,552 @@
+[
+    {
+        "type": "click",
+        "timestamp": "2024-10-19T00:37:11.136Z",
+        "target": "BUTTON",
+        "x": 698,
+        "y": 27,
+        "timestamp_second": 0.0,
+        "relative_time": 0.0,
+        "index": 0
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-19T00:37:11.138Z",
+        "status": 0,
+        "timestamp_second": 0.002,
+        "relative_time": 3.7037037037037037e-05,
+        "index": 1
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-19T00:37:11.316Z",
+        "status": 1,
+        "timestamp_second": 0.18,
+        "relative_time": 0.0033333333333333335,
+        "index": 2
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 546.8505653876625,
+        "timestamp": "2024-10-19T00:37:11.359Z",
+        "duration": 0.216,
+        "timestamp_second": 0.223,
+        "relative_time": 0.00412962962962963,
+        "index": 3
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-19T00:37:12.774Z",
+        "status": 0,
+        "timestamp_second": 1.638,
+        "relative_time": 0.03033333333333333,
+        "index": 4
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-19T00:37:13.033Z",
+        "status": 1,
+        "timestamp_second": 1.897,
+        "relative_time": 0.03512962962962963,
+        "index": 5
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-19T00:37:14.576Z",
+        "duration": 33.882,
+        "timestamp_second": 3.44,
+        "relative_time": 0.06370370370370369,
+        "index": 6
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-19T00:37:45.457Z",
+        "status": 0,
+        "timestamp_second": 34.321,
+        "relative_time": 0.6355740740740741,
+        "index": 7
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-19T00:37:53.515Z",
+        "status": 1,
+        "timestamp_second": 42.379,
+        "relative_time": 0.7847962962962963,
+        "index": 8
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 55.3061035792482,
+        "timestamp": "2024-10-19T00:37:53.913Z",
+        "duration": 0.16,
+        "timestamp_second": 42.777,
+        "relative_time": 0.7921666666666667,
+        "index": 9
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-19T00:37:54.238Z",
+        "target": "DIV",
+        "x": 402,
+        "y": 544,
+        "timestamp_second": 43.102,
+        "relative_time": 0.7981851851851851,
+        "index": 10
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 31.000000000000114,
+        "timestamp": "2024-10-19T00:37:54.340Z",
+        "duration": 0.167,
+        "timestamp_second": 43.204,
+        "relative_time": 0.800074074074074,
+        "index": 11
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-19T00:37:54.607Z",
+        "target": "TEXTAREA",
+        "x": 402,
+        "y": 579,
+        "timestamp_second": 43.471,
+        "relative_time": 0.8050185185185185,
+        "index": 12
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-19T00:37:55.242Z",
+        "duration": 0.442,
+        "key_list": "susmm",
+        "keyCode_list": [
+            115,
+            117,
+            115,
+            109,
+            109
+        ],
+        "target": "TEXTAREA",
+        "key_count": 5,
+        "timestamp_second": 44.106,
+        "relative_time": 0.8167777777777777,
+        "index": 13
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-19T00:37:56.024Z",
+        "duration": 0.256,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 3,
+        "timestamp_second": 44.888,
+        "relative_time": 0.8312592592592591,
+        "index": 14
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-19T00:37:56.753Z",
+        "duration": 2.065,
+        "key_list": "mmarize this:",
+        "keyCode_list": [
+            109,
+            109,
+            97,
+            114,
+            105,
+            122,
+            101,
+            32,
+            116,
+            104,
+            105,
+            115,
+            58
+        ],
+        "target": "TEXTAREA",
+        "key_count": 13,
+        "timestamp_second": 45.617,
+        "relative_time": 0.8447592592592592,
+        "index": 15
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-19T00:37:59.053Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 47.917,
+        "relative_time": 0.8873518518518518,
+        "index": 16
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-19T00:37:59.829Z",
+        "text": "When I sneeze, everyone knows about it. The resulting shockwave(冲击波) wobbles windows, awakens sleeping animals, and sets nearby humans on edge. My partner, who sneezes like a vole(鼠狼) hiccupping(打嗝), insists I do this on purpose. I maintain that the urge to sneeze at this decibel(分贝) level is irresistible. Why do some people sneeze so loudly?\n\nLet’s establish one thing first: Sneezing is important for the body. “The nose is an air filter for the lungs,” says Mas Takashima, the chair of the Department of Otolaryngology, Head and Neck Surgery at Houston Methodist Academic Institute. Inside our nose is a tight mesh of epithelial cells(上皮细胞) (a multipurpose cell found all over the body), tiny hairs, and thick mucus. These elements, says Takashima, “trap particulates(颗粒物) so that the lungs can be protected.” When those particulates build up, they need to be flushed out.\n\nThere are also populations of immune cells in our nose, which wake up when they detect high levels of sneeze-inducing compounds. “Some of the chemicals that are made as a consequence of that immune response cause changes in the lining of our nose,” says Sheena Cruickshank, a professor in the University of Manchester’s Division of Immunology. Those changes will be familiar to anyone who has endured a pollen-laden summer or phlegmy winter. The body makes more mucus, swelling starts in the nose, and signals are sent to the brain via the trigeminal nerve(三叉神经,面部感觉的主要神经), which provides sensation to the face. This signal is processed by an area at the base of our brain called the medulla oblongata(延髓,大脑的一部分，控制许多自主功能，如心跳和呼吸), resulting in reflexive muscle contractions(反射性肌肉收缩). This all leads to a sneeze. But while the causes of sneezing vary, there’s no reason a virus should produce a louder sneeze than grass pollen, says Cruickshank.\n\nInstead, the key to sneezing volume lies in the structure of our respiratory system. The first step of the sneeze reflex, says Takashima, involves deep inhalation. “\n\nYou need that air to be able to expel everything out,” he adds. While air is sucked into our lungs, our vocal cords close tightly. Once enough pressure has built up in our lungs, all the air is expelled. “It is that gush of air that’s pushing through the vocal cords that creates the sound of the sneeze,” says Takashima. The shape and “floppiness(松软度)” of our vocal cords and other soft tissue at the back of the throat influence whether or not we have a quiet or booming sneeze. Lung volume also determines how much air enters and leaves our chest during a sneeze, meaning no single physical measurement will predict sneeze volume. “Some people with big lung volumes have very petite sneezes,” says Takashima.\n\nCan I blame my resonant(共鸣的) throat the next time I rip space-time with a sneeze? Unfortunately, Takashima says it isn’t that simple. “There’s societal norms or cultural factors that can influence the sound of a sneeze,” he says.\n\nTakashima points out that in Japan, where there is a heavy cultural emphasis on not inconveniencing others, people manage to suppress their sneezes. The key here, he says, is to minimize the amount of resonant energy flowing through your oral cavity(口腔)–in simple terms, closing your mouth. This, he says, will reduce the volume of your sneeze.\n\nIs the solution to this deafening problem really that simple? A look at the medical literature suggests that sneeze suppression may be a surprisingly bad idea. A case study from a hospital in the Belgian city of Liège is a cautionary tale. During the peak of the COVID-19 pandemic–when loud sneezing did not go down well in public–a 38-year-old man reported pain and swelling in his face after holding back a sneeze. A scan revealed he had fractured(骨折的) his sinus(鼻窦). Takashima backs this up. “By suppressing a sneeze, you can cause some medical issues such as nose bleeds,” he says. “You can force air up the Eustachian tube(咽鼓管,连接中耳和鼻咽部的管道), possibly causing issues with your eardrum(鼓膜).”\n\nBut the next time you find a dust mote(微粒) tickling your throat in a library, or while a pet sleeps comfortably nearby, there is an alternative to a loud sneeze. “There are times where you don’t want to make a scene or you want to try to keep it as quiet as possible,” says Takashima. “Keeping your mouth closed as you sneeze can definitely do that.”",
+        "textLength": 4326,
+        "timestamp_second": 48.693,
+        "relative_time": 0.9017222222222222,
+        "index": 17
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 231.38161994265647,
+        "timestamp": "2024-10-19T00:38:00.474Z",
+        "duration": 0.583,
+        "timestamp_second": 49.338,
+        "relative_time": 0.9136666666666666,
+        "index": 18
+    },
+    {
+        "type": "firstNotNull",
+        "time": "10/18/2024, 5:38:01 PM",
+        "timestamp": "2024-10-19T00:38:01.000000Z",
+        "index": 19
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-19T00:38:01.157Z",
+        "target": "svg",
+        "x": 627,
+        "y": 599,
+        "timestamp_second": 50.021,
+        "relative_time": 0.9263148148148149,
+        "index": 20
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-19T00:38:04.075Z",
+        "duration": 4.199999999999999,
+        "timestamp_second": 52.939,
+        "relative_time": 0.9803518518518519,
+        "index": 21
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 661.8967393438597,
+        "timestamp": "2024-10-19T00:38:05.273Z",
+        "duration": 0.548,
+        "timestamp_second": 54.137,
+        "relative_time": 1.002537037037037,
+        "index": 22
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-19T00:38:06.612Z",
+        "status": 0,
+        "timestamp_second": 55.476,
+        "relative_time": 1.0273333333333334,
+        "index": 23
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-19T00:38:08.826Z",
+        "duration": 26.877,
+        "timestamp_second": 57.69,
+        "relative_time": 1.0683333333333334,
+        "index": 24
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T00:38:32.698Z",
+        "deltaY": 1147,
+        "yDirection": 2,
+        "duration": 2.287,
+        "timestamp_second": 81.562,
+        "relative_time": 1.5104074074074074,
+        "index": 25
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-19T00:38:34.989Z",
+        "duration": 3.016,
+        "timestamp_second": 83.853,
+        "relative_time": 1.552833333333333,
+        "index": 26
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T00:38:35.002Z",
+        "deltaY": 18,
+        "yDirection": 2,
+        "duration": 0.249,
+        "timestamp_second": 83.866,
+        "relative_time": 1.553074074074074,
+        "index": 27
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T00:38:35.999Z",
+        "deltaY": 694,
+        "yDirection": 1,
+        "duration": 1.003,
+        "timestamp_second": 84.863,
+        "relative_time": 1.571537037037037,
+        "index": 28
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T00:38:41.450Z",
+        "deltaY": 730,
+        "yDirection": 2,
+        "duration": 0.32,
+        "timestamp_second": 90.314,
+        "relative_time": 1.6724814814814815,
+        "index": 29
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-19T00:38:42.693Z",
+        "status": 1,
+        "timestamp_second": 91.557,
+        "relative_time": 1.6955000000000002,
+        "index": 30
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-19T00:38:43.672Z",
+        "duration": 1.193,
+        "key_list": "shorter",
+        "keyCode_list": [
+            115,
+            104,
+            111,
+            114,
+            116,
+            101,
+            114
+        ],
+        "target": "TEXTAREA",
+        "key_count": 7,
+        "timestamp_second": 92.536,
+        "relative_time": 1.7136296296296296,
+        "index": 31
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-19T00:38:45.041Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 93.905,
+        "relative_time": 1.7389814814814817,
+        "index": 32
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 170.84008529853304,
+        "timestamp": "2024-10-19T00:38:46.220Z",
+        "duration": 0.384,
+        "timestamp_second": 95.084,
+        "relative_time": 1.7608148148148146,
+        "index": 33
+    },
+    {
+        "type": "messageInterval",
+        "startTime": "10/18/2024, 5:38:01 PM",
+        "endTime": "10/18/2024, 5:38:46 PM",
+        "duration": 45576,
+        "timestamp": "2024-10-19T00:38:46.000000Z",
+        "index": 34
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-19T00:38:46.723Z",
+        "target": "BUTTON",
+        "x": 625,
+        "y": 609,
+        "timestamp_second": 95.587,
+        "relative_time": 1.7701296296296298,
+        "index": 35
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 225.2945246036611,
+        "timestamp": "2024-10-19T00:38:46.753Z",
+        "duration": 3.117,
+        "timestamp_second": 95.617,
+        "relative_time": 1.7706851851851853,
+        "index": 36
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T00:38:52.302Z",
+        "deltaY": 66,
+        "yDirection": 2,
+        "duration": 0.552,
+        "timestamp_second": 101.166,
+        "relative_time": 1.8734444444444442,
+        "index": 37
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-19T00:38:52.871Z",
+        "duration": 3.0,
+        "timestamp_second": 101.735,
+        "relative_time": 1.8839814814814817,
+        "index": 38
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-19T00:38:52.871Z",
+        "deltaY": 26,
+        "yDirection": 2,
+        "duration": 0.284,
+        "timestamp_second": 101.735,
+        "relative_time": 1.8839814814814817,
+        "index": 39
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 781.2489559759279,
+        "timestamp": "2024-10-19T00:38:53.725Z",
+        "duration": 2.914,
+        "timestamp_second": 102.589,
+        "relative_time": 1.8997962962962962,
+        "index": 40
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-19T00:38:56.654Z",
+        "text": "neezing, according to Mas Takashma, is a vital protective mechanism that flushes out particulates from our nose. The sneeze gene, activated by a compound in our nasal cavity, initiates this process when immune cells detect sneeze-inducing compounds. This signal is processed by the hippocampus in the brain, leading to reflexive muscle contractions that determine the sneeze's speed. The volume of a sneeze is influenced by the structure of our respiratory system and societal norms. However, suppressing a sneeze can cause harm, including nose and sinus",
+        "highlightedTextLength": 554,
+        "timestamp_second": 105.518,
+        "relative_time": 1.954037037037037,
+        "index": 41
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-19T00:38:56.655Z",
+        "target": "P",
+        "x": 601,
+        "y": 504,
+        "timestamp_second": 105.519,
+        "relative_time": 1.9540555555555557,
+        "index": 42
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 88.1079416482844,
+        "timestamp": "2024-10-19T00:38:57.105Z",
+        "duration": 0.15,
+        "timestamp_second": 105.969,
+        "relative_time": 1.962388888888889,
+        "index": 43
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-19T00:38:57.375Z",
+        "text": "neezing, according to Mas Takashma, is a vital protective mechanism that flushes out particulates from our nose. The sneeze gene, activated by a compound in our nasal cavity, initiates this process when immune cells detect sneeze-inducing compounds. This signal is processed by the hippocampus in the brain, leading to reflexive muscle contractions that determine the sneeze's speed. The volume of a sneeze is influenced by the structure of our respiratory system and societal norms. However, suppressing a sneeze can cause harm, including nose and sinus",
+        "highlightedTextLength": 554,
+        "timestamp_second": 106.239,
+        "relative_time": 1.967388888888889,
+        "index": 44
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-19T00:38:57.375Z",
+        "target": "P",
+        "x": 531,
+        "y": 448,
+        "timestamp_second": 106.239,
+        "relative_time": 1.967388888888889,
+        "index": 45
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 879.0628380108687,
+        "timestamp": "2024-10-19T00:38:57.588Z",
+        "duration": 2.234,
+        "timestamp_second": 106.452,
+        "relative_time": 1.9713333333333334,
+        "index": 46
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-19T00:38:59.824Z",
+        "text": "Sneezing, according to Mas Takashma, is a vital protective mechanism that flushes out particulates from our nose. The sneeze gene, activated by a compound in our nasal cavity, initiates this process when immune cells detect sneeze-inducing compounds. This signal is processed by the hippocampus in the brain, leading to reflexive muscle contractions that determine the sneeze's speed. The volume of a sneeze is influenced by the structure of our respiratory system and societal norms. However, suppressing a sneeze can cause harm, including nose and sinus damage. To sneeze quietly, it's best to keep the mouth closed.",
+        "highlightedTextLength": 618,
+        "timestamp_second": 108.688,
+        "relative_time": 2.0127407407407407,
+        "index": 47
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-19T00:38:59.825Z",
+        "target": "DIV",
+        "x": 557,
+        "y": 566,
+        "timestamp_second": 108.689,
+        "relative_time": 2.0127592592592594,
+        "index": 48
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-19T00:39:00.671Z",
+        "text": "Sneezing, according to Mas Takashma, is a vital protective mechanism that flushes out particulates from our nose. The sneeze gene, activated by a compound in our nasal cavity, initiates this process when immune cells detect sneeze-inducing compounds. This signal is processed by the hippocampus in the brain, leading to reflexive muscle contractions that determine the sneeze's speed. The volume of a sneeze is influenced by the structure of our respiratory system and societal norms. However, suppressing a sneeze can cause harm, including nose and sinus damage. To sneeze quietly, it's best to keep the mouth closed.",
+        "textLength": 618,
+        "timestamp_second": 109.535,
+        "relative_time": 2.028425925925926,
+        "index": 49
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 566.1178568647338,
+        "timestamp": "2024-10-19T00:39:01.097Z",
+        "duration": 0.092,
+        "timestamp_second": 109.961,
+        "relative_time": 2.0363148148148147,
+        "index": 50
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-19T00:39:01.577Z",
+        "status": 0,
+        "timestamp_second": 110.441,
+        "relative_time": 2.0452037037037036,
+        "index": 51
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-19T00:39:04.190Z",
+        "duration": 58.815999999999995,
+        "timestamp_second": 113.054,
+        "relative_time": 2.093592592592593,
+        "index": 52
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-19T00:40:00.005Z",
+        "status": 1,
+        "timestamp_second": 168.869,
+        "relative_time": 3.1272037037037035,
+        "index": 53
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2.0,
+        "timestamp": "2024-10-19T00:40:00.922Z",
+        "duration": 0.117,
+        "timestamp_second": 169.786,
+        "relative_time": 3.144185185185185,
+        "index": 54
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-19T00:40:01.543Z",
+        "text": "Sneezing, according to Mas Takashma, is a vital protective mechanism that flushes out particulates from our nose. The sneeze gene, activated by a compound in our nasal cavity, initiates this process when immune cells detect sneeze-inducing compounds. This signal is processed by the hippocampus in the brain, leading to reflexive muscle contractions that determine the sneeze's speed. The volume of a sneeze is influenced by the structure of our respiratory system and societal norms. However, suppressing a sneeze can cause harm, including nose and sinus damage. To sneeze quietly, it's best to keep the mouth closed.",
+        "highlightedTextLength": 618,
+        "timestamp_second": 170.407,
+        "relative_time": 3.1556851851851855,
+        "index": 55
+    }
+]

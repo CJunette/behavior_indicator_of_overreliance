@@ -1,0 +1,549 @@
+[
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T23:01:10.997Z",
+        "target": "BUTTON",
+        "x": 893,
+        "y": 37,
+        "timestamp_second": 0.0,
+        "relative_time": 0.0,
+        "index": 0
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-17T23:01:10.998Z",
+        "status": 0,
+        "timestamp_second": 0.001,
+        "relative_time": 1.8518518518518518e-05,
+        "index": 1
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-17T23:01:10.998Z",
+        "status": 1,
+        "timestamp_second": 0.001,
+        "relative_time": 1.8518518518518518e-05,
+        "index": 2
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 253.2026243282071,
+        "timestamp": "2024-10-17T23:01:10.998Z",
+        "duration": 0.168,
+        "timestamp_second": 0.001,
+        "relative_time": 1.8518518518518518e-05,
+        "index": 3
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-17T23:01:12.134Z",
+        "status": 0,
+        "timestamp_second": 1.137,
+        "relative_time": 0.021055555555555553,
+        "index": 4
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-17T23:01:14.168Z",
+        "duration": 39.168,
+        "timestamp_second": 3.171,
+        "relative_time": 0.05872222222222222,
+        "index": 5
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 622.9069495543972,
+        "timestamp": "2024-10-17T23:01:50.334Z",
+        "duration": 0.704,
+        "timestamp_second": 39.337,
+        "relative_time": 0.7284629629629631,
+        "index": 6
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-17T23:01:51.158Z",
+        "status": 1,
+        "timestamp_second": 40.161,
+        "relative_time": 0.7437222222222223,
+        "index": 7
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T23:01:51.285Z",
+        "target": "TEXTAREA",
+        "x": 495,
+        "y": 795,
+        "timestamp_second": 40.288,
+        "relative_time": 0.746074074074074,
+        "index": 8
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 277.19845001488693,
+        "timestamp": "2024-10-17T23:01:51.615Z",
+        "duration": 0.203,
+        "timestamp_second": 40.618,
+        "relative_time": 0.7521851851851853,
+        "index": 9
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-17T23:01:53.016Z",
+        "duration": 5.629,
+        "key_list": "summerize ",
+        "keyCode_list": [
+            115,
+            117,
+            109,
+            109,
+            101,
+            114,
+            105,
+            122,
+            101,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 10,
+        "timestamp_second": 42.019,
+        "relative_time": 0.7781296296296296,
+        "index": 10
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-17T23:02:01.655Z",
+        "duration": 4.351,
+        "timestamp_second": 50.658,
+        "relative_time": 0.9381111111111111,
+        "index": 11
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 61.38876797508328,
+        "timestamp": "2024-10-17T23:02:02.997Z",
+        "duration": 0.07,
+        "timestamp_second": 52.0,
+        "relative_time": 0.962962962962963,
+        "index": 12
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-17T23:02:03.261Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 52.264,
+        "relative_time": 0.9678518518518519,
+        "index": 13
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-17T23:02:03.766Z",
+        "duration": 0.559,
+        "key_list": [
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 18,
+        "timestamp_second": 52.769,
+        "relative_time": 0.9772037037037038,
+        "index": 14
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-17T23:02:06.078Z",
+        "duration": 4.466,
+        "timestamp_second": 55.081,
+        "relative_time": 1.0200185185185184,
+        "index": 15
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-17T23:02:07.533Z",
+        "duration": 0.0,
+        "key_list": "V",
+        "keyCode_list": [
+            86
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 56.536,
+        "relative_time": 1.0469629629629629,
+        "index": 16
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-17T23:02:08.852Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 57.855,
+        "relative_time": 1.071388888888889,
+        "index": 17
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-17T23:02:10.233Z",
+        "text": "summarize the content to three points.",
+        "textLength": 38,
+        "timestamp_second": 59.236,
+        "relative_time": 1.096962962962963,
+        "index": 18
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-17T23:02:10.549Z",
+        "duration": 5.089,
+        "timestamp_second": 59.552,
+        "relative_time": 1.1028148148148147,
+        "index": 19
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-17T23:02:12.622Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 61.625,
+        "relative_time": 1.1412037037037037,
+        "index": 20
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-17T23:02:13.391Z",
+        "duration": 29.832,
+        "key_list": " the scientific article  below to words more than 200",
+        "keyCode_list": [
+            32,
+            116,
+            104,
+            101,
+            32,
+            115,
+            99,
+            105,
+            101,
+            110,
+            116,
+            105,
+            102,
+            105,
+            99,
+            32,
+            97,
+            114,
+            116,
+            105,
+            99,
+            108,
+            101,
+            32,
+            32,
+            98,
+            101,
+            108,
+            111,
+            119,
+            32,
+            116,
+            111,
+            32,
+            119,
+            111,
+            114,
+            100,
+            115,
+            32,
+            109,
+            111,
+            114,
+            101,
+            32,
+            116,
+            104,
+            97,
+            110,
+            32,
+            50,
+            48,
+            48
+        ],
+        "target": "TEXTAREA",
+        "key_count": 53,
+        "timestamp_second": 62.394,
+        "relative_time": 1.1554444444444443,
+        "index": 21
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 900.0776481100934,
+        "timestamp": "2024-10-17T23:02:44.799Z",
+        "duration": 3.338,
+        "timestamp_second": 93.802,
+        "relative_time": 1.7370740740740742,
+        "index": 22
+    },
+    {
+        "type": "firstNotNull",
+        "time": "10/18/2024, 2:02:48 AM",
+        "timestamp": "2024-10-17T23:02:48.000000Z",
+        "index": 23
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T23:02:48.387Z",
+        "target": "BUTTON",
+        "x": 812,
+        "y": 805,
+        "timestamp_second": 97.39,
+        "relative_time": 1.8035185185185185,
+        "index": 24
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 387.71689402180345,
+        "timestamp": "2024-10-17T23:02:48.801Z",
+        "duration": 1.033,
+        "timestamp_second": 97.804,
+        "relative_time": 1.811185185185185,
+        "index": 25
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-17T23:02:52.839Z",
+        "duration": 26.466,
+        "timestamp_second": 101.842,
+        "relative_time": 1.8859629629629628,
+        "index": 26
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 116.06085835983231,
+        "timestamp": "2024-10-17T23:03:16.301Z",
+        "duration": 0.466,
+        "timestamp_second": 125.304,
+        "relative_time": 2.3204444444444445,
+        "index": 27
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-17T23:03:16.876Z",
+        "deltaY": 200,
+        "yDirection": 2,
+        "duration": 0.059,
+        "timestamp_second": 125.879,
+        "relative_time": 2.3310925925925927,
+        "index": 28
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 716.2828122261826,
+        "timestamp": "2024-10-17T23:03:17.167Z",
+        "duration": 2.3,
+        "timestamp_second": 126.17,
+        "relative_time": 2.3364814814814814,
+        "index": 29
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-17T23:03:19.692Z",
+        "text": "he article delves into the scientific understanding of the sneezing process. Firstly, it underscores that there's a sneeze gene that plays a significant role in the process. This gene triggers a small compound in our nasal cavity, which is responsible for the sneezing reflex. The sneeze signal is then processed by the hippocampus in our brain, leading to a sneeze.\n\nSecondly, the article discusses the function of sneezing. It's seen as a protective mechanism that helps flush out old cells from the nasal cavity. Moreover, sneezing aids the immune system in protecting us from viruses by expelling them out of the body. The article also mentions th",
+        "highlightedTextLength": 651,
+        "timestamp_second": 128.695,
+        "relative_time": 2.3832407407407405,
+        "index": 30
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T23:03:19.693Z",
+        "target": "DIV",
+        "x": 457,
+        "y": 609,
+        "timestamp_second": 128.696,
+        "relative_time": 2.383259259259259,
+        "index": 31
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 347.12726807174295,
+        "timestamp": "2024-10-17T23:03:19.717Z",
+        "duration": 0.864,
+        "timestamp_second": 128.72,
+        "relative_time": 2.383703703703704,
+        "index": 32
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-17T23:03:20.581Z",
+        "text": "he article delves into the scientific understanding of the sneezing process. Firstly, it underscores that there's a sneeze gene that plays a significant role in the process. This gene triggers a small compound in our nasal cavity, which is responsible for the sneezing reflex. The sneeze signal is then processed by the hippocampus in our brain, leading to a sneeze.\n\nSecondly, the article discusses the function of sneezing. It's seen as a protective mechanism that helps flush out old cells from the nasal cavity. Moreover, sneezing aids the immune system in protecting us from viruses by expelling them out of the body. The article also mentions th",
+        "highlightedTextLength": 651,
+        "timestamp_second": 129.584,
+        "relative_time": 2.399703703703704,
+        "index": 33
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T23:03:20.581Z",
+        "target": "DIV",
+        "x": 747,
+        "y": 470,
+        "timestamp_second": 129.584,
+        "relative_time": 2.399703703703704,
+        "index": 34
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 43.28951866133957,
+        "timestamp": "2024-10-17T23:03:20.672Z",
+        "duration": 0.296,
+        "timestamp_second": 129.675,
+        "relative_time": 2.401388888888889,
+        "index": 35
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-17T23:03:21.212Z",
+        "text": "he article delves into the scientific understanding of the sneezing process. Firstly, it underscores that there's a sneeze gene that plays a significant role in the process. This gene triggers a small compound in our nasal cavity, which is responsible for the sneezing reflex. The sneeze signal is then processed by the hippocampus in our brain, leading to a sneeze.\n\nSecondly, the article discusses the function of sneezing. It's seen as a protective mechanism that helps flush out old cells from the nasal cavity. Moreover, sneezing aids the immune system in protecting us from viruses by expelling them out of the body. The article also mentions th",
+        "highlightedTextLength": 651,
+        "timestamp_second": 130.215,
+        "relative_time": 2.411388888888889,
+        "index": 36
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T23:03:21.212Z",
+        "target": "P",
+        "x": 715,
+        "y": 456,
+        "timestamp_second": 130.215,
+        "relative_time": 2.411388888888889,
+        "index": 37
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1222.165487514132,
+        "timestamp": "2024-10-17T23:03:21.367Z",
+        "duration": 6.284,
+        "timestamp_second": 130.37,
+        "relative_time": 2.4142592592592593,
+        "index": 38
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-17T23:03:29.485Z",
+        "text": "The article delves into the scientific understanding of the sneezing process. Firstly, it underscores that there's a sneeze gene that plays a significant role in the process. This gene triggers a small compound in our nasal cavity, which is responsible for the sneezing reflex. The sneeze signal is then processed by the hippocampus in our brain, leading to a sneeze.\n\nSecondly, the article discusses the function of sneezing. It's seen as a protective mechanism that helps flush out old cells from the nasal cavity. Moreover, sneezing aids the immune system in protecting us from viruses by expelling them out of the body. The article also mentions the role of reflexive muscle contractions in determining the speed of a sneeze.\n\nLastly, the article provides insight into the impact of holding back a sneeze and the most effective way to sneeze quietly. It warns that holding back a sneeze may damage the surface of the nose and sinus due to the pressure build-up. On the other hand, keeping the mouth closed is the most effective way to sneeze quietly. The article concludes by highlighting that the sound of a sneeze isn't only determined by physiological factors but also by cultural factors, psychological factors, and societal norms.",
+        "highlightedTextLength": 1239,
+        "timestamp_second": 138.488,
+        "relative_time": 2.5645925925925925,
+        "index": 39
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-17T23:03:29.485Z",
+        "target": "DIV",
+        "x": 661,
+        "y": 553,
+        "timestamp_second": 138.488,
+        "relative_time": 2.5645925925925925,
+        "index": 40
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 423.3548519119804,
+        "timestamp": "2024-10-17T23:03:30.077Z",
+        "duration": 0.708,
+        "timestamp_second": 139.08,
+        "relative_time": 2.575555555555556,
+        "index": 41
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-17T23:03:33.800Z",
+        "duration": 4.661,
+        "timestamp_second": 142.803,
+        "relative_time": 2.6445,
+        "index": 42
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-17T23:03:35.446Z",
+        "text": "The article delves into the scientific understanding of the sneezing process. Firstly, it underscores that there's a sneeze gene that plays a significant role in the process. This gene triggers a small compound in our nasal cavity, which is responsible for the sneezing reflex. The sneeze signal is then processed by the hippocampus in our brain, leading to a sneeze.\n\nSecondly, the article discusses the function of sneezing. It's seen as a protective mechanism that helps flush out old cells from the nasal cavity. Moreover, sneezing aids the immune system in protecting us from viruses by expelling them out of the body. The article also mentions the role of reflexive muscle contractions in determining the speed of a sneeze.\n\nLastly, the article provides insight into the impact of holding back a sneeze and the most effective way to sneeze quietly. It warns that holding back a sneeze may damage the surface of the nose and sinus due to the pressure build-up. On the other hand, keeping the mouth closed is the most effective way to sneeze quietly. The article concludes by highlighting that the sound of a sneeze isn't only determined by physiological factors but also by cultural factors, psychological factors, and societal norms.",
+        "textLength": 1239,
+        "timestamp_second": 144.449,
+        "relative_time": 2.6749814814814816,
+        "index": 43
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 27.459060435491665,
+        "timestamp": "2024-10-17T23:03:36.319Z",
+        "duration": 0.015,
+        "timestamp_second": 145.322,
+        "relative_time": 2.691148148148148,
+        "index": 44
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-17T23:03:39.347Z",
+        "duration": 9.176,
+        "timestamp_second": 148.35,
+        "relative_time": 2.7472222222222222,
+        "index": 45
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-17T23:03:45.511Z",
+        "status": 0,
+        "timestamp_second": 154.514,
+        "relative_time": 2.861370370370371,
+        "index": 46
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 688.7302070175974,
+        "timestamp": "2024-10-17T23:04:10.220Z",
+        "duration": 1.089,
+        "timestamp_second": 179.223,
+        "relative_time": 3.3189444444444445,
+        "index": 47
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-17T23:04:11.514Z",
+        "status": 1,
+        "timestamp_second": 180.517,
+        "relative_time": 3.3429074074074077,
+        "index": 48
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-17T23:04:11.644Z",
+        "text": "The article delves into the scientific understanding of the sneezing process. Firstly, it underscores that there's a sneeze gene that plays a significant role in the process. This gene triggers a small compound in our nasal cavity, which is responsible for the sneezing reflex. The sneeze signal is then processed by the hippocampus in our brain, leading to a sneeze.\n\nSecondly, the article discusses the function of sneezing. It's seen as a protective mechanism that helps flush out old cells from the nasal cavity. Moreover, sneezing aids the immune system in protecting us from viruses by expelling them out of the body. The article also mentions the role of reflexive muscle contractions in determining the speed of a sneeze.\n\nLastly, the article provides insight into the impact of holding back a sneeze and the most effective way to sneeze quietly. It warns that holding back a sneeze may damage the surface of the nose and sinus due to the pressure build-up. On the other hand, keeping the mouth closed is the most effective way to sneeze quietly. The article concludes by highlighting that the sound of a sneeze isn't only determined by physiological factors but also by cultural factors, psychological factors, and societal norms.",
+        "highlightedTextLength": 1239,
+        "timestamp_second": 180.647,
+        "relative_time": 3.345314814814815,
+        "index": 49
+    }
+]

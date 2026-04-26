@@ -1,0 +1,1509 @@
+[
+    {
+        "type": "click",
+        "timestamp": "2024-10-20T17:55:26.791Z",
+        "target": "BUTTON",
+        "x": 713,
+        "y": 26,
+        "timestamp_second": 0.0,
+        "relative_time": 0.0,
+        "index": 0
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-20T17:55:26.793Z",
+        "status": 0,
+        "timestamp_second": 0.002,
+        "relative_time": 3.7037037037037037e-05,
+        "index": 1
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-20T17:55:26.966Z",
+        "status": 1,
+        "timestamp_second": 0.175,
+        "relative_time": 0.0032407407407407406,
+        "index": 2
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 549.7471195668998,
+        "timestamp": "2024-10-20T17:55:26.990Z",
+        "duration": 0.252,
+        "timestamp_second": 0.199,
+        "relative_time": 0.003685185185185185,
+        "index": 3
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T17:55:30.243Z",
+        "duration": 166.461,
+        "timestamp_second": 3.452,
+        "relative_time": 0.06392592592592593,
+        "index": 4
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 132.82554336370004,
+        "timestamp": "2024-10-20T17:58:13.703Z",
+        "duration": 0.045,
+        "timestamp_second": 166.912,
+        "relative_time": 3.090962962962963,
+        "index": 5
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-20T17:58:15.616Z",
+        "status": 0,
+        "timestamp_second": 168.825,
+        "relative_time": 3.126388888888889,
+        "index": 6
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T17:58:16.750Z",
+        "duration": 10.125,
+        "timestamp_second": 169.959,
+        "relative_time": 3.147388888888889,
+        "index": 7
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-20T17:58:23.873Z",
+        "status": 1,
+        "timestamp_second": 177.082,
+        "relative_time": 3.279296296296296,
+        "index": 8
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-20T17:58:24.076Z",
+        "status": 0,
+        "timestamp_second": 177.285,
+        "relative_time": 3.283055555555556,
+        "index": 9
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-20T17:58:26.636Z",
+        "status": 1,
+        "timestamp_second": 179.845,
+        "relative_time": 3.330462962962963,
+        "index": 10
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 8.162277660168456,
+        "timestamp": "2024-10-20T17:58:26.942Z",
+        "duration": 0.123,
+        "timestamp_second": 180.151,
+        "relative_time": 3.33612962962963,
+        "index": 11
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-20T17:58:27.121Z",
+        "target": "TEXTAREA",
+        "x": 421,
+        "y": 653,
+        "timestamp_second": 180.33,
+        "relative_time": 3.339444444444445,
+        "index": 12
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-20T17:58:27.957Z",
+        "duration": 0.893,
+        "key_list": "How woudl",
+        "keyCode_list": [
+            72,
+            111,
+            119,
+            32,
+            119,
+            111,
+            117,
+            100,
+            108
+        ],
+        "target": "TEXTAREA",
+        "key_count": 9,
+        "timestamp_second": 181.166,
+        "relative_time": 3.354925925925926,
+        "index": 13
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-20T17:58:29.485Z",
+        "duration": 0.157,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 182.694,
+        "relative_time": 3.3832222222222224,
+        "index": 14
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-20T17:58:29.885Z",
+        "duration": 8.98,
+        "key_list": "ld you summarize the three most important points of this article",
+        "keyCode_list": [
+            108,
+            100,
+            32,
+            121,
+            111,
+            117,
+            32,
+            115,
+            117,
+            109,
+            109,
+            97,
+            114,
+            105,
+            122,
+            101,
+            32,
+            116,
+            104,
+            101,
+            32,
+            116,
+            104,
+            114,
+            101,
+            101,
+            32,
+            109,
+            111,
+            115,
+            116,
+            32,
+            105,
+            109,
+            112,
+            111,
+            114,
+            116,
+            97,
+            110,
+            116,
+            32,
+            112,
+            111,
+            105,
+            110,
+            116,
+            115,
+            32,
+            111,
+            102,
+            32,
+            116,
+            104,
+            105,
+            115,
+            32,
+            97,
+            114,
+            116,
+            105,
+            99,
+            108,
+            101
+        ],
+        "target": "TEXTAREA",
+        "key_count": 64,
+        "timestamp_second": 183.094,
+        "relative_time": 3.3906296296296294,
+        "index": 15
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-20T17:58:39.184Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 192.393,
+        "relative_time": 3.5628333333333333,
+        "index": 16
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-20T17:58:39.968Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 193.177,
+        "relative_time": 3.577351851851852,
+        "index": 17
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-20T17:58:40.308Z",
+        "duration": 0.833,
+        "key_list": "? ",
+        "keyCode_list": [
+            63,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 2,
+        "timestamp_second": 193.517,
+        "relative_time": 3.583648148148148,
+        "index": 18
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 42.06137866015706,
+        "timestamp": "2024-10-20T17:58:41.249Z",
+        "duration": 0.082,
+        "timestamp_second": 194.458,
+        "relative_time": 3.601074074074074,
+        "index": 19
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-20T17:58:42.086Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 195.295,
+        "relative_time": 3.616574074074074,
+        "index": 20
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-20T17:58:42.601Z",
+        "duration": 0.0,
+        "key_list": "Enter",
+        "keyCode_list": [
+            13
+        ],
+        "target": "TEXTAREA",
+        "key_count": 1,
+        "timestamp_second": 195.81,
+        "relative_time": 3.6261111111111113,
+        "index": 21
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 373.37391476445646,
+        "timestamp": "2024-10-20T17:58:42.973Z",
+        "duration": 0.059,
+        "timestamp_second": 196.182,
+        "relative_time": 3.633,
+        "index": 22
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-20T17:58:43.707Z",
+        "status": 0,
+        "timestamp_second": 196.916,
+        "relative_time": 3.6465925925925924,
+        "index": 23
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T17:58:46.033Z",
+        "duration": 7.3759999999999994,
+        "timestamp_second": 199.242,
+        "relative_time": 3.6896666666666667,
+        "index": 24
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:58:50.408Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 203.617,
+        "relative_time": 3.7706851851851853,
+        "index": 25
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-20T17:58:50.785Z",
+        "status": 1,
+        "timestamp_second": 203.994,
+        "relative_time": 3.7776666666666667,
+        "index": 26
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 23.352403158131438,
+        "timestamp": "2024-10-20T17:58:50.931Z",
+        "duration": 0.351,
+        "timestamp_second": 204.14,
+        "relative_time": 3.78037037037037,
+        "index": 27
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-20T17:58:51.607Z",
+        "text": "When I sneeze, everyone knows about it. The resulting shockwave(冲击波) wobbles windows, awakens sleeping animals, and sets nearby humans on edge. My partner, who sneezes like a vole(鼠狼) hiccupping(打嗝), insists I do this on purpose. I maintain that the urge to sneeze at this decibel(分贝) level is irresistible. Why do some people sneeze so loudly?\n\nLet’s establish one thing first: Sneezing is important for the body. “The nose is an air filter for the lungs,” says Mas Takashima, the chair of the Department of Otolaryngology, Head and Neck Surgery at Houston Methodist Academic Institute. Inside our nose is a tight mesh of epithelial cells(上皮细胞) (a multipurpose cell found all over the body), tiny hairs, and thick mucus. These elements, says Takashima, “trap particulates(颗粒物) so that the lungs can be protected.” When those particulates build up, they need to be flushed out.\n\nThere are also populations of immune cells in our nose, which wake up when they detect high levels of sneeze-inducing compounds. “Some of the chemicals that are made as a consequence of that immune response cause changes in the lining of our nose,” says Sheena Cruickshank, a professor in the University of Manchester’s Division of Immunology. Those changes will be familiar to anyone who has endured a pollen-laden summer or phlegmy winter. The body makes more mucus, swelling starts in the nose, and signals are sent to the brain via the trigeminal nerve(三叉神经,面部感觉的主要神经), which provides sensation to the face. This signal is processed by an area at the base of our brain called the medulla oblongata(延髓,大脑的一部分，控制许多自主功能，如心跳和呼吸), resulting in reflexive muscle contractions(反射性肌肉收缩). This all leads to a sneeze. But while the causes of sneezing vary, there’s no reason a virus should produce a louder sneeze than grass pollen, says Cruickshank.\n\nInstead, the key to sneezing volume lies in the structure of our respiratory system. The first step of the sneeze reflex, says Takashima, involves deep inhalation. “\n\nYou need that air to be able to expel everything out,” he adds. While air is sucked into our lungs, our vocal cords close tightly. Once enough pressure has built up in our lungs, all the air is expelled. “It is that gush of air that’s pushing through the vocal cords that creates the sound of the sneeze,” says Takashima. The shape and “floppiness(松软度)” of our vocal cords and other soft tissue at the back of the throat influence whether or not we have a quiet or booming sneeze. Lung volume also determines how much air enters and leaves our chest during a sneeze, meaning no single physical measurement will predict sneeze volume. “Some people with big lung volumes have very petite sneezes,” says Takashima.\n\nCan I blame my resonant(共鸣的) throat the next time I rip space-time with a sneeze? Unfortunately, Takashima says it isn’t that simple. “There’s societal norms or cultural factors that can influence the sound of a sneeze,” he says.\n\nTakashima points out that in Japan, where there is a heavy cultural emphasis on not inconveniencing others, people manage to suppress their sneezes. The key here, he says, is to minimize the amount of resonant energy flowing through your oral cavity(口腔)–in simple terms, closing your mouth. This, he says, will reduce the volume of your sneeze.\n\nIs the solution to this deafening problem really that simple? A look at the medical literature suggests that sneeze suppression may be a surprisingly bad idea. A case study from a hospital in the Belgian city of Liège is a cautionary tale. During the peak of the COVID-19 pandemic–when loud sneezing did not go down well in public–a 38-year-old man reported pain and swelling in his face after holding back a sneeze. A scan revealed he had fractured(骨折的) his sinus(鼻窦). Takashima backs this up. “By suppressing a sneeze, you can cause some medical issues such as nose bleeds,” he says. “You can force air up the Eustachian tube(咽鼓管,连接中耳和鼻咽部的管道), possibly causing issues with your eardrum(鼓膜).”\n\nBut the next time you find a dust mote(微粒) tickling your throat in a library, or while a pet sleeps comfortably nearby, there is an alternative to a loud sneeze. “There are times where you don’t want to make a scene or you want to try to keep it as quiet as possible,” says Takashima. “Keeping your mouth closed as you sneeze can definitely do that.”",
+        "textLength": 4326,
+        "timestamp_second": 204.816,
+        "relative_time": 3.7928888888888888,
+        "index": 28
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 278.7529902534334,
+        "timestamp": "2024-10-20T17:58:52.565Z",
+        "duration": 0.683,
+        "timestamp_second": 205.774,
+        "relative_time": 3.81062962962963,
+        "index": 29
+    },
+    {
+        "type": "firstNotNull",
+        "time": "10/20/2024, 10:58:53 AM",
+        "timestamp": "2024-10-20T17:58:53.000000Z",
+        "index": 30
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-20T17:58:53.407Z",
+        "target": "DIV",
+        "x": 661,
+        "y": 683,
+        "timestamp_second": 206.616,
+        "relative_time": 3.8262222222222224,
+        "index": 31
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 178.7109706486167,
+        "timestamp": "2024-10-20T17:58:53.532Z",
+        "duration": 0.467,
+        "timestamp_second": 206.741,
+        "relative_time": 3.8285370370370373,
+        "index": 32
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:58:54.248Z",
+        "deltaY": 20.634765625,
+        "yDirection": 2,
+        "duration": 0.067,
+        "timestamp_second": 207.457,
+        "relative_time": 3.841796296296296,
+        "index": 33
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 27.560623297836628,
+        "timestamp": "2024-10-20T17:58:54.698Z",
+        "duration": 0.167,
+        "timestamp_second": 207.907,
+        "relative_time": 3.8501296296296297,
+        "index": 34
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:58:54.882Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 208.091,
+        "relative_time": 3.853537037037037,
+        "index": 35
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3.0,
+        "timestamp": "2024-10-20T17:58:54.898Z",
+        "duration": 0.033,
+        "timestamp_second": 208.107,
+        "relative_time": 3.853833333333333,
+        "index": 36
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:58:55.048Z",
+        "deltaY": 280.36376953125,
+        "yDirection": 1,
+        "duration": 0.133,
+        "timestamp_second": 208.257,
+        "relative_time": 3.8566111111111114,
+        "index": 37
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2.0,
+        "timestamp": "2024-10-20T17:58:56.332Z",
+        "duration": 0.266,
+        "timestamp_second": 209.541,
+        "relative_time": 3.8803888888888887,
+        "index": 38
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:58:56.764Z",
+        "deltaY": 13.8116455078125,
+        "yDirection": 2,
+        "duration": 0.084,
+        "timestamp_second": 209.973,
+        "relative_time": 3.888388888888889,
+        "index": 39
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 104.43767760012315,
+        "timestamp": "2024-10-20T17:58:57.148Z",
+        "duration": 7.451,
+        "timestamp_second": 210.357,
+        "relative_time": 3.8954999999999997,
+        "index": 40
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:59:04.615Z",
+        "deltaY": 584.8846435546875,
+        "yDirection": 2,
+        "duration": 1.266,
+        "timestamp_second": 217.824,
+        "relative_time": 4.033777777777778,
+        "index": 41
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:59:06.138Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 219.347,
+        "relative_time": 4.061981481481482,
+        "index": 42
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:59:06.315Z",
+        "deltaY": 181.9097900390625,
+        "yDirection": 2,
+        "duration": 1.886,
+        "timestamp_second": 219.524,
+        "relative_time": 4.06525925925926,
+        "index": 43
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T17:59:10.483Z",
+        "duration": 3.516,
+        "timestamp_second": 223.692,
+        "relative_time": 4.142444444444444,
+        "index": 44
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:59:10.998Z",
+        "deltaY": 33.6285400390625,
+        "yDirection": 2,
+        "duration": 0.233,
+        "timestamp_second": 224.207,
+        "relative_time": 4.1519814814814815,
+        "index": 45
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:59:11.771Z",
+        "deltaY": 4.000244140625,
+        "yDirection": 2,
+        "duration": 0.144,
+        "timestamp_second": 224.98,
+        "relative_time": 4.166296296296297,
+        "index": 46
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-20T17:59:12.033Z",
+        "duration": 0.032,
+        "timestamp_second": 225.242,
+        "relative_time": 4.1711481481481485,
+        "index": 47
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:59:12.099Z",
+        "deltaY": 8.00048828125,
+        "yDirection": 2,
+        "duration": 0.316,
+        "timestamp_second": 225.308,
+        "relative_time": 4.17237037037037,
+        "index": 48
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:59:12.932Z",
+        "deltaY": 16.1505126953125,
+        "yDirection": 2,
+        "duration": 0.083,
+        "timestamp_second": 226.141,
+        "relative_time": 4.1877962962962965,
+        "index": 49
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 575.1522945601196,
+        "timestamp": "2024-10-20T17:59:13.249Z",
+        "duration": 0.133,
+        "timestamp_second": 226.458,
+        "relative_time": 4.193666666666666,
+        "index": 50
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T17:59:16.383Z",
+        "duration": 13.133,
+        "timestamp_second": 229.592,
+        "relative_time": 4.251703703703704,
+        "index": 51
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 468.73289253364146,
+        "timestamp": "2024-10-20T17:59:26.515Z",
+        "duration": 0.533,
+        "timestamp_second": 239.724,
+        "relative_time": 4.439333333333333,
+        "index": 52
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:59:27.132Z",
+        "deltaY": 367.9254150390625,
+        "yDirection": 1,
+        "duration": 0.1,
+        "timestamp_second": 240.341,
+        "relative_time": 4.450759259259259,
+        "index": 53
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:59:27.646Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 240.855,
+        "relative_time": 4.460277777777778,
+        "index": 54
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:59:27.857Z",
+        "deltaY": 327.061767578125,
+        "yDirection": 1,
+        "duration": 0.142,
+        "timestamp_second": 241.066,
+        "relative_time": 4.464185185185185,
+        "index": 55
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:59:28.515Z",
+        "deltaY": 834.7503662109375,
+        "yDirection": 1,
+        "duration": 0.216,
+        "timestamp_second": 241.724,
+        "relative_time": 4.47637037037037,
+        "index": 56
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3.1622776601680016,
+        "timestamp": "2024-10-20T17:59:29.066Z",
+        "duration": 0.016,
+        "timestamp_second": 242.275,
+        "relative_time": 4.486574074074074,
+        "index": 57
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T17:59:29.098Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 242.307,
+        "relative_time": 4.487166666666666,
+        "index": 58
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 452.34349392790955,
+        "timestamp": "2024-10-20T17:59:29.099Z",
+        "duration": 0.083,
+        "timestamp_second": 242.308,
+        "relative_time": 4.487185185185185,
+        "index": 59
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-20T17:59:29.673Z",
+        "status": 0,
+        "timestamp_second": 242.882,
+        "relative_time": 4.497814814814815,
+        "index": 60
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T17:59:32.184Z",
+        "duration": 116.03399999999999,
+        "timestamp_second": 245.393,
+        "relative_time": 4.544314814814815,
+        "index": 61
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:01:25.216Z",
+        "deltaY": 406.54541015625,
+        "yDirection": 2,
+        "duration": 0.082,
+        "timestamp_second": 358.425,
+        "relative_time": 6.6375,
+        "index": 62
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:01:25.396Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 358.605,
+        "relative_time": 6.640833333333333,
+        "index": 63
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:01:25.578Z",
+        "deltaY": 711.9134521484375,
+        "yDirection": 2,
+        "duration": 0.603,
+        "timestamp_second": 358.787,
+        "relative_time": 6.644203703703703,
+        "index": 64
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:01:27.130Z",
+        "deltaY": 0,
+        "yDirection": 0,
+        "duration": 0.0,
+        "timestamp_second": 360.339,
+        "relative_time": 6.672944444444444,
+        "index": 65
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:01:28.007Z",
+        "duration": 3.652,
+        "timestamp_second": 361.216,
+        "relative_time": 6.689185185185186,
+        "index": 66
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-20T18:01:28.658Z",
+        "status": 1,
+        "timestamp_second": 361.867,
+        "relative_time": 6.701240740740741,
+        "index": 67
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 56.34729338855777,
+        "timestamp": "2024-10-20T18:01:28.848Z",
+        "duration": 0.367,
+        "timestamp_second": 362.057,
+        "relative_time": 6.704759259259259,
+        "index": 68
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:01:29.283Z",
+        "deltaY": 508.07373046875,
+        "yDirection": 2,
+        "duration": 0.532,
+        "timestamp_second": 362.492,
+        "relative_time": 6.712814814814815,
+        "index": 69
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 4.0,
+        "timestamp": "2024-10-20T18:01:30.616Z",
+        "duration": 0.083,
+        "timestamp_second": 363.825,
+        "relative_time": 6.737500000000001,
+        "index": 70
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:01:30.760Z",
+        "deltaY": 51.94091796875,
+        "yDirection": 2,
+        "duration": 0.205,
+        "timestamp_second": 363.969,
+        "relative_time": 6.740166666666666,
+        "index": 71
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 825.6967029082016,
+        "timestamp": "2024-10-20T18:01:31.515Z",
+        "duration": 2.117,
+        "timestamp_second": 364.724,
+        "relative_time": 6.754148148148148,
+        "index": 72
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:01:33.632Z",
+        "deltaY": 38.001708984375,
+        "yDirection": 2,
+        "duration": 0.833,
+        "timestamp_second": 366.841,
+        "relative_time": 6.793351851851852,
+        "index": 73
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 407.90918719065485,
+        "timestamp": "2024-10-20T18:01:34.749Z",
+        "duration": 0.183,
+        "timestamp_second": 367.958,
+        "relative_time": 6.814037037037038,
+        "index": 74
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-20T18:01:35.749Z",
+        "status": 0,
+        "timestamp_second": 368.958,
+        "relative_time": 6.8325555555555555,
+        "index": 75
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:01:37.934Z",
+        "duration": 100.46199999999999,
+        "timestamp_second": 371.143,
+        "relative_time": 6.873018518518519,
+        "index": 76
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:03:15.394Z",
+        "deltaY": 72.938232421875,
+        "yDirection": 1,
+        "duration": 0.322,
+        "timestamp_second": 468.603,
+        "relative_time": 8.677833333333334,
+        "index": 77
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:03:16.489Z",
+        "deltaY": 11.3409423828125,
+        "yDirection": 1,
+        "duration": 0.109,
+        "timestamp_second": 469.698,
+        "relative_time": 8.69811111111111,
+        "index": 78
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:03:16.699Z",
+        "deltaY": 239.2572021484375,
+        "yDirection": 2,
+        "duration": 0.616,
+        "timestamp_second": 469.908,
+        "relative_time": 8.702,
+        "index": 79
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:03:17.472Z",
+        "duration": 6.516,
+        "timestamp_second": 470.681,
+        "relative_time": 8.716314814814814,
+        "index": 80
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:03:20.986Z",
+        "duration": 10.023,
+        "timestamp_second": 474.195,
+        "relative_time": 8.78138888888889,
+        "index": 81
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:03:28.007Z",
+        "deltaY": 373.9727783203125,
+        "yDirection": 1,
+        "duration": 0.091,
+        "timestamp_second": 481.216,
+        "relative_time": 8.911407407407408,
+        "index": 82
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:03:28.864Z",
+        "deltaY": 24.1473388671875,
+        "yDirection": 2,
+        "duration": 0.251,
+        "timestamp_second": 482.073,
+        "relative_time": 8.927277777777777,
+        "index": 83
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:03:29.560Z",
+        "deltaY": 15.4498291015625,
+        "yDirection": 1,
+        "duration": 0.272,
+        "timestamp_second": 482.769,
+        "relative_time": 8.940166666666666,
+        "index": 84
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:03:30.421Z",
+        "duration": 6.279,
+        "timestamp_second": 483.63,
+        "relative_time": 8.956111111111111,
+        "index": 85
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:03:33.699Z",
+        "duration": 19.685,
+        "timestamp_second": 486.908,
+        "relative_time": 9.016814814814815,
+        "index": 86
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-20T18:03:50.382Z",
+        "status": 1,
+        "timestamp_second": 503.591,
+        "relative_time": 9.32575925925926,
+        "index": 87
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 64.71919112427895,
+        "timestamp": "2024-10-20T18:03:50.482Z",
+        "duration": 0.6,
+        "timestamp_second": 503.691,
+        "relative_time": 9.32761111111111,
+        "index": 88
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:03:51.122Z",
+        "deltaY": 165.770263671875,
+        "yDirection": 2,
+        "duration": 0.076,
+        "timestamp_second": 504.331,
+        "relative_time": 9.339462962962964,
+        "index": 89
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 26.85866158533463,
+        "timestamp": "2024-10-20T18:03:51.232Z",
+        "duration": 0.216,
+        "timestamp_second": 504.441,
+        "relative_time": 9.3415,
+        "index": 90
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:03:51.520Z",
+        "deltaY": 20.9954833984375,
+        "yDirection": 2,
+        "duration": 0.079,
+        "timestamp_second": 504.729,
+        "relative_time": 9.346833333333333,
+        "index": 91
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2.414213562373334,
+        "timestamp": "2024-10-20T18:03:51.832Z",
+        "duration": 0.033,
+        "timestamp_second": 505.041,
+        "relative_time": 9.352611111111111,
+        "index": 92
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:03:51.949Z",
+        "deltaY": 120.791015625,
+        "yDirection": 2,
+        "duration": 0.116,
+        "timestamp_second": 505.158,
+        "relative_time": 9.354777777777779,
+        "index": 93
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:03:52.582Z",
+        "deltaY": 141.658935546875,
+        "yDirection": 2,
+        "duration": 0.083,
+        "timestamp_second": 505.791,
+        "relative_time": 9.3665,
+        "index": 94
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 184.51284853293237,
+        "timestamp": "2024-10-20T18:03:52.932Z",
+        "duration": 1.916,
+        "timestamp_second": 506.141,
+        "relative_time": 9.372981481481482,
+        "index": 95
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-20T18:03:55.072Z",
+        "text": "the body's immune response to sneeze-inducing compounds can cause changes in the lining of our nose, leading to increased mucus production and swelling.",
+        "highlightedTextLength": 152,
+        "timestamp_second": 508.281,
+        "relative_time": 9.412611111111111,
+        "index": 96
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-20T18:03:55.074Z",
+        "target": "P",
+        "x": 475,
+        "y": 430,
+        "timestamp_second": 508.283,
+        "relative_time": 9.412648148148147,
+        "index": 97
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 480.10382104668224,
+        "timestamp": "2024-10-20T18:03:55.216Z",
+        "duration": 0.333,
+        "timestamp_second": 508.425,
+        "relative_time": 9.415277777777778,
+        "index": 98
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-20T18:03:55.642Z",
+        "text": "the body's immune response to sneeze-inducing compounds can cause changes in the lining of our nose, leading to increased mucus production and swelling.",
+        "textLength": 152,
+        "timestamp_second": 508.851,
+        "relative_time": 9.423166666666667,
+        "index": 99
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-20T18:03:56.114Z",
+        "status": 0,
+        "timestamp_second": 509.323,
+        "relative_time": 9.431907407407406,
+        "index": 100
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:03:58.550Z",
+        "duration": 8.712,
+        "timestamp_second": 511.759,
+        "relative_time": 9.47701851851852,
+        "index": 101
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:04:04.261Z",
+        "duration": 13.236999999999998,
+        "timestamp_second": 517.47,
+        "relative_time": 9.582777777777778,
+        "index": 102
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-20T18:04:14.496Z",
+        "status": 1,
+        "timestamp_second": 527.705,
+        "relative_time": 9.772314814814816,
+        "index": 103
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 4.0,
+        "timestamp": "2024-10-20T18:04:14.648Z",
+        "duration": 0.19,
+        "timestamp_second": 527.857,
+        "relative_time": 9.77512962962963,
+        "index": 104
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:04:14.998Z",
+        "deltaY": 16.1309814453125,
+        "yDirection": 1,
+        "duration": 0.084,
+        "timestamp_second": 528.207,
+        "relative_time": 9.781611111111111,
+        "index": 105
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 2.414213562373334,
+        "timestamp": "2024-10-20T18:04:15.282Z",
+        "duration": 0.033,
+        "timestamp_second": 528.491,
+        "relative_time": 9.786870370370371,
+        "index": 106
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:04:15.527Z",
+        "deltaY": 23.57666015625,
+        "yDirection": 1,
+        "duration": 0.072,
+        "timestamp_second": 528.736,
+        "relative_time": 9.791407407407407,
+        "index": 107
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 26.63565057083997,
+        "timestamp": "2024-10-20T18:04:15.912Z",
+        "duration": 0.303,
+        "timestamp_second": 529.121,
+        "relative_time": 9.798537037037036,
+        "index": 108
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-20T18:04:16.499Z",
+        "target": "P",
+        "x": 470,
+        "y": 482,
+        "timestamp_second": 529.708,
+        "relative_time": 9.809407407407408,
+        "index": 109
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:04:16.799Z",
+        "deltaY": 89.49462890625,
+        "yDirection": 1,
+        "duration": 0.133,
+        "timestamp_second": 530.008,
+        "relative_time": 9.814962962962964,
+        "index": 110
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 302.233910420583,
+        "timestamp": "2024-10-20T18:04:17.182Z",
+        "duration": 4.749,
+        "timestamp_second": 530.391,
+        "relative_time": 9.822055555555554,
+        "index": 111
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-20T18:04:22.288Z",
+        "text": "the structure of our respiratory system, including the shape and \"floppiness\" of our vocal cords and other soft tissue at the back of the throat.",
+        "highlightedTextLength": 145,
+        "timestamp_second": 535.497,
+        "relative_time": 9.916611111111111,
+        "index": 112
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-20T18:04:22.288Z",
+        "target": "P",
+        "x": 492,
+        "y": 436,
+        "timestamp_second": 535.497,
+        "relative_time": 9.916611111111111,
+        "index": 113
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 487.1161727503513,
+        "timestamp": "2024-10-20T18:04:22.449Z",
+        "duration": 0.233,
+        "timestamp_second": 535.658,
+        "relative_time": 9.919592592592592,
+        "index": 114
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-20T18:04:23.568Z",
+        "text": "the structure of our respiratory system, including the shape and \"floppiness\" of our vocal cords and other soft tissue at the back of the throat.",
+        "textLength": 145,
+        "timestamp_second": 536.777,
+        "relative_time": 9.940314814814815,
+        "index": 115
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-20T18:04:24.229Z",
+        "status": 0,
+        "timestamp_second": 537.438,
+        "relative_time": 9.952555555555556,
+        "index": 116
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:04:25.684Z",
+        "duration": 145.96800000000002,
+        "timestamp_second": 538.893,
+        "relative_time": 9.979500000000002,
+        "index": 117
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-20T18:06:48.650Z",
+        "status": 1,
+        "timestamp_second": 681.859,
+        "relative_time": 12.627018518518518,
+        "index": 118
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1.0,
+        "timestamp": "2024-10-20T18:06:48.799Z",
+        "duration": 0.021,
+        "timestamp_second": 682.008,
+        "relative_time": 12.629777777777779,
+        "index": 119
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:06:49.016Z",
+        "deltaY": 74.764404296875,
+        "yDirection": 1,
+        "duration": 0.417,
+        "timestamp_second": 682.225,
+        "relative_time": 12.633796296296296,
+        "index": 120
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3.0,
+        "timestamp": "2024-10-20T18:06:49.878Z",
+        "duration": 0.054,
+        "timestamp_second": 683.087,
+        "relative_time": 12.649759259259257,
+        "index": 121
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:06:50.058Z",
+        "deltaY": 81.3507080078125,
+        "yDirection": 1,
+        "duration": 0.141,
+        "timestamp_second": 683.267,
+        "relative_time": 12.653092592592593,
+        "index": 122
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1632.2822377659231,
+        "timestamp": "2024-10-20T18:06:50.555Z",
+        "duration": 1.177,
+        "timestamp_second": 683.764,
+        "relative_time": 12.662296296296297,
+        "index": 123
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:06:54.734Z",
+        "duration": 11.317,
+        "timestamp_second": 687.943,
+        "relative_time": 12.739685185185184,
+        "index": 124
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-20T18:07:03.049Z",
+        "duration": 1.571,
+        "key_list": "For example, ",
+        "keyCode_list": [
+            70,
+            111,
+            114,
+            32,
+            101,
+            120,
+            97,
+            109,
+            112,
+            108,
+            101,
+            44,
+            32
+        ],
+        "target": "BODY",
+        "key_count": 13,
+        "timestamp_second": 696.258,
+        "relative_time": 12.893666666666666,
+        "index": 125
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-20T18:07:06.926Z",
+        "status": 0,
+        "timestamp_second": 700.135,
+        "relative_time": 12.965462962962961,
+        "index": 126
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:07:07.622Z",
+        "duration": 55.007000000000005,
+        "timestamp_second": 700.831,
+        "relative_time": 12.978351851851851,
+        "index": 127
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-20T18:07:59.627Z",
+        "status": 1,
+        "timestamp_second": 752.836,
+        "relative_time": 13.941407407407407,
+        "index": 128
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 370.90434182183526,
+        "timestamp": "2024-10-20T18:08:00.249Z",
+        "duration": 4.084,
+        "timestamp_second": 753.458,
+        "relative_time": 13.952925925925925,
+        "index": 129
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-20T18:08:04.806Z",
+        "text": "potentially cause damage to the surface of the nose and sinus. A case study revealed that a man fractured his sinus after suppressing a sneeze.",
+        "highlightedTextLength": 143,
+        "timestamp_second": 758.015,
+        "relative_time": 14.037314814814813,
+        "index": 130
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-20T18:08:04.807Z",
+        "target": "P",
+        "x": 521,
+        "y": 461,
+        "timestamp_second": 758.016,
+        "relative_time": 14.037333333333333,
+        "index": 131
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 520.0002628967795,
+        "timestamp": "2024-10-20T18:08:04.931Z",
+        "duration": 0.368,
+        "timestamp_second": 758.14,
+        "relative_time": 14.03962962962963,
+        "index": 132
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-20T18:08:05.527Z",
+        "text": "potentially cause damage to the surface of the nose and sinus. A case study revealed that a man fractured his sinus after suppressing a sneeze.",
+        "textLength": 143,
+        "timestamp_second": 758.736,
+        "relative_time": 14.050666666666666,
+        "index": 133
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-20T18:08:05.748Z",
+        "status": 0,
+        "timestamp_second": 758.957,
+        "relative_time": 14.054759259259258,
+        "index": 134
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:08:08.300Z",
+        "duration": 55.713,
+        "timestamp_second": 761.509,
+        "relative_time": 14.10201851851852,
+        "index": 135
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-20T18:09:01.012Z",
+        "status": 1,
+        "timestamp_second": 814.221,
+        "relative_time": 15.078166666666668,
+        "index": 136
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 772.6453130273658,
+        "timestamp": "2024-10-20T18:09:01.132Z",
+        "duration": 0.883,
+        "timestamp_second": 814.341,
+        "relative_time": 15.08038888888889,
+        "index": 137
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-20T18:09:02.095Z",
+        "target": "P",
+        "x": 421,
+        "y": 504,
+        "timestamp_second": 815.304,
+        "relative_time": 15.09822222222222,
+        "index": 138
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 394.0835841688513,
+        "timestamp": "2024-10-20T18:09:02.149Z",
+        "duration": 0.117,
+        "timestamp_second": 815.358,
+        "relative_time": 15.099222222222222,
+        "index": 139
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:09:05.267Z",
+        "duration": 8.908,
+        "timestamp_second": 818.476,
+        "relative_time": 15.156962962962965,
+        "index": 140
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-20T18:09:11.174Z",
+        "status": 0,
+        "timestamp_second": 824.383,
+        "relative_time": 15.266351851851853,
+        "index": 141
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:09:43.526Z",
+        "deltaY": 2070.2081298828125,
+        "yDirection": 2,
+        "duration": 0.907,
+        "timestamp_second": 856.735,
+        "relative_time": 15.865462962962965,
+        "index": 142
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:09:45.102Z",
+        "deltaY": 661.263427734375,
+        "yDirection": 1,
+        "duration": 0.564,
+        "timestamp_second": 858.311,
+        "relative_time": 15.89464814814815,
+        "index": 143
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:09:45.858Z",
+        "duration": 3.1149999999999998,
+        "timestamp_second": 859.067,
+        "relative_time": 15.90864814814815,
+        "index": 144
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:09:45.971Z",
+        "deltaY": 677.6727294921875,
+        "yDirection": 1,
+        "duration": 0.645,
+        "timestamp_second": 859.18,
+        "relative_time": 15.910740740740739,
+        "index": 145
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:09:50.694Z",
+        "duration": 7.058999999999999,
+        "timestamp_second": 863.903,
+        "relative_time": 15.998203703703703,
+        "index": 146
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:09:54.752Z",
+        "duration": 4.983,
+        "timestamp_second": 867.961,
+        "relative_time": 16.073351851851854,
+        "index": 147
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:09:56.734Z",
+        "deltaY": 120.9039306640625,
+        "yDirection": 1,
+        "duration": 0.115,
+        "timestamp_second": 869.943,
+        "relative_time": 16.110055555555554,
+        "index": 148
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-20T18:09:59.014Z",
+        "deltaY": 236.8670654296875,
+        "yDirection": 2,
+        "duration": 0.464,
+        "timestamp_second": 872.223,
+        "relative_time": 16.152277777777776,
+        "index": 149
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-20T18:10:04.226Z",
+        "duration": 28.256,
+        "timestamp_second": 877.435,
+        "relative_time": 16.248796296296295,
+        "index": 150
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-20T18:10:29.481Z",
+        "status": 1,
+        "timestamp_second": 902.69,
+        "relative_time": 16.71648148148148,
+        "index": 151
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 5.828427124746668,
+        "timestamp": "2024-10-20T18:10:29.833Z",
+        "duration": 0.116,
+        "timestamp_second": 903.042,
+        "relative_time": 16.723000000000003,
+        "index": 152
+    }
+]

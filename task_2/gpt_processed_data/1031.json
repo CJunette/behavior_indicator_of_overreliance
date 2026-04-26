@@ -1,0 +1,480 @@
+[
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T01:26:43.671Z",
+        "target": "BUTTON",
+        "x": 1228,
+        "y": 26,
+        "timestamp_second": 0.0,
+        "relative_time": 0.0,
+        "index": 0
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T01:26:43.674Z",
+        "status": 0,
+        "timestamp_second": 0.003,
+        "relative_time": 5.555555555555555e-05,
+        "index": 1
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T01:26:43.850Z",
+        "status": 1,
+        "timestamp_second": 0.179,
+        "relative_time": 0.003314814814814815,
+        "index": 2
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 990.6922708944787,
+        "timestamp": "2024-10-18T01:26:43.865Z",
+        "duration": 0.694,
+        "timestamp_second": 0.194,
+        "relative_time": 0.0035925925925925925,
+        "index": 3
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T01:26:47.561Z",
+        "duration": 6.638999999999999,
+        "timestamp_second": 3.89,
+        "relative_time": 0.07203703703703704,
+        "index": 4
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 827.0481238879634,
+        "timestamp": "2024-10-18T01:26:51.199Z",
+        "duration": 0.381,
+        "timestamp_second": 7.528,
+        "relative_time": 0.1394074074074074,
+        "index": 5
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T01:26:54.581Z",
+        "duration": 236.70000000000002,
+        "timestamp_second": 10.91,
+        "relative_time": 0.20203703703703701,
+        "index": 6
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T01:30:48.280Z",
+        "status": 0,
+        "timestamp_second": 244.609,
+        "relative_time": 4.529796296296296,
+        "index": 7
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T01:31:22.756Z",
+        "status": 1,
+        "timestamp_second": 279.085,
+        "relative_time": 5.168240740740741,
+        "index": 8
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 9.0,
+        "timestamp": "2024-10-18T01:31:23.281Z",
+        "duration": 0.174,
+        "timestamp_second": 279.61,
+        "relative_time": 5.1779629629629635,
+        "index": 9
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T01:31:23.625Z",
+        "target": "TEXTAREA",
+        "x": 417,
+        "y": 1173,
+        "timestamp_second": 279.954,
+        "relative_time": 5.184333333333333,
+        "index": 10
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T01:31:25.160Z",
+        "duration": 26.046,
+        "key_list": "this is an article about sneezing,please help me summaer",
+        "keyCode_list": [
+            116,
+            104,
+            105,
+            115,
+            32,
+            105,
+            115,
+            32,
+            97,
+            110,
+            32,
+            97,
+            114,
+            116,
+            105,
+            99,
+            108,
+            101,
+            32,
+            97,
+            98,
+            111,
+            117,
+            116,
+            32,
+            115,
+            110,
+            101,
+            101,
+            122,
+            105,
+            110,
+            103,
+            44,
+            112,
+            108,
+            101,
+            97,
+            115,
+            101,
+            32,
+            104,
+            101,
+            108,
+            112,
+            32,
+            109,
+            101,
+            32,
+            115,
+            117,
+            109,
+            109,
+            97,
+            101,
+            114
+        ],
+        "target": "TEXTAREA",
+        "key_count": 56,
+        "timestamp_second": 281.489,
+        "relative_time": 5.212759259259259,
+        "index": 11
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T01:31:52.043Z",
+        "duration": 0.195,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 308.372,
+        "relative_time": 5.710592592592593,
+        "index": 12
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T01:31:53.761Z",
+        "duration": 1.998,
+        "key_list": "ry ti ",
+        "keyCode_list": [
+            114,
+            121,
+            32,
+            116,
+            105,
+            32
+        ],
+        "target": "TEXTAREA",
+        "key_count": 6,
+        "timestamp_second": 310.09,
+        "relative_time": 5.742407407407407,
+        "index": 13
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T01:31:56.223Z",
+        "duration": 0.214,
+        "key_list": [
+            "Backspace",
+            "Backspace"
+        ],
+        "key_count": 2,
+        "timestamp_second": 312.552,
+        "relative_time": 5.788,
+        "index": 14
+    },
+    {
+        "type": "deleteAction",
+        "timestamp": "2024-10-18T01:31:57.573Z",
+        "duration": 0.0,
+        "key_list": [
+            "Backspace"
+        ],
+        "key_count": 1,
+        "timestamp_second": 313.902,
+        "relative_time": 5.813,
+        "index": 15
+    },
+    {
+        "type": "keypress",
+        "timestamp": "2024-10-18T01:31:58.360Z",
+        "duration": 11.569,
+        "key_list": "it into 3 points:",
+        "keyCode_list": [
+            105,
+            116,
+            32,
+            105,
+            110,
+            116,
+            111,
+            32,
+            51,
+            32,
+            112,
+            111,
+            105,
+            110,
+            116,
+            115,
+            58
+        ],
+        "target": "TEXTAREA",
+        "key_count": 17,
+        "timestamp_second": 314.689,
+        "relative_time": 5.827574074074074,
+        "index": 16
+    },
+    {
+        "type": "paste",
+        "timestamp": "2024-10-18T01:32:11.553Z",
+        "text": "When I sneeze, everyone knows about it. The resulting shockwave(冲击波) wobbles windows, awakens sleeping animals, and sets nearby humans on edge. My partner, who sneezes like a vole(鼠狼) hiccupping(打嗝), insists I do this on purpose. I maintain that the urge to sneeze at this decibel(分贝) level is irresistible. Why do some people sneeze so loudly?\n\nLet’s establish one thing first: Sneezing is important for the body. “The nose is an air filter for the lungs,” says Mas Takashima, the chair of the Department of Otolaryngology, Head and Neck Surgery at Houston Methodist Academic Institute. Inside our nose is a tight mesh of epithelial cells(上皮细胞) (a multipurpose cell found all over the body), tiny hairs, and thick mucus. These elements, says Takashima, “trap particulates(颗粒物) so that the lungs can be protected.” When those particulates build up, they need to be flushed out.\n\nThere are also populations of immune cells in our nose, which wake up when they detect high levels of sneeze-inducing compounds. “Some of the chemicals that are made as a consequence of that immune response cause changes in the lining of our nose,” says Sheena Cruickshank, a professor in the University of Manchester’s Division of Immunology. Those changes will be familiar to anyone who has endured a pollen-laden summer or phlegmy winter. The body makes more mucus, swelling starts in the nose, and signals are sent to the brain via the trigeminal nerve(三叉神经,面部感觉的主要神经), which provides sensation to the face. This signal is processed by an area at the base of our brain called the medulla oblongata(延髓,大脑的一部分，控制许多自主功能，如心跳和呼吸), resulting in reflexive muscle contractions(反射性肌肉收缩). This all leads to a sneeze. But while the causes of sneezing vary, there’s no reason a virus should produce a louder sneeze than grass pollen, says Cruickshank.\n\nInstead, the key to sneezing volume lies in the structure of our respiratory system. The first step of the sneeze reflex, says Takashima, involves deep inhalation. “\n\nYou need that air to be able to expel everything out,” he adds. While air is sucked into our lungs, our vocal cords close tightly. Once enough pressure has built up in our lungs, all the air is expelled. “It is that gush of air that’s pushing through the vocal cords that creates the sound of the sneeze,” says Takashima. The shape and “floppiness(松软度)” of our vocal cords and other soft tissue at the back of the throat influence whether or not we have a quiet or booming sneeze. Lung volume also determines how much air enters and leaves our chest during a sneeze, meaning no single physical measurement will predict sneeze volume. “Some people with big lung volumes have very petite sneezes,” says Takashima.\n\nCan I blame my resonant(共鸣的) throat the next time I rip space-time with a sneeze? Unfortunately, Takashima says it isn’t that simple. “There’s societal norms or cultural factors that can influence the sound of a sneeze,” he says.\n\nTakashima points out that in Japan, where there is a heavy cultural emphasis on not inconveniencing others, people manage to suppress their sneezes. The key here, he says, is to minimize the amount of resonant energy flowing through your oral cavity(口腔)–in simple terms, closing your mouth. This, he says, will reduce the volume of your sneeze.\n\nIs the solution to this deafening problem really that simple? A look at the medical literature suggests that sneeze suppression may be a surprisingly bad idea. A case study from a hospital in the Belgian city of Liège is a cautionary tale. During the peak of the COVID-19 pandemic–when loud sneezing did not go down well in public–a 38-year-old man reported pain and swelling in his face after holding back a sneeze. A scan revealed he had fractured(骨折的) his sinus(鼻窦). Takashima backs this up. “By suppressing a sneeze, you can cause some medical issues such as nose bleeds,” he says. “You can force air up the Eustachian tube(咽鼓管,连接中耳和鼻咽部的管道), possibly causing issues with your eardrum(鼓膜).”\n\nBut the next time you find a dust mote(微粒) tickling your throat in a library, or while a pet sleeps comfortably nearby, there is an alternative to a loud sneeze. “There are times where you don’t want to make a scene or you want to try to keep it as quiet as possible,” says Takashima. “Keeping your mouth closed as you sneeze can definitely do that.”",
+        "textLength": 4326,
+        "timestamp_second": 327.882,
+        "relative_time": 6.071888888888889,
+        "index": 17
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 1006.0060294374839,
+        "timestamp": "2024-10-18T01:32:12.101Z",
+        "duration": 1.17,
+        "timestamp_second": 328.43,
+        "relative_time": 6.082037037037037,
+        "index": 18
+    },
+    {
+        "type": "firstNotNull",
+        "time": "10/18/2024, 9:32:13 AM",
+        "timestamp": "2024-10-18T01:32:13.000000Z",
+        "index": 19
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T01:32:13.556Z",
+        "target": "BUTTON",
+        "x": 1137,
+        "y": 1208,
+        "timestamp_second": 329.885,
+        "relative_time": 6.108981481481481,
+        "index": 20
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 517.5522418752653,
+        "timestamp": "2024-10-18T01:32:13.821Z",
+        "duration": 0.18,
+        "timestamp_second": 330.15,
+        "relative_time": 6.113888888888888,
+        "index": 21
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T01:32:17.004Z",
+        "duration": 11.719,
+        "timestamp_second": 333.333,
+        "relative_time": 6.172833333333334,
+        "index": 22
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 3210.979935789872,
+        "timestamp": "2024-10-18T01:32:25.720Z",
+        "duration": 6.671,
+        "timestamp_second": 342.049,
+        "relative_time": 6.33424074074074,
+        "index": 23
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T01:32:32.578Z",
+        "text": "Sneezing is a crucial bodily function that serves as a protective mechanism. The sneeze gene triggers a response in our body when there's a buildup of particulates in our nasal cavity, a small compound helps in this process. This response includes the production of more mucus, swelling in the nose, and signals sent to the brain. The sneeze signal is processed by the hippocampus in the brain, leading to reflexive muscle contractions that determine the speed of the sneeze. This process helps to flush out old cells and protects the immune system from viruses.\n\nThe volume of a sneeze is influenced by the structure of our respiratory system, including the shape and \"floppiness\" of our vocal cords and other soft tissues at the back of the throat. The volume of air entering and leaving our chest during a sneeze also plays a role. However, other factors such as cultural norms, psychological factors, and societal norms can also influence the sound of a sneeze. For instance, in Japan, people manage to suppress their sneezes due to a cultural emphasis on not inconveniencing others.\n\nWhile it may seem beneficial to suppress a sneeze to reduce its volume, doing so can potentially cause damage to the surface of the nose and sinus. A case study revealed a man who held back a sneeze ended up with a fractured sinus. Dr. Takashma, the chair of the Department of Otolaryngology, Head and Neck Surgery at Houston Methodist Academic Institute, suggests that keeping the mouth closed is the most effective way to sneeze quietly, reducing the risk of causing medical issues such as nose bleeds or problems with the eardrum.",
+        "highlightedTextLength": 1622,
+        "timestamp_second": 348.907,
+        "relative_time": 6.461240740740741,
+        "index": 24
+    },
+    {
+        "type": "click",
+        "timestamp": "2024-10-18T01:32:32.578Z",
+        "target": "DIV",
+        "x": 609,
+        "y": 1060,
+        "timestamp_second": 348.907,
+        "relative_time": 6.461240740740741,
+        "index": 25
+    },
+    {
+        "type": "copy",
+        "timestamp": "2024-10-18T01:32:33.938Z",
+        "text": "Sneezing is a crucial bodily function that serves as a protective mechanism. The sneeze gene triggers a response in our body when there's a buildup of particulates in our nasal cavity, a small compound helps in this process. This response includes the production of more mucus, swelling in the nose, and signals sent to the brain. The sneeze signal is processed by the hippocampus in the brain, leading to reflexive muscle contractions that determine the speed of the sneeze. This process helps to flush out old cells and protects the immune system from viruses.\n\nThe volume of a sneeze is influenced by the structure of our respiratory system, including the shape and \"floppiness\" of our vocal cords and other soft tissues at the back of the throat. The volume of air entering and leaving our chest during a sneeze also plays a role. However, other factors such as cultural norms, psychological factors, and societal norms can also influence the sound of a sneeze. For instance, in Japan, people manage to suppress their sneezes due to a cultural emphasis on not inconveniencing others.\n\nWhile it may seem beneficial to suppress a sneeze to reduce its volume, doing so can potentially cause damage to the surface of the nose and sinus. A case study revealed a man who held back a sneeze ended up with a fractured sinus. Dr. Takashma, the chair of the Department of Otolaryngology, Head and Neck Surgery at Houston Methodist Academic Institute, suggests that keeping the mouth closed is the most effective way to sneeze quietly, reducing the risk of causing medical issues such as nose bleeds or problems with the eardrum.",
+        "textLength": 1622,
+        "timestamp_second": 350.267,
+        "relative_time": 6.486425925925926,
+        "index": 26
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 634.3322181502881,
+        "timestamp": "2024-10-18T01:32:34.269Z",
+        "duration": 0.192,
+        "timestamp_second": 350.598,
+        "relative_time": 6.492555555555556,
+        "index": 27
+    },
+    {
+        "type": "blur",
+        "timestamp": "2024-10-18T01:32:34.882Z",
+        "status": 0,
+        "timestamp_second": 351.211,
+        "relative_time": 6.503907407407408,
+        "index": 28
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T01:32:37.463Z",
+        "duration": 33.55,
+        "timestamp_second": 353.792,
+        "relative_time": 6.551703703703702,
+        "index": 29
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T01:33:08.011Z",
+        "deltaY": 1132,
+        "yDirection": 2,
+        "duration": 0.981,
+        "timestamp_second": 384.34,
+        "relative_time": 7.117407407407407,
+        "index": 30
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T01:33:09.002Z",
+        "deltaY": 369,
+        "yDirection": 1,
+        "duration": 0.4,
+        "timestamp_second": 385.331,
+        "relative_time": 7.13575925925926,
+        "index": 31
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T01:33:09.541Z",
+        "deltaY": 26,
+        "yDirection": 2,
+        "duration": 0.141,
+        "timestamp_second": 385.87,
+        "relative_time": 7.145740740740742,
+        "index": 32
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T01:33:09.709Z",
+        "deltaY": 660,
+        "yDirection": 1,
+        "duration": 0.243,
+        "timestamp_second": 386.038,
+        "relative_time": 7.148851851851852,
+        "index": 33
+    },
+    {
+        "type": "idle",
+        "timestamp": "2024-10-18T01:33:10.029Z",
+        "duration": 3.085,
+        "timestamp_second": 386.358,
+        "relative_time": 7.154777777777778,
+        "index": 34
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T01:33:10.112Z",
+        "deltaY": 939,
+        "yDirection": 2,
+        "duration": 1.22,
+        "timestamp_second": 386.441,
+        "relative_time": 7.156314814814814,
+        "index": 35
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T01:33:11.502Z",
+        "deltaY": 749,
+        "yDirection": 1,
+        "duration": 0.26,
+        "timestamp_second": 387.831,
+        "relative_time": 7.182055555555555,
+        "index": 36
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T01:33:12.004Z",
+        "deltaY": 24,
+        "yDirection": 2,
+        "duration": 0.118,
+        "timestamp_second": 388.333,
+        "relative_time": 7.191351851851853,
+        "index": 37
+    },
+    {
+        "type": "mousewheel",
+        "timestamp": "2024-10-18T01:33:12.132Z",
+        "deltaY": 740,
+        "yDirection": 1,
+        "duration": 0.31,
+        "timestamp_second": 388.461,
+        "relative_time": 7.193722222222222,
+        "index": 38
+    },
+    {
+        "type": "focus",
+        "timestamp": "2024-10-18T01:33:38.030Z",
+        "status": 1,
+        "timestamp_second": 414.359,
+        "relative_time": 7.673314814814815,
+        "index": 39
+    },
+    {
+        "type": "mouseMovement",
+        "totalMouseMovement": 14.414213562373334,
+        "timestamp": "2024-10-18T01:33:38.832Z",
+        "duration": 0.26,
+        "timestamp_second": 415.161,
+        "relative_time": 7.688166666666667,
+        "index": 40
+    },
+    {
+        "type": "highlight",
+        "timestamp": "2024-10-18T01:33:39.349Z",
+        "text": "Sneezing is a crucial bodily function that serves as a protective mechanism. The sneeze gene triggers a response in our body when there's a buildup of particulates in our nasal cavity, a small compound helps in this process. This response includes the production of more mucus, swelling in the nose, and signals sent to the brain. The sneeze signal is processed by the hippocampus in the brain, leading to reflexive muscle contractions that determine the speed of the sneeze. This process helps to flush out old cells and protects the immune system from viruses.\n\nThe volume of a sneeze is influenced by the structure of our respiratory system, including the shape and \"floppiness\" of our vocal cords and other soft tissues at the back of the throat. The volume of air entering and leaving our chest during a sneeze also plays a role. However, other factors such as cultural norms, psychological factors, and societal norms can also influence the sound of a sneeze. For instance, in Japan, people manage to suppress their sneezes due to a cultural emphasis on not inconveniencing others.\n\nWhile it may seem beneficial to suppress a sneeze to reduce its volume, doing so can potentially cause damage to the surface of the nose and sinus. A case study revealed a man who held back a sneeze ended up with a fractured sinus. Dr. Takashma, the chair of the Department of Otolaryngology, Head and Neck Surgery at Houston Methodist Academic Institute, suggests that keeping the mouth closed is the most effective way to sneeze quietly, reducing the risk of causing medical issues such as nose bleeds or problems with the eardrum.",
+        "highlightedTextLength": 1622,
+        "timestamp_second": 415.678,
+        "relative_time": 7.697740740740741,
+        "index": 41
+    }
+]
